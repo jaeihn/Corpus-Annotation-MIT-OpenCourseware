@@ -9,7 +9,10 @@
 ├── data/ 
 │   ├── course_index.tsv    # Contains indexing data of each course 
 │   ├── raw/
-│   │   ├── 0.txt           # Contains concatenate raw text for course 0 
+│   │   ├── 0.json          # Contains raw text from each sub-menu for course 0 
+│   │   └── ... 
+│   ├── filtered/
+│   │   ├── 0.txt           # Contains concatenation of selected raw text for course 0 
 │   │   └── ... 
 │   ├── topics/
 │   │   ├── 0.txt           # Contains topic list for course 0 
