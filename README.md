@@ -5,6 +5,7 @@
 
 ```
 ├── archive/                # Outdated or work-in-process codes 
+│   └── meeting_minutes/    # Record of team meetings
 ├── data/ 
 │   ├── course_index.tsv    # Contains indexing data of each course 
 │   ├── raw/
