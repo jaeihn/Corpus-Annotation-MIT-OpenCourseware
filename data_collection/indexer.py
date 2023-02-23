@@ -1,61 +1,83 @@
 # imports
 import time
-import requests
-import selenium
 import json
-from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.common.exceptions import NoSuchElementException
+
+PAUSE_TIME = 3
+
+print("STARTING indexer.py")
 
 # Gather all course urls 
 url = 'https://ocw.mit.edu/courses/'
 
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+# Open up headless browser 
+# https://stackoverflow.com/questions/7593611/selenium-testing-without-browser
+op = webdriver.ChromeOptions()
+op.add_argument('headless')
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=op)
 driver.get(url)
 
+# Switch layout by clicking button, for less scrolling
+while True:
+    try: 
+        layout_button = driver.find_element(by=By.CLASS_NAME, value='layout-button-right')
+        layout_button.click()
+        print("Loaded layout button.\n")
+        break
+    except NoSuchElementException:
+        print("Waiting for layout button to load . . .")
+    time.sleep(PAUSE_TIME)
 
-# switch to condensed layout
-driver.find_element(by=By.CLASS_NAME, value='layout-button-right').click()
+# Find total results count element
+while True: 
+    try: 
+        total_count = driver.find_element(by=By.XPATH, value='//span[@class="results-total-number"]')
+        total_count = int(total_count.text)
+        print("Loaded results total count.\n")
+        break
+    except NoSuchElementException:
+        print("Waiting for results total count to load . . .")
+    time.sleep(PAUSE_TIME)
 
 
-# Scroll to bottom of page
+# Scroll to bottom of page, until last element (== total results number) is found 
 # https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python
 
-SCROLL_PAUSE_TIME = 2
-
-# Get scroll height
-last_height = driver.execute_script("return document.body.scrollHeight")
-
+print("Finding search results . . . ")
 while True:
     # Scroll down to bottom
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 
-    # Wait to load page
-    time.sleep(SCROLL_PAUSE_TIME)
-
-    # Calculate new scroll height and compare with last scroll height
-    new_height = driver.execute_script("return document.body.scrollHeight")
-    if new_height == last_height:
+    # Stop when 
+    try:
+        last_article = driver.find_element(by=By.XPATH, value="//article[@aria-posinset="+str(total_count)+"]")
         break
-    last_height = new_height
+    except:
+        pass
 
+# Find elements corresponding to course syllabus pages 
+search_results = driver.find_elements(by=By.XPATH, value="//article/descendant::a[@href]")
+print(f"{len(search_results)} active links results found.\n")
 
-# Scrape links
-links = driver.find_elements(by=By.XPATH, value="//a[.//span[starts-with(@id, 'search-result-')]]")
-links = [l.get_attribute('href') for l in links]
-
+print("Creating index mappings . . .")
+# Extract links 
+links = [l.get_attribute('href') for l in search_results]
 
 # Create index mapping
 link_to_index = {}
 index_to_link = {}
 
-for i, link in enumerate(links):
-	link_to_index[link] = i
-	index_to_link[i] = link
+duplicate_count = 0
 
+for i, link in enumerate(links):
+    if link in link_to_index:
+        duplicate_count += 1    
+    link_to_index[link] = i
+    index_to_link[i] = link
 
 # Export files 
 with open("../data/link_to_index.json", "w") as f:
@@ -65,3 +87,6 @@ with open("../data/link_to_index.json", "w") as f:
 with open("../data/index_to_link.json", "w") as f:
     json.dump(index_to_link, f)
     f.close()    
+
+print(f"Found {duplicate_count} duplicate links.\n")
+print(f"Course-index mappings of {len(link_to_index)} courses EXPORT COMPLETE !!")
