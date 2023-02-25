@@ -8,7 +8,7 @@ annotation_path = '../data/annotation/'
 def create_folder(dir_path):
     if not os.path.exists(dir_path):
         # Create a new directory because it does not exist
-        os.makedirs(annotation_path)
+        os.makedirs(dir_path)
         print(f"The new directory {annotation_path} is created!")
 
 
