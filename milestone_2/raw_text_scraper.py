@@ -106,7 +106,7 @@ for file in tqdm(missing_files):
         f.close()
 
     with open('../data/concat/'+ i +'.html', 'w', encoding='utf-8') as f:
-        f.write('<html>' + data_per_course.get('html_concat','') + '</html>')
+        f.write('<html> <meta charset="utf-8"/>' + data_per_course.get('html_concat','') + '</html>')
         f.close()
 
 time.sleep(10)
