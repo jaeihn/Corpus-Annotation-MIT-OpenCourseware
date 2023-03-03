@@ -43,7 +43,7 @@ python raw_text_scraper.py
   - a json file which contains a dictionary. key is the index id of the course, and value is link to the course
   - link: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/milestone_2/data/index_to_link.json (change it when merge)
   - screenshot
-  ![alt text]image.png
+  ![alt text](./index_to_link.png)
   
 
 - concat/ (create by raw_text_scraper.py)
