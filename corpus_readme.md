@@ -50,8 +50,7 @@ python raw_text_scraper.py
 - **concat/** (create by raw_text_scraper.py)
   - a folder of html files, and each of them contains concatenated sub-pages of the course. Each file is name by the course id (e.g. 0.html)
   - link: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/milestone_2/data (**change it when merge**)
-  - concat folder
-  <img src="./screenshot/concat.png" width="500" height="300" />
+  - concat folder <img src="./screenshot/concat.png" width="500" height="300" /><br />
   - html file example
   ![My Image](./screenshot/concat_json.png)
 
@@ -60,7 +59,7 @@ python raw_text_scraper.py
   - a folder of json files, and each is a dict of the source code of sub-pages. Key is the sub-page tile, and value is its source code.
   - link: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/milestone_2/data (**change it when merge**)
   - raw folder
-  ![My Image](./screenshot/raw.png)
+  <img src="./screenshot/raw_json.png" width="500" height="300" /> <br />
   - json file example
   ![My Image](./screenshot/raw_json.png)
 
