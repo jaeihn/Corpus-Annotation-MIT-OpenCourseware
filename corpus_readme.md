@@ -51,8 +51,7 @@ python raw_text_scraper.py
   - a folder of html files, and each of them contains concatenated sub-pages of the course. Each file is name by the course id (e.g. 0.html)
   - link: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/milestone_2/data (**change it when merge**)
   - concat folder
-  ![My Image](./screenshot/concat.png width="500" height="500")
-  <img src="./screenshot/concat.png" width="250" height="250" />
+  <img src="./screenshot/concat.png" width="500" height="300" />
   - html file example
   ![My Image](./screenshot/concat_json.png)
 
