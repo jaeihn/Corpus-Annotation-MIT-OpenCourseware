@@ -53,7 +53,7 @@ python raw_text_scraper.py
   - concat folder <br />
   <img src="./screenshot/concat.png" width="500" height="300" /><br />
   - html file example <br />
-  <img src="./screenshot/concat_json.png" height="400" /><br />
+  <img src="./screenshot/concat_json.png" height="300" /><br />
 
 
 - **raw/** (create by raw_text_scraper.py)
