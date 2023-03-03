@@ -1,23 +1,26 @@
 # corpus_readme.md
 
-### Package Requirement
+## Package Requirement
 - Python (>=3.7)
 - selenium (>=4.0)
 - webdriver-manager
 
-### Getting Started
-#### Set Up
+## Getting Started
+### Set Up
 ```
 pip install selenium==4.0.0.a7
 pip install webdriver-manager
 ```
 #### Repo Structure
-+-- data/
-|   +-- raw/
-|   +-- concat/
-+-- milestone_2
-|   +-- indexer.py
-|   +-- raw_text_scraper.py
+```
+.
+├── data
+│   ├── raw     
+│   └── concat
+├── milestone_2
+│   ├── indexer.py     
+│   └── raw_text_scraper.py
+```
 
 #### Usage
 ```
