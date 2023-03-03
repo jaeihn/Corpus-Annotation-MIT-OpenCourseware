@@ -52,8 +52,8 @@ python raw_text_scraper.py
   - link: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/milestone_2/data (**change it when merge**)
   - concat folder <br />
   <img src="./screenshot/concat.png" width="500" height="300" /><br />
-  - html file example
-  ![My Image](./screenshot/concat_json.png)
+  - html file example <br />
+  <img src="./screenshot/concat_json.png" height="40000" /><br />
 
 
 - **raw/** (create by raw_text_scraper.py)
