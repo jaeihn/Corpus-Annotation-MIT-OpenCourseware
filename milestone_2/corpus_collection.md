@@ -136,7 +136,7 @@ This script:
 
 ## Q&A
 
-- __Why a headless browser?__
+__Why a headless browser?__
 - We have set the options for the `selenium` browser to be invisible. This makes the downloading process visually cleaner (with no windows opening and closing many times) and faster (saves the time to load the pages). If you'd like to confirm what the browser is doing, you can remove the headless option. 
 
 __Why no filtering?__
