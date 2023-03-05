@@ -1,7 +1,7 @@
 # Milestone 2 
 ## Corpus analysis (Optional)
 
-For statistical properties comparison, I choose treebank corpus and webtext corpus, because I think both MIT syllabus corpus and treebank corpus have high amount of proper nouns and terminologies, and the content of both MIT syllabus corpus and webtext corpus are collected from online websites. For analysis, all the calculations of statistical properties can be found in [corpus_analysis.ipynb](milestone_2/corpus_analysis.ipynb).
+For statistical properties comparison, I choose treebank corpus and webtext corpus, because I think both MIT syllabus corpus and treebank corpus have high amount of proper nouns and terminologies, and the content of both MIT syllabus corpus and webtext corpus are collected from online websites. For analysis, all the calculations of statistical properties can be found in [corpus_analysis.ipynb](corpus_analysis.ipynb).
 
 ### Number of words
 
