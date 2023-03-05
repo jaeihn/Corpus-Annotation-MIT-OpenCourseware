@@ -31,7 +31,25 @@ python raw_text_scraper.py
 - source of the corpus: https://ocw.mit.edu/courses/
 - collected corpus: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/milestone_2/data/concat (change it when merge)
 - total number of documents: 2494
-- total amount of text: ???
+- total amount of text: 7858138
+```{python}
+from bs4 import BeautifulSoup
+from nltk.tokenize import word_tokenize
+from os.path import isfile, join
+
+html_path = "./data/concat"
+existing_files = [f for f in listdir(html_path) if isfile(join(html_path, f)) and f.endswith('.html')]
+total_words = 0
+for f in existing_files:
+    with open(join(html_path, f)) as fp:
+        soup = BeautifulSoup(fp, 'html.parser')
+    texts = soup.findAll(text=True)
+    temp = [t.strip() for t in texts]
+    # print(word_tokenize("".join(temp)))
+    total_words += len(word_tokenize("".join(temp)))
+print(total_words)
+
+```
 
 ### Storage
 - **link_to_index.json** (created by indexer.py)
