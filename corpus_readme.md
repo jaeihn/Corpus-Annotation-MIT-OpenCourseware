@@ -29,7 +29,7 @@ python raw_text_scraper.py
 ## Corpus
 
 - source of the corpus: https://ocw.mit.edu/courses/
-- collected corpus: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/milestone_2/data/concat (change it when merge)
+- collected corpus: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/data/concat
 - total number of documents: 2494
 - total amount of text: 7858138
 ```{python}
@@ -55,20 +55,20 @@ print("total amount of text in words is", total_words)
 ### Storage
 - **link_to_index.json** (created by indexer.py)
   - a JSON file that contains a dictionary. The key is the link to the course, and value is the index id that we assign
-  - link: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/milestone_2/data (**change it when merge**)
+  - link: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/blob/milestone2/data/link_to_index.json
   - example
   ![My Image](./screenshot/link_to_index.png)
 
 - **index_to_link.json** (created by indexer.py)
   - a JSON file that contain a dictionary. the key is the index id of the course, and the value is link to the course
-  - link: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/milestone_2/data (**change it when merge**)
+  - link: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/blob/milestone2/data/index_to_link.json
   - example
   ![My Image](./screenshot/index_to_link.png)
   
 
 - **concat/** (create by raw_text_scraper.py)
   - a folder of HTML files, and each of them contains concatenated sub-pages of the course. Each file is named by the course id (e.g. 0.html)
-  - link: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/milestone_2/data (**change it when merge**)
+  - link: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/data/concat
   - concat folder <br />
   <img src="./screenshot/concat.png" width="500" height="300" /><br />
   - html file example <br />
@@ -77,7 +77,7 @@ print("total amount of text in words is", total_words)
 
 - **raw/** (create by raw_text_scraper.py)
   - a folder of JSON files, and each is a dict of the source code of sub-pages. The key is the sub-page tile, and the value is its source code.
-  - link: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/milestone_2/data (**change it when merge**)
+  - link: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/data/raw
   - raw folder <br />
   <img src="./screenshot/raw.png" width="500" height="300" /> <br />
   - json file example
