@@ -11,15 +11,33 @@
 pip install selenium==4.0.0.a7
 pip install webdriver-manager
 ```
+
 ### Repo Structure
+
+A roadmap to help you find all the milestone_2 related files:
+
 ```
 .
 ├── data
-│   ├── raw     
-│   └── concat
+│   ├── index_to_link.json           # FROZEN DATA - created by indexer.py     
+│   ├── link_to_index.json           # FROZEN DATA - created by indexer.py 
+│   ├── raw.zip                      # FROZEN DATA - created by raw_text_scraper.py
+│   ├── concat.zip                   # FROZEN DATA - created by raw_text_scraper.py
+│   └── mit_ocw_courses.json.zip     # FROZEN DATA - created by raw_text_scraper.py
 ├── milestone_2
-│   ├── indexer.py     
-│   └── raw_text_scraper.py
+│   ├── indexer.py                   # corpus collection code 1
+│   ├── raw_text_scraper.py          # corpus collection code 2
+│   ├── corpus_collection.md         # explanation on corpus collection
+│   ├── corpus_readme.md             # corpus + explanation
+│   ├── screeshot/                   # screenshots for corpus_readme.md
+│   ├── corpus_analysis.md           # reasoning answers on corpus analysis (optional)
+│   ├── corpus_analysis.ipynb        # code accompanying corpus analysis
+│   ├── annotation_plan.pdf          # annotation plan
+│   ├── annotator.zip                # custom HTML annotator
+│   ├── annotation_materials.pdf     # annotation materials
+│   └── annotator sample/            # contains sample annotations for annotation_materials.pdf
+
+
 ```
 ### Usage
 ```
