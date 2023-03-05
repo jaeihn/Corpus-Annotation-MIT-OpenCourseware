@@ -1,8 +1,0 @@
-TOPICS
-
-Engineering
--Computer Science
---Programming Languages
---Software Design and Engineering
--Systems Engineering
---Computational Science and Engineering
