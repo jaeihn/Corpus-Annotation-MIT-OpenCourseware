@@ -29,7 +29,7 @@ python raw_text_scraper.py
 ## Corpus
 
 - source of the corpus: https://ocw.mit.edu/courses/
-- collected corpus: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/data/concat
+- collected corpus: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/data/concat.zip
 - total number of documents: 2494
 - total amount of text: 7858138
 ```{python}
