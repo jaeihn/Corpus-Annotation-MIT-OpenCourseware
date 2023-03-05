@@ -13,7 +13,7 @@ For average word length, MIT syllabus corpus's is 6.143507298333175, treebank's 
 
 ### Average text length
 
-For Average text length, MIT syllabus corpus's is 2560.821121571838, webtext's is 66122.16666666667, treebank's is 505.90954773869345. I think the reason why webtext's is the highest is because it has least amount of texts which is only 6.
+For average text length, MIT syllabus corpus's is 2560.821121571838, webtext's is 66122.16666666667, treebank's is 505.90954773869345. I think the reason why webtext's is the highest is because it has least amount of texts which is only 6.
 
 ### Type token radio
 
