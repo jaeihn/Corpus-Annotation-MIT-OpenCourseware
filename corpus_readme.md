@@ -47,8 +47,9 @@ for f in existing_files:
     temp = [t.strip() for t in texts]
     # print(word_tokenize("".join(temp)))
     total_words += len(word_tokenize("".join(temp)))
-print(total_words)
+print("total amount of text in words is", total_words)
 
+# total amount of text in words is 7858138
 ```
 
 ### Storage
