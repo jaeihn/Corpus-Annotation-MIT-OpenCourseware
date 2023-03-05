@@ -9,7 +9,7 @@ For number of words, MIT syllabus corpus has 6256086 words, treebank corpus has 
 
 ### Average word length
 
-For average word length, MIT syllabus corpus's is 6.143507298333175, treebank's is 4.406154396281139, webtext's is 3.552701691061747. I think the reason why the average word length of MIT syllabus corpus is the highest is because it has more proper nouns including author's name and academic terminology. Webtext has the lowest may be because most of the words in webtext comes from online discussion forums and they are mostly simple daily English words.
+For average word length, MIT syllabus corpus's is 6.143507298333175, treebank's is 4.406154396281139, webtext's is 3.552701691061747. I think the reason why the average word length of MIT syllabus corpus is the highest is because it has more proper nouns including author's name and academic terminology. Webtext has the lowest may be because most of the words in webtext come from online discussion forums and they are mostly simple daily English words.
 
 ### Average text length
 
