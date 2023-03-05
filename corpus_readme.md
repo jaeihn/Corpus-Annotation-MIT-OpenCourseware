@@ -68,7 +68,7 @@ print("total amount of text in words is", total_words)
 
 - **concat/** (create by raw_text_scraper.py)
   - a folder of HTML files, and each of them contains concatenated sub-pages of the course. Each file is named by the course id (e.g. 0.html)
-  - link: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/data/concat
+  - link: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/data/concat.zip OR https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/data/mit_ocw_courses.json.zip
   - concat folder <br />
   <img src="./screenshot/concat.png" width="500" height="300" /><br />
   - html file example <br />
@@ -77,7 +77,7 @@ print("total amount of text in words is", total_words)
 
 - **raw/** (create by raw_text_scraper.py)
   - a folder of JSON files, and each is a dict of the source code of sub-pages. The key is the sub-page tile, and the value is its source code.
-  - link: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/data/raw
+  - link: https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/milestone2/data/raw.zip
   - raw folder <br />
   <img src="./screenshot/raw.png" width="500" height="300" /> <br />
   - json file example
