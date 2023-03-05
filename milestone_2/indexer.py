@@ -1,6 +1,7 @@
 # imports
 import time
 import json
+import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
@@ -12,8 +13,18 @@ PAUSE_TIME = 3
 
 print("STARTING indexer.py")
 
-# Gather all course urls 
+
+# Create directory, if it doesn't exist
+path = "../data"   # <---- You can change this path, if necessary
+
+if not os.path.exists(path ):
+      os.makedirs(path)
+      print(f"Directory `data` is created!\n")
+
+
+# Gather all course urls from MIT OCW course search page 
 url = 'https://ocw.mit.edu/courses/'
+
 
 # Open up headless browser 
 # https://stackoverflow.com/questions/7593611/selenium-testing-without-browser
@@ -22,7 +33,8 @@ op.add_argument('headless')
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=op)
 driver.get(url)
 
-# Switch layout by clicking button, for less scrolling
+
+# Switch to compact layout by clicking button, for less scrolling
 while True:
     try: 
         layout_button = driver.find_element(by=By.CLASS_NAME, value='layout-button-right')
@@ -32,6 +44,7 @@ while True:
     except NoSuchElementException:
         print("Waiting for layout button to load . . .")
     time.sleep(PAUSE_TIME)
+
 
 # Find total results count element
 while True: 
@@ -60,7 +73,7 @@ while True:
     except:
         pass
 
-# Find elements corresponding to course syllabus pages 
+# Find elements corresponding to course syllabus page links 
 search_results = driver.find_elements(by=By.XPATH, value="//article/descendant::a[@href]")
 print(f"{len(search_results)} active links results found.\n")
 
@@ -85,11 +98,11 @@ for link in links:
 
 
 # Export files 
-with open("../data/link_to_index.json", "w", encoding='utf-8') as f:
+with open(path + "/link_to_index.json", "w", encoding='utf-8') as f:
     json.dump(link_to_index, f, indent=4)
     f.close()
 
-with open("../data/index_to_link.json", "w", encoding='utf-8') as f:
+with open(path + "/index_to_link.json", "w", encoding='utf-8') as f:
     json.dump(index_to_link, f, indent=4)
     f.close()    
 
