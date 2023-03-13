@@ -1,0 +1,5 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Morel"", :given=>""Francois M.""}, {:family=>""Hering"", :given=>""Janet G.""}]"	Principles and Applications of Aquatic Chemistry			1993	both	Required
+"[{:family=>""Anderson"", :given=>""G.W.""}]"	Thermodyanmics of Natural Systems			2005	both	Optional
+"[{:family=>""Stumm"", :given=>""Werner""}, {:family=>""Morgan"", :given=>""James J.""}]"	Aquatic Chemistry			1996	both	Optional
+"[{:family=>""Anderson"", :given=>""G.W.""}]"	Thermodynamics of Natural Systems			2005	left_only	Required

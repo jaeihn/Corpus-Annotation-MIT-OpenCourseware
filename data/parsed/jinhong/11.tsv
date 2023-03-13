@@ -1,0 +1,3 @@
+Required	[{:family=>"Bucciarelli", :given=>"Louis"}]	["Engineering Mechanics for Structures"]			["2002"]
+Optional	[{:family=>"Crandall", :given=>"S."}, {:family=>"Dahl", :given=>"N."}, {:family=>"Lardner", :given=>"T."}]	["An Intro. to the Mechanics of Solids"]			["1978"]
+Optional	[{:family=>"Gere", :given=>"James"}]	["Mechanics of Materials"]			["2003"]

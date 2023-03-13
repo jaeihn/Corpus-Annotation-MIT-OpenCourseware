@@ -1,0 +1,52 @@
+Required	Arulampalam, M. Sanjeev, Simon Maskell, et al. “A Tutorial on Particle Filters for Online Nonlinear/Non-Gaussian Bayesian Tracking.” IEEE Transactions on Speech and Audio Processing 50, no. 2 (2002)
+Required	Besag, Julian. “Markov Chain Monte Carlo for Statistical Inference.”  Center for Statistics and the Social Sciences. Working paper, no. 9 (2001)
+Required	Brooks, S. “Markov Chain Monte Carlo Method and its Application.”  The Statistician 47, no. Part 1 (1998): 69–100
+Required	Do, Chuong B, and Serafim Batzoglou. “What is the Expectation Maximization Algorithm?” Nature Biotechnology 26 (2008): 897–9
+Required	Elsner, James B., Xufeng Niu, et al. “Detecting Shifts in Hurricane Rates Using a Markov Chain Monte Carlo Approach.” Journal of Climate 17, no. 13 (2004): 2652–66
+Required	Emanuel, K., S. Ravela, et al. “A Statistical Deterministic Approach to Hurricane Risk Assessment.” Bulletin of the American Meteorological Society 87, no. 3 (2006): 299–314
+Required	Evensen, G. “The Ensemble Kalman Filter: Theoretical Formulation and Practical Implementation.”  Ocean Dynamics 53 (2003): 343–67
+Required	———. “Sampling Strategies and Square Root Analysis Schemes for the EnKF.”  Ocean Dynamics 54 (2004): 539–60
+Required	Evensen, G., and P. J. van Leeuwen. “An Ensemble Kalman Smoother for Nonlinear Dynamics.” Monthly Weather Review 128, no. 6 (2000): 1852–67
+Required	Ferdosi, B. J., H. Buddelmeijer, et al. “Comparison of Density Estimation Methods for Astronomical Datasets.” Astronomy & Astrophysics 531, no. A114 (2011)
+Required	Figueiredo, Mario A. T., and Anil K. Jain. “Unsupervised Learning of Finite Mixture Models.”  IEEE Transactions on Pattern Analysis and Machine Intelligence 24, no. 3 (2002)
+Required	Fletcher, Benjamin J., Stuart J. Brentnall, et al. “Atmospheric Carbon Dioxide Linked with Mesozoic and Early Cenozoic Climate Change.” Nature Geoscience 1 (2008): 43–8
+Required	Geman, S., and D. Geman. “Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images”. IEEE Transactions on Pattern Analysis and Machine Intelligence 6, no. 6 (1984): 721–41
+Required	Geman, S., Bienenstock, et al. “Neural Networks and the Bias/Variance Dilemma.” Neural Computation 4, no. 1 (1992): 1–58
+Required	Gregory, Philip C. “Bayesian Exoplanet Tests of a New Method for MCMC Sampling in Highly Correlated Model Parameter Spaces.” Monthly Notices of the Royal Astronomical Society 410, no. 1 (2011): 94–110
+Required	———. “Extra-solar Planets via Bayesian Fusion MCMC.” In Astrostatistical Challenges for the New Astronomy. Edited by J. M. Hilbe. Springer, 2012. ISBN: 9781461435075
+Required	Hannachi, A. “Tropospheric Planetary Wave Dynamics and Mixture Modeling: Two Preferred Regimes and a Regime Shift.” Journal of the Atmospheric Sciences 64, no. 10 (2007): 3521–41
+Required	Hansen, Mark H., and Bin Yu. “Model Selection and the Principle of Minimum Description Length.”  Journal of the American Statistical Association 96, no. 454 (2001): 746–74
+Required	Hwang, Jenq-Neng, Shyh-Rong Lay, et al. “Nonparametric Multivariate Density Estimation: A Comparative Study.” IEEE Transactions on Signal Processing 42, no. 10 (1994): 2795–810
+Required	Isukapalli, Sastry S. “Uncertainty Analysis of Transport-Transformation Models.”
+Required	Katz, Rick. “Sir Gilbert Walker and a Connection between El Nino and Statistics.” Statistical Science 17, no. 1 (2002): 97–112
+Required	Katz, R., and X. Zheng. “Mixture Model for Overdispersion of Precipitation.” Journal of Climate 12, no. 8 (1999): 2528–37
+Required	Lorenz, Edward N. “Deterministic Nonperiodic Flow.” Journal of Atmospheric Sciences 20, no. 2 (1963): 130–41
+Required	Lorenz, Edward N., and Kerry A. Emanuel. “Optimal Sites for Supplementary Weather Observations: Simulation with a Small Model.”  Journal of the Atmospheric Sciences 55 (1998): 399–414
+Required	Martinez, Wendy L, and Angel R. Martinez. Computational Statistics Handbook with MATLAB, Second Edition (Chapman & Hall/CRC Computer Science & Data Analysis). Chapman and Hall/CRC, 2007. ISBN: 9781584885665
+Required	Moon, Tood K. “The Expectation Maximization Algorithm.”  IEEE Signal Processing Magazine, November 1996, 47–60
+Required	Neal, Radford M. “Slice Sampling.”  Technical Report No. 2005_,_ Department of Statistics, University of Toronto (2000)
+Required	Oh, Songhwai, S. Russell, et al. “Markov Chain Monte Carlo Data Association for General Multiple Target Tracking Problems.” IEEE Conference on Decision and Control 1 (2004): 735–42
+Required	Ravela, Sai, and Dennis McLaughlin. “Fast Ensemble Smoothing.” Ocean Dynamics 57, no. 2 (2007): 123–34
+Required	Robertson, I., D. Lucy, et al. “A Kernel-based Bayesian Approach to Climatic Reconstruction.” The Holocene 9, no. 4 (1999): 495–500
+Required	Schartau, Markus, Michael R. Landry, et al. “Density Estimation of Plankton Size Spectra: A Reanalysis of IronEx II Data.” Journal of Plankton Research 32, no. 8 (2010): 1167–84
+Required	Schneider, Tapio. “Analysis of Incomplete Climate Data: Estimation of Mean Values and Covariance Matrices and Imputation of Missing Values.” Journal of Climate 14, no. 5 (2001): 853–71
+Required	Scott, David W., and Stephan R. Sain. “Multi-dimensional Density Estimation.”
+Required	Siy, Peter W. “Matrix Factorization Techniques for Analysis of Imaging Mass Spectrometry Data.” (2008): 1–6
+Required	Smerdon, Jason E., Alexey Kaplan, et al. “Companion Paper: On the Origin of the Standardization Sensitivity in RegEM Climate Field Reconstructions.” Journal of Climate 21, no. 4 (2008): 6710–23
+Required	Smyth, Padhraic, Kayo Ide, et al. “Multiple Regimes in Northern Hemisphere Height Fields via MixtureModel Clustering.” Journal of the Atmospheric Sciences 56, no. 21 (1999): 3704–23
+Required	Stauffer, C., and W. E. L. Grimson. “Adaptive Background Mixture Models for Real-time Tracking.” IEEE Computer Society Conference on Computer Vision and Pattern Recognition 2 (1999)
+Required	Tatang, Menner A., Wenwei Pan, et al. “An Efficient Method for Parametric Uncertainty Analysis of Numerical Geophysical Models.” Journal of Geophysical Research 102, no. D18 (1997): 21925–32
+Required	Tomassini, Lorenzo, Peter Reichert, et al. “Robust Bayesian Uncertainty Analysis of Climate System Properties Using Markov Chain Monte Carlo Methods.” Journal of Climate 20, no. 7 (2007): 1239–54
+Required	Wainer, Howard. Picturing the Uncertain World: How to Understand, Communicate, and Control Uncertainty through Graphical Display. Princeton University Press, 2009. ISBN: 9780691137599
+Required	Ward, Darren B. “Particle Filtering Algorithms for Tracking an Acoustic Source in a Reverberant Environment.” IEEE Transactions on Speech and Audio Processing 11, no. 6 (2003): 826–36
+Required	Weinberg, M. “Computational Statistics using the Bayes Inference Engine.” Monthly Notices of the Royal Astronomical Society (2012): 1–17
+Required	Willcox, K., and J. Peraire. “Balanced Model Reduction via the Proper Orthogonal Decomposition.”  AIAA Journal 40, no. 11 (2002): 2323–30
+Required	Xiu, Dongbin, and George Em Karniadakis. “The Wiener-Askey Polynomial Chaos for Stochastic Differential Equations.”
+Required	Yang, Allen Y., Arvind Ganesh, et al. “A Review of Fast l1-Minimization Algorithms for Robust Face Recognition.” 2010)
+Required	Zucchini, Walter. “An Introduction to Model Selection.”  Journal of Mathematical Psychology 44 (2000): 41–61
+Optional	Bryson, Jr. Arthur E. and Yu-Chi Ho. Applied Optimal Control: Optimization, Estimation and Control. Taylor & Francis, 1975. ISBN: 9780891162285
+Optional	Gelb, Arthur. Applied Optimal Estimation. MIT Press, 1974. ISBN: 9780262570480
+Optional	Gelman, A., J. Carlin, et al. Bayesian Data Analysis. Chapman and Hall, 2003. ISBN: 9781584883883
+Optional	Martinez, W. L., and A. R. Martinez. Computational Statistics Handbook with MATLAB. 2nd ed. Chapman and Hall/CRC, 2007. ISBN: 978158488566
+Optional	Papoulis, A. Probability, Random Variables & Stochastic Processes. McGraw-Hill, 2002. ISBN: 9780071226615
+Optional	Silverman, B. W. Density Estimation for Statistics and Data Analysis. Chapman and Hall/CRC, 1986. ISBN: 9780412246203

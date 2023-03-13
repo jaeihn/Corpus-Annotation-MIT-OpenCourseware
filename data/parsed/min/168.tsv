@@ -1,0 +1,7 @@
+Optional		["An Inventor’s Guide to Technology Transfer at MIT"]	book		["2005-05"]
+Optional		["Preserving Your Patent Rights"]	book		["2006"]
+Optional	[{:family=>"Pinker", :given=>"Steven"}]	["The Moral Instinct"]	article-journal	["New York Times"]	["2008-01-13"]
+Optional	[{:family=>"Shockley", :given=>"William"}]	["The Invention of the Transistor - ‘An Example of Creative-Failure Methodology.’"]	chapter	["National Bureau of Standards"]	["1974-05"]
+Optional	[{:family=>"Ghatak", :given=>"A.K."}]	["What is Light?” and “Simple Harmonic Motion, Forced Vibrations, and Origin of Refractive Index"]	article-journal	["Ghatak, Ajoy. Optics", "Ch"]	["2009"]
+Optional		["Year 11 Photovoltaic Engineering Module.” School of Photovoltaic and Renewable Energy Engineering"]	book		
+Required		["Mechanically Scanned Television,” “Electronically Scanned Television,” and “Television Spin-Offs and Redundancies.” Chapters 5-7 in Winston, Brian. Media Technology and Society: A History from the Telegraph to the Internet"]			["1998"]

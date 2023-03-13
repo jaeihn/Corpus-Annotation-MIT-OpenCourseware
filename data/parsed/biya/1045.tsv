@@ -1,0 +1,4 @@
+Required	[{:family=>"Easley", :given=>"David"}, {:family=>"Kleinberg", :given=>"Jon"}]	["Networks, Crowds, and Markets: Reasoning about a Highly Connected World"]			
+Required	[{:family=>"Jackson", :given=>"Matthew"}]	["Social and Economic Networks"]	book		
+Optional		["Production Networks: A Primer"]	article-journal	["Carvalho and Tahbaz-Salehi, Annual Review of Economics"]	["2019"]
+Required		["An Economist’s Guide to Epidemiology Models of Infectious Disease"]	article-journal	["Ellison et al., Journal of Economic Perspectives"]	["2020"]

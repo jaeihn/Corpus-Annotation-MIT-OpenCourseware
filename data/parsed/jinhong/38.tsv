@@ -1,0 +1,7 @@
+Required	[{:family=>"McConnell", :given=>"Steve"}]	["Rapid Development: Taming Wild Software Schedules"]			["1996"]
+Required	[{:family=>"Fowler", :given=>"Martin"}]	["UML Distilled: A Brief Guide to the Standard Object Modeling Language"]			["2003"]
+Required	[{:family=>"Bowman", :given=>"Judith S."}, {:family=>"Emerson", :given=>"Sandra L."}, {:family=>"Darnovsky", :given=>"Marcy"}]	["The Practical SQL Handbook: Using SQL Variants"]			["2001"]
+Required	[{:family=>"Syverson", :given=>"Bryan"}]	["Murach’s SQL for SQL Server"]	article-journal	["Murach"]	["2002"]
+Required	[{:family=>"McFarland", :given=>"David S."}]	["Dreamweaver 8: The Missing Manual"]	article-journal	["O’Reilly"]	["2005"]
+Required	[{:family=>"Anderson", :given=>"Ross"}]	["Security Engineering: A Guide to Building Dependable Distributed Systems"]			["2001"]
+Required	[{:family=>"Green", :given=>"James H."}]	["The Irwin Handbook of Telecommunications"]			["2005"]

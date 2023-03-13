@@ -1,0 +1,4 @@
+Required	[{:family=>"Franklin", :given=>"Gene F."}, {:family=>"Powell", :given=>"J.David"}, {:family=>"Emami-Naeini", :given=>"Abbas"}]	["Feedback Control of Dynamic Systems"]			["2009"]
+Required	[{:family=>"Roberge", :given=>"James K."}]	["Operational Amplifiers: Theory and Practice"]	book		["1975"]
+Required	[{:family=>"Rako", :given=>"Paul"}]	["The West Bend No. 1 Electric-frying-pan Thermostat"]	article-journal	["EDN Network. October"]	["2010"]
+Required	[{:family=>"Weng", :given=>"Ming-Chih"}, {:family=>"Lu", :given=>"Xiaodong"}, {:others=>true}]	["Vibration Control of Flexible Beams Using Sensor Averaging and Actuator Averaging Methods"]	article-journal	["Control Systems Technology, IEEE Transactions"]	["2002"]

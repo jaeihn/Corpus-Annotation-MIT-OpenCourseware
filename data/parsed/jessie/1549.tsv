@@ -1,0 +1,8 @@
+Required	[{:family=>"Salsburg", :given=>"D."}]	["The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century"]			["2001"]
+Required	[{:family=>"Gordis", :given=>"L."}]	["Epidemiology"]			["2004"]
+Required	[{:family=>"Schork", :given=>"M.A."}, {:family=>"Remington", :given=>"R.D."}]	["Statistics with Applications to the Biological and Health Sciences"]			["2000"]
+Required		["The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century"]			
+Required	[{:family=>"Hecht", :given=>"S.S."}, {:others=>true}]	["Metabolites of a Tobacco-specific Lung Carcinogen in the Urine of Elementary School-aged Children"]	article-journal	["Cancer Epidemiology, Biomarkers & Prevention"]	["2001-11"]
+Required	[{:family=>"Hunt", :given=>"P.A."}, {:others=>true}]	["Bisphenol A Exposure Causes Meiotic Aneuploidy in the Female Mouse"]	article-journal	["Current Biology"]	["2003-04-01"]
+Required	[{:family=>"Proctor", :given=>"R.N."}]	["Tobacco and the global lung cancer epidemic"]	article-journal	["Nature Reviews Cancer"]	["2001-10"]
+Required	[{:family=>"Wogan", :given=>"G.N."}, {:others=>true}]	["Environmental and chemical carcinogenesis"]	article-journal	["Seminars in Cancer Biology"]	["2004"]

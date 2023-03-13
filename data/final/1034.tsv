@@ -1,0 +1,33 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Bernanke"", :given=>""Ben S.""}]"	The Courage to Act: A Memoir of a Crisis and Its Aftermath			2015	both	Required
+"[{:family=>""Brunnermeier"", :given=>""Markus K.""}]"	Deciphering the Liquidity and Credit Crunch 2007–2008	article-journal	Journal of Economic Perspectives	2009	both	Optional
+"[{:family=>""Allen"", :given=>""Franklin""}, {:family=>""Gale"", :given=>""Douglas""}]"	Chapter 1 in Understanding Financial Crises			2009	both	Required
+"[{:family=>""Holmstrom"", :given=>""Bengt""}, {:family=>""Tirole"", :given=>""Jean""}]"	Financial Intermediation	article-journal	Quarterly Journal of Economics	1997	both	Required
+"[{:family=>""Chodorow-Reich"", :given=>""Gabriel""}]"	The Employment Effects of Credit Market Disruptions: Firm-level Evidence from the 2008–9 Financial Crisis	article-journal	Quarterly Journal of Economics	2014	both	Optional
+"[{:family=>""Campello"", :given=>""Murillo""}, {:family=>""Graham"", :given=>""John R.""}, {:others=>true}]"	The Real Effects of Financial Constraints: Evidence from a Financial Crisis	article-journal	Journal of Financial Economics	2010	both	Required
+"[{:family=>""Geanakoplos"", :given=>""John""}]"	The Leverage Cycle	article-journal	NBER Macroeconomics Annual	2009	both	Required
+"[{:family=>""Jorion"", :given=>""Philippe""}]"	Risk Management Lessons from Long Term Capital Management	article-journal	European Financial Management	2000	both	Required
+"[{:family=>""Shleifer"", :given=>""Andrei""}, {:family=>""Vishny"", :given=>""Robert""}]"	Fire Sales in Finance and Macroeconomics	article-journal	Journal of Economic Perspectives	2011	both	Optional
+"[{:family=>""Acharya"", :given=>""Viral""}, {:family=>""Philippon"", :given=>""Thomas""}, {:others=>true}]"	The Financial Crisis of 2007–2009: Causes and Remedies	article-journal	Financial Markets	2009	both	Optional
+"[{:family=>""Rose"", :given=>""Clayton S.""}, {:family=>""Bergstresser"", :given=>""Daniel Baird""}, {:others=>true}]"	The Tip of the Iceberg: JP Morgan Chase and Bear Stearns (A	article-journal	Harvard Business School Case. Case	2009-01	both	Required
+"[{:family=>""Barberis"", :given=>""Nicholas C.""}]"	Psychology and the Financial Crisis of 2007–2008	chapter	Financial Innovation: Too Much Or Too Little?	2012	both	Optional
+"[{:family=>""Cheng"", :given=>""Ing-haw""}, {:family=>""Raina"", :given=>""Sahil""}, {:others=>true}]"	Wall Street and the Housing Bubble	article-journal	American Economic Review	2014	both	Optional
+"[{:family=>""Ma"", :given=>""Yueran""}]"	Bank CEO Optimism and the Financial Crisis			2014	left_only	Optional
+"[{:family=>""Akerlof"", :given=>""George A.""}, {:family=>""Romer"", :given=>""Paul M.""}]"	Looting: The Economic Underworld of Bankruptcy for Profit	article-journal	Brookings Papers on Economic Activity	1993	both	Optional
+"[{:family=>""Diamond"", :given=>""Douglas W.""}, {:family=>""Dybvig"", :given=>""Philip H.""}]"	Bank Runs	article-journal	Journal of Political Economy	1983	both	Required
+"[{:family=>""Bordo"", :given=>""Michael D.""}]"	The Lender of Last Resort: Alternative Views and Historical Experience	article-journal	FRB Richmond Economic Review	1990	both	Optional
+"[{:family=>""Gorton"", :given=>""Gary""}, {:family=>""Metrick"", :given=>""Andrew""}]"	The Federal Reserve and Panic Prevention: The Roles of Financial Regulation and Lender of Last Resort	article-journal	Journal of Economic Perspectives	2013	both	Optional
+"[{:family=>""Shin"", :given=>""Hyun Song""}]"	Reflections on Northern Rock: The Bank Run that Heralded the Global Financial Crisis	article-journal	Journal of Economic Perspectives	2009	both	Required
+"[{:family=>""Holmstrom"", :given=>""Bengt""}]"	Understanding the Role of Debt in the Financial System	article-journal	Bank for International Settlements Working Paper	2015	both	Required
+"[{:family=>""Gorton"", :given=>""Gary B.""}]"	Questions and Answers about the Financial Crisis-Prepared for the US Financial Crisis Inquiry Commission	article-journal	National Bureau of Economic Research	2010-02	both	Optional
+"[{:family=>""Caballero"", :given=>""Ricardo J.""}, {:family=>""Krishnamurthy"", :given=>""Arvind""}]"	Collective Risk Management in a Flight to Quality Episode	article-journal	The Journal of Finance	2008	both	Required
+"[{:family=>""McDonald"", :given=>""Robert""}, {:family=>""Paulson"", :given=>""Anna""}]"	AIG in Hindsight	article-journal	Journal of Economic Perspectives	2015	both	Optional
+"[{:family=>""Acemoglu"", :given=>""Daron""}, {:family=>""Ozdaglar"", :given=>""Asuman""}, {:others=>true}]"	Systemic Risk and Stability in Financial Networks	article-journal	National Bureau of Economic Research Working Paper	2013	both	Required
+"[{:family=>""Caballero"", :given=>""Ricardo J.""}, {:family=>""Simsek"", :given=>""Alp""}]"	Fire Sales in a Model of Complexity	article-journal	The Journal of Finance	2013	both	Required
+"[{:family=>""Bernanke"", :given=>""Ben S.""}]"	The Crisis and the Policy Response	article-journal	Stamp Lecture	2009-01-13	both	Optional
+"[{:family=>""Kohn"", :given=>""Donald L.""}]"	The Federal Reserve’s Policy Actions During the Financial Crisis and Lessons for the Future	book		2010-05-13	both	Optional
+"[{:family=>""Swagel"", :given=>""Phillip""}]"	Legal	article-journal	Journal of Economic Perspectives	2015	both	Optional
+"[{:family=>""Caballero"", :given=>""Ricardo J.""}]"	Sudden Financial Arrest	article-journal	IMF Economic Review	2010	both	Required
+"[{:family=>""Hanson"", :given=>""Samuel G.""}, {:family=>""Kashyap"", :given=>""Anil K.""}, {:others=>true}]"	A Macroprudential Approach to Financial Regulation	article-journal	Journal of Economic Perspectives	2011	both	Required
+"[{:family=>""Blanchard"", :given=>""Olivier""}, {:family=>""Dell’Ariccia"", :given=>""Giovanni""}, {:others=>true}]"	Rethinking Macroeconomic Policy	article-journal	Journal of Money	2010	both	Optional
+"[{:family=>""Ma"", :given=>""Yueran""}]"	Bank CEO Optimism and the Financial Crisis	book		2014	right_only	Optional

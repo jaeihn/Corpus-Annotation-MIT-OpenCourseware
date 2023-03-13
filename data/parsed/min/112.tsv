@@ -1,0 +1,3 @@
+Required	[{:family=>"Franklin", :given=>"Gene F."}, {:family=>"Powell", :given=>"J.David"}, {:family=>"Workman", :given=>"Michael L."}]	["Digital Control of Dynamic Systems"]			["1997"]
+Required	[{:family=>"Oppenheim", :given=>"A.V."}, {:family=>"Willsky", :given=>"A.S."}]	["Signals and Systems"]			["1996"]
+Optional	[{:family=>"Biernson", :given=>"G."}]	["A Servo for Integrated-Circuit Photolithography"]	chapter	["Chapter 15 in Principles of Feedback Control"]	["1988"]
