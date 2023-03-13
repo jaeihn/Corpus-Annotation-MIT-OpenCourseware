@@ -2,8 +2,8 @@ require "csv"
 require "AnyStyle"
 
 counter = 0 
-path_processed = "./processed/"
-path_parsed = "./parsed/"
+path_processed = "../data/processed/"
+path_parsed = "../data/parsed/"
 malformed_count = 0
 prev_author = ""
 
