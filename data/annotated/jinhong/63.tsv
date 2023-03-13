@@ -1,0 +1,24 @@
+Required	Hirth, John Price, and Jens Lothe. Theory of Dislocations. Melbourne, FL: Krieger, 1991, pp. 29-57.
+Required	Zhou, Min. “A New Look at the Atomic Level Virial Stress: On Continuum-Molecular System Equivalence.” Proc R Soc Lond A 459 (2003): 2347-2392.
+Required	Zimmerman, J. A., E. B. Webb III, J. J. Hoyt, R. E. Jones, P. A. Klein, and D. J. Bammann. “Calculation of Stress in Atomistic Simulation.” Modelling Simul Mater Sci Eng 12 (2004): S319-S332.
+Required	Gouldstone, Andrew, Krystyn Van Vliet, and Subra Suresh. “Simulation of a Defect Nucleation in a Crystal.” Nature 411 (2001): 656.
+Required	Rice, James R. “Dislocation Nucleation from a Crack Tip: An Analysis Based on the Peierls Concept.” J Mech Phys Solids 40 (1992): 239-271.
+Required	Daw, Murray S., and M. I. Baskes. “Embedded-atom Method: Derivation and Application to Impurities, Surfaces, and Other Defects in Metals.” Phys Rev B 29 (1984): 6443-6453.
+Required	Foiles, S. M., M. I. Baskes, and M. S. Daw. “Embedded-Atom-Method Functions for the Fcc Metals Cu, Ag, Nu, Ni, Pd, Pt, and Their Alloys.” Phys Rev B 33 (1986): 7983-7991.
+Required	Buehler, Markus J., and Huajian Gao. “Ultra-Large Scale Simulations of Dynamic Materials Failure.” Chapter 14 in Handbook of Theoretical and Computational Nanotechnology. Edited by Michael Rieth and Wolfram Schommers. Stevenson Ranch, CA: American Scientific Publishers, 2005. ISBN: 158883042X.
+Required	Buehler, Markus J., Alexander Hartmaier, Mark A. Duchaineau, Farid F. Abraham, Huajian Gao. “The Dynamical Complexity of Work-hardening: A Large-scale Molecular Dynamics Simulation.” Acta Mech Sinica 21 (2005): 103-111.
+Required	Buehler, Markus J., Farid F. Abraham, and Huajian Gao. “Stress and Energy Flow Field Near a Rapidly Propagating Mode I Crack.” In Multiscale Modelling and Simulation. Edited by T. Barth et al. Berlin, Germany: Springer Verlag, 2004, pp. 143-156.
+Required	Boal, David. Mechanics of the Cell. Cambridge, UK: Cambridge University Press, 2002, chapters 1, 2, 6, and 7. ISBN: 0521796814.
+Required	Bao, G., and Subra Suresh. “Cell and Molecular Mechanics of Biological Materials.” Nature Materials 2 (2003): 715-725.
+Required	Buehler, Markus J. “Large-Scale Hierarchical Molecular Modeling of Nanostructured Biological Materials.” Journal of Computational and Theoretical Nanoscience 3 (2006): 603-623.
+Required	Mayo, Stephen L., Barry D. Olafson and William A. Goddard III. “DREIDING: A Generic Force Field for Molecular Simulations.” J Phys Chem 94 (1990): 8897-8909.
+Required	Wang, Wei, Oreola Donini, Carolina M. Reyes, Peter A. Kollman. “Biomolecular Simulations: Recent Developments in Force Fields, Simulations of Enzyme Catalysis, Protein-Ligand, Protein-Protein, and Protein-Nucleic Acid Noncovalent Interactions.” Ann Rev Biophys Biomol Struct 30 (2001): 211-243.
+Required	Karplus, Martin and J. Andrew McCammon. “Molecular Dynamics Simulations of Biomolecules.” Nature Structural Biology 9 (2002): 646-652.
+Required	Buehler, M. J., H. Yao, B. Ji, and H. Gao. “Cracking and Adhesion at Small Scales: Atomistic and Continuum Studies of Flaw Tolerant Nanostructures.” Modelling and Simulation in Materials Science and Engineering 14 (2006): 799-816.
+Required	Miller, Ronald E. and E. B. Tadmor. “The Quasicontinuum Method: Overview, Applications and Current Directions.” Journal of Computer-Aided Materials Design 9 (2002): 203-239.
+Required	Knap, J. and M. Ortiz. “An analysis of the quasicontinuum method.” Journal of the Mechanics and Physics of Solids 49 (2001): 1899-1923.
+Required	Heino, P., H. Häkkinen and K. Kaski. “Molecular-dynamics Study of Mechanical Properties of Copper.” Europhys Lett 41 (1998): 273-278.
+Required	Komanduri, R., N. Chandrasekaran, and L. M. Raff. “Molecular Dynamics (MD) Simulation of Uniaxial Tension of Some Single-Crystal Cubic Metals at Nanolevel.” International Journal of Mechanical Sciences 43 (2001): 2237-2260.
+Required	Cleri, Fabrizio, Sidney Yip, Dieter Wolf, and Simon R. Phillpot. “Atomic-Scale Mechanism of Crack-Tip Plasticity: Dislocation Nucleation and Crack-Tip Shielding.” Phys Rev Lett 79 (1997): 1309-1312.
+Required	Mishin, Y. “Structural Stability and Lattice Defects in Copper: Ab Initio, Tight-Binding, and Embedded-Atom Calculations.” Phys Rev B 63 (2001): 1-16.
+Required	Buehler, Markus J., Jef Dodson, Adri C. T. van Duin, Peter Meulbroek, William A. Goddard III. “The Computational Materials Design Facility (CMDF): A Powerful Framework for Multi-paradigm Multi-scale Simulations.” Mater Res Soc Symp Proc 894 (2006): 0894-LL03-03.1-03.6.

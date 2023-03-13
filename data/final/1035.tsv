@@ -1,0 +1,8 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Gibbons"", :given=>""Robert""}]"	Game Theory for Applied Economists			1992	both	Required
+"[{:family=>""Dutta"", :given=>""Prajit""}]"	Strategies and Games: Theory and Practice			1999	both	Optional
+"[{:family=>""Watson"", :given=>""Joel""}]"	Strategy: An Introduction to Game Theory			2007	both	Optional
+"[{:family=>""Kreps"", :given=>""David""}]"	A Course in Microeconomic Theory			1990	both	Optional
+"[{:family=>""Fudenberg"", :given=>""Drew""}, {:family=>""Tirole"", :given=>""Jean""}]"	Game Theory			1991	both	Optional
+"[{:family=>""Osborne"", :given=>""Martin""}, {:family=>""Rubinstein"", :given=>""Ariel""}]"	A Course in Game Theory			1994	both	Optional
+"[{:family=>""Dixit"", :given=>""Avinash""}, {:family=>""Sekeath"", :given=>""Susan""}]"	Games of Strategy			2009	both	Optional

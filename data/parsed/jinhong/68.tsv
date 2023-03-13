@@ -1,0 +1,3 @@
+Required	[{:family=>"Williams", :given=>"James H.", :suffix=>"Jr"}]	["Fundamentals of Applied Dynamics"]	book		["1996"]
+Optional	[{:family=>"Rao", :given=>"S.S."}]	["Mechanical Vibrations"]	book		["1995"]
+Optional	[{:family=>"Beer", :given=>"Ferdinand Pierre"}]	["Vector Mechanics for Engineers"]	book		["1988"]

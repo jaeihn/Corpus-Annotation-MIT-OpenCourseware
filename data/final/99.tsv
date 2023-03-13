@@ -1,0 +1,3 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Yano"", :given=>""Masayuki""}, {:others=>true}]"	Math	article-journal	V2.1	2013-08	both	Required
+"[{:family=>""Math"", :given=>""Numerics""}, {:family=>""M. Yano"", :particle=>""by""}, {:family=>""Penn"", :given=>""J.D.""}, {:family=>""Konidaris"", :given=>""G.""}, {:family=>""Patera"", :given=>""A.T.""}]"	& Programming (for Mechanical Engineers				right_only	Required

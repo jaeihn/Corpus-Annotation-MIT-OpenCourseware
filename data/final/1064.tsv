@@ -1,0 +1,6 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Stokey"", :given=>""Nancy L.""}, {:family=>""Robert E. Lucas"", :given=>""with Edward C.Prescott"", :suffix=>""Jr.""}]"	Recursive Methods in Economic Dynamics			1989	both	Required
+"[{:family=>""Acemoglu"", :given=>""Daron""}]"	Introduction to Modern Economic Growth			2008	both	Required
+"[{:family=>""Chiang"", :given=>""Alpha C.""}]"	Elements of Dynamic Optimization			1999	both	Optional
+"[{:family=>""Luenberger"", :given=>""David""}]"	Optimization by Vector Space Methods			1997	both	Optional
+"[{:family=>""Kamien"", :given=>""Morton I.""}, {:family=>""Schwartz"", :given=>""Nancy L.""}]"	Dynamic Optimization: The Calculus of Variations and Optimal Control in Economics and Management			1991	both	Optional

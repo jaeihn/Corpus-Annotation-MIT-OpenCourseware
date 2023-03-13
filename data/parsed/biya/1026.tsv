@@ -1,0 +1,4 @@
+Optional	[{:family=>"Gawande", :given=>"Atul"}]	["The Cost Conundrum"]	article-journal	["The New Yorker"]	["2009-06-01"]
+Optional	[{:family=>"Gruber", :given=>"Jonathan"}]	["Health Care Reform: What It Is, Why It’s Necessary, How It Works"]	article-journal	["Hill and Wang"]	["2011"]
+Required	[{:family=>"Perloff", :given=>"Jeffrey M.Microeconomics"}]				["2008"]
+Required	[{:family=>"Rittenberg", :given=>"Libby"}, {:family=>"Tregarthen", :given=>"Timothy"}]		book		["2009"]

@@ -1,0 +1,5 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Bathe"", :given=>""K.J.""}]"	Finite Element Procedures			2014	both	Required
+"[{:family=>""Kojic"", :given=>""M.""}, {:family=>""Bathe"", :given=>""K.J.""}]"	Inelastic Analysis of Solids and Structures			2004	both	Optional
+"[{:family=>""Chapelle"", :given=>""D.""}, {:family=>""Bathe"", :given=>""K.J.""}]"	The Finite Element Analysis of Shells – Fundamentals			2003	both	Optional
+"[{:family=>""Bathe"", :given=>""K.J.""}]"	The Finite Element Method	chapter	Wiley Encyclopedia of Computer Science and Engineering	2009	both	Optional

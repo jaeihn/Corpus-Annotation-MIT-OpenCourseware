@@ -1,0 +1,8 @@
+Optional	[{:family=>"Hand", :given=>"Mannila"}, {:given=>"Smyth"}]	["Principles of Data Mining"]			["2001"]
+Optional	[{:given=>"Berry"}, {:given=>"Linoff"}]	["Mastering Data Mining"]			["2000"]
+Optional	[{:given=>"Delmater"}, {:given=>"Hancock"}]	["Data Mining Explained"]			["2001"]
+Required		["Table 11.1 from page 584 of: Johnson, Richard, and Dean Wichern"]	chapter	["Applied Multivariate Statistical Analysis"]	["2002"]
+Required		["Example 1, Head Measurements of Adult Sons: Rencher, Alvin. Methods of Multivariate Analysis"]	book		["2002"]
+Required	[{:family=>"Han", :given=>"Jiawei"}, {:family=>"Kamber", :given=>"Micheline"}]	["Data Mining: Concepts and Techniques"]	article-journal	["Example"]	["2001", "Figure 6.2"]
+Required	[{:family=>"Bhandari", :given=>"Vinni"}, {:family=>"Patel", :given=>"Dr Nitin"}]	["The Charles Book Club Case"]			
+Required	[{:family=>"Levin", :given=>"Nissan"}, {:family=>"Zahav", :given=>"Jacob"}]	["A Case Study in Database Marketing"]	article-journal	["Tel Aviv University. Direct Marketing Educational Foundation, Inc"]	["1995-03"]

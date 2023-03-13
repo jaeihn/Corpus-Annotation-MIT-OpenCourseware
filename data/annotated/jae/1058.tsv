@@ -1,0 +1,112 @@
+Required	Hamilton, James D. Time Series Analysis. Princeton University Press, 1994. ISBN: 9780691042893.
+Required	Brockwell, Peter, and Richard Davis. Time Series: Theory and Methods. Springer-Verlag, 1991. ISBN: 9780387974293.
+Required	Canova, Fabio. Methods for Applied Macroeconomic Research. Princeton University Press, 2007. ISBN: 9780691115047.
+Required	DeJong, David, and Chetan Dave. Structural Macroeconometrics. Princeton University Press, 2011. ISBN: 9780691126487.
+Required	Hall, Peter, and C. C. Heyde. Martingale Limit Theory and Its Application. Probability and Mathematical Statistics. Academic Press, 1980. ISBN: 9780123193506.
+Required	Griliches, Zvi, and Michael Intriligator, eds. Handbook of Econometrics. Vol. 3. North Holland, 1986. ISBN: 9780444861870.
+Required	Lütkepohl, Helmut. Introduction to Multiple Time Series Analysis. Springer-Verlag, 1993. ISBN: 9780387569406.
+Required	Newey, W. K., and K. D. West. “A Simple Positive Semi-Definite, Heteroskedasticity and Autocorrelation Consistent Covariance Matrix.” Econometrica 55, no. 3 (1987): 703–8.
+Required	Andrews, D. W. K. “Heteroskedasticity and Autocorrelation Consistent Covariance Matrix Estimation.” Econometrica 59, no. 3 (1991): 817–58.
+Required	Baxter, M., and R. King. “Measuring Business Cycles: Approximate Band-Pass Filters for Economic Time Series.” Review of Economics and Statistics 81, no. 4 (1999): 575–93.
+Required	Geweke, J., and R. Meese. “Estimating Regression Models of Finite but Unknown Order.” International Economic Review 22, no. 1 (1981): 55–70.
+Required	Sims, C. A. “Macroeconomics and Reality.” Econometrica 48, no. 1 (1980): 1–48.
+Required	Blanchard, O. J., and D. Quah. “Dynamic Effects of Aggregate Demand and Supply Disturbances.” American Economic Review 79, no. 4 (1989): 655–73.
+Required	Christiano, L., M. Eichenbaum, et al. “Assessing Structural VARs.” Northwestern University, manuscript (2005).
+Required	Fernandez Villaverde, J., J. Rubio Ramirez, et al. “The ABC and (D’s) to Understand VARs.” NYU manuscript (2005).
+Required	Stock, J. H., and M. W. Watson. “Implications of Dynamic Factor Models for VAR Analysis.” NBER Working Paper no. 11467, 2005.
+Required	Bernanke, B. S., J. Bovian, et al. “Measuring the Effects of Monetary Policy: A Factoraugmented Vector Autoregressive (FAVAR) Approach.” Quarterly Journal of Economics 120 (2005): 387–422.
+Required	Forni, M., D. Giannoni, et al. “Opening the Black Box: Structural Factor Models with Large Cross-Sections.” European Central Bank, working paper 712.
+Required	Bai, J., and S. Ng. “Instrumental Variable Estimation in a Data Rich Environment.” Econometric Theory 26, no. 6 (2010): 1577–606.
+Required	Stock, J. H. “Unit Roots and Trend Breaks in Econometrics.” Sections 1–4 in Handbook of Econometrics. Vol. 4. North Holland, 1999, pp. 2740–841. ISBN: 9780444887665.
+Required	Phillips, P. C. B. “Toward a Unified Asymptotic Theory for Autoregression.” Biometrika 74, no. 3 (1987): 535–47.
+Required	Andrews, D. W. K. “Tests for Parameter Instability and Structural Change with Unknown Change-Point.” Econometrica 61, no. 4 (1993): 821–56.
+Required	Hansen, B. E. “The New Econometrics of Structural Change: Dating Breaks in U.S. Labor Productivity.” Journal of Economic Perspectives 15, no. 4 (2001): 117–28.
+Required	Perron, P. “The Great Crash, the Oil Price Shock, and the Unit Root Hypothesis.” Econometrica 57, no. 6 (1989): 1361–401.
+Required	Watson, M. W. “Vector Autoregressions and Cointegration.” Sections 1, and 2 in Handbook of Econometrics. Vol. 4. North Holland, 1999, pp. 2844–915. ISBN: 9780444887665.
+Required	———. “Cointegration.” In The New Palgrave Dictionary of Economics. 2nd ed. Edited by Steven N. Durlauf, and Lawrence E. Blume. Palgrave Macmillan, 2008. ISBN: 9780333786765.
+Required	Cavanagh, C. L., G. Elliott, et al. “Inference in Models with Nearly Integrated Regressors.” Econometric Theory 11 (1995): 1131–47.
+Required	Stambaugh, R. F. “Predictive Regressions.” Journal of Financial Economics 54, no. 3 (1999): 375–421.
+Required	Hansen, L. P. “Large Sample Properties of GMM Estimators.” Econometrica 50, no. 4 (1982): 1029–54.
+Required	Hansen, L. P., and K. Singleton. “Generalized Instrumental Variables Estimation of Nonlinear Rational Expectations Models.” Econometrica 50, no. 5 (1982): 1269–86. (corrigenda, 1984).
+Required	Lee, B., and B. Ingram. “Simulation Estimation of Time Series Models.” Journal of Econometrics 47, no. 2–3 (1991): 197–205.
+Required	Smith, A. “Estimation of Nonlinear Time Series Models Using Simulated VARs.” (PDF) Journal of Applied Econometrics 8 (1993): s63–84.
+Required	Stock, J. H., and M. Yogo. “A Survey of Weak Instruments and Weak Identification in Generalized Method of Moments.” Journal of Business and Economic Statistics 20 (2002): 518–29.
+Required	Stock, J. H., and J. Wright. “GMM With Weak Identification.” Econometrica 68, no. 5 (2000): 1055–96.
+Required	Hamilton, J. D. “A New Approach to the Economic Analysis of Nonstationary Time Series and the Business Cycle.” Econometrica 57, no. 2 (1989): 357–84.
+Required	Chib, S., and E. Greenberg. “Understanding the Metropolist-Hastings Algorithm.” American Statistician 49 no. 4 (1995): 327–35.
+Required	———. “Markov Chain Monte Carlo Simulation Methods in Econometrics.” Econometric Theory 12, no. 3 (1996): 409–31.
+Required	Chib, S. “Markov Chain Monte Carlo Methods: Computation and Inference.” Chapter 5 in Handbook of Econometrics. Vol. 5. Edited by J. J. Heckman, and E. Leamer. North Holland, 2001, pp. 3564–634. ISBN: 9780444823403.
+Optional	Beveridge, S., and C. R. Nelson. “A New Approach to Decomposition of Economic Time Series into Permanent and Transitory Components with Particular Attention to Measurement of the ‘Business Cycle’.” Journal of Monetary Economics 7, no. 2 (1981): 151–74.
+Optional	Andrews, D. W. K., and J. C. Monahan. “An Improved Heteroskedasticity and Autocorrelation Consistent Covariance Matrix Estimator.” Econometrica 60, no. 4 (1992): 953–66.
+Optional	den Haan, W. J., and A. Levin. “A Practitioner’s Guide to Robust Covariance Matrix Estimation.” Chapter 12 in Handbook of Statistics. Vol. 26. Edited by G. S. Maddala, and C. R. Rao. North Holland, 2006, pp. 291–341. ISBN: 9780444521033.
+Optional	Kiefer, N., and T. Vogelsang. “Heteroskedasticity-Autocorrelation Robust Testing Using Bandwidth Equal to Sample Size.” Econometric Theory 18, no. 6 (2002): 1350–66.
+Optional	Berk, K. N. “Consistent Autoregressive Spectral Estimates.” Annals of Statistics 2 (1974): 489-502.
+Optional	Hodrick, R., and E. Prescott. “Post-War U.S. Business Cycles: An Empirical Investigation.” Journal of Money Banking and Credit 28, no. 4 (1997): 1–16.
+Optional	Christiano, L. J., and T. J. Fitzgerald. “The Band Pass Filter.” NBER Working Paper no. 7257, 1999.
+Optional	Ng, S., and P. Perron. “A Note on the Selection of Time Series Models.” Oxford Bulletin of Economics and Statistics 67, no. 1 (2005): 115–34.
+Optional	Leeb, H., and B. M. Potscher. “Model Selection and Inference: Facts and Fiction.” Econometric Theory 21 (2005): 21–59.
+Optional	———. “The Finite-Sample Distribution of Post-Model-Selection Estimators and Uniform versus Nonuniform Approximations.” Econometric Theory 19 (2003): 100–42.
+Optional	Hansen, B. “Challenges for Econometric Model Selection.” Econometric Theory 21, no. 1 (2005): 60–8.
+Optional	Kuersteiner, G. M. “Automatic Inference for Infinite Order Vector Autoregressions.” Econometric Theory 21, no. 1 (2005): 85–115.
+Optional	Watson, M. “Vector Autoregressions and Cointegration.” Chapter 47 in Handbook of Econometrics. Vol. 4. North Holland, 1999. ISBN: 9780444887665.
+Optional	Stock, J. H., and M. W. Watson. “Vector Autoregressions.” Journal of Economic Perspectives 15, no. 4 (2001): 101–6.
+Optional	Wright, J. H. “Confidence Intervals for Univariate Impulse Responses with a Near Unit Root.” Journal of Business and Economic Statistics 18, no. 8 (2000): 368–73.
+Optional	Killian, L. “Small Sample Confidence Intervals for Impulse Response Functions.” Review of Economics and Statistics 80, no. 2 (1998): 218–30.
+Optional	Mikusheva, A. “One-Dimensional Inferences in Autoregressive Models in a Potential Presence of a Unit Root.” Econometrica 80, no. 1 (2011): 173–212. (Forthcoming)
+Optional	Blanchard, O. J. “A Traditional Interpretation of Macroeconomic Fluctuations.” American Economic Review 79, no. 5 (1989): 1146–64.
+Optional	King, R. G., C. I. Plosser, et al. “Stochastic Trends and Economic Fluctuations.” American Economic Review 81, no. 4 (1991): 819–40.
+Optional	Cooley, T., and S. LeRoy. “A Theoretical Macroeconomics: A Critique.” Journal of Monetary Economics 16, no. 3 (1985): 283–308.
+Optional	Braun, P., and S. Mittnik. “Misspecification in VAR and their Effects on Impulse Responses and Variance Decompositions.” Journal of Econometrics 59, no. 3 (1993): 319–41.
+Optional	Cooley, T., and M. Dwyer. “Business Cycle Analysis Without Much Theory: A Look at Structural VARs.” Journal of Econometrics 83, no. 1–2 (1998): 57–88.
+Optional	Wright, J. H. “What does Monetary Policy do to Long-Term Interest Rates at the Zero Lower Bound?” The Economic Journal 122, no. 564 (2012): F447–66.
+Optional	Moon, H. R., F. Schorfheide, et al. “Inference for VARs Identified with Sign Restrictions.” Manuscript, University of Pennsylvania (2009).
+Optional	Chari, V., P. Kehoe, et al. “A Critique of Structural VARs Using Business Cycle Theory.” Federal Reserve Bank of Minneapolis, Research Department Staff Report 364 (2005).
+Optional	Erceg, C, L. Guerrieri, et al. “Can Long Run Restrictions Identify Technology Shocks?” Board of Governors of the Federal Reserve, International Finance discussion paper 792 (2005).
+Optional	Lippi, M., and L. Reichlin. “VAR Analysis, Non-Fundamental Representation, Blaschke Matrices.” Journal of Econometrics 63, no. 1 (1994): 307–25.
+Optional	Faust, J., and E. Leeper. “Do Long Run Restrictions Really Identify Anything?” Journal of Business and Economic Statistics 15, no. 3 (1997): 345–53.
+Optional	Bernanke, B. S., and J. Boivin. “Monetary Policy in a Data-rich Environment.” Journal of Monetary Economics 50, no. 3 (2003): 525–46.
+Optional	Chamberlain, G., and M. Rothschild. “Arbitrage, Factor Structure and Mean-Variance Analysis of Large Asset Markets.” Econometrica 51, no. 5 (1983): 1281–304.
+Optional	Favero, C. A., M. Marcellino, et al. “Principal Components at Work: The Empirical Analysis of Monetary Policy with Large Datasets.” Journal of Applied Econometrics 20, no. 5 (2005): 603–20.
+Optional	Forni, M., M. Hallin, et al. “The Generalized Dynamic Factor Model: Identification and Estimation.” Review of Economics and Statistics 82, no. 4 (2000): 540–54.
+Optional	Bai, J., and S. Ng. “Determining the Number of Factors in Approximate Factor Models.” Econometrica 70, no. 1 (2002): 191–221.
+Optional	———. “Determining the Number of Primitive Shocks in Factor Models.” Journal of Business Economics and Statistics 25 (2007): 52–60.
+Optional	Forni, M., M. Hallin, et al. “One-Sided Representations of Generalized Dynamic Factor Models.” Manuscript (2011).
+Optional	Dickey, D. A., and W. A. Fuller. “Distribution of the Estimators for Autoregressive Time Series with a Unit Root.” Journal of the American Statistical Association 74, no. 366a (1979): 427–31.
+Optional	Campbell, J. Y., and P. Perron. “Pitfalls and Opportunities: What Macroeconomists Should Know About Unit Roots.” NBER Macroeconomics Annual 6 (1991): 141–201. (NBER Working Paper no. 100)
+Optional	Andrews, D. W. K. “Exactly Median-Unbiased Estimation of First Order Autoregressive/Unit Root Models.” Econometrica 61, no. 1 (1993): 139–65.
+Optional	Hansen, B. E. “The Grid Bootstrap and the Autoregressive Model.” Review of Economics and Statistics 81, no. 4 (1999): 594–607.
+Optional	Stock, J. “Confidence Intervals for the Largest Autoregressive Root in U.S. Macroeconomic Time Series.” Journal of Monetary Economics 28, no. 3 (1991): 435–59.
+Optional	Mikusheva, A.  “Uniform Inference in Autoregressive Models.” Econometrica 75, no. 5 (2007): 1411–52.
+Optional	Andrews, D. W. K., and W. Ploberger. “Optimal Tests When a Nuisance Parameter is Present Only Under the Alternative.” Econometrica 62, no. 6 (1994): 1383–414.
+Optional	Bai, J. S. “Estimating Multiple Breaks One at a Time.” Econometric Theory 13, no. 3 (1997): 315–52.
+Optional	Bai, J., and P. Perron. “Estimating and Testing Linear Models with Multiple Structural Changes.” Econometrica 66, no. 1 (1998): 47–78.
+Optional	Bai, J., R. L. Lumsdaine, et al. “Testing For and Dating Common Breaks in Multivariate Time Series.” Review of Economic Studies 65, no. 3 (1998): 395–432.
+Optional	Zivot, E., and D. W. K. Andrews. “Further Evidence on the Great Crash, the Oil Price Shock, and the Unit Root Hypothesis.” Journal of Business and Economic Statistics 10, no. 3 (1992): 251–70.
+Optional	Stock, J. H. “Asymptotic Properties of Least Squares Estimators of Cointegrating Vectors.” Econometrica 55, no. 5 (1987): 1035–56.
+Optional	Stock, J. H., and M. W. Watson. “A Simple Estimator of Cointegrating Vectors in Higher Order Integrated Systems.” Econometrica 61, no. 4 (1993): 783–820.
+Optional	Bekaert, G., and R. J. Hodrick. “Expectations Hypotheses Test.” Journal of Finance 56, no. 4 (2001): 1357–94.
+Optional	Campbell, J. Y., and M. Yogo. “Efficient Tests of Stock Return Predictability.” Journal of Financial Economics 81, no. 1 (2006): 27–60.
+Optional	Jansson M., and M. J. Moreira. “Optimal Inference in Regression Models with Nearly Integrated Regressors.” Econometrica 74, no. 3 (2006): 681–715.
+Optional	Mc Fadden, D. “A Method of Simulated Moments of Estimation for Discrete Response Models without Numerical Integration.” Econometrica 57, no. 5 (1989): 995-1026.
+Optional	Pakes, A., and D. Pollard. “Simulation and the Asymptotics of Optimization Estimators.” Econometrica 57, no. 5 (1989): 1027–57.
+Optional	Duffie, D., and K. Singleton. “Simulated Moments Estimation of Markov Models of Asset Prices.” Econometrica 61, no. 4 (1993): 929–52.
+Optional	Andrews, D. W. K., M. Moreira, et al. “Optimal Two-Sided Invariant Similar Tests for Instrumental Variables Regression.” Econometrica 74 (2006): 715–52.
+Optional	Andrews, D. W. K., and J. H. Stock. “Inference with Weak Instruments.” In Advances in Economics and Econometrics, Theory and Applications: Ninth World Congress of the Econometric Society. Vol. 3. Edited by R. Blundell, W. K. Newey, and T. Person. Cambridge University Press, 2007. ISBN: 9780521692106.
+Optional	Kleibergen, F. R., and S. Mavroeidis. “Weak Instrument Robust Tests in GMM and the New Keynesian Phillips Curve.” (PDF) Manuscript, Brown University (2008).
+Optional	Staiger, D., and J. H. Stock “Instrumental Variables Regression with Weak Instruments.” Econometrica 65, no. 3 (1997): 557–86.
+Optional	Yogo, M. “Estimating the Elasticity of Intertemporal Substitution when the Instruments are Weak.” Review of Economics and Statistics 86, no. 3 (2004): 797–810.
+Optional	Sargent, T. “Two Models of Measurements and the Investment Accelerator.” Journal of Political Economy 97, no. 2, (1989): 251–87.
+Optional	Ingram, Kocherlakota, and Savin. “Explaining Business Cycles: A Multi-Shock Approach.” Journal of Monetary Economics 34, no. 3 (1994): 415–28.
+Optional	Hansen, and Sargent. Recursive Linear Models of Dynamic Economies. Princeton University Press, 2013. ISBN: 9780691042770.
+Optional	Ireland, P. “A Method for Taking Models to Data.” Journal of Economic Dynamics and Control 28, no. 4 (2004): 1205–26.
+Optional	White, H. “Maximum Likelihood Estimation of Misspecified Models.” Econometrica 50, no. 1 (1982): 1–25.
+Optional	Canova, F., and L. Sala. “Back to Square One: Identification Issues in DSGE Models.” Journal of Monetary Economics 56, no. 4 (2009): 431–49.
+Optional	Iskrev, N. “Evaluating the Strength of Identification in DSGE Models. An a Priori Approach.” Bank of Portugal working paper (2010).
+Optional	Komunjer, I., and S. Ng. “Dynamic Identification of DSGE Models.” _Forthcoming Econometrica _ 79, no. 6 (2011): 1995–2032.
+Optional	Andrews, I., and A. Mikusheva. “Maximum Likelihood Inference in Weakly Identified DSGE Models.” Manuscript (2011).
+Optional	Müller, U. “Measuring Prior Sensitivity and Prior Informativeness in Large Bayesian Models.” Manuscript (2011).
+Optional	Chib, S., F. Nardari, et al. “Markov Chain Monte Carlo methods for Stochastic Volatility Models.” Journal of Econometrics 108, no. 2 (2002): 281–316.
+Optional	Del Negro, M., and F. Schorfheide. “Priors from General Equilibrium Models for VARs.” International Economic Review 45, no. 2 (2004): 643–73.
+Optional	Del Negro, M. Schorfheide, et al. “On the Fit and Forecasting Performance of New Keynesian Models.” Journal of Business and Economic Statistics (2007).
+Optional	Rabanal, P., and J. Rubio-Ramirez. “Comparing New Keynesian Models of the Business Cycle: A Bayesian Approach.” Journal of Monetary Economics 52, no. 6 (2005): 1151–66.
+Optional	Fernandez-Villaverde, J., and J. Rubio-Ramirez. “Estimating Dynamic Equilibrium Economies: Linear versus Nonlinear Likelihood.” Journal of Applied Econometrics 20, no. 7 (2005): 891–910.

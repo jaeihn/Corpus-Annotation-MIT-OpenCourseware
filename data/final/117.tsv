@@ -1,0 +1,6 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Newman"", :given=>""J.N.""}]"	Marine Hydrodynamics			1977	both	Required
+	Readings in Marine Hydrodynamics				left_only	Optional
+"[{:family=>""Mei"", :given=>""Chiang C.""}]"	The Applied Dynamics of Ocean Surface Waves	book		1989	both	Optional
+"[{:family=>""Faltinsen"", :given=>""O.M.""}]"	Sea Loads on Ships and Offshore Structures			1993	both	Optional
+"[{:family=>""Laitone"", :given=>""Edmund V.""}, {:family=>""Wehausen"", :given=>""John V.""}]"	Surface Waves	chapter	Encyclopedia of Physics	1960	both	Optional

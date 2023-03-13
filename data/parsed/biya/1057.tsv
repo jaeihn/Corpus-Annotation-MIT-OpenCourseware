@@ -1,0 +1,5 @@
+Optional	[{:family=>"Arellano", :given=>"Manuel"}, {:family=>"Hahn", :given=>"Jinyong"}]	["Understanding Bias in Nonlinear Panel Models: Some Recent Developments"]	chapter	["Advances in Economics and Econometrics, Ninth World Congress"]	["2007"]
+Optional	[{:family=>"Chamberlain", :given=>"Gary"}]	["Panel Data"]	chapter	["Chapter 22 In Handbook of Econometrics"]	["1984"]
+Optional	[{:family=>"Fernández-Val", :given=>"Iván"}, {:family=>"Weidner", :given=>"Martin"}]	["Individual and Time Effects in Nonlinear Panel Models with Large N, T"]	article-journal	["Journal of Econometrics"]	["2016-05"]
+Optional	[{:family=>"Newey", :given=>"Whitney K."}]	["Convergence Rates and Asymptotic Normality for Series Estimators"]	article-journal	["Journal of Econometrics"]	["1997"]
+Optional		["Efficient Estimation of Models with Conditional Moment Restrictions"]	chapter	["Handbook of Statistics"]	["1993"]

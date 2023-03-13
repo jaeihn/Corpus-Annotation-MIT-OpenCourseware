@@ -1,0 +1,8 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Knowles"", :given=>""J.K.""}]"	Linear Vector Spaces and Cartesian Tensors			1998	both	Required
+"[{:family=>""Abeyaratne"", :given=>""Rohan""}]"	A Brief Review of Some Mathematical Preliminaries	chapter	Lecture Notes on the Mechanics of Elastic Solids		both	Required
+"[{:family=>""Gel’fand"", :given=>""I.M.""}]"	Lectures on Linear Algebra			1989	both	Optional
+"[{:family=>""Halmos"", :given=>""P.R.""}]"	Finite Dimensional Vector Spaces			1958	both	Optional
+"[{:family=>""Gel’fand"", :given=>""I.M.""}, {:family=>""Fomin"", :given=>""S.V.""}]"	Calculus of Variations	book		1963	both	Optional
+"[{:family=>""Giaquinta"", :given=>""M.""}, {:family=>""Hilderbrandt"", :given=>""S.""}]"	Calculus of Variations I			1996	both	Optional
+"[{:family=>""Troutman"", :given=>""J.L.""}]"	Variational Calculus with Elementary Convexity			1983	both	Optional

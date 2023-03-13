@@ -1,0 +1,4 @@
+Required	[{:family=>"Bathe", :given=>"K.J."}]	["Finite Element Procedures"]			["2014"]
+Optional	[{:family=>"Kojic", :given=>"M."}, {:family=>"Bathe", :given=>"K.J."}]	["Inelastic Analysis of Solids and Structures"]			["2004"]
+Optional	[{:family=>"Chapelle", :given=>"D."}, {:family=>"Bathe", :given=>"K.J."}]	["The Finite Element Analysis of Shells – Fundamentals"]			["2003"]
+Optional	[{:family=>"Bathe", :given=>"K.J."}]	["The Finite Element Method"]	chapter	["Wiley Encyclopedia of Computer Science and Engineering"]	["2009"]

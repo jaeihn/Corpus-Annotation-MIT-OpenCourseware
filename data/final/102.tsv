@@ -1,0 +1,6 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Strang"", :given=>""Gilbert""}]"	Introduction to Linear Algebra			2016	left_only	Optional
+"[{:family=>""Strang"", :given=>""Gilbert""}]"	Linear Algebra and Learning from Data			2019	left_only	Optional
+"[{:family=>""Strang"", :given=>""Gilbert""}]"	Linear Algebra for Everyone			2020	left_only	Optional
+"[{:family=>""Strang"", :given=>""Gilbert""}]"	Differential Equations and Linear Algebra			2014	left_only	Required
+"[{:family=>""Strang"", :given=>""Gilbert""}]"	Differential Equations and Linear Algebra	book		2014	right_only	Required

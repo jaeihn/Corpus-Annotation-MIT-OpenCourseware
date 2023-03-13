@@ -1,0 +1,3 @@
+Required	[{:family=>"Seinfeld", :given=>"John H."}, {:family=>"Pandis", :given=>"Spyros N."}]	["Atmospheric Chemistry and Physics: From Air Pollution to Climate Change"]			["2006"]
+Optional	[{:family=>"Jacob", :given=>"Daniel"}]	["Introduction to Atmospheric Chemistry"]			["1999"]
+Optional	[{:family=>"Finlayson-Pitts", :given=>"Barbara J."}, {:family=>"Pitts", :given=>"James N."}]	["Chemistry of the Upper and Lower Atmosphere: Theory, Experiments, and Applications"]			["1999"]
