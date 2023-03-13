@@ -15,10 +15,10 @@ However, we realized that in terms of our project, our annotation "items" are no
 Below are some visualizations of annotated courses and readings by annotator. 
 
 ### Fig. 2: Number of Courses Annotated by Each Annotator
-<img src="https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/blob/jae/screenshot/courses_stats.png" width="600" />
+<img src="https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/blob/jae/screenshot/coursescount.png" width="600" />
 
 ### Fig. 3: Number of Readings Annotated by Each Annotator
-<img src="https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/blob/jae/screenshot/annotation_stats.png" width="600" />
+<img src="https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/blob/jae/screenshot/annotationcount.png" width="600" />
 
 The numbers reported in `Fig. 2` are unmatched courses. Below is a table of actual course indices covered by each annotator: 
 
@@ -63,7 +63,7 @@ Our latest [data](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessie
   - We added `<html />` and `<meta charset="utf-8"/>` tags in the beginning and end of document. 
   - We saved the concatenated file as `.html` in the `concat` folder.
   - [Sample file in `concat`](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/blob/master/data/concat/0.html)
-- `processed` [[directory]](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/jae/data/processed)
+- `processed` [[directory]](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/jae/data/processed) [[Python script]](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/blob/jae/milestone_3/annotation_cleaner.py)
   - Our annotations are `str` containing the bibliography of the reading. 
   - This means there is many room for disagreement. A difference of even a single character--extra " ", missing "."--would make two annotations of the same reading look like different readings. 
   - We performed some `regex` filtering to reduce unintended differences as much possible. We included the following cases:
@@ -74,8 +74,9 @@ Our latest [data](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessie
     - Remove annotations shorter than 50 characters (these are likely to be table headings or comments on the readings--even if it is an annotation the information is too little for us to track down what the reading is referring to.) 
     - Remove duplicate annotations 
   - The script for filtering can be found [here](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/blob/jae/milestone_3/annotation_cleaner.py).
-  - After applying the filter, the resulting .tsv files were put into 
-- `parsed` [[directory]](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/jae/data/parsed)
+  - After applying the filter, the resulting .tsv files were put into the `processed` folder.
+  - [Sample file in `processed`](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/blob/jae/data/processed/biya/1000.tsv)
+- `parsed` [[directory]](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/jae/data/parsed) [[Ruby script]](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/blob/jae/milestone_3/annotation_parser.rb)
   - As an extension to our attempt in reducing unintended differences, we decided to extract specific information from the bibliography. 
   - For example, if two annotations refer to the same book, just different chapters, these two readings should be considered the same. If we are able to reduce the information to just the key parts, we should be able to match readings better. (our annotation decision was to only include the same book once)
   - This will also serve useful later on with our product, when we want to group the readings by author, journal, year, etc. 
@@ -89,6 +90,7 @@ Our latest [data](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessie
     - Year 
   - New .tsv files with the old bibliographies replaced with parsed bibliographies were put in `parsed`. 
   - The Ruby script for parsing can be found [here](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/blob/jae/milestone_3/annotation_parser.rb). Please understand that we picked up Ruby soley to use this package, so the code may appear less proficient than the Python codes. 
+  - [Sample file in '`parsed`](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/blob/jae/data/processed/biya/1000.tsv)
 
 -------
 
@@ -105,9 +107,11 @@ You can find the related code in the [Python notebook here](https://github.ubc.c
 This process generated two more folders in the `data` folder: 
 - `dataframes` [[directory]](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/jae/data/dataframes)
   - Any dataframes that were generated was exported to this directory, to be used by other code files. 
+  - [Sample file in `dataframes`](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/blob/jae/data/dataframes/annotations_by_biya.tsv)
 - `final` [[directory]](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/jae/data/final)
   - Final version of annotations, only for the interannotated courses, were generated following the rules outlined in the next section.
   - We imitated the structure of our other annotation files, and saved them as .tsv.
+  - [Sample file in `final`](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/blob/jae/data/final/0.tsv)
 
 ------
 
