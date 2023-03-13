@@ -1,0 +1,69 @@
+Required	Ahn, H., and J. L. Powell. “Semiparametric Estimation of Censored Selection Models with a Nonparametric Selection Mechanism.” Journal of Econometrics 58 (1993): 3-29
+Required	Autor, D., L. F. Katz, and M. S. Kearney. “Rising Wage Inequality: The Role of Composition and Prices.” National Bureau of Economic Research (NBER) Working Paper No. 11628 (August 2005): 1-65
+Required	Chernozhukov, V., and H. Hong. “Three-step Censored Quantile Regression and Extramarital Affairs.” Journal of the American Statistical Association 97, no. 459 (September 2002): 872-882
+Optional	Cameron, Adrian Colin, and Pravin K. Trivedi. Microeconometrics: Methods and Applications. New York, NY: Cambridge University Press, 2005. ISBN: 9780521848053
+Optional	Wooldridge, Jeffrey M. Econometric Analysis of Cross Section and Panel Data. 2nd ed. Cambridge, MA: MIT Press, 2008. ISBN: 9780262232586
+Optional	Newey, Whitney K., and Daniel McFadden. “Large Sample Estimation and Hypothesis Testing.” In Handbook of Econometrics. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: Elsevier, North-Holland, 1999, chapter 36, pp. 2113-2245. ISBN: 9780444887665
+Optional	Amemiya, Takeshi. Advanced Econometrics. Cambridge, MA: Harvard University Press, 1985. ISBN: 9780674005600
+Optional	van der Vaart, A. W. Asymptotic Statistics. Cambridge, UK: Cambridge University Press, 1998. ISBN: 9780521496032
+Optional	Grilliches, Zvi, and Michael D. Intriligator. Handbook of Econometrics. Amsterdam, The Netherlands: North-Holland Publishing Co., 1994. ISBN: 9780444861887 (set)
+Optional	Grilliches, Zvi. Handbook of Econometrics. Vol. 1. Amsterdam, The Netherlands: North-Holland Publishing Co., 1983. ISBN: 9780444861856
+Optional	Grilliches, Zvi, and Michael D. Intriligator. Handbook of Econometrics. Vol. 2. Amsterdam, The Netherlands: North-Holland Publishing Co., 1984. ISBN: 9780444861863
+Optional	Handbook of Econometrics. Vol. 3. Amsterdam, The Netherlands: North-Holland Publishing Co., 1986. ISBN: 9780444861870
+Optional	McFadden, Daniel, and Robert Engle. Handbook of Econometrics. Vol. 4. Amsterdam, The Netherlands: North-Holland Publishing Co., 1999. ISBN: 9780444887665
+Optional	Heckman, James J., and Edward E. Leamer. Handbook of Econometrics. Vol. 5. Amsterdam, The Netherlands: North-Holland Publishing Co., 2001. ISBN: 9780444823403
+Optional	Ruud, Paul A. An Introduction to Classical Econometric Theory. New York, NY: Oxford University Press, 2000. ISBN: 9780195111644
+Optional	DeGroot, Morris H., and Mark J. Schervish. Probability and Statistics. 3rd ed. Boston, MA: Addison Wesley, 2001
+Optional	Hayashi, Fumio. Econometrics. Princeton, NJ: Princeton University Press, 2000. ISBN: 9780691010182
+Optional	Andrews, Donald W. K. “Empirical Process Methods in Econometrics.” In Handbook of Econometrics. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: North-Holland Publishing Co., 1999, chapter 37, pp. 2247-2294. ISBN: 9780444887665
+Optional	Knight, Keith. “Epi-Convergence in Distribution and Stochastic Equi-semicontinuity.”
+Optional	Koenker, Roger, and Jungmo Yoon. “Parametric Links for Binary Choice Models.” Working Paper, Department of Economics, University of Illinois, Urbana-Champaign, 2006
+Optional	Pollard, David. “Asymptotics for Least Absolute Deviation Regression Estimators.” Econometric Theory 7, no. 2 (June 1991): 186-199
+Optional	Horowitz, Joel L. “The Bootstrap.” In Handbook of Econometrics. Vol. 5. Edited by James J. Heckman and Edward E. Leamer. Amsterdam, The Netherlands: North-Holland Publishing Co., 2001, chapter 52, pp. 3159-3228. ISBN: 9780444823403
+Optional	Koenker, Roger, and Kevin F. Hallock. “Quantile Regression.” The Journal of Economic Perspectives 15, no. 4 (2001): 143-156
+Optional	Buchinsky, Moshe. “Changes in the U.S. Wage Structure 1963-1987: Application of Quantile Regression.” Econometrica 62, no. 2 (March 1994): 405-458
+Optional	James L. Powell. “Least Absolute Deviations Estimation for the Censored Regression Model.” Journal of Econometrics 25, no. 3 (July 1984): 303-325
+Optional	Chernozhukov, Victor, and Han Hong. “An MCMC Approach to Classical Estimation.” Journal of Econometrics 115, no. 2 (August 2003): 293-346
+Optional	Haile, Philip A., and Elie Tamer. “Inference with an Incomplete Model of English Auctions.” Journal of Political Economy 111, no. 1 (February 2003): 1-51
+Required	Newey, W. K. “Generalized Method of Moments Specification Testing.” Journal of Econometrics 29 (1985): 229-256
+Required	Newey, W. K., and K. D. West. “Hypothesis Testing with Efficient Method of Moments Estimation.” International Economic Review 28 (1987): 777-787
+Optional	Hansen, L. P. “Large Sample Properties of Generalized Method of Moments Estimators.” Econometrica 50 (1982): 1029-1054
+Optional	Hansen, L. P., and K. J. Singleton. “Generalized Instrumental Variables Estimation of Nonlinear Rational Expectations Models.” Econometrica 50 (1982): 1269-1286
+Optional	Chamberlain, G. “Asymptotic Efficiency in Estimation with Conditional Moment Restrictions.” Journal of Econometrics 34 (1987): 305-334
+Optional	Altonji, J., and L. M. Segal. “Small Sample Bias in GMM Estimation of Covariance Structures.” Journal of Economic and Business Statistics 14 (1996): 353-366
+Optional	Hansen, L. P., J. Heaton, and A. Yaron. “Finite-Sample Properties of Some Alternative GMM Estimators.” Journal of Business and Economic Statistics 14 (1996): 262-280
+Optional	Donald, S. G., G. Imbens, and W. K. Newey. “Choosing Instruments in Conditional Moment Restriction Models.” Working Paper, Department of Economics, Massachusetts Institute of Technology, 2007
+Optional	Staiger, D., and J. Stock. “Instrumental Variables Regression with Weak Instruments.” Econometrica 65 (1997): 57-586
+Optional	Moreira, M. “A Conditional Likelihood Ratio Test for Structural Models.” Econometrica 71 (2003): 1027-1048
+Required	Newey, W. K., and R. J. Smith. “Higher-Order Properties of GMM and Generalized Empirical Likelihood Estimators.” Econometrica 72 (2004): 219-255
+Required	Donald, S. G., and W. K. Newey. “Choosing the Number of Instruments.” Econometrica 69 (2001): 1161-1191
+Required	Kleibergen, F. “Pivotal Statistics for Testing Structural Parameters in Instrumental Variables Regression.” Econometrica 70 (2002): 1781-1803
+Required	Andrews, D. W. K., and J. H. Stock. “Inference with Weak Instruments.” In Advances in Economics and Econometrics: Theory and Applications, Ninth World Congress. Vol. 3. Edited by Richard Blundell, Whitney K. Newey, and Torsten Persson. New York, NY: Cambridge University Press, 2007. ISBN: 9780521871549
+Required	Hansen, C., J. A. Hausman, and W. K. Newey. “Estimation with Many Instrumental Variables.” Forthcoming in the Journal of Business and Economic Statistics
+Optional	Bekker, P. A. “Alternative Approximations to the Distributions of Instrumental Variables Estimators.” Econometrica 63 (1994): 657-681
+Optional	Chao, J. C., and N. R. Swanson. “Consistent Estimation With a Large Number of Weak Instruments.” Econometrica 73 (2005): 1673-692
+Optional	Stock, J., and J. Wright. “GMM With Weak Identification.” Econometrica 68 (2000): 1055-1096
+Optional	Kleibergen, F. “Testing Parameters in GMM Without Assuming They are Identified.” Econometrica 73 (2005): 1103-1123
+Optional	Newey, W. K., and F. Windmeijer. “GMM Estimation with Many Weak Moment Conditions.” Working Paper, Department of Economics, Massachusetts Institute of Technology, 2007
+Required	Hausman, J. A., W. K. Newey, T. Woutersen, J. Chao, and N. Swanson. “Instrumental Variable Estimation with Heteroskedasticity and Many Instruments.” Working Paper, Department of Economics, Massachusetts Institute of Technology, 2007
+Required	Imbens, Guido, and Jeffrey Wooldridge. “Weak Instruments and Many Instruments.” Lecture 13, August 1, 2007, Summer Institute 2007: What’s New in Econometrics, National Bureau of Economic Research, Cambridge, MA, July 30 - August 1, 2007
+Required	Hardle, W., and O. Linton. “Applied Nonparametric Methods.” In Handbook of Econometrics. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: North-Holland Publishing Co., 1999, chapter 38, pp. 2296-2239. ISBN: 9780444887665
+Required	Deaton, A. “Rice Prices and Income Distribution in Rural Thailand: A Nonparametric Analysis.” Economic Journal 99, no. 395 supplement (1989): 1-37
+Required	Imbens, Guido, and Jeffrey Wooldridge. “Regression Discontinuity Designs.” Lecture 3, July 30, 2007, Summer Institute 2007: What’s New in Econometrics, National Bureau of Economic Research, Cambridge, MA, July 30 - August 1, 2007
+Optional	Newey, W. K. “Kernel Estimation of Partial Means and a General Variance Estimator.” Econometric Theory 10 (1994): 233-253
+Optional	“Convergence Rates and Asymptotic Normality for Series Estimators.” Journal of Econometrics 79 (1997): 147-168
+Optional	Powell, James. “Estimation of Semiparametric Models.” In Handbook of Econometrics. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: North-Holland Publishing Co., 1999, chapter 41, pp. 2443-2521. ISBN: 9780444887665
+Optional	Hausman, J., and W. K. Newey. “Nonparametric Estimation of Exact Consumer Surplus and Deadweight Loss.” Econometrica 63, no. 6 (November 1995): 1445-1476
+Optional	Newey, W. K. “Asymptotic Variance of Semiparametric Estimators.” Econometrica 62 (1994): 1349-1382
+Optional	Imbens, G. W., and J. D. Angrist. “Identification and Estimation of Local Average Treatment Effects.” Econometrica 62, no. 2 (March 1994): 467-475
+Optional	J. D. Angrist, G. W. Imbens, and D. Rubin. “Identification of Causal Effects Using Instrumental Variables.” Journal of the American Statistical Association 91, no. 434 (June 1996): 444-455
+Optional	Chamberlain, Gary. “Panel Data.” In Handbook of Econometrics. Vol. 2. Edited by Zvi Grilliches and Michael D. Intriligator. Amsterdam, The Netherlands: North-Holland Publishing Co., 1984, chapter 22, pp. 1247-1318. ISBN: 9780444861863
+Optional	Lancaster, T. “The Incidental Parameter Problem Since 1948.” Journal of Econometrics (2000): 391-413
+Optional	Arellano, Manuel, and Bo Honoré. “Panel Data Models: Some Recent Developments.” In Handbook of Econometrics. Vol. 5. Edited by James J. Heckman and Edward E. Leamer. Amsterdam, The Netherlands: North-Holland Publishing Co., 2001, chapter 53, pp. 3229-3296. ISBN: 9780444823403
+Optional	Honoré, B.E., and E. Tamer. “Bounds on Parameters in Dynamic Discrete Choice Models.” Econometrica 74, no. 3 (May 2006): 611-629
+Optional	Nevo, A. “Measuring Market Power in the Ready to Eat Breakfast Cereal Industry.” Econometrica 69 (2001): 307-342
+Optional	Hausman, J. A., and G. Leonard. “The Competitive Effects of a New Product Introduction: A Case Study.” Journal of Industrial Economics 50, no. 3 (2002): 237-263
+Required	Hahn, J., and W. Newey. “Jacknife and Analytical Bias Reduction for Nonlinear Panel Data Models.” Econometrica 72 (2004): 1295-1319
+Required	Berry, S., J. Levinsohn, and A. Pakes. “Automobile Prices in Market Equilibrium.” Econometrica 63 (1995): 841-890
+Optional	Ackerberg, Daniel, C. Lanier Benkard, Steven Berry, and Ariel Pakes. “Econometric Tools for Analyzing Market Outcomes.” In Handbook of Econometrics. Vol. 6. Part 1. Edited by James J. Heckman and Edward E. Leamer. Amsterdam, The Netherlands: North-Holland Publishing Co., 2005, chapter 63, pp. 4171-4276. ISBN: 9780444506313
+Optional	Blomquist, S., and W. K. Newey. “Nonparametric Estimation with Nonlinear Budget Sets.” Econometrica 70 (2002): 2455-2480

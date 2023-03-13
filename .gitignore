@@ -1,3 +1,3 @@
-data/concat/*
 data/raw/*
+data/concat/*
 data/mit_ocw_courses.json

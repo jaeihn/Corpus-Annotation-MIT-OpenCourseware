@@ -1,0 +1,4 @@
+Optional	[{:family=>"Strang", :given=>"Gilbert"}]	["Introduction to Linear Algebra"]			["2016"]
+Optional	[{:family=>"Strang", :given=>"Gilbert"}]	["Linear Algebra and Learning from Data"]			["2019"]
+Optional	[{:family=>"Strang", :given=>"Gilbert"}]	["Linear Algebra for Everyone"]			["2020"]
+Required	[{:family=>"Strang", :given=>"Gilbert"}]	["Differential Equations and Linear Algebra"]			["2014"]

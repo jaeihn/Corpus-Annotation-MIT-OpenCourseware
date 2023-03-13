@@ -1,0 +1,36 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Koo"", :given=>""Richard C.""}]"	The Holy Grail of Macroeconomics: Lessons from Japan’s Great Recession			2009	both	Required
+"[{:family=>""Morris"", :given=>""Charles R.""}]"	The Two Trillion Dollar Meltdown: Easy Money			2009	both	Required
+"[{:family=>""Taylor"", :given=>""John B.""}]"	Getting off Track: How Government Actions and Interventions Caused			2009	both	Required
+"[{:family=>""Temin"", :given=>""Peter""}]"	Lessons from the Great Depression			1991	both	Required
+"[{:family=>""Crafts"", :given=>""Nicholas""}, {:family=>""Toniolo"", :given=>""Gianni""}]"	Economic Growth in Europe since 1945			1996	both	Required
+"[{:family=>""Goldin"", :given=>""Claudia""}, {:family=>""Katz"", :given=>""Lawrence F.""}]"	The Race between Education and Technology			2008	both	Required
+"[{:family=>""Kindleberger"", :given=>""Charles P.""}, {:family=>""Laffargue"", :given=>""Jean-Pierre""}]"	Financial Crises: Theory			1982	both	Required
+"[{:family=>""Bartels"", :given=>""Larry M.""}]"	Unequal Democracy: The Political Economy of the New Gilded Age			2008	both	Required
+"[{:family=>""Duncan-Jones"", :given=>""Richard""}]"	Money and Government in the Roman Empire			1998	both	Required
+"[{:family=>""Krugman"", :given=>""Paul""}]"	How Did Economists Get It So Wrong?	article-journal	New York Times Sunday Magazine	2009-09-06	both	Required
+"[{:family=>""Minsky"", :given=>""Hyman P.""}]"	The Financial-Instability Hypothesis: Capitalist Processes and the Behavior of the Economy	chapter	Chapter 2 in Financial Crises: Theory	1982	both	Required
+"[{:family=>""Krugman"", :given=>""Paul""}]"	A Model of Balance-of-Payments Crises	article-journal	Journal of Money	1979-08	both	Required
+"[{:family=>""Temin"", :given=>""Peter""}]"	The Anglo-American Business Cycle	article-journal	Economic History Review	1974-05	both	Required
+"[{:family=>""Calomiris"", :given=>""Charles W.""}]"	Is Deposit Insurance Necessary? A Historical Perspective	article-journal	Journal of Economic History	1990-06	both	Required
+"[{:family=>""Temin"", :given=>""Peter""}]"	Free Land and Federalism: A Synoptic View of American Economic History	article-journal	Journal of Interdisciplinary History	1991	both	Required
+"[{:family=>""Voth"", :given=>""Hans-Joachim""}]"	South Sea Bubble	chapter	New Palgrave Dictionary of Economics	2008	both	Required
+"[{:family=>""Temin"", :given=>""Peter""}, {:family=>""Voth"", :given=>""Hans-Joachim""}]"	Riding the South Sea Bubble	article-journal	American Economic Review	2004-12	both	Required
+"[{:family=>""Reinhart"", :given=>""Carmen M.""}, {:family=>""Rogoff"", :given=>""Kenneth S.""}]"	Banking Crises: An Equal Opportunity Menace	article-journal	National Bureau of Economic Research Working Paper	2008-12	both	Required
+"[{:family=>""Temin"", :given=>""Peter""}]"	The German Crisis of 1931: Evidence and Tradition	article-journal	Cliometrica	2008	both	Required
+"[{:family=>""Temin"", :given=>""Peter""}, {:family=>""Kehoe’s"", :given=>""Timothy J.""}, {:family=>""C"", :given=>""Edward""}]"	Real Business Cycle Views of the Great Depression and Recent Events: A Review of	article-journal	Journal of Economic Literature	2008-09	both	Required
+"[{:family=>""Temin"", :given=>""Peter""}]"	Corrigendum	article-journal	Journal of Economic Literature	2009-03	both	Required
+"[{:family=>""Cole"", :given=>""Harold L.""}, {:family=>""Ohanian"", :given=>""Lee E.""}]"	New Deal Policies and the Persistence of the Great Depression: A General Equilibrium Analysis	article-journal	Journal of Political Economy	2004	both	Required
+"[{:family=>""Brown"", :given=>""E.Cary""}]"	Fiscal Policy in the ‘Thirties: A Reappraisal	article-journal	American Economic Review	1956-12	both	Required
+"[{:family=>""Krugman"", :given=>""Paul""}]"	Misguided Monetary Mentalities	article-journal	Op-Ed	2009-10-12	both	Required
+"[{:family=>""Eichengreen"", :given=>""Barry""}]"	Institutions and Economic Growth: Europe After World War II	chapter	Chapter 2 in Economic Growth in Europe since 1945	1996	both	Required
+"[{:family=>""Temin"", :given=>""Peter""}]"	The Golden Age of Economic Growth Reconsidered	article-journal	European Review of Economic History	2002-04	both	Required
+"[{:family=>""Bartels"", :given=>""Larry M.""}]"	The Partisan Political Economy.” Chapter 2 in Unequal Democracy: The Political Economy of the New Gilded Age			2008	both	Required
+"[{:family=>""Goldin"", :given=>""Claudia""}, {:family=>""Katz"", :given=>""Lawrence F.""}]"	The Race between Education and Technology	chapter	Chapter 8 in The Race between Education and Technology	2008	both	Required
+"[{:family=>""Levy"", :given=>""Frank""}, {:family=>""Temin"", :given=>""Peter""}]"	Inequality and Institutions in 20th Century America	article-journal	Also available as National Bureau of Economic Research Working Paper	2007-05	both	Required
+"[{:family=>""Blanchard"", :given=>""Olivier J.""}, {:family=>""Gali"", :given=>""Jordi""}]"	The Macroeconomics of Oil Shocks: Why are the 2000s So Different from the 1970s?	chapter	International Dimensions of Monetary Policy	2010	both	Required
+"[{:family=>""Krugman"", :given=>""Paul""}, {:family=>""Dominquez"", :given=>""Kathryn M.""}, {:family=>""Rogoff"", :given=>""Kenneth""}]"	It’s Baaack: Japan’s Slump and the Return of the Liquidity Trap	article-journal	Brookings Papers on Economic Activity	1998	both	Required
+"[{:family=>""Coval"", :given=>""Joshua""}, {:family=>""Jurek"", :given=>""Jakob""}, {:family=>""Stafford"", :given=>""Erik""}]"	The Economics of Structured Finance	article-journal	Journal of Economic Perspectives	2009	both	Required
+"[{:family=>""Cecchetti"", :given=>""Stephen G.""}]"	Crisis and Responses: The Federal Reserve in the Early Stages of the Financial Crisis	article-journal	Journal of Economic Perspectives	2009	both	Required
+"[{:family=>""Mishkin"", :given=>""Frederick""}]"	Is Monetary Policy Effective during Financial Crises?	article-journal	American Economic Review	2009-05	both	Required
+"[{:family=>""Johnson"", :given=>""Simon""}]"	The Quiet Coup	article-journal	The Atlantic	2009-05	both	Required

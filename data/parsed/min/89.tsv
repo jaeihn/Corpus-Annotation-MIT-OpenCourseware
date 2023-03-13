@@ -1,0 +1,7 @@
+Required	[{:family=>"Knowles", :given=>"J.K."}]	["Linear Vector Spaces and Cartesian Tensors"]			["1998"]
+Required	[{:family=>"Abeyaratne", :given=>"Rohan"}]	["A Brief Review of Some Mathematical Preliminaries"]	chapter	["Lecture Notes on the Mechanics of Elastic Solids"]	
+Optional	[{:family=>"Gel’fand", :given=>"I.M."}]	["Lectures on Linear Algebra"]			["1989"]
+Optional	[{:family=>"Halmos", :given=>"P.R."}]	["Finite Dimensional Vector Spaces"]			["1958"]
+Optional	[{:family=>"Gel’fand", :given=>"I.M."}, {:family=>"Fomin", :given=>"S.V."}]	["Calculus of Variations"]	book		["1963"]
+Optional	[{:family=>"Giaquinta", :given=>"M."}, {:family=>"Hilderbrandt", :given=>"S."}]	["Calculus of Variations I"]			["1996"]
+Optional	[{:family=>"Troutman", :given=>"J.L."}]	["Variational Calculus with Elementary Convexity"]			["1983"]

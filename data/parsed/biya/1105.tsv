@@ -1,0 +1,13 @@
+Required	[{:family=>"Baker", :given=>"Kenneth R."}]	["Optimization: A Spreadsheet-Based Approach"]	book		["2003"]
+Optional		["Introduction to Mathematical Programming"]			["1995"]
+Optional	[{:family=>"Science", :given=>"Practical Management"}, {:family=>"W. L. Winston", :particle=>"by"}, {:family=>"Albright", :given=>"S.C."}, {:given=>"Duxbury"}]				["2001"]
+Optional		["The Science of Decision Making, by E"]	book		["2002"]
+Optional	[{:given=>"Data"}]	["Models, and Decisions: The Fundamentals of Management Science"]	book		["2000"]
+Required	[{:family=>"Case", :given=>"Red Brand"}, {:family=>"Wilson", :given=>"Robert B."}]	["Red Brand Canners"]			["1965"]
+Required	[{:family=>"Example", :given=>"Polaroid"}]	["Tactical Shipping and Scheduling at Polaroid with Dual Lead-Times - Paper courtesy of Kermit Threatte and Stephen C"]	article-journal	["Graves"]	["2001-10"]
+Required	[{:family=>"D."}, {:family=>"Freund", :given=>"R."}]	["Filatoi Riuniti Case: at the end of Chapter 7 in Bertsimas", "Data Models, and Decisions: The Fundamentals of Management Science"]	book		["2000"]
+Required	[{:given=>"Graves"}]	["Ford Case: Carmelo Anthony Palumbo under the direction of Stephen C", "Ford Pan-European Durable Containers"]	book		["2002"]
+Required	[{:family=>"Case", :given=>"Red Brand"}, {:family=>"Wilson", :given=>"Robert B."}]	["Red Brand Canners (B"]			["1965"]
+Required	[{:family=>"D."}, {:family=>"Freund", :given=>"R."}]	["Ontario Gateway: at the end of Chapter 5 in Bertsimas", "Data Models, and Decisions: The Fundamentals of Management Science"]	book		["2000"]
+Required		["Discrete-Event Case: Human Genome Project - Paper courtesy of Jérémie Gallien and Scott A"]			["2003"]
+Required	[{:family=>"DeWitt", :given=>"Charles"}]	["Apollo Paper Company case study"]	manuscript		

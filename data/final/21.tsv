@@ -1,0 +1,13 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Lippman"", :given=>""S.""}, {:family=>""Primer"", :given=>""J.Lajoie C.++""}]"				1998-04	both	Required
+"[{:family=>""Sedgewick"", :given=>""R.""}]"	Algorithms in C++			2001-06	both	Required
+"[{:family=>""Campione"", :given=>""M.""}, {:family=>""Walrath"", :given=>""K.""}, {:family=>""Huml"", :given=>""A.""}]"	The Java® Tutorial			1999-12	both	Required
+"[{:family=>""Deitel"", :given=>""H.""}, {:family=>""Deitel"", :given=>""P.""}]"	C++ How to Program			2002-08	both	Optional
+"[{:family=>""Stroustrup"", :given=>""B.""}]"	The C++ Programming Language				both	Optional
+"[{:given=>""Johnsonbaugh""}, {:given=>""Kalin""}]"	Object Oriented Programming in C++			1999-08	both	Optional
+"[{:family=>""Cline"", :given=>""M.""}, {:family=>""Girou"", :given=>""M.""}, {:family=>""Lomow"", :given=>""G.""}]"	C++ FAQs			1998-12	both	Optional
+"[{:family=>""Weiss"", :given=>""M.Algorithms""}]"	Data Structures and Problem Solving with C++			1999-11	both	Optional
+"[{:family=>""Cormen"", :given=>""T.""}, {:family=>""Leiserson"", :given=>""C.""}, {:family=>""Rivest"", :given=>""R.""}]"	Introduction to Algorithms			2001-09	both	Optional
+"[{:family=>""Horstmann"", :given=>""C.""}, {:family=>""Cornell"", :given=>""G.""}]"	Core Java® 2: Fundamentals			2002-08	both	Optional
+"[{:family=>""Arnold"", :given=>""K.""}, {:family=>""Gosling"", :given=>""J.""}, {:family=>""Holmes"", :given=>""D.""}]"	The Java® Programming Language			2000-06	both	Optional
+"[{:family=>""Deitel"", :given=>""H.""}, {:family=>""Deitel"", :given=>""P.""}]"	Java® How to Program			2001-08	both	Optional

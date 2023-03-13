@@ -1,0 +1,8 @@
+Required	Bertsekas, Dimitri P. Dynamic Programming and Optimal Control. 2 vols. Belmont, MA: Athena Scientific, 2007. ISBN: 9781886529083.
+Required	Bertsekas, Dimitri P., and John N. Tsitsiklis. Neuro-Dynamic Programming. Belmont, MA: Athena Scientific, 1996. ISBN: 9781886529106.
+Required	Kearns, M. , and S. Singh. “Near-Optional Reinforcement Learning in Polynomial Time.” Machine Learning 49, no. 2 (Nov 2002): 209-232.
+Required	Hastie, Tibshirani, and Friedmann. Chapter 7 in The Elements of Statistical Learning. New York: Springer, 2003. ISBN: 9780387952840.
+Required	de Farias, D. P., and B. Van Roy. “On the Existence of Fixed Points for Approximate Value Iteration and Temporal-Difference Learning.”
+Optional	Even-Dar, and Mansour. “Learning Rates for Q-Learning.’’ Journal of Machine Learning Research 5 (2003): 1-25.
+Optional	Barron. “Universal approximation bounds for superpositions of a sigmoidal function.” IEEE Transactions on Information Theory 39 (1993): 930-944.
+Optional	Tesauro. “Temporal-Difference Learning and TD-Gammon’’ Communications of the ACM 38, no. 3 (1995).

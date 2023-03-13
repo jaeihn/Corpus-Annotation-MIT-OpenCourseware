@@ -1,0 +1,8 @@
+Required	[{:family=>"Bertsekas", :given=>"Dimitri P."}]	["Dynamic Programming and Optimal Control"]			["2007"]
+Required	[{:family=>"Bertsekas", :given=>"Dimitri P."}, {:family=>"Tsitsiklis", :given=>"John N."}]	["Neuro-Dynamic Programming"]			["1996"]
+Required	[{:family=>"Kearns", :given=>"M."}, {:family=>"Singh", :given=>"S."}]	["Near-Optional Reinforcement Learning in Polynomial Time"]	article-journal	["Machine Learning"]	["2002-11"]
+Required	[{:family=>"Hastie", :given=>"Tibshirani"}, {:given=>"Friedmann"}]	["Chapter 7 in The Elements of Statistical Learning"]			["2003"]
+Required	[{:family=>"Farias", :given=>"D.P.", :particle=>"de"}, {:family=>"Roy", :given=>"B.", :particle=>"Van"}]	["On the Existence of Fixed Points for Approximate Value Iteration and Temporal-Difference Learning"]			
+Optional	[{:family=>"Even-Dar"}, {:given=>"Mansour"}]	["Learning Rates for Q-Learning.’"]	article-journal	["Journal of Machine Learning Research"]	["2003"]
+Optional	[{:given=>"Barron"}]	["Universal approximation bounds for superpositions of a sigmoidal function"]	article-journal	["IEEE Transactions on Information Theory"]	["1993"]
+Optional	[{:given=>"Tesauro"}]	["Temporal-Difference Learning and TD-Gammon’"]	article-journal	["Communications of the ACM"]	["1995"]

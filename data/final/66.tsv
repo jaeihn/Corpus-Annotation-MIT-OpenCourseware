@@ -1,0 +1,6 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Lardner"", :given=>""T.J.""}, {:family=>""Archer"", :given=>""R.R.""}, {:family=>""Crandall"", :given=>""S.H.""}, {:family=>""Dahl"", :given=>""N.C.""}]"	An Introduction to the Mechanics of Solids			1999	both	Required
+"[{:family=>""Dowling"", :given=>""N.E.""}]"	Mechanical Behavior of Materials			1998	both	Optional
+"[{:family=>""Ashby"", :given=>""M.F.""}, {:family=>""Jones"", :given=>""D.R.H.""}]"	Engineering Materials 1: An Introduction to their Properties and Applications			1996	both	Optional
+"[{:family=>""Pratap"", :given=>""Rudra""}]"	Getting Started with MATLAB®			2001	both	Optional
+"[{:family=>""Bowman"", :given=>""Keith""}]"	Mechanical Behavior of Materials			2003	both	Optional

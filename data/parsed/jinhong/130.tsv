@@ -1,0 +1,3 @@
+Required	[{:family=>"Woud", :given=>"Hans Klein"}, {:family=>"Stapersma", :given=>"Douwe"}]	["Design of Propulsion and Electric Power Generation Systems"]			["2002"]
+Optional	[{:family=>"Lewis", :given=>"Edward V."}]	["Resistance and Propulsion"]	article-journal	["Principles of Naval Architecture"]	["1988"]
+Optional	[{:family=>"Wylen", :particle=>"Van"}, {:family=>"J.", :given=>"Gordon"}, {:family=>"Sonntag", :given=>"Richard E."}]	["Fundamentals of Classical Thermodynamics"]			["1973"]

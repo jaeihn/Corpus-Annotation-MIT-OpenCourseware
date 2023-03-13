@@ -1,0 +1,7 @@
+Required	[{:family=>"Gibbons", :given=>"Robert"}]	["Game Theory for Applied Economists"]			["1992"]
+Optional	[{:family=>"Dutta", :given=>"Prajit"}]	["Strategies and Games: Theory and Practice"]			["1999"]
+Optional	[{:family=>"Watson", :given=>"Joel"}]	["Strategy: An Introduction to Game Theory"]			["2007"]
+Optional	[{:family=>"Kreps", :given=>"David"}]	["A Course in Microeconomic Theory"]			["1990"]
+Optional	[{:family=>"Fudenberg", :given=>"Drew"}, {:family=>"Tirole", :given=>"Jean"}]	["Game Theory"]			["1991"]
+Optional	[{:family=>"Osborne", :given=>"Martin"}, {:family=>"Rubinstein", :given=>"Ariel"}]	["A Course in Game Theory"]			["1994"]
+Optional	[{:family=>"Dixit", :given=>"Avinash"}, {:family=>"Sekeath", :given=>"Susan"}]	["Games of Strategy"]			["2009"]

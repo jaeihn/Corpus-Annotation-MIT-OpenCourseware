@@ -1,0 +1,45 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Acemoglu"", :given=>""Daron""}, {:family=>""Ozdaglar"", :given=>""Asuman""}, {:family=>""Tahbaz-Salehi"", :given=>""Alireza""}]"	Systemic Risk and Stability in Financial Networks	article-journal	American Economic Review	2015	left_only	Optional
+"[{:family=>""Elliott"", :given=>""Matthew""}, {:family=>""Golub"", :given=>""Benjamin""}, {:family=>""Jackson"", :given=>""Matthew""}]"	Financial Networks and Contagion	article-journal	American Economic Review	2015	left_only	Optional
+"[{:family=>""Farboodi"", :given=>""Maryam""}]"	Intermediation and Voluntary Exposure to Counterparty Risk	book		2014	left_only	Optional
+"[{:family=>""Golub"", :given=>""Benjamin""}, {:family=>""Jackson"", :given=>""Matthew""}]"	How Homophily Affects the Speed of Learning and Best-Response Dynamics	article-journal	Q J Econ	2012	left_only	Optional
+"[{:family=>""Acegmolu"", :given=>""Daron""}, {:others=>true}]"	The Network Origins of Aggregate Fluctuations	article-journal	Econometrica	2012	left_only	Optional
+"[{:family=>""Baqaee"", :given=>""David""}]"	Cascading Failures in Production Networks			2016	left_only	Optional
+"[{:family=>""Oberfeld"", :given=>""Ezra""}]"	A Theory of Input-Output Architecture	article-journal	Econometrica	2018	left_only	Optional
+"[{:family=>""Drakopoulos"", :given=>""Kimon""}, {:family=>""Ozdaglar"", :given=>""Asuman""}, {:family=>""Tsitsiklis"", :given=>""John""}]"	When Is a Network Epidemic Hard to Eliminate?	article-journal	Mathematics of Operations Research	2017	left_only	Required
+"[{:family=>""Steele"", :given=>""Patrick Robert""}]"	Understanding and Minimizing Flight Delay	book		2010	left_only	Required
+"[{:family=>""Berger"", :given=>""Jonah""}, {:family=>""Milkman"", :given=>""Katherine""}]"	What Makes Online Content Viral?	chapter	SSRN	2009	left_only	Required
+"[{:family=>""Khosla"", :given=>""Aditya""}, {:family=>""Sarma"", :given=>""Atish Das""}, {:family=>""Hamid"", :given=>""Raffay""}]"	What Makes an Image Popular?			2014	left_only	Required
+"[{:family=>""Youn"", :given=>""Hyejin""}, {:family=>""Gastner"", :given=>""Michael""}, {:family=>""Jeong"", :given=>""Hawoong""}]"	Price of Anarchy in Transportation Networks: Efficiency and Optimality Control	article-journal	Physical Review Letters	2010	left_only	Required
+"[{:family=>""Tomassini"", :given=>""Marco""}, {:family=>""Pestelacci"", :given=>""Enea""}]"	Coordination Games on Dynamical Networks	chapter	Games	2010	left_only	Required
+"[{:family=>""Negahban"", :given=>""Sahand""}, {:family=>""Oh"", :given=>""Sewoong""}, {:family=>""Shah"", :given=>""Devavrat""}]"	Rank Centrality: Ranking from Pairwise Companions	article-journal	Operations Research	2017	left_only	Required
+"[{:family=>""Granger"", :given=>""Clive""}]"	Investigating Causal Relations by Econometric Models and Cross-spectral Methods	article-journal	Econometrica	1969	left_only	Required
+"[{:family=>""Barabasi"", :given=>""Albert-Laszlo""}]"	Linked: How Everything Is Linked to Everything Else and What It Means for Business			2014	both	Optional
+"[{:family=>""Schelling"", :given=>""Thomas Micromotives""}, {:family=>""Norton"", :given=>""Macrobehavior W.W.""}, {:given=>""Co""}]"				2006	left_only	Optional
+"[{:family=>""Bramoullé"", :given=>""Yann""}, {:family=>""Kranton"", :given=>""Rachel""}, {:family=>""D’Amours"", :given=>""Martin""}]"	Strategic Interaction and Networks	article-journal	American Economic Review	2014	both	Optional
+"[{:family=>""Ballester"", :given=>""Coralio""}, {:family=>""Calvó-Armengol"", :given=>""Antoni""}, {:family=>""Zenou"", :given=>""Yves""}]"	Who’s Who in Networks	book		2005	both	Optional
+"[{:family=>""Candogan"", :given=>""Ozan""}, {:family=>""Bimpikis"", :given=>""Kostas""}, {:family=>""Ozdaglar"", :given=>""Asuman""}]"	Optimal Pricing in Networks with Externalities	article-journal	Operations Research	2012	both	Optional
+"[{:family=>""Mihai"", :given=>""Manea""}]"	Bargaining in Stationary Networks	article-journal	American Economic Review	2011	both	Optional
+"[{:family=>""Acemoglu"", :given=>""Daron""}, {:family=>""Carvalho"", :given=>""Vasco""}, {:others=>true}]"	The Network Origins of Aggregate Fluctuations	article-journal	Econometrica	2012	both	Optional
+"[{:family=>""Parker"", :given=>""Gregory""}, {:family=>""Alstyne"", :given=>""Marshall"", :particle=>""Van""}, {:family=>""Choudary"", :given=>""Sangeet""}]"	Platform Revolution: How Networked Markets are Transforming the Economy and How to Make Them Work for You			2016	both	Optional
+"[{:family=>""Evans"", :given=>""David""}, {:family=>""Schmalensee"", :given=>""Richard""}]"	The Matchmakers: The New Economics of Multisided Platforms Harvard	article-journal	Business Review Press	2016	both	Optional
+"[{:family=>""Gladwell"", :given=>""Malcolm""}]"	The Tipping Point: How Little Things Can Make a Big Difference			2002	both	Optional
+"[{:family=>""Goyal"", :given=>""Sanjeev""}]"	Connections: An Introduction to the Economics of Networks			2009	both	Optional
+"[{:family=>""Golub"", :given=>""Ben""}, {:family=>""Sadler"", :given=>""Evan""}]"	Learning in Social Networks	chapter	The Oxford Handbook of the Economics of Networks	2016	both	Optional
+"[{:family=>""Acemoglu"", :given=>""Daron""}, {:family=>""Dahleh"", :given=>""Munther""}, {:others=>true}]"	Bayesian Learning in Social Networks	article-journal	Review of Economic Studies	2011	both	Optional
+"[{:family=>""Golub"", :given=>""Benjamin""}, {:family=>""Jackson"", :given=>""Matthew""}]"	Naïve Learning in Social Networks and the Wisdom of Crowds	article-journal	Microeconomics	2010	both	Optional
+"[{:family=>""Surowiecki"", :given=>""James""}]"	The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Sharpens Business	article-journal	Economies	2005	both	Optional
+"[{:family=>""Jackson"", :given=>""Matthew""}]"	Social and Economic Networks			2010	both	Optional
+"[{:family=>""Barabasi"", :given=>""Albert-Laszlo""}]"	Network Science			2016	both	Optional
+		chapter	The Oxford Handbook of the Economics of Networks	2016	both	Optional
+"[{:family=>""Osborne"", :given=>""Martin""}]"	Introduction to Game Theory			2003	both	Optional
+"[{:family=>""Gibbons"", :given=>""Robert""}]"	Game Theory for Applied Economists			1992	both	Optional
+"[{:family=>""Pentland"", :given=>""Alex""}]"	Social Physics: How Social Networks Can Make Us Smarter			2015	both	Optional
+"[{:family=>""Christakis"", :given=>""Nicholas""}, {:family=>""Fowler"", :given=>""James""}]"	Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives			2011	both	Optional
+"[{:family=>""Watts"", :given=>""Duncan""}]"	Everything Is Obvious: How Common Sense Fails Us			2012	both	Optional
+"[{:family=>""Luenberger"", :given=>""David""}]"	Introduction to Dynamic Systems: Theory			1979	both	Optional
+"[{:family=>""Bertsekas"", :given=>""Dimitri""}, {:family=>""Tsitsiklis"", :given=>""John""}]"	Introduction to Probability	article-journal	Athena Scientic	2008	both	Optional
+"[{:family=>""Newman"", :given=>""Mark""}]"	Networks: An Introduction			2010	both	Required
+"[{:family=>""Easley"", :given=>""David""}, {:family=>""Kleinberg"", :given=>""Jon""}]"	Networks			2010	both	Optional
+"[{:family=>""Schelling"", :given=>""Thomas""}]"	Micromotives and Macrobehavior			2006	right_only	Optional
+"[{:family=>""Surowiecki"", :given=>""James""}]"	The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Sharpens Business	article-journal	Anchor	2005	right_only	Optional

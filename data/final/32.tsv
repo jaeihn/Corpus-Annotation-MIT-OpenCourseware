@@ -1,0 +1,10 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Grier"", :given=>""Nathaniel""}]"	Formulating a Mathematical Program: An Overview	chapter	2001		both	Required
+"[{:family=>""Blais"", :given=>""J.Y.""}, {:family=>""Lamont"", :given=>""J.""}, {:family=>""Rousseau"", :given=>""J.M.""}]"	The HASTUS Vehicle and Manpower Scheduling System at the Societe de transport de la Communaute urbaine de Montreal	article-journal	Interfaces	1990	both	Required
+"[{:literal=>""Odoni, A. R., J. -M. Rousseau, and N. H. M. Wilson.""}]"	Models in Urban and Air Transportation.” Chapter 5 in Operations Research and the Public Sector			1994	left_only	Required
+"[{:family=>""Shen"", :given=>""S.""}]"	Vehicle and Crew Scheduling			2000	both	Required
+"[{:family=>""Barnhart"", :given=>""C.""}, {:family=>""Cohn"", :given=>""A.M.""}, {:family=>""Johnson"", :given=>""E.L.""}, {:family=>""Klabjan"", :given=>""D.""}, {:family=>""Nemhauser"", :given=>""G.L.""}, {:family=>""Vance"", :given=>""P.H.""}]"	Airline Crew Scheduling	chapter	Handbook of Transportation Science	2001-11	both	Required
+"[{:family=>""Cohn"", :given=>""A.""}]"	Making the Trade-off Between Optimality and Tractability When Solving Large Transportation Models: A Case Study on the Airline Industry	chapter	2000		both	Required
+"[{:family=>""Bradley"", :given=>""S.P.""}, {:family=>""Hax"", :given=>""A.C.""}, {:family=>""Magnanti"", :given=>""T.L.""}]"	Applied Mathematical Programming			1977	both	Optional
+"[{:family=>""Winston"", :given=>""W.L.""}]"	Operations Research: Applications and Algorithms			1994	both	Optional
+"[{:literal=>""Odoni, A. R., J. -M. Rousseau, and N. H. M. Wilson.""}]"	Models in Urban and Air Transportation.” Chapter 5 in Operations Research and the Public Sector	article-journal	Handbooks in Operations Research and Management Science	1994	right_only	Required

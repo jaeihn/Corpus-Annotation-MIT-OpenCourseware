@@ -1,0 +1,5 @@
+Required	[{:family=>"Kundu", :given=>"P.K."}, {:family=>"Cohen", :given=>"I.M."}]	["Fluid Mechanics"]			["2004"]
+Required	[{:family=>"Cushman-Roisin", :given=>"B."}]	["Introduction to Geophysical Fluid Dynamics"]			["1994"]
+Optional	[{:family=>"Gill", :given=>"A.E."}]	["Atmosphere-Ocean Dynamics"]			["1982"]
+Optional	[{:family=>"Tritton", :given=>"D.J."}]	["Physical Fluid Dynamics"]			["1988"]
+Optional	[{:family=>"Holton", :given=>"J.R."}]	["An Introduction to Dynamic Meteorology"]			["1992"]
