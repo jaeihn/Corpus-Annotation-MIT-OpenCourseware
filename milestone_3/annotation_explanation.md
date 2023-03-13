@@ -37,7 +37,7 @@ Therefore, there were two annotator pairs in our project:
 | Biya-Jae | 1000 - 1090 | 90 | 
 | Min-Jinhong | 0 - 131 | 131 | 
 
-These matching courses will be the basis of our [Interannotator Agreement Study](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/tree/master/milestone_2/interannotator_agreement_study.ipynb).
+These matching courses will be the basis of our [Interannotator Agreement Study](https://github.ubc.ca/MDS-CL-2022-23/COLX523_BiyaIvanJaeJessieMin/blob/master/milestone_3/interannotator_agreement_study.ipynb).
 
 -------
 
