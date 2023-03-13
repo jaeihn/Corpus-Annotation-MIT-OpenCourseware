@@ -1,0 +1,1195 @@
+category	author	title	type	collection	year	course
+Optional	"[{:family=>""Mara"", :given=>""D.""}]"	Domestic Wastewater Treatment in Developing Countries			2003	58
+Optional	"[{:family=>""Viessman"", :given=>""W."", :suffix=>""Jr.""}, {:family=>""Hammer"", :given=>""M.J.""}]"	Water Supply and Pollution Control			2005	58
+Optional	"[{:family=>""Tchobanoglous"", :given=>""G.""}, {:family=>""Burton"", :given=>""F.L.""}, {:family=>""Stensel"", :given=>""H.D.""}]"	Wastewater Engineering: Treatment and Reuse			2003	58
+Optional	"[{:family=>""Staff"", :given=>""M.W.H.""}]"	Water Treatment: Principles and Design			2005	58
+Required	"[{:family=>""Williams"", :given=>""J.H."", :suffix=>""Jr""}]"	Fundamentals of Applied Dynamics			2006	70
+Optional	"[{:family=>""Meriam"", :given=>""J.L.""}, {:family=>""Kraige"", :given=>""L.G.""}]"	Engineering Mechanics: Dynamics			2001	70
+Optional	"[{:family=>""Hibbeler"", :given=>""Russell C.""}]"	Engineering Mechanics: Dynamics			2009	71
+Optional	"[{:family=>""Williams"", :given=>""J.""}]"	Fundamentals of Applied Dynamics			1995	71
+Required	"[{:family=>""Hibbeler"", :given=>""R.C.""}]"	Mechanics of Materials			2004	65
+Optional	"[{:family=>""Crandall"", :given=>""S.H.""}, {:family=>""Dahl"", :given=>""N.C.""}, {:family=>""Lardner"", :given=>""T.J.""}]"	An Introduction to the Mechanics of Solids			1979	65
+Required	"[{:family=>""Madigan"", :given=>""M.""}, {:family=>""Martinko"", :given=>""J.""}, {:family=>""Parker"", :given=>""J.""}]"	Brock Biology of Microorganisms			2002	59
+Required	"[{:family=>""book"", :given=>""The"", :particle=>""draft of the""}, {:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	System and Project Management	chapter	MIT/Prentice Hall Textbook Series on Civil		9
+Required	"[{:family=>""Hendrickson"", :given=>""Chris""}]"	Project Management for Construction				9
+Required	"[{:family=>""O’Leary""}, {:given=>""Acret""}]"	Construction Nightmares	book		2001	9
+Required	"[{:family=>""Hendrickson"", :given=>""Chris""}]"	Chapter 1 in Project Management for Construction				9
+Required	"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	Engineering Economy with Uncertainity	chapter	System and Project Management. MIT/Prentice Hall Textbook Series on Civil		9
+Required	"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	Estimating	chapter	System and Project Management. MIT/Prentice Hall Textbook Series on Civil		9
+Required	"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	Project Planning	chapter	System and Project Management. MIT/Prentice Hall Textbook Series on Civil		9
+Required	"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	Performance Analysis	chapter	System and Project Management. MIT/Prentice Hall Textbook Series on Civil		9
+Required	"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	Control Actions	chapter	System and Project Management. MIT/Prentice Hall Textbook Series on Civil		9
+Required	"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	Project Dynamics	chapter	System and Project Management. MIT/Prentice Hall Textbook Series on Civil		9
+Required	"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	Project Reviews	chapter	System and Project Management. MIT/Prentice Hall Textbook Series on Civil		9
+Required	"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	Project Closeout	chapter	System and Project Management. MIT/Prentice Hall Textbook Series on Civil		9
+Optional	"[{:family=>""Schtub"", :given=>""A.""}, {:family=>""Bard"", :given=>""J.""}, {:family=>""Globerson"", :given=>""S.""}]"	Project Management: Engineering Technology			1994	9
+Optional	"[{:family=>""Iansiti"", :given=>""M.""}, {:family=>""MacCormack"", :given=>""A.""}]"	Developing Products on Internet Time			1997	9
+Optional	"[{:family=>""al"", :given=>""Ward"", :particle=>""et.""}]"	The Second Toyota Paradox: How Delaying Decisions Can Make Better Cars Faster	article-journal	Sloan Management Review	1995	9
+Optional	"[{:family=>""Henderson"", :given=>""R.""}]"	Managing Innovation in the Information Age	article-journal	Harvard Business Review	1994	9
+Optional	"[{:family=>""Hameri"", :given=>""A.P.""}, {:family=>""Nihtila"", :given=>""J.""}]"	Distributed New Product Development Project Based on Internet and World-Wide Web	article-journal	Journal of Production Innovation & Management	1997	9
+Optional	"[{:family=>""Chambers"", :given=>""C.A.""}]"	Transforming New Product Development	article-journal	Research-Technology Management	1996-11	9
+Optional	"[{:family=>""Thamhain"", :given=>""H.""}]"	Engineering Management			1992	9
+Optional	"[{:family=>""Schtub"", :given=>""A.""}, {:family=>""Bard"", :given=>""J.""}, {:family=>""Globerson"", :given=>""S.""}]"	Chapter 10 in Project Management: Engineering Technology			1994	9
+Optional	"[{:family=>""Suh"", :given=>""N.""}]"	Chapters 4 and 6 in Principles of Design			1990	9
+Optional	"[{:family=>""Naylor"", :given=>""H.F.""}]"	Chapter 2 in Construction Project Management			1995	9
+Optional	"[{:family=>""Schtub"", :given=>""A.""}, {:family=>""Bard"", :given=>""J.""}, {:family=>""Globerson"", :given=>""S.""}]"	Project Management: Engineering Technology	book		1994	9
+Optional	"[{:family=>""Callahan"", :given=>""M.""}, {:family=>""Quackenbush"", :given=>""D.""}, {:family=>""Rowings"", :given=>""G.""}]"	Construction Project Scheduling			1992	9
+Optional	"[{:family=>""Meredith"", :given=>""J.""}, {:family=>""Mantel"", :given=>""S.""}]"	Chapter 8 in Project Management: A Managerial Approach			2000	9
+Optional	"[{:family=>""Taylor"", :given=>""B.W.""}, {:family=>""Moore"", :given=>""L.J.""}]"	R&D Project Planning with Q-GERT Network Modeling and Simulation	article-journal	Management Science	1980	9
+Optional	"[{:family=>""Moder"", :given=>""Philips""}, {:given=>""Davis""}]"	Project Management with CPM			1983	9
+Optional	"[{:family=>""Pritsker"", :given=>""A.""}, {:family=>""Alan"", :given=>""B.""}]"	Management Decision Making			1983	9
+Optional	"[{:family=>""Badiru"", :given=>""A.B.""}]"	Chapter 4 in Project Management in Manufacturing and High Technology Operations			1996	9
+Optional	"[{:family=>""Meredith"", :given=>""J.""}, {:family=>""Mantel"", :given=>""S.""}]"	Chapter 9 in Project Management: A Managerial Approach			2000	9
+Optional	"[{:family=>""Moder"", :given=>""Philips""}, {:given=>""Davis""}]"	Chapter 7 in Project Management with CPM			1983	9
+Optional	"[{:given=>""Elton""}, {:given=>""Roe""}]"	Bringing Discipline to Project Management				9
+Optional	"[{:family=>""Goldratt"", :given=>""E.M.""}]"	Critical Chain			1997	9
+Optional	"[{:family=>""Stump"", :given=>""E.J.""}, {:family=>""Ferguson"", :given=>""K.""}]"	The Value of Integrated Project Risk Management	article-journal	INCOSE Symposium	1998	9
+Optional	"[{:family=>""Paté-Cornell"", :given=>""M.E.""}, {:family=>""Dillon"", :given=>""R.L.""}]"	Analytical Tools for the Management of Faster-Better-Cheaper Space Missions	paper-conference	Proceedings of the 1998 IEEE Aerospace Conference	1998-03	9
+Optional	"[{:family=>""Kenley""}, {:given=>""Creque""}]"	Predicting Technology Operational Availability Using Technical Maturity Models				9
+Optional	"[{:family=>""Hall"", :given=>""E.M.""}]"	Risks to Riches: Risk Management Return on Investment	book		1998	9
+Optional	"[{:family=>""Duncan"", :given=>""W.R.""}]"	Chapter 11 in A Guide to the Project Management Body of Knowledge	chapter	Project Management World Today		9
+Optional	"[{:family=>""Callahan"", :given=>""M.""}, {:family=>""Quackenbush"", :given=>""D.""}, {:family=>""Rowings"", :given=>""G.""}]"	Chapter 12 in Construction Project Scheduling			1992	9
+Optional	"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Cosa"", :given=>""C.""}, {:family=>""McCone"", :given=>""D.S.""}]"	Introduction to Construction Dispute Resolution	book		2002	9
+Optional	"[{:family=>""Thamhain"", :given=>""H.""}]"	Chapter 6 in Engineering Management			1992	9
+Optional	"[{:family=>""Kaplan""}, {:given=>""Norton""}]"	Systems Engineering Measurement Primer	book			9
+Optional		Application and Management of the Systems Engineering Process	article-journal	IEEE	1220	9
+Optional	"[{:family=>""Meredith"", :given=>""J.""}, {:family=>""Mantel"", :given=>""S.""}]"	Chapter 12 in Project Management: A Managerial Approach			2000	9
+Optional	"[{:family=>""Gulliver"", :given=>""F.R.""}]"	Post Project Appraisals Pay	article-journal	Harvard Business Review	1987-03	9
+Optional	"[{:family=>""Meredith"", :given=>""J.""}, {:family=>""Mantel"", :given=>""S.""}]"	Chapter 13 in Project Management: A Managerial Approach			2000	9
+Optional	"[{:family=>""Sterman"", :given=>""J.""}]"	System Dynamics Modeling for Project Management			2000	9
+Optional	"[{:family=>""Sterman"", :given=>""J.""}]"	Business Dynamics			2000	9
+Required	"[{:family=>""Nise"", :given=>""Norman S.""}]"	Control Systems Engineering			2007	73
+Optional	"[{:given=>""Rowell""}, {:given=>""Wormley""}]"	System Dynamics: An Introduction	book		1996	73
+Optional	"[{:given=>""Dorf""}, {:given=>""Bishop""}]"	Modern Control Systems	book		1995	73
+Optional	"[{:given=>""Ogata""}]"	Modern Control Engineering	book		1996	73
+Required	"[{:family=>""Palm"", :given=>""William J.Modeling""}]"	Analysis			1999	67
+Required	"[{:family=>""Ogata"", :given=>""Katsuhiko""}]"	System Dynamics			2003	67
+Required	"[{:family=>""Math"", :given=>""Numerics""}, {:family=>""M. Yano"", :particle=>""by""}, {:family=>""Penn"", :given=>""J.D.""}, {:family=>""Konidaris"", :given=>""G.""}, {:family=>""Patera"", :given=>""A.T.""}]"	& Programming (for Mechanical Engineers				99
+Required	"[{:family=>""Yano"", :given=>""Masayuki""}, {:others=>true}]"	Math	article-journal	V2.1	2013-08	99
+Required	"[{:family=>""Lardner"", :given=>""T.J.""}, {:family=>""Archer"", :given=>""R.R.""}, {:family=>""Crandall"", :given=>""S.H.""}, {:family=>""Dahl"", :given=>""N.C.""}]"	An Introduction to the Mechanics of Solids			1999	66
+Optional	"[{:family=>""Dowling"", :given=>""N.E.""}]"	Mechanical Behavior of Materials			1998	66
+Optional	"[{:family=>""Ashby"", :given=>""M.F.""}, {:family=>""Jones"", :given=>""D.R.H.""}]"	Engineering Materials 1: An Introduction to their Properties and Applications			1996	66
+Optional	"[{:family=>""Pratap"", :given=>""Rudra""}]"	Getting Started with MATLAB®			2001	66
+Optional	"[{:family=>""Bowman"", :given=>""Keith""}]"	Mechanical Behavior of Materials			2003	66
+Optional	"[{:family=>""Bedford"", :given=>""A.""}, {:family=>""Fowler"", :given=>""W.""}]"	Dynamics	book		1995	72
+Optional	"[{:family=>""Palm"", :given=>""W.J.Modeling"", :suffix=>""III""}]"	Analysis	book			72
+Required	"[{:family=>""Ulm"", :given=>""F.-J.""}, {:family=>""Coussy"", :given=>""O.""}]"	Solid Mechanics	chapter	Mechanics and Durability of Solids	2003	8
+Required	"[{:family=>""Chaturvedi"", :given=>""Swati""}, {:family=>""Ochsendorf"", :given=>""John""}]"	Global Environmental Impacts due to Cement and Steel	article-journal	Structural Engineering International	2004-08	62
+Required	"[{:family=>""Dholakia"", :given=>""R.""}, {:family=>""Wackernagel"", :given=>""M.""}]"	Ecological Footprint Accounts: Moving Sustainability from Concept to Measurable Goal	book		1999-10	62
+Required	"[{:family=>""Hawken"", :given=>""Paul""}, {:family=>""Lovins"", :given=>""Amory""}, {:family=>""Lovins"", :given=>""L.Hunter""}]"	Building Blocks	chapter	Chapter 5 in Natural Capitalism: Creating the Next Industrial Revolution	1999	62
+Required		ISO: 14040 “Environmental management — Life Cycle Assessment — Principles and Framework	book		1997	62
+Required	"[{:given=>""L.E.E.D.""}]"	Building Rating System for New Construction and Major Renovations	chapter	Version 2.1	2002	62
+Required	"[{:family=>""Matos"", :given=>""G.""}, {:family=>""Wagner"", :given=>""L.""}]"	Consumption of Materials in the United States	article-journal	Annual Review of Energy and the Environment	1998-11	62
+Required	"[{:family=>""Meadows"", :given=>""Donella H.""}, {:family=>""Randers"", :given=>""Jorgen""}, {:family=>""Meadows"", :given=>""Dennis L.""}]"	Author’s Preface” and “Overshoot.” Chapter 1 in Limits to Growth: The 30-Year Update			2004-06-01	62
+Required	"[{:family=>""Ochsendorf"", :given=>""J.""}]"	Sustainable Structural Design: Lessons from History	article-journal	Structural Engineering International	2004-08	62
+Required	"[{:family=>""Womack"", :given=>""James P.""}, {:family=>""Jones"", :given=>""Daniel T.""}]"	The Value Stream	chapter	Chapter 2 in Lean Thinking	1996-09-09	62
+Required	"[{:family=>""Knowles"", :given=>""J.K.""}]"	Linear Vector Spaces and Cartesian Tensors			1998	89
+Required	"[{:family=>""Abeyaratne"", :given=>""Rohan""}]"	A Brief Review of Some Mathematical Preliminaries	chapter	Lecture Notes on the Mechanics of Elastic Solids		89
+Optional	"[{:family=>""Gel’fand"", :given=>""I.M.""}]"	Lectures on Linear Algebra			1989	89
+Optional	"[{:family=>""Halmos"", :given=>""P.R.""}]"	Finite Dimensional Vector Spaces			1958	89
+Optional	"[{:family=>""Gel’fand"", :given=>""I.M.""}, {:family=>""Fomin"", :given=>""S.V.""}]"	Calculus of Variations	book		1963	89
+Optional	"[{:family=>""Giaquinta"", :given=>""M.""}, {:family=>""Hilderbrandt"", :given=>""S.""}]"	Calculus of Variations I			1996	89
+Optional	"[{:family=>""Troutman"", :given=>""J.L.""}]"	Variational Calculus with Elementary Convexity			1983	89
+Optional	"[{:family=>""Minorsky"", :given=>""Nicholas""}]"	Nonlinear Oscillations			1974	88
+Optional	"[{:family=>""Nayfeh"", :given=>""Ali Hasan""}, {:family=>""Mook"", :given=>""Dean T.""}]"	Nonlinear Oscillations			1995	88
+Optional	"[{:family=>""Stoker"", :given=>""J.J.""}]"	Nonlinear Vibrations in Mechanical and Electrical Systems			1992	88
+Optional	"[{:family=>""Den Hartog"", :given=>""J.P.""}]"	Mechanical Vibrations			1985	88
+Optional	"[{:family=>""Andronov"", :given=>""A.A.""}, {:family=>""Vitt"", :given=>""A.A.""}, {:family=>""Khaikin"", :given=>""S.E.""}]"	Theory of Oscillators			1987	88
+Optional	"[{:family=>""Hayashi"", :given=>""Chihiro""}]"	Nonlinear Oscillations in Physical Systems			1986	88
+Optional	"[{:family=>""Pippard"", :given=>""A.B.""}]"	Response and Stability: An Introduction to the Physical Theory			1985	88
+Optional	"[{:family=>""Strogatz"", :given=>""Steven H.""}]"	Nonlinear Dynamics and Chaos: With Applications to Physics			2001	88
+Optional	"[{:family=>""Iooss"", :given=>""Gerard""}, {:family=>""Joseph"", :given=>""Daniel D.""}]"	Elementary Stability and Bifurcation Theory			2004	88
+Optional	"[{:family=>""Whitham"", :given=>""G.B.""}]"	Linear and Nonlinear Waves			2006	88
+Optional	"[{:family=>""Craik"", :given=>""Alex D.D.""}]"	Wave Interactions and Fluid Flows			1999	88
+Optional	"[{:family=>""Drazin"", :given=>""P.G.""}]"	Nonlinear Systems			1992	88
+Optional	"[{:family=>""Newell"", :given=>""Alan C.""}]"	Solitons in Mathematics and Physics			1987	88
+Optional	"[{:family=>""Dauxois"", :given=>""Thierry""}, {:family=>""Peyrard"", :given=>""Michel""}]"	Physics of Solitons			2006	88
+Required	"[{:family=>""Hirth"", :given=>""John Price""}, {:family=>""Lothe"", :given=>""Jens""}]"	Theory of Dislocations	book		1991	63
+Required	"[{:family=>""Zhou"", :given=>""Min""}]"	A New Look at the Atomic Level Virial Stress: On Continuum-Molecular System Equivalence	chapter	Proc R Soc Lond A	2003	63
+Required	"[{:family=>""Zimmerman"", :given=>""J.A.""}, {:family=>""Webb"", :given=>""E.B."", :suffix=>""III""}, {:family=>""Hoyt"", :given=>""J.J.""}, {:family=>""Jones"", :given=>""R.E.""}, {:family=>""Klein"", :given=>""P.A.""}, {:family=>""Bammann"", :given=>""D.J.""}]"	Calculation of Stress in Atomistic Simulation	article-journal	Modelling Simul Mater Sci Eng	2004	63
+Required	"[{:family=>""Gouldstone"", :given=>""Andrew""}, {:family=>""Vliet"", :given=>""Krystyn"", :particle=>""Van""}, {:family=>""Suresh"", :given=>""Subra""}]"	Simulation of a Defect Nucleation in a Crystal	article-journal	Nature	2001	63
+Required	"[{:family=>""Rice"", :given=>""James R.""}]"	Dislocation Nucleation from a Crack Tip: An Analysis Based on the Peierls Concept	article-journal	J Mech Phys Solids	1992	63
+Required	"[{:family=>""Daw"", :given=>""Murray S.""}, {:family=>""Baskes"", :given=>""M.I.""}]"	Embedded-atom Method: Derivation and Application to Impurities	article-journal	Phys Rev B	1984	63
+Required	"[{:family=>""Foiles"", :given=>""S.M.""}, {:family=>""Baskes"", :given=>""M.I.""}, {:family=>""Daw"", :given=>""M.S.""}]"	Embedded-Atom-Method Functions for the Fcc Metals Cu	article-journal	Phys Rev B	1986	63
+Required	"[{:family=>""Buehler"", :given=>""Markus J.""}, {:family=>""Gao"", :given=>""Huajian""}]"	Ultra-Large Scale Simulations of Dynamic Materials Failure	chapter	Chapter 14 in Handbook of Theoretical and Computational Nanotechnology	2005	63
+Required	"[{:family=>""Buehler"", :given=>""Markus J.""}, {:family=>""Hartmaier"", :given=>""Alexander""}, {:family=>""Duchaineau"", :given=>""Mark A.""}, {:family=>""Abraham"", :given=>""Farid F.""}, {:family=>""Gao"", :given=>""Huajian""}]"	The Dynamical Complexity of Work-hardening: A Large-scale Molecular Dynamics Simulation	article-journal	Acta Mech Sinica	2005	63
+Required	"[{:family=>""Buehler"", :given=>""Markus J.""}, {:family=>""Abraham"", :given=>""Farid F.""}, {:family=>""Gao"", :given=>""Huajian""}]"	Stress and Energy Flow Field Near a Rapidly Propagating Mode I Crack	chapter	Multiscale Modelling and Simulation	2004	63
+Required	"[{:family=>""Boal"", :given=>""David""}]"	Mechanics of the Cell			2002	63
+Required	"[{:family=>""Bao"", :given=>""G.""}, {:family=>""Suresh"", :given=>""Subra""}]"	Cell and Molecular Mechanics of Biological Materials	article-journal	Nature Materials	2003	63
+Required	"[{:family=>""Buehler"", :given=>""Markus J.""}]"	Large-Scale Hierarchical Molecular Modeling of Nanostructured Biological Materials	article-journal	Journal of Computational and Theoretical Nanoscience	2006	63
+Required	"[{:family=>""Mayo"", :given=>""Stephen L.""}, {:family=>""Olafson"", :given=>""Barry D.""}, {:family=>""Goddard"", :given=>""William A."", :suffix=>""III""}]"	DREIDING: A Generic Force Field for Molecular Simulations	article-journal	J Phys Chem	1990	63
+Required	"[{:family=>""Wang"", :given=>""Wei""}, {:family=>""Donini"", :given=>""Oreola""}, {:family=>""Reyes"", :given=>""Carolina M.""}, {:family=>""Kollman"", :given=>""Peter A.""}]"	Biomolecular Simulations: Recent Developments in Force Fields	article-journal	Ann Rev Biophys Biomol Struct	2001	63
+Required	"[{:family=>""Karplus"", :given=>""Martin""}, {:family=>""McCammon"", :given=>""J.Andrew""}]"	Molecular Dynamics Simulations of Biomolecules	article-journal	Nature Structural Biology	2002	63
+Required	"[{:family=>""Buehler"", :given=>""M.J.""}, {:family=>""Yao"", :given=>""H.""}, {:family=>""Ji"", :given=>""B.""}, {:family=>""Gao"", :given=>""H.""}]"	Cracking and Adhesion at Small Scales: Atomistic and Continuum Studies of Flaw Tolerant Nanostructures	article-journal	Modelling and Simulation in Materials Science and Engineering	2006	63
+Required	"[{:family=>""Miller"", :given=>""Ronald E.""}, {:family=>""Tadmor"", :given=>""E.B.""}]"	The Quasicontinuum Method: Overview	article-journal	Journal of Computer-Aided Materials Design	2002	63
+Required	"[{:family=>""Knap"", :given=>""J.""}, {:family=>""Ortiz"", :given=>""M.""}]"	An analysis of the quasicontinuum method	article-journal	Journal of the Mechanics and Physics of Solids	2001	63
+Required	"[{:family=>""Heino"", :given=>""P.""}, {:family=>""Häkkinen"", :given=>""H.""}, {:family=>""Kaski"", :given=>""K.""}]"	Molecular-dynamics Study of Mechanical Properties of Copper	article-journal	Europhys Lett	1998	63
+Required	"[{:family=>""Komanduri"", :given=>""R.""}, {:family=>""Chandrasekaran"", :given=>""N.""}, {:family=>""Raff"", :given=>""L.M.""}]"	Molecular Dynamics (MD) Simulation of Uniaxial Tension of Some Single-Crystal Cubic Metals at Nanolevel	article-journal	International Journal of Mechanical Sciences	2001	63
+Required	"[{:family=>""Cleri"", :given=>""Fabrizio""}, {:family=>""Yip"", :given=>""Sidney""}, {:family=>""Wolf"", :given=>""Dieter""}, {:family=>""Phillpot"", :given=>""Simon R.""}]"	Atomic-Scale Mechanism of Crack-Tip Plasticity: Dislocation Nucleation and Crack-Tip Shielding	article-journal	Phys Rev Lett	1997	63
+Required	"[{:family=>""Mishin"", :given=>""Y.""}]"	Structural Stability and Lattice Defects in Copper: Ab Initio	article-journal	Phys Rev B	2001	63
+Required	"[{:family=>""Buehler"", :given=>""Markus J.""}, {:family=>""Dodson"", :given=>""Jef""}, {:family=>""Duin"", :given=>""Adri C.T."", :particle=>""van""}, {:family=>""Meulbroek"", :given=>""Peter""}, {:family=>""Goddard"", :given=>""William A."", :suffix=>""III""}]"	The Computational Materials Design Facility (CMDF): A Powerful Framework for Multi-paradigm Multi-scale Simulations	chapter	Mater Res Soc Symp Proc 894	2006	63
+Required	"[{:family=>""Kalpakjian"", :given=>""S.""}]"	Manufacturing Engineering and Technology			2000	77
+Optional	"[{:family=>""Benhabib"", :given=>""B.""}, {:family=>""Dekker"", :given=>""Marcel""}]"	Manufacturing: Design			2003	77
+Required	"[{:family=>""Shoup"", :given=>""Donald""}]"	The High Cost of Free Parking			2005	61
+Required	"[{:family=>""Groll"", :given=>""Stephanie""}]"	Reviving Upside-Down Architecture: Using a Historically Transitional Form of Parking to Reduce the Impact of Cars in Mixed-Use Commercial Areas	thesis		2006	61
+Required	"[{:family=>""Richardson"", :given=>""Heather""}]"	The Parking Policy and Smart Growth Disconnect: Obstacles to Establishing and Implementing Smart Growth Parking Policy	thesis		2005	61
+Optional	"[{:family=>""Domenico"", :given=>""Patrick A.""}, {:family=>""Schwartz"", :given=>""Franklin W.""}]"	Physical and Chemical Hydrogeology			1998	49
+Optional	"[{:family=>""Freeze"", :given=>""Alan R.""}, {:family=>""Cherry"", :given=>""John A.""}]"	Groundwater			1979	49
+Optional	"[{:family=>""Marsily"", :given=>""Ghislain De""}]"	Quantitative Hydrogeology: Groundwater Hydrology for Engineers			1986	49
+Optional	"[{:family=>""Bear"", :given=>""Jacob""}]"	Dynamics of Fluids in Porous Media			1988	49
+Optional		Hydraulics of Groundwater			1980	49
+Optional	"[{:family=>""Sahimi"", :given=>""Muhammad""}]"	Flow and Transport in Porous Media and Fractured Rock			1995	49
+Optional	"[{:family=>""Fetter"", :given=>""C.W.""}]"	Contaminant Hydrogeology			1998	49
+Optional	"[{:family=>""Todd"", :given=>""David Keith""}]"	Groundwater Hydrology			1980	49
+Optional	"[{:family=>""Hillel"", :given=>""Daniel""}]"	Fundamentals of Soil Physics			1980	49
+Required	"[{:family=>""Nise"", :given=>""Norman S.""}]"	Control Systems Engineering			2003	74
+Required	"[{:family=>""Nilson"", :given=>""A.H.""}]"	Design of Concrete Structures	book		2004	13
+Required	"[{:family=>""McCormac"", :given=>""J.C.""}, {:family=>""Nelson"", :given=>""J.K."", :suffix=>""Jr""}]"	Structural Steel Design			2003	13
+Required	"[{:family=>""Franklin"", :given=>""Gene F.""}, {:family=>""Powell"", :given=>""J.David""}, {:family=>""Emami-Naeini"", :given=>""Abbas""}]"	Feedback Control of Dynamic Systems			2009	106
+Required	"[{:family=>""Roberge"", :given=>""James K.""}]"	Operational Amplifiers: Theory and Practice	book		1975	106
+Required	"[{:family=>""Rako"", :given=>""Paul""}]"	The West Bend No. 1 Electric-frying-pan Thermostat	article-journal	EDN Network. October	2010	106
+Required	"[{:family=>""Weng"", :given=>""Ming-Chih""}, {:family=>""Lu"", :given=>""Xiaodong""}, {:others=>true}]"	Vibration Control of Flexible Beams Using Sensor Averaging and Actuator Averaging Methods	article-journal	Control Systems Technology	2002	106
+Required	"[{:family=>""F."", :given=>""Gene""}, {:family=>""Powell"", :given=>""J.David""}, {:family=>""Workman"", :given=>""Michael L.""}]"	The course text is: Franklin			1997	112
+Optional	"[{:family=>""Biernson"", :given=>""G.""}]"	A Servo for Integrated-Circuit Photolithography	chapter	Chapter 15 in Principles of Feedback Control	1988	112
+Required	"[{:family=>""Vecchio"", :given=>""Del""}, {:family=>""Domitilla""}, {:family=>""Murray"", :given=>""Richard M.""}]"	Biomolecular Feedback Systems			2014	113
+Optional	"[{:family=>""Alon"", :given=>""Uri""}]"	An Introduction to Systems Biology: Design Principles of Biological Circuits			2006	113
+Optional	"[{:family=>""Klipp"", :given=>""Edda""}, {:family=>""Herwig"", :given=>""Ralf""}, {:others=>true}]"	Systems Biology in Practice: Concepts			2005	113
+Optional	"[{:family=>""Alberts"", :given=>""Bruce""}, {:family=>""Johnson"", :given=>""Alexander""}, {:others=>true}]"	Molecular Biology of the Cell			2002	113
+Required	"[{:family=>""Brown"", :given=>""Forbes T.""}]"	Engineering System Dynamics			2001	107
+Required	"[{:family=>""McConnell"", :given=>""Steve""}]"	Rapid Development: Taming Wild Software Schedules			1996	38
+Required	"[{:family=>""Fowler"", :given=>""Martin""}]"	UML Distilled: A Brief Guide to the Standard Object Modeling Language			2003	38
+Required	"[{:family=>""Bowman"", :given=>""Judith S.""}, {:family=>""Emerson"", :given=>""Sandra L.""}, {:family=>""Darnovsky"", :given=>""Marcy""}]"	The Practical SQL Handbook: Using SQL Variants			2001	38
+Required	"[{:family=>""Syverson"", :given=>""Bryan""}]"	Murach’s SQL for SQL Server	article-journal	Murach	2002	38
+Required	"[{:family=>""McFarland"", :given=>""David S.""}]"	Dreamweaver 8: The Missing Manual	article-journal	O’Reilly	2005	38
+Required	"[{:family=>""Anderson"", :given=>""Ross""}]"	Security Engineering: A Guide to Building Dependable Distributed Systems			2001	38
+Required	"[{:family=>""Green"", :given=>""James H.""}]"	The Irwin Handbook of Telecommunications			2005	38
+Required	"[{:family=>""Hendrickson"", :given=>""Chris""}, {:family=>""Au"", :given=>""Tung""}]"	Project Management for Construction			1989	10
+Required		Be Careful What You Wish For	article-journal	The Economist	2009-02-05	10
+Required		Can The Centrists Hold?	article-journal	The Economist	2009-02-05	10
+Required	"[{:family=>""Doshi"", :given=>""Viren""}, {:family=>""Schulman"", :given=>""Gary""}, {:family=>""Gabaldon"", :given=>""Daniel""}]"	Lights! Water! Motion!	article-journal	Strategy + Business	2007	10
+Required	"[{:family=>""Cooper"", :given=>""Michael""}]"	Big Ideas	article-journal	The New York Times	2009-02-14	10
+Required	"[{:family=>""Poole"", :given=>""Robert""}]"	Infrastructure Report Card: A Caution	article-journal	Surface Transportation Innovations	2009	10
+Required	"[{:family=>""Team"", :given=>""A.E.C.O.M.Consult""}]"	Case Studies of Transportation Public-Private Partnerships in the United States	article-journal	Federal Highway Administration Report	2007-07-07	10
+Optional	"[{:family=>""Yescombe"", :given=>""E.R.""}]"	Principles of Project Finance			2002	10
+Optional	"[{:family=>""Grimsey"", :given=>""Darrin""}, {:family=>""Lewis"", :given=>""Mervyn K.""}]"	Public Private Partnerships: The World Revolution in Infrastructure Provision and Project Finance			2007	10
+Optional	"[{:family=>""Esty"", :given=>""Benjamin C.""}]"	Modern Project Finance: A Casebook			2008	10
+Optional	"[{:family=>""Newnan"", :given=>""Donald G.""}, {:family=>""Lavelle"", :given=>""Jerome P.""}, {:family=>""Eschenbach"", :given=>""Ted G.""}]"	Engineering Economic Analysis			2000	10
+Optional	"[{:family=>""Park"", :given=>""Chan S.""}]"	Contemporary Engineering Economics			2002	10
+Optional	"[{:family=>""Mishan"", :given=>""E.J.""}]"	Cost-Benefit Analysis			1976	10
+Optional	"[{:family=>""Ray"", :given=>""Anandarup""}]"	Cost-Benefit Analysis: Issues and Methodologies			1984	10
+Optional	"[{:family=>""Ward"", :given=>""William A.""}, {:family=>""Deren"", :given=>""Barry J.""}, {:family=>""D’Silva"", :given=>""Emmanuel H.""}]"	The Economics of Project Analysis: A Practitioner’s Guide			1991	10
+Optional	"[{:family=>""Miller"", :given=>""Roger""}, {:family=>""Lessard"", :given=>""Donald""}]"	The Strategic Management of Large Engineering Projects			2001	10
+Optional	"[{:family=>""Morris"", :given=>""Peter W.G.""}]"	The Management of Projects			1994	10
+Optional	"[{:family=>""Meredith"", :given=>""Jack R.""}, {:family=>""Mantel"", :given=>""Samuel J."", :suffix=>""Jr""}]"	Project Management: A Managerial Approach			2005	10
+Optional	"[{:family=>""Levy"", :given=>""Sidney""}]"	Project Management in Construction			2006	10
+Optional	"[{:family=>""Oberlender"", :given=>""Garold""}]"	Project Management for Engineering and Construction			1993	10
+Required	"[{:family=>""Proakis"", :given=>""John G.""}, {:family=>""Manolakis"", :given=>""Dmitris K.""}]"	Digital Signal Processing			2006	111
+Required	"[{:family=>""Oppenheim"", :given=>""Alan V.""}, {:family=>""Schafer"", :given=>""Ronald W.""}, {:family=>""Buck"", :given=>""John R.""}]"	Discrete-Time Signal Processing			1999	111
+Required	"[{:family=>""Asada"", :given=>""H.""}, {:family=>""Slotine"", :given=>""J.J.""}]"	Robot Analysis and Control			1986	105
+Required	"[{:family=>""Bathe"", :given=>""K.J.""}]"	Finite Element Procedures			2014	104
+Optional	"[{:family=>""Kojic"", :given=>""M.""}, {:family=>""Bathe"", :given=>""K.J.""}]"	Inelastic Analysis of Solids and Structures			2004	104
+Optional	"[{:family=>""Chapelle"", :given=>""D.""}, {:family=>""Bathe"", :given=>""K.J.""}]"	The Finite Element Analysis of Shells – Fundamentals			2003	104
+Optional	"[{:family=>""Bathe"", :given=>""K.J.""}]"	The Finite Element Method	chapter	Wiley Encyclopedia of Computer Science and Engineering	2009	104
+Optional	"[{:family=>""Ljung"", :given=>""Lennart""}]"	System Identification: Theory for the User			1999	110
+Optional	"[{:family=>""Goodwin"", :given=>""Graham""}, {:family=>""Sin"", :given=>""Kwai Sang""}]"	Adaptive Filtering			1984	110
+Optional	"[{:family=>""Burnham"", :given=>""Kenneth""}, {:family=>""Anderson"", :given=>""David""}]"	Model Selection and Multimodel Inference: A Practical Information-Theoretic Approach			2003	110
+Optional	"[{:family=>""Brown"", :given=>""Robert""}, {:family=>""Hwang"", :given=>""Patrick""}]"	Introduction to Random Signals and Applied Kalman Filtering			1996	110
+Required	"[{:family=>""Bucciarelli"", :given=>""Louis""}]"	Engineering Mechanics for Structures			2002	11
+Optional	"[{:family=>""Crandall"", :given=>""S.""}, {:family=>""Dahl"", :given=>""N.""}, {:family=>""Lardner"", :given=>""T.""}]"	An Intro. to the Mechanics of Solids			1978	11
+Optional	"[{:family=>""Gere"", :given=>""James""}]"	Mechanics of Materials			2003	11
+Required	"[{:family=>""Foott"", :given=>""R.""}, {:family=>""Ladd"", :given=>""C.""}]"	Undrained Settlement of Plastic and Organic Clays	article-journal	Journal of the Geotechnical Engineering Division	1981-08	39
+Required	"[{:family=>""Jamiolkowski"", :given=>""M.""}, {:family=>""Ladd"", :given=>""C.""}, {:family=>""Germaine"", :given=>""J.""}, {:family=>""Lancellotta"", :given=>""R.""}]"	New Developments in Field and Laboratory Testing of Soils	paper-conference	Proceedings of the 11th International Conference on Soil Mechanics and Foundation Engineering	1995	39
+Required	"[{:family=>""Koutsoftas"", :given=>""D.""}, {:family=>""Ladd"", :given=>""C.""}]"	Design Strengths for an Offshore Clay	article-journal	Journal of Geotechnical Engineering	1985-03	39
+Required	"[{:family=>""Ladd"", :given=>""C.""}, {:family=>""Foott"", :given=>""R.""}, {:family=>""Ishihara"", :given=>""K.""}, {:family=>""Schlosser"", :given=>""F.""}, {:family=>""Poulos"", :given=>""H.""}]"	Stress-Deformation and Strength Characteristics	paper-conference	Proceedings of the 9th International Conference on Soil Mechanics and Foundation Engineering	1977	39
+Required	"[{:family=>""Ladd"", :given=>""C.""}, {:family=>""Foott"", :given=>""R.""}]"	New Design Procedure for Stability of Soft Clays	article-journal	Joumal of the Geotechnical Engincening Dision	1974-07	39
+Required	"[{:family=>""Ladd"", :given=>""C.""}]"	Stress-Strain Behavior of Saturated Clay and Basic Strength Principles	article-journal	Research in Earth Physics	1964-04	39
+Required	"[{:family=>""Ladd"", :given=>""C.""}, {:family=>""Kinner"", :given=>""E.""}]"	The Strength of Clays at Low Effective Stress	article-journal	Research in Earth Physics	1967-01	39
+Required	"[{:family=>""Young"", :given=>""Donald F.""}, {:family=>""Munson"", :given=>""Bruce R.""}, {:family=>""Okiishi"", :given=>""Theodore H.""}]"	A Brief Introduction to Fluid Mechanics			2003	15
+Required	"[{:family=>""Sussman"", :given=>""Joseph""}]"	Perspectives on Intelligent Transportation Systems (ITS			2005	29
+Optional	"[{:family=>""Francois"", :given=>""Francis B.""}]"	Introduction	chapter	Chapter 1 in Intelligent Transportation Primer	2000	29
+Optional	"[{:family=>""Nelson"", :given=>""Donna""}]"	ITS Systems	article-journal	Intelligent Transportation Primer	2000	29
+Optional	"[{:family=>""Sussman"", :given=>""Joseph M.""}]"	Intelligent Transportation Systems.” Chapter 24 in Introduction to Transportation Systems	book		2000	29
+Optional	"[{:family=>""Shladover"", :given=>""Steven E.""}]"	Introducing Intelligent Transportation Systems: Paradigm for 21st Century Transportation	article-journal	TR News	2002-01	29
+Optional	"[{:family=>""McQueen"", :given=>""Bob""}, {:family=>""Schuman"", :given=>""Rick""}, {:family=>""Chen"", :given=>""Kan""}]"	Advanced Traveler Information Systems	book		2002	29
+Optional	"[{:family=>""Zimmerman"", :given=>""Carol""}]"	Advanced Traveler Information Systems			2000	29
+Optional	"[{:family=>""Lappin"", :given=>""Jane""}, {:family=>""Peirce"", :given=>""Sean""}]"	A Qualitative Assessment of Customer Response to Online Traffic Information Services in Greater Los Angeles: Part I of a Two-Part Customer Satisfaction Evaluation	report		2001-12-15	29
+Optional	"[{:family=>""Lappin"", :given=>""Jane""}, {:family=>""Peirce"", :given=>""Sean""}]"	Why don’t more people use advanced traveler information? Evidence from the Seattle area	report		2004-01	29
+Optional	"[{:family=>""Lieu"", :given=>""Henry""}]"	A Roadmap for the Research	book		2003	29
+Optional	"[{:family=>""Ben-Akiva"", :given=>""Moshe""}, {:family=>""Bierlaire"", :given=>""Michel""}, {:family=>""Bottom"", :given=>""Jon""}, {:family=>""Koutsopoulos"", :given=>""Haris""}, {:family=>""Mishalani"", :given=>""Rabi""}]"	Development of a Route Guidance Generation System for Real-Time Application				29
+Optional	"[{:family=>""Al-Deek"", :given=>""Haitham""}, {:family=>""Kanafani"", :given=>""Adib""}]"	Modeling the Benefits of Advanced Traveler Information Systems in Corridors with Incidents	article-journal	Transportation Research C	1993	29
+Optional	"[{:family=>""Kalidas"", :given=>""Ashok""}, {:family=>""Ben-Akiva"", :given=>""Moshe""}]"	Dynamic Origin-Destination Matrix Estimation and Prediction for Real-Time Traffic Management Systems	paper-conference	Proceedings of the 12th International Symposium on Transportation and Traffic Theory	1993	29
+Optional	"[{:family=>""Emmerink"", :given=>""Richard M.""}, {:family=>""Axhausen"", :given=>""Kay W.""}, {:family=>""Nijkamp"", :given=>""Peter""}, {:family=>""Rietveld"", :given=>""Piet""}]"	The Potential of Information Provision in a Simulated Road Transport Network with Non-Recurrent Congestion	article-journal	Transportation Research C	1995	29
+Optional	"[{:family=>""Hall"", :given=>""Randolph W.""}]"	Route Choice and Advanced Traveler Information Systems on a Capacitated and Dynamic Network	article-journal	Transportation Research C	1996	29
+Optional	"[{:family=>""Watling"", :given=>""David""}, {:family=>""Vuren"", :given=>""Tom"", :particle=>""van""}]"	The Modeling of Dynamic Route Guidance Systems	article-journal	Transportation Research C	1993	29
+Optional	"[{:family=>""Richeson"", :given=>""Kim""}, {:family=>""Barnes"", :given=>""Valerie B.""}]"	Commercial Vehicle Operations and Freight Movement	chapter	Chapter 9 in Intelligent Transportation Primer	2000	29
+Optional	"[{:family=>""Orban"", :given=>""John E.""}]"	What Have We Learned About ITS for Commercial Vehicle Operations?	chapter	Chapter 6 in What Have We Learned About Intelligent Transportation Systems?	2000	29
+Optional	"[{:family=>""Horan"", :given=>""Thomas""}]"	Integrating the End User into Infrastructure Systems: A Customer Centric Approach to the Design and Function of Intelligent Transportation Systems	manuscript			29
+Optional	"[{:family=>""Miller"", :given=>""Charles""}]"	A Discussion of Intelligent Transportation Systems Environmental Impacts	article-journal	ITE Journal on the Web	1999-02	29
+Optional	"[{:family=>""Jordan"", :given=>""Daniel""}, {:family=>""Horan"", :given=>""Thomas""}]"	Intelligent Transportation Systems and Sustainable Communities: Findings of a National Study	article-journal	Transportation Research Record		29
+Optional	"[{:family=>""Dodder"", :given=>""Rebecca S.""}]"	A Systems Framework for Assessing Air Quality Impacts of ITS: Application to Mexico City			2004	29
+Optional	"[{:family=>""Kayssi"", :given=>""Issam A.""}]"	Guidelines on Integrating Environmental Impact Evaluation in Future ITS Deployment Studies			2004-03-04	29
+Optional	"[{:family=>""Gifford"", :given=>""Jonathan""}]"	Congestion and Its Discontents	paper-conference	Paper prepared for Access to Destinations: Rethinking the Transportation Future of Our Region President’s 21st Century Interdisciplinary Conference Series	2004-11-05	29
+Optional	"[{:family=>""Schulman"", :given=>""Larry""}]"	Public Transit and ITS	chapter	Chapter 7 in Intelligent Transportation Primer	2000	29
+Optional	"[{:family=>""Casey"", :given=>""Robert F.""}]"	What Have We Learned About Advanced Public Transportation Systems?	chapter	Chapter 5 in What Have We Learned About Intelligent Transportation Systems?	2000	29
+Optional	"[{:family=>""Hickman"", :given=>""Mark""}]"	Bus Automatic Vehicle Location (AVL) Systems.” Chapter 5 in Assessing the Benefits and Costs of ITS: Making the Business Case for ITS Investments	book		2004	29
+Optional	"[{:family=>""Giuliano"", :given=>""Genevieve""}, {:family=>""O’Brien"", :given=>""Thomas""}]"	Beyond Benefits and Costs: Understanding Outcomes of ITS Deployments in Public Transit	chapter	Chapter 7 in Assessing the Benefits and Costs of ITS: Making the Business Case for ITS Investments	2004	29
+Optional	"[{:family=>""Massachusetts"", :given=>""Commonwealth"", :particle=>""of""}]"	Regional ITS Architecture for Metropolitan Boston			2005-01	29
+Optional	"[{:family=>""Transportation"", :given=>""M.A.Executive Office"", :particle=>""of""}]"	A Framework for Thinking – A Plan for Action: Transportation in the Commonwealth of Massachusetts				29
+Optional	"[{:family=>""Group"", :given=>""I.B.I.""}]"	Puget Sound Regional ITS Architecture			2001-06	29
+Optional	"[{:family=>""Group"", :given=>""I.B.I.""}]"	Puget Sound Regional Council Intelligent Transportation Systems Regional Architecture			2008-12-18	29
+Optional	"[{:family=>""Council"", :given=>""Puget Sound Regional""}]"	Destination 2030,” “Long Range Transportation Plan	article-journal	Updated	2001-05	29
+Optional	"[{:family=>""Gilat"", :given=>""Michael""}, {:family=>""Sussman"", :given=>""Joseph""}]"	Coordinated Transportation and Land Use Planning in the Developing World - The Case of Mexico City				29
+Optional	"[{:family=>""Dodder"", :given=>""R.S.""}]"	ITS and Air Quality in the Mexico City Metropolitan Area	chapter	Unpublished Working Paper for the Integrated Program on Urban	2004	29
+Optional	"[{:family=>""Gakenheimer"", :given=>""R.""}, {:family=>""al"", :particle=>""et.""}]"	Travel Demand Drivers: Mexico City	manuscript		2003-06	29
+Optional	"[{:family=>""Ortiz Mantilla"", :given=>""B.""}]"	Chapters 2 and 3 in Regional Planning and Operations Architecture as means to Foster Transportation Integration in the Mexico City Metropolitan Area	book			29
+Optional	"[{:family=>""Gakenheimer"", :given=>""R.L.T.Molina""}, {:family=>""al"", :particle=>""et.""}]"	The MCMA Transportation System: Mobility and Air Pollution	chapter	Chapter 2 in Air Quality in the Mexico Megacity: An Integrated Assessment	2002	29
+Optional	"[{:family=>""Team"", :given=>""Architecture Development""}]"	National ITS Architecture Executive Summary	article-journal	Federal Highway Administration	2003-10	29
+Optional	"[{:family=>""Team"", :given=>""Architecture Development""}]"	National ITS Architecture ITS Vision Statement	article-journal	Federal Highway Administration	2003-10	29
+Optional	"[{:family=>""Transportation"", :given=>""Department"", :particle=>""of""}]"	FHWA Rule on ITS Architecture and Standards			2001-01	29
+Optional	"[{:family=>""Transportation"", :given=>""Department"", :particle=>""of""}]"	FTA National ITS Architecture Policy on Transit Projects			2001-01	29
+Optional	"[{:family=>""Newman"", :given=>""J.N.""}]"	Marine Hydrodynamics			1977	114
+Optional	"[{:family=>""Sabersky"", :given=>""R.H.""}, {:family=>""Acosta"", :given=>""A.J.""}, {:family=>""Hauptmann"", :given=>""E.G.""}, {:family=>""Gates"", :given=>""E.M.""}]"	Fluid Flow			1998	114
+Required	"[{:family=>""Yano"", :given=>""Masayuki""}, {:family=>""Penn"", :given=>""James Douglass""}, {:family=>""Konidaris"", :given=>""George""}, {:family=>""Math"", :given=>""Anthony T.Patera""}]"	Numerics	article-journal	V1.2	2012-09	100
+Required	"[{:family=>""Yano"", :given=>""Masayuki""}, {:others=>true}]"	Math	article-journal	V2.1	2013-08	101
+Required	"[{:family=>""Yano"", :given=>""Masayuki""}, {:others=>true}]"	Math	manuscript		2014	101
+Optional	"[{:family=>""Faltinsen"", :given=>""O.M.""}]"	Sea Loads on Ships and Offshore Structures			1993	115
+Optional	"[{:family=>""Etter"", :given=>""D.M.""}]"	Introduction to MATLAB® for Engineers and Scientists			1995	115
+Optional		Coefficients in Equations of Motion” (Table 13) in Principles of Naval Architecture			1990	115
+Required	"[{:family=>""Heywood"", :given=>""J.B.""}]"	Internal Combustion Engine Fundamentals			1988	129
+Required	"[{:family=>""Nilson"", :given=>""A.H.""}, {:family=>""Darwin"", :given=>""D.""}, {:family=>""Dolan"", :given=>""C.W.""}]"	Design of Concrete Structures	book		2004	14
+Optional	"[{:family=>""Institute"", :given=>""American Concrete""}]"	Fracture Mechanics of Concrete: Concepts	article-journal	ACI Committee	1989	14
+Optional	"[{:family=>""Institute"", :given=>""American Concrete""}]"	Building Code Requirements for Structural Concrete (ACI 318-02),” and “Commentary (ACI 318-02	article-journal	ACI Committee	2002	14
+Optional	"[{:family=>""Aitcin"", :given=>""P.C.""}]"	High-Performance Concrete	book		1998	14
+Optional	"[{:family=>""Barker"", :given=>""A.L.L.""}]"	The Ultimate Load Theory Applied to the Design of Reinforced and Prestressed Concrete Frames	book		1956	14
+Optional	"[{:family=>""Bazant"", :given=>""Z.P.""}]"	Fracture Mechanics of Concrete Structures	book		1992	14
+Optional	"[{:family=>""Billington"", :given=>""D.P.""}]"	Thin Shell Concrete Structures	book		1982	14
+Optional	"[{:family=>""Bresler"", :given=>""B.""}]"	Design Criteria for Reinforced Concrete Columns under Axial Load and Biaxial Bending	article-journal	ACI Journal	1960	14
+Optional		Reinforced Concrete Engineering: Volume I - Materials	book		1974	14
+Optional	"[{:family=>""Buyukozturk"", :given=>""O.""}]"	Nonlinear Analysis of Reinforced Concrete Structures	article-journal	Computers and Structures	1977	14
+Optional	"[{:family=>""Buyukozturk"", :given=>""O.""}]"	Imaging of Concrete Structures	article-journal	NDT & E International	1998	14
+Optional	"[{:family=>""Buyukozturk"", :given=>""O.""}, {:family=>""Bazant"", :given=>""Z.P.""}]"	Creep Analysis of Structures	article-journal	Mathematical Modeling of Creep and Shrinkage of Concrete	1988	14
+Optional	"[{:family=>""Buyukozturk"", :given=>""O.""}, {:family=>""Gunes"", :given=>""O.""}]"	Advances in Earthquake Risk Assessment and Hazard Reduction for Large Inventory of Structures with High Characteristic Variability	article-journal	ARI The Bulletin of The Istanbul Technical University	2002	14
+Optional	"[{:family=>""Buyukozturk"", :given=>""O.""}, {:family=>""Nilson"", :given=>""A.H.""}]"	Deformation and Fracture of Particulate Composite	article-journal	Journal of the Engineering Mechanics Division	1972	14
+Optional	"[{:family=>""Buyukozturk"", :given=>""O.""}, {:family=>""Shareef"", :given=>""S.S.""}]"	Constitutive Modeling of Concrete in Finite Element Analysis	article-journal	Computers & Structures	1985	14
+Optional	"[{:family=>""Chattejee"", :given=>""B.K.""}]"	Theory and Design of Concrete Shells	book		1988	14
+Optional	"[{:family=>""Chen"", :given=>""E.S.""}, {:family=>""Buyukozturk"", :given=>""O.""}]"	Constitutive Model for Concrete in Cyclic Compression	article-journal	Journal of Engineering Mechanics	1985	14
+Optional	"[{:family=>""Chen"", :given=>""W.F.""}]"	Plasticity in Reinforced Concrete	book		1982	14
+Optional	"[{:family=>""Silva"", :given=>""C.W."", :particle=>""De""}, {:family=>""Wormley"", :given=>""D.N.""}, {:family=>""Buyukozturk"", :given=>""O.""}]"	Postcracking Compliance Analysis of RC Beams	article-journal	Journal of The Structural Division	1979	14
+Optional	"[{:family=>""Fardis"", :given=>""M.N.""}, {:family=>""Buyukozturk"", :given=>""O.""}]"	Shear Transfer Model for Reinforced Concrete	article-journal	Journal of The Engineering Mechanics Division	1979	14
+Optional	"[{:family=>""Fardis"", :given=>""M.N.""}, {:family=>""Buyukozturk"", :given=>""O.""}]"	Shear Stiffness of Concrete by Finite Elements	article-journal	Journal of The Structural Division	1980	14
+Optional	"[{:family=>""Farshad"", :given=>""M.""}]"	Design and Analysis of Shell Structures	book		1992	14
+Optional	"[{:family=>""Gori"", :given=>""R.""}]"	Theoretical Performance of RC Elements Built at the Turn of the Century	article-journal	Journal of Performance of Constructed Facilities	1999	14
+Optional	"[{:family=>""Gould"", :given=>""P.L.""}]"	Analysis of Shells and Plates	book		1988	14
+Optional	"[{:family=>""Guidotti"", :given=>""G.""}, {:family=>""Lucchesi"", :given=>""M.""}, {:family=>""Pagni"", :given=>""A.""}, {:family=>""Pasquinelli"", :given=>""G.""}]"	Application of Shell Theory to Structural Problem Using the Finite Element Method	article-journal	Istituto CNUCE	1986	14
+Optional	"[{:family=>""Hsu"", :given=>""T.T.C.""}]"	Torsion of Reinforced Concrete	book		1984	14
+Optional	"[{:family=>""Ingerslev"", :given=>""A.""}]"	The Strength of Rectangular Slabs	article-journal	J. Inst. Struct. Engng	1923-01	14
+Optional	"[{:family=>""Jawad"", :given=>""M.H.""}]"	Theory and Design of Plate and Shell Structures	book		1994	14
+Optional	"[{:family=>""Johnson"", :given=>""K.W.""}]"	Brudlinieteorier	book		1943-07	14
+Optional	"[{:family=>""Kellar"", :given=>""V.S.""}, {:family=>""Sewell"", :given=>""R.T.""}]"	Fundamentals of the Analysis and Design of Shell Structures	book		1987	14
+Optional	"[{:family=>""Kupfer"", :given=>""H.""}, {:family=>""Hilsdorf"", :given=>""H.K.""}, {:family=>""Rüsch"", :given=>""H.""}]"	Behaviour of Concrete Under Biaxial Stress	article-journal	Journal of American Concrete Institute (ACI Journal	1969	14
+Optional	"[{:family=>""Leet"", :given=>""K.M.""}]"	Reinforced Concrete Design: Conforms to 1995 ACI Codes	book		1997	14
+Optional	"[{:family=>""Mehta"", :given=>""P.K.""}, {:family=>""Monteiro"", :given=>""P.J.M.""}]"	Concrete: Microstructure	book		1993	14
+Optional	"[{:family=>""Mindess"", :given=>""S.""}, {:family=>""Young"", :given=>""J.F.""}, {:family=>""Darwin"", :given=>""D.""}]"	Concrete	book		2003	14
+Optional	"[{:family=>""Mollmann"", :given=>""H.""}]"	Introduction to the Theory of Thin Shells	book		1982	14
+Optional	"[{:family=>""Nawy"", :given=>""E.G.""}]"	Reinforced Concrete - A Fundamental Approach	book		2003	14
+Optional	"[{:family=>""Nielsen"", :given=>""N.P.""}]"	Limit Analysis and Concrete Plasticity	book		1999	14
+Optional	"[{:family=>""Nilson"", :given=>""A.H.""}, {:family=>""Darwin"", :given=>""D.""}, {:family=>""Dolan"", :given=>""C.W.""}]"	Design of Concrete Structures	book		2004	14
+Optional	"[{:family=>""Niordson"", :given=>""F.I.""}]"	Shell Theory	book		1985	14
+Optional	"[{:family=>""Park"", :given=>""R.""}, {:family=>""Pauley"", :given=>""T.""}]"	Reinforced Concrete Structures	book		1975	14
+Optional	"[{:family=>""Park"", :given=>""R.""}, {:family=>""Gamble"", :given=>""W.L.""}]"	Reinforced Concrete Slabs	book		2002	14
+Optional	"[{:family=>""Penelis"", :given=>""G.G.""}, {:family=>""Kappos"", :given=>""A.J.""}]"	Earthquake Resistant Concrete Structures	book		1997	14
+Optional	"[{:family=>""Ramamurthy"", :given=>""L.N.""}]"	Investigation of the Ultimate Strength of Square and Rectangular Columns under Biaxially Eccentric Loads	article-journal	Reinforced Concrete Columns	1966	14
+Optional	"[{:family=>""Sacks"", :given=>""R.""}, {:family=>""Buyukozturk"", :given=>""O.""}]"	Expert Interactive Design of R/C Columns under Biaxial Bending	article-journal	Journal of Computing in Civil Engineering	1987	14
+Optional	"[{:family=>""Tasuji"", :given=>""M.E.""}, {:family=>""Slate"", :given=>""F.O.""}, {:family=>""Nilson"", :given=>""A.H.""}]"	Stress-Strain Response and Fracture of Concrete in Biaxial Loading	article-journal	ACI Journal	1978	14
+Optional	"[{:family=>""Timoshenko"", :given=>""S.""}, {:family=>""Woinowsky-Krieger"", :given=>""S.""}]"	Theory of Plates and Shells	book		1959	14
+Optional	"[{:family=>""Wempner"", :given=>""G.""}, {:family=>""Talaslidis"", :given=>""D.""}]"	Mechanics of Solids and Shells: Theories and Applications	book		2003	14
+Optional	"[{:family=>""William"", :given=>""K.J.""}, {:family=>""Warnke"", :given=>""E.P.""}]"	Constitutive Model for The Triaxial Behavior of Concrete	article-journal	Int. Assoc. Bridge Struct. Engng. Proc	1975	14
+Optional	"[{:family=>""Wium"", :given=>""D.J.W.""}, {:family=>""Buyukozturk"", :given=>""O.""}]"	Behavior of Precast Segmental Concrete Bridges	report		1984	14
+Optional	"[{:family=>""Wium"", :given=>""D.J.W.""}, {:family=>""Buyukozturk"", :given=>""O.""}]"	Variability in Long-term Concrete Deformations	article-journal	Journal of Structural Engineering	1985	14
+Optional	"[{:family=>""Wood"", :given=>""R.H.""}]"	Plastic and Elastic Design of Slabs and Plates	book		1961	14
+Optional	"[{:family=>""Zingoni"", :given=>""A.""}]"	Shell Structures in Civil and Mechanical Engineering	book		1997	14
+Required	"[{:family=>""Bathe"", :given=>""K.J.""}]"	Finite Element Procedures			2014	103
+Required	"[{:family=>""Newman"", :given=>""J.N.""}]"	Marine Hydrodynamics			1977	117
+Optional	"[{:family=>""Mei"", :given=>""Chiang C.""}]"	The Applied Dynamics of Ocean Surface Waves	book		1989	117
+Optional	"[{:family=>""Faltinsen"", :given=>""O.M.""}]"	Sea Loads on Ships and Offshore Structures			1993	117
+Optional	"[{:family=>""Laitone"", :given=>""Edmund V.""}, {:family=>""Wehausen"", :given=>""John V.""}]"	Surface Waves	chapter	Encyclopedia of Physics	1960	117
+Required	"[{:family=>""Kerwin"", :given=>""Justin""}]"	Lecture Notes on Hydrofoils and Propellers			2001-01	116
+Optional	"[{:family=>""Kerwin"", :given=>""Justin E.""}, {:family=>""Hadler"", :given=>""Jacques B.""}]"	Principles of Naval Architecture Series: Propulsion	article-journal	The Society of Naval Architects and Marine Engineers	2010	116
+Required	"[{:family=>""Strang"", :given=>""Gilbert""}]"	Differential Equations and Linear Algebra	book		2014	102
+Required	"[{:family=>""Larson"", :given=>""Richard C.""}, {:family=>""Odoni"", :given=>""Amedeo R.""}]"	Urban Operations Research			2007	26
+Required	"[{:family=>""Grier"", :given=>""Nathaniel""}]"	Formulating a Mathematical Program: An Overview	chapter	2001		32
+Required	"[{:family=>""Blais"", :given=>""J.Y.""}, {:family=>""Lamont"", :given=>""J.""}, {:family=>""Rousseau"", :given=>""J.M.""}]"	The HASTUS Vehicle and Manpower Scheduling System at the Societe de transport de la Communaute urbaine de Montreal	article-journal	Interfaces	1990	32
+Required	"[{:literal=>""Odoni, A. R., J. -M. Rousseau, and N. H. M. Wilson.""}]"	Models in Urban and Air Transportation.” Chapter 5 in Operations Research and the Public Sector	article-journal	Handbooks in Operations Research and Management Science	1994	32
+Required	"[{:family=>""Shen"", :given=>""S.""}]"	Vehicle and Crew Scheduling			2000	32
+Required	"[{:family=>""Barnhart"", :given=>""C.""}, {:family=>""Cohn"", :given=>""A.M.""}, {:family=>""Johnson"", :given=>""E.L.""}, {:family=>""Klabjan"", :given=>""D.""}, {:family=>""Nemhauser"", :given=>""G.L.""}, {:family=>""Vance"", :given=>""P.H.""}]"	Airline Crew Scheduling	chapter	Handbook of Transportation Science	2001-11	32
+Required	"[{:family=>""Cohn"", :given=>""A.""}]"	Making the Trade-off Between Optimality and Tractability When Solving Large Transportation Models: A Case Study on the Airline Industry	chapter	2000		32
+Optional	"[{:family=>""Bradley"", :given=>""S.P.""}, {:family=>""Hax"", :given=>""A.C.""}, {:family=>""Magnanti"", :given=>""T.L.""}]"	Applied Mathematical Programming			1977	32
+Optional	"[{:family=>""Winston"", :given=>""W.L.""}]"	Operations Research: Applications and Algorithms			1994	32
+Required	"[{:family=>""Modest"", :given=>""Michael F.""}]"	Radiative Heat Transfer			2003	127
+Required	"[{:family=>""Chen"", :given=>""Gang""}]"	Nanoscale Energy Transport and Conversion: A Parallel Treatment of Electrons			2005	126
+Optional	"[{:family=>""Griffiths"", :given=>""D.J.""}]"	Quantum Mechanics	chapter	Introduction to Quantum Mechanics	1994	126
+Optional	"[{:family=>""Kittel"", :given=>""C.""}]"	Solid-State Physics	chapter	Introduction to Solid State Physics	1995	126
+Optional	"[{:family=>""Born"", :given=>""M.""}, {:family=>""Wolf"", :given=>""E.""}]"	Electromagnetism	chapter	Principles of Optics: Electromagnetic Theory of Propagation	1999	126
+Optional	"[{:family=>""Sze"", :given=>""S.M.""}]"	Electronics	chapter	Physics of Semiconductor Devices	1981	126
+Optional	"[{:family=>""Kittel"", :given=>""C.""}, {:family=>""Kroemer"", :given=>""H.""}]"	Thermal Physics	chapter	Thermal Physics	1980	126
+Optional	"[{:family=>""Vincenti"", :given=>""W.G.""}, {:family=>""Kruger"", :given=>""C.H."", :suffix=>""Jr""}]"	Kinetic Theory	chapter	Introduction to Physical Gas Dynamics	1975	126
+Required	"[{:family=>""Daganzo"", :given=>""C.F.""}]"	Fundamentals of Transportation and Traffic Operations	article-journal	Chapters	1997	33
+Required	"[{:family=>""Odoni"", :given=>""A.R.""}, {:family=>""Rousseau"", :given=>""J.M.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	Models in Urban and Air Transportation	chapter	Chapter 5 in Handbooks in Operations Research and Management Science	1994	33
+Required	"[{:family=>""Gabard"", :given=>""J.F.""}]"	Car-Following Models	chapter	Concise Encyclopedia of Traffic & Transportation Systems	1991	33
+Required	"[{:family=>""Daganzo"", :given=>""C.F.""}]"	Fundamental Diagrams	chapter	Fundamentals of Transportation and Traffic Operations	1997	33
+Required	"[{:family=>""Cohen"", :given=>""S.""}]"	Flow Variables	chapter	Concise Encyclopedia of Traffic & Transportation Systems	1991	33
+Required	"[{:family=>""Sheffi"", :given=>""Y.""}]"	Urban Transportation Networks			1985	33
+Required	"[{:family=>""Larson"", :given=>""R.C.""}, {:family=>""Odoni"", :given=>""A.R.""}]"	Urban Operations Research	article-journal	Chapter	1981	33
+Required	"[{:family=>""Burkard"", :given=>""R.E.""}]"	Shortest Path Algorithms	chapter	Concise Encyclopedia of Traffic and Transportation Systems	1991	33
+Required	"[{:family=>""Daganzo"", :given=>""C.F.""}]"	Equilibrium Analysis	chapter	Chapter 5 in Fundamentals of Transportation and Traflic Operations	1997	33
+Required	"[{:family=>""Daganzo"", :given=>""C.F.""}]"	_Fundamentals of Transportation and Traffic Operations._Pergamon Press-Elsevier Science			1997	33
+Required	"[{:family=>""Wattleworth"", :given=>""J.A.""}]"	Peak-Period Analysis and Control of a Freeway System	article-journal	Highway Research Record	1967	33
+Required	"[{:family=>""Papageorgiou"", :given=>""M.""}]"	A New Approach to Time-of-Day Control Based on a Dynamic Freeway Traffic Model	article-journal	Transportation Research	1980	33
+Required	"[{:family=>""Makigami"", :given=>""Y.""}]"	On-Ramp Control: Coordinated Time-of-Day Strategies	chapter	Concise Encyclopedia of Traffic and Transportation Systems	1991	33
+Required	"[{:family=>""M."", :given=>""Hillier F.""}, {:family=>""Lieberman"", :given=>""G.J.""}]"	Queueing Theory	chapter	Chapter 15 in Introduction to Operations Research	1995	33
+Required	"[{:family=>""M."", :given=>""Hillier F.""}, {:family=>""Lieberman"", :given=>""G.J.""}]"	Simulation	chapter	Chapter 21 in Introduction to Operations Research	1995	33
+Required	"[{:family=>""Webster"", :given=>""F.V.""}]"	Traffic Signal Settings	article-journal	Road Research Technical Paper	1958	33
+Required	"[{:family=>""Odoni"", :given=>""A.R.""}]"	Issues in Air Traffic Flow Management				33
+Required	"[{:family=>""Barcelo"", :given=>""J.""}]"	Traffic Management Systems	chapter	Concise Encyclopedia of Traffic and Transportation Systems	1991	33
+Required	"[{:family=>""Stathopoulos"", :given=>""A.""}]"	Route Guidance	chapter	Concise Encyclopedia of Traffic and Transportation Systems	1991	33
+Optional	"[{:family=>""Daganzo"", :given=>""Carlos F.""}]"	Logistics Systems Analysis	book		1991	33
+Optional	"[{:family=>""Watson"", :given=>""H.""}]"	Computer Simulation in Business	book		1981	33
+Optional	"[{:family=>""Nersesian"", :given=>""R.""}, {:family=>""Swartz"", :given=>""G.Boyd""}]"	Computer Simulation in Logistics	book		1996	33
+Optional	"[{:family=>""Smith"", :given=>""J.U.M.""}]"	Computer Simulation Models	book		1968	33
+Optional	"[{:family=>""Manual"", :given=>""Highway Capacity""}]"	Transportation Research Board	book		1985	33
+Required	"[{:family=>""Horowitz"", :given=>""Ellis""}, {:family=>""Sahni"", :given=>""Sartaj""}, {:family=>""Rajasekaran"", :given=>""Sanguthevar""}]"	Computer Algorithms / C++			2007	27
+Required	"[{:family=>""Cormen"", :given=>""Thomas""}, {:family=>""Leiserson"", :given=>""Charles""}, {:family=>""Rivest"", :given=>""Ronald""}, {:family=>""Stein"", :given=>""Clifford""}]"	Introduction to Algorithms			2001	27
+Required	"[{:family=>""Horstmann"", :given=>""Cay""}]"	Big Java			2009	27
+Required	"[{:family=>""Syverson"", :given=>""Bryan""}, {:family=>""Murach"", :given=>""Joel""}]"	Murach’s SQL Server 2005 for Developers	book		2006	27
+Required	"[{:family=>""Fisher"", :given=>""Maydene""}, {:family=>""Ellis"", :given=>""Jon""}, {:family=>""Bruce"", :given=>""Jonathan""}]"	JDBC API Tutorial and Reference			2003	27
+Required	"[{:family=>""Newell"", :given=>""C.""}]"	Application of Queuing Theory			1982	27
+Required	"[{:family=>""Press"", :given=>""William""}, {:family=>""Teukolsky"", :given=>""Saul""}, {:family=>""Vetterling"", :given=>""William""}, {:family=>""Flannery"", :given=>""Brian""}]"	Numerical Recipes: The Art of Scientific Computing			2007	27
+Required	"[{:family=>""Sheffi"", :given=>""Yosef""}]"	Urban Transportation Networks: Equilibrium Analysis with Mathematical Programming Methods			1985	27
+Required	"[{:family=>""Kocur"", :given=>""George""}, {:family=>""Hendrickson"", :given=>""Chris""}]"	Design of Local Bus Service with Demand Equilibration	article-journal	Transportation Science	1982	27
+Required	"[{:family=>""Isenberg"", :given=>""Daniel J.""}]"	How Senior Managers Think	article-journal	Harvard Business Review (November-December		31
+Required	"[{:family=>""Lindblom"", :given=>""Charles""}]"	The Science of Muddling Through	article-journal	Public Administration Review	1989	31
+Required	"[{:family=>""Zaleznik"", :given=>""Abraham""}]"	Management and Leaders: Are They Different?	article-journal	Harvard Business Review	1992-03	31
+Required	"[{:family=>""Kanter"", :given=>""Rosabeth Moss""}]"	The New Managerial Work	article-journal	Harvard Business Review (November-December		31
+Required	"[{:family=>""Wack"", :given=>""Pierre""}]"	Scenarios: Shooting the Rapids	article-journal	Harvard Business Review	1985-11	31
+Required	"[{:family=>""Zack"", :given=>""Michael""}]"	Developing a Knowledge Strategy	article-journal	California Management Review	1999-04	31
+Required	"[{:family=>""Mintzberg"", :given=>""Henry""}]"	The Fall and Rise of Strategic Planning	article-journal	Harvard Business Review	1994-01	31
+Required	"[{:family=>""Jick"", :given=>""Todd D.""}]"	The Vision Thing	article-journal	Harvard Business School Case	1989	31
+Required	"[{:family=>""Hazard"", :given=>""J.""}]"	Managing National Transportation Policy	chapter	Chapter 2 in The Federal Executive Setting	1989	31
+Required	"[{:family=>""Coughlin"", :given=>""Joseph F.""}]"	Can a Cabinet Official Innovate? Entrepreneurial Politics and National Transportation Policy	article-journal	Public Works Management and Policy	1997-01	31
+Required	"[{:family=>""Vogel"", :given=>""David J.""}]"	The Study of Business and Politics	article-journal	California Management Review	1996	31
+Required	"[{:family=>""Kanter"", :given=>""Rosabeth Moss""}]"	The Institutional Perspective on Management	article-journal	Harvard Business School Research Note	1997	31
+Required		Public Policy and the Manager	article-journal	Harvard Business School Research Note	1993	31
+Required	"[{:family=>""Leone"", :given=>""Robert""}]"	Technology-Forcing Public Policies and the Automobile	chapter	Essays in Transportation Economics and Policy	1999	31
+Required	"[{:family=>""Lave"", :given=>""Charles""}, {:family=>""Lave"", :given=>""Lester""}]"	Fuel Economy and Auto Safety Regulation: Is the Cure Worse than the Disease?	chapter	Essays in Transportation Economics and Policy	1999	31
+Required		Unocal Corporation’s SCRAP: Crushing Old Cars for Credit	article-journal	Harvard Business School Case	1991	31
+Required	"[{:family=>""Hart"", :given=>""Stuart""}]"	Beyond Greening: Strategies for a Sustainable World	article-journal	Harvard Business Review	1997-01	31
+Required	"[{:family=>""Public Policy Studies"", :given=>""Diebold Institute"", :particle=>""for""}]"	The Need for Cooperation between the Public and Private Sectors,” and “The European ITS Experience: Lessons for the United States	chapter	Chapter 5	1995	31
+Required	"[{:family=>""Sisodia"", :given=>""Rajendra""}]"	Singapore Invests in the Nation-Corporation	article-journal	Harvard Business Review (May-June		31
+Required	"[{:family=>""Goetz""}, {:family=>""Szyliowicz"", :given=>""J.""}]"	Revisiting Transportation Planning and Decision Making Theory: The Case of Denver International Airport	article-journal	Transportation Research A	1997	31
+Required		BAE Automated Systems: Denver International Airport Baggage-Handling System	article-journal	Harvard Business School Case	1996	31
+Required	"[{:family=>""Truitt"", :given=>""Lawrence""}, {:family=>""Esler"", :given=>""Michael""}]"	Airport Privatization: Full Divesture and Its Alternatives	article-journal	Policy Studies Journal	1996	31
+Required	"[{:family=>""Gomez"", :given=>""Jose A.""}, {:family=>""Meyer"", :given=>""John""}]"	Going Private: The International Experience with Transport Privatization			1993	31
+Required	"[{:family=>""Ray"", :given=>""Sally J.""}]"	Strategic Communications in Crisis Management			1999	31
+Required		Massachusetts Bay Transportation Authority (MBTA) Commuter Train and AMTRAK Train Collision	article-journal	Harvard Business School Case	1990	31
+Required	"[{:family=>""Christensen"", :given=>""Clayton""}, {:family=>""Overdorf"", :given=>""Michael""}]"	Meeting the Challenge of Disruptive Change	article-journal	Harvard Business Review (March-April		31
+Required	"[{:family=>""Rosegrant"", :given=>""Susan""}, {:family=>""Jick"", :given=>""Todd""}]"	Northwest Airlines Confronts Change	article-journal	Harvard Business School Case	1996	31
+Required	"[{:family=>""Prahalad"", :given=>""C.K.""}, {:family=>""Lieberthal"", :given=>""Kenneth""}]"	The End of Corporate Imperialism	article-journal	Harvard Business Review (July-August		31
+Required	"[{:family=>""Rosenzweig"", :given=>""Philip""}]"	Mercedes-Benz	article-journal	Harvard Business School Case	1993	31
+Required	"[{:family=>""Small"", :given=>""Kenneth""}, {:family=>""Verhoef"", :given=>""Erik T.""}]"	The Economics of Urban Transportation			2007	25
+Required		Essays in Transportation Economics and Policy: A Handbook in Honor of John R			1999	25
+Required	"[{:family=>""Cascetta"", :given=>""Ennio""}]"	Transportation Systems Analysis: Models and Applications			2009	25
+Required	"[{:family=>""Meyer"", :given=>""Michael""}, {:family=>""Miller"", :given=>""Eric""}]"	Urban Transportation Planning			2000	25
+Required	"[{:family=>""Rye"", :given=>""T.""}, {:family=>""Wilson"", :given=>""Nigel H.M.""}]"	The Urban Bus Situation in the UK: Recent Developments and a Case Study of Edinburgh	chapter	TRAIL Seminar on Competition	2002-03	25
+Required	"[{:family=>""Guo"", :given=>""Zhan""}, {:family=>""Wilson"", :given=>""Nigel H.M.""}]"	Assessment of the Transfer Penalty for Transit Trips: A GIS-Based Disaggregate Modeling Approach	article-journal	Transportation Research Record	2004	25
+Required	"[{:family=>""Voorde"", :particle=>""Van de""}, {:given=>""Eddy""}]"	What Future the Maritime Sector?	article-journal	Research in Transportation Economics	2005	25
+Required	"[{:family=>""Bowman"", :given=>""J.L.""}, {:family=>""Gopinath"", :given=>""D.""}, {:family=>""Ben-Akiva"", :given=>""Moshe""}]"	Estimating the Probability Distribution of a Travel Demand Forecast			2002	25
+Required	"[{:family=>""Lam"", :given=>""T.C.""}, {:family=>""Small"", :given=>""Kenneth""}]"	The Value of Time and Reliability: Measurement from a Value Pricing Experiment	article-journal	Transportation Research Part E	2001	25
+Required	"[{:family=>""Smith"", :given=>""Barry""}, {:others=>true}]"	Yield Management at American Airlines	article-journal	Interfaces	1992	25
+Required	"[{:family=>""Barnhart"", :given=>""Cynthia""}, {:others=>true}]"	Applications of Operations Research in the Air Transport Industry	article-journal	Transportation Science	2003	25
+Required	"[{:family=>""Boyd"", :given=>""E.Andrew""}, {:family=>""Kallesen"", :given=>""Royce""}]"	The Science of Revenue Management when Passengers Purchase the Lowest Available Fare	article-journal	Journal of Revenue and Pricing Management	2004	25
+Required	"[{:family=>""Wachs"", :given=>""Martin""}]"	Improving Efficiency and Equity in Transportation Finance	book		2003	25
+Required		Surface Transportation: Many Factors Affect Investment Decisions	book		2004	25
+Required		Cities on the Move: A World Bank Urban Transport Strategy Review			2002	25
+Required	"[{:family=>""Srinivasan"", :given=>""Karthik K.""}, {:family=>""Bhargav"", :given=>""P.V.Lakshmi""}, {:family=>""Ramadurai"", :given=>""Gitakrishnan""}, {:family=>""Muthuram"", :given=>""Vidhya""}, {:family=>""Srinivasan"", :given=>""Sumeeta""}]"	Determinants of Changes in Mobility and Travel Patterns in Developing Countries: Case Study of Chennai	article-journal	Transportation Research Record	2008	25
+Required	"[{:family=>""Murphy"", :given=>""Sean""}]"	Big Dig Pushes Bottlenecks Outward	article-journal	Boston Globe	2008-11-16	25
+Optional	"[{:family=>""Heaver"", :given=>""T.""}, {:family=>""Meersman"", :given=>""Hilde""}, {:family=>""Voorde"", :given=>""Eddy"", :particle=>""Van de""}]"	Co-operation and Competition in Internal Container Transport	article-journal	Maritime Policy and Management	2001	25
+Optional	"[{:family=>""Meersman"", :given=>""Hilde""}]"	Port Investments in an Uncertain Environment	article-journal	Research in Transportation Economics	2005	25
+Optional	"[{:family=>""Meersman"", :given=>""Hilde""}, {:family=>""Voorde"", :given=>""Eddy"", :particle=>""Van de""}]"	Competition and Ownership: Transferability of Experiences from Maritime Transport to Land-Based Modes	paper-conference	Chapter 15 in Competition and Ownership in Land Passenger Transport: Selected papers from the 9th International Conference	2007	25
+Optional	"[{:family=>""Ben-Akiva"", :given=>""M.""}, {:family=>""Bolduc"", :given=>""D.""}, {:family=>""Bradley"", :given=>""M.""}]"	Estimation of Travel Choice Models with Randomly Distributed Value of Time	article-journal	Transportation Research Record	1993	25
+Optional	"[{:family=>""Gopinath"", :given=>""D.A.""}, {:family=>""Ben-Akiva"", :given=>""Moshe""}]"	Estimation of Randomly Distributed Value of Time			1997	25
+Optional	"[{:family=>""Kriger"", :given=>""David""}, {:family=>""Shiu"", :given=>""Suzette""}, {:family=>""Naylor"", :given=>""Sasha""}]"	National Cooperative Highway Research Program Synthesis 364: Estimating Toll Road Demand and Revenue	book		2006	25
+Optional	"[{:family=>""Nicholson"", :given=>""Walter""}, {:family=>""Snyder"", :given=>""Christopher""}]"	Microeconomic Theory: Basic Principles and Extensions			2007	25
+Optional	"[{:family=>""Larsen"", :given=>""Richard""}, {:family=>""Marx"", :given=>""Morris""}]"	An Introduction to Mathematical Statistics and its Applications			2005	25
+Optional	"[{:family=>""DeGroot"", :given=>""Morris""}, {:family=>""Schervish"", :given=>""Mark""}]"	Probability and Statistics			2006	25
+Optional	"[{:family=>""Pindyck"", :given=>""Robert""}, {:family=>""Rubinfeld"", :given=>""Daniel""}]"	Econometric Models and Economic Forecasts			1997	25
+Optional	"[{:family=>""Greene"", :given=>""William""}]"	Econometric Analysis			2002	25
+Required	"[{:family=>""Woud"", :given=>""Hans Klein""}, {:family=>""Stapersma"", :given=>""Douwe""}]"	Design of Propulsion and Electric Power Generation Systems			2002	130
+Optional	"[{:family=>""Lewis"", :given=>""Edward V.""}]"	Resistance and Propulsion	article-journal	Principles of Naval Architecture	1988	130
+Optional	"[{:family=>""Wylen"", :particle=>""Van""}, {:family=>""J."", :given=>""Gordon""}, {:family=>""Sonntag"", :given=>""Richard E.""}]"	Fundamentals of Classical Thermodynamics			1973	130
+Required	"[{:family=>""Specter"", :given=>""Michael""}]"	The Last Drop	article-journal	The New Yorker	2006-10-23	124
+Required	"[{:family=>""Summary"", :given=>""Executive""}]"	Water for People			2003-03-22	124
+Required	"[{:family=>""Reynolds"", :given=>""T.D.""}, {:family=>""Richards"", :given=>""P.A.""}]"	Water Quality	chapter	Unit Operations and Processes in Environmental Engineering	1995	124
+Required	"[{:family=>""Stewart"", :given=>""Robert H.""}]"	Definition of Salinity	chapter	Section 6.1 in Introduction to Physical Oceanography	2008	124
+Required	"[{:family=>""D1141"", :given=>""A.S.T.M.Standard""}]"	Standard for Practice for the Preparation of Substitute Ocean Water	book		1998	124
+Required	"[{:family=>""Dean"", :given=>""Cornelia""}]"	Rising Acidity is Threatening Food Web of Oceans	article-journal	New York Times	2009-01-30	124
+Required	"[{:family=>""Fritzmann"", :given=>""C.""}, {:others=>true}]"	State-of-the-Art Reverse Osmosis Desalination	article-journal	Desalination	2007-10	124
+Required	"[{:family=>""Paul"", :given=>""D.R.""}]"	Reformulation of the Solution-Diffusion Theory of Reverse Osmosis	article-journal	Journal of Membrane Science	2004-10	124
+Required	"[{:family=>""Sauvet-Guichon"", :given=>""Bruno""}]"	Ashkelon Desalination Plant — A Successful Challenge	article-journal	Desalination	2007-02	124
+Required	"[{:family=>""Strathmann"", :given=>""Heiner""}]"	The Ion-Exchange Equilibrium and the Donnan Potential,” and “The Electrochemical Equilibrium	article-journal	chapter 2 in Ion-Exchange Membrane Separation Processes	2004	124
+Required	"[{:family=>""Probstein"", :given=>""Ronald F.""}]"	The Electrolytic Cell,” “Electrodialysis,” and “Ion Exchange	chapter	Sections 6.1-6.3 in Physicochemical Hydrodynamics	2003	124
+Required	"[{:family=>""Strathmann"", :given=>""Heiner""}]"	Electromembrane Processes: State-of-the-Art Processes and Recent Developments	book		2007	124
+Required	"[{:family=>""El-Sayed"", :given=>""Y.M.""}, {:family=>""Silver"", :given=>""R.S.""}, {:family=>""Spielger"", :given=>""K.S.""}, {:family=>""Laird"", :given=>""A.D.K.""}]"	Fundamentals of Distillation	article-journal	Chapter	1980	124
+Required	"[{:family=>""Miller"", :given=>""James E.""}]"	Review of Water Resources and Desalination Technologies	chapter	Sandia National Labs (March 2003): SAND 2003-0800		124
+Required	"[{:family=>""Hammer"", :given=>""Mark J.""}, {:family=>""Hammer"", :given=>""Mark J."", :suffix=>""Jr""}]"	Water Processing.” Chapter 7 in Water and Wastewater Technology			2007	124
+Required	"[{:family=>""Harleman"", :given=>""D.R.F.""}, {:family=>""Murcott"", :given=>""S.""}]"	An Innovative Approach to Urban Wastewater Treatment in the Developing World	chapter	Water21: Magazine of the International Water Association	2001-06	124
+Required	"[{:family=>""Ujang"", :given=>""Z.""}, {:family=>""Henze"", :given=>""M.""}]"	Sustainable Sanitation for Developing Countries	chapter	Chapter 1 in Municipal Wastewater Management in Developing Countries: Principles and Engineering	2006	124
+Required	"[{:family=>""Tarr"", :given=>""J.A.""}, {:others=>true}]"	Water and Wastes: A Retrospective Assessment of Wastewater Technology in the United States	article-journal	Technology and Culture	1984-04	124
+Required	"[{:family=>""Tarr"", :given=>""J.A.""}, {:family=>""Appendix"", :given=>""in del Porto""}, {:family=>""David""}, {:family=>""Steinfeld"", :given=>""Carol""}]"	Origins of the Piped Society			2000	124
+Required	"[{:family=>""Fath"", :given=>""Hassan E.S.""}, {:others=>true}]"	PV and Thermally Driven Small-Scale	article-journal	Desalination	2008	124
+Optional	"[{:family=>""Kemsley"", :given=>""Jyllian""}]"	Treating Sewage for Drinking Water	article-journal	Chemical and Engineering News	2008-01	124
+Optional	"[{:family=>""Halford"", :given=>""Bethany""}]"	Side Effects	article-journal	Chemical and Engineering News	2008-02	124
+Optional	"[{:family=>""Gardner-Outlaw"", :given=>""Tom""}, {:family=>""Engelman"", :given=>""Robert""}]"	Sustaining Water	article-journal	Population Action International	1997-05	124
+Optional	"[{:family=>""Barrionuevo"", :given=>""Alexei""}]"	Chilean Town Withers in Free Market for Water	article-journal	New York Times	2009-03-14	124
+Optional		Guidelines for Drinking-Water Quality	article-journal	World Health Organization	2008	124
+Optional		National Primary Drinking Water Regulations	article-journal	U.S. Environmental Protection Agency	2009-05	124
+Optional		Desalination for Safe Water Supply: Guidance for the Health and Environmental Aspects Applicable to Desalination	article-journal	World Health Organization	2007	124
+Optional	"[{:family=>""Hooley"", :given=>""J.P.""}, {:family=>""Pittner"", :given=>""G.A.""}, {:family=>""Amjad"", :given=>""Z.""}]"	The Importance of Water Analysis for Reverse Osmosis Design and Operation	chapter	Chapter 5 in Amjad	1993	124
+Optional	"[{:family=>""Pitzer"", :given=>""Kenneth S.""}, {:family=>""Peiper"", :given=>""J.Christopher""}, {:family=>""Busey"", :given=>""R.H.""}]"	Thermodynamic Properties of Aqueous Sodium Chloride Solutions	article-journal	Journal of Physical Chemical Reference Data	1984	124
+Optional	"[{:family=>""Bromley"", :given=>""L.A.""}, {:others=>true}]"	Thermodynamic Properties of Sea Salt Solutions	article-journal	American Institute of Chemical Engineers Journal	1974-03	124
+Optional	"[{:family=>""D1141"", :given=>""A.S.T.M.Standard""}]"	Standard for Practice for the Preparation of Substitute Ocean Water	book		1998	124
+Optional	"[{:family=>""Sharqawy"", :given=>""M.H.""}, {:family=>""V"", :given=>""J.H.Lienhard""}, {:family=>""Zubair"", :given=>""S.M.""}]"	The Thermophysical Properties of Seawater: A Review of Existing Correlations and Data	article-journal	Desalination and Water Treatment	2010	124
+Optional	"[{:family=>""Sauvet-Guichon"", :given=>""Bruno""}]"	Ashkelon Desalination Plant – A Successful Challenge	article-journal	Desalination	2007-02	124
+Optional	"[{:family=>""Probstein"", :given=>""Ronald F.""}]"	Reverse Osmosis and Mixed Heterogeneous Reactions	chapter	Section 4.4 in Physicochemical Hydrodynamics	2003	124
+Optional	"[{:family=>""Yasuda"", :given=>""H.""}, {:family=>""Lamaze"", :given=>""C.E.""}]"	Salt Rejection by Polymer Membranes in Reverse Osmosis	article-journal	I. Nonionic Polymers.” Journal of Polymer Science: Part A-2	1971	124
+Optional	"[{:family=>""Paul"", :given=>""D.R.""}]"	The Role of Membrane Pressure in Reverse Osmosis	article-journal	Journal of Applied Polymer Science	1972	124
+Optional	"[{:literal=>""———.""}]"	Reformulation of the Solution-Diffusion Theory of Reverse Osmosis	article-journal	Journal of Membrane Science	2004-10	124
+Optional	"[{:family=>""Cath"", :given=>""Tzahi Y.""}, {:family=>""Childress"", :given=>""Amy E.""}, {:family=>""Elimelech"", :given=>""Menachem""}]"	Forward Osmosis: Principles	article-journal	Journal of Membrane Science	2006	124
+Optional	"[{:family=>""Hilal"", :given=>""N.""}, {:others=>true}]"	A Comprehensive Review of Nanofiltration Membranes	article-journal	Desalination	2004	124
+Optional	"[{:family=>""Asatekin"", :given=>""Ayse""}, {:others=>true}]"	Antifouling Nanofiltration Membranes for Membrane Bioreactors from Self-Assembling Graft Copolymers	article-journal	Journal of Membrane Science	2006	124
+Optional	"[{:family=>""Asatekin"", :given=>""Ayse""}, {:family=>""Mayes"", :given=>""Anne M.""}]"	Amphiphilic Graft Copolymers for Nanofiltration Membranes with Tunable Pore Size	article-journal	MRS	2006	124
+Optional	"[{:family=>""Probstein"", :given=>""Ronald F.""}]"	The Electrolytic Cell”	chapter	Sections 6.1-6.3 in Physicochemical Hydrodynamics	2003	124
+Optional	"[{:family=>""Strathmann"", :given=>""Heiner""}]"	The Ion-Exchange Equilibrium and the Donnan Potential,” and “The Electrochemical Equilibrium	article-journal	Ion-Exchange Membrane Separation Processes	2004	124
+Optional	"[{:family=>""Hasson"", :given=>""David""}, {:family=>""Heike""}, {:family=>""Ulrich"", :given=>""Joachim""}]"	Scale Formation and Prevention	chapter	Galde	2001-04	124
+Optional	"[{:family=>""Flemming"", :given=>""Hans-Curt""}, {:others=>true}, {:family=>""Geesey"", :given=>""Gill G.""}, {:family=>""Lewandowski"", :given=>""Zbigniew""}, {:family=>""Flemming"", :given=>""Hans-Curt""}]"	Effects and Extent of Biofilm Accumulation in Membrane Systems	article-journal	Chapter	1994	124
+Optional	"[{:family=>""Wade"", :given=>""Neil M.""}]"	Distillation Plant Development and Cost Update	article-journal	Desalination	2001	124
+Optional	"[{:family=>""Ophir"", :given=>""A.""}, {:family=>""Lokiec"", :given=>""F.""}]"	Advanced MED Process for Most Economical Seawater Desalination	article-journal	Desalination	2005	124
+Optional	"[{:family=>""El-Dessouky"", :given=>""H.""}, {:family=>""Ettouney"", :given=>""H.""}]"	Flash Desalination Processes.” Section 3.22 in Heat Exchanger Design Handbook			2002	124
+Optional	"[{:family=>""Kahraman"", :given=>""Nafiz""}, {:others=>true}]"	Exergy Analysis of a Combined RO	article-journal	Desalination	2004	124
+Optional	"[{:family=>""Spiegler"", :given=>""K.S.""}, {:family=>""El-Sayed"", :given=>""Y.M.""}]"	The Energetics of Desalination Processes	article-journal	Desalination	2001	124
+Optional	"[{:family=>""Hammer"", :given=>""M.J.""}, {:family=>""Hammer"", :given=>""M.J.""}]"	Water Treatment.” Chapter 7 in Water and Wastewater Technology			2007	124
+Optional	"[{:family=>""Trieb"", :given=>""Franz""}, {:others=>true}]"	AQUA-CSP: Concentrating Solar Power for Seawater Desalination	book		2007-11	124
+Optional	"[{:family=>""Narayan"", :given=>""G.P.""}, {:family=>""Sharqawy"", :given=>""M.H.""}, {:family=>""Summers"", :given=>""E.K.""}, {:family=>""V"", :given=>""J.H.Lienhard""}, {:family=>""Zubair"", :given=>""S.M.""}, {:family=>""Antar"", :given=>""M.A.""}]"	The Potential of Solar-driven Humidification-dehumidification Desalination for Small-scale Decentralized Water Production	article-journal	Renewable and Sustainable Energy Reviews	2009	124
+Optional	"[{:family=>""Fath"", :given=>""Hassan E.S.""}, {:others=>true}]"	PV and Thermally Driven Small-Scale	article-journal	Desalination	2008	124
+Optional	"[{:family=>""Alarcón-Padilla"", :given=>""Diego-Cesar""}, {:others=>true}]"	First Experimental Results of a New Hybrid Solar/Gas Multi-Effect Distillation System: The AQUASOL Project	article-journal	Desalination	2008	124
+Optional	"[{:family=>""Ettouney"", :given=>""H.""}, {:family=>""Rizzuti"", :given=>""L.""}, {:family=>""Rizzuti"", :given=>""Lucio""}, {:family=>""Ettouney"", :given=>""Hisham M.""}, {:family=>""Cipollina"", :given=>""Andrea""}]"	Solar Desalination: A Challenge for Sustainable Fresh Water in the 21st Century	article-journal	Chapter	2007	124
+Optional	"[{:family=>""Koschikowski"", :given=>""Joachim""}, {:family=>""Weighaus"", :given=>""Marcel""}, {:family=>""Rommel"", :given=>""Matthias""}]"	Solar Thermal-Driven Desalination Plants Based on Membrane Distillation	article-journal	Desalination	2003	124
+Optional	"[{:family=>""Wilf"", :given=>""Mark""}]"	The Guide Book to Membrane Desalination Technology			2007	124
+Optional	"[{:family=>""Sandler"", :given=>""S.I.""}]"	Chemical			2006	124
+Optional	"[{:family=>""Twort"", :given=>""A.C.""}, {:family=>""Ratnayaka"", :given=>""D.D.""}, {:family=>""Brandt"", :given=>""M.J.""}]"	Water Supply			2001	124
+Optional	"[{:family=>""Baker"", :given=>""R.W.""}]"	Membrane Technology and Applications			2004	124
+Optional	"[{:family=>""Hammer"", :given=>""M.J.""}, {:family=>""Hammer"", :given=>""M.J."", :suffix=>""Jr""}]"	Water and Wastewater Technology			2007	124
+Optional	"[{:family=>""Reynolds"", :given=>""T.D.""}, {:family=>""Richards"", :given=>""P.A.""}]"	Unit Operations and Processes in Environmental Engineering			1995	124
+Optional	"[{:family=>""Glasstone"", :given=>""S.""}]"	Thermodynamics for Chemists	book		1947	124
+Optional	"[{:family=>""Strathmann"", :given=>""H.""}]"	Ion-Exchange Membrane Separation Processes			2004	124
+Optional	"[{:family=>""El-Dessouky"", :given=>""H.T.""}, {:family=>""Ettouney"", :given=>""H.M.""}]"	Fundamentals of Salt Water Desalination			2002	124
+Required	"[{:family=>""Panton"", :given=>""Ronald L.""}]"	Incompressible Flow			2013	118
+Required	"[{:family=>""Kundu"", :given=>""Pijush K.""}, {:family=>""Cohen"", :given=>""Ira M.""}]"	Fluid Mechanics			2015	118
+Required	"[{:family=>""Fay"", :given=>""James A.""}]"	Introduction to Fluid Mechanics			1994	118
+Optional	"[{:family=>""Eggers"", :given=>""Jens""}, {:family=>""Villermaux"", :given=>""Emmanuel""}]"	Physics of Liquid Jets	article-journal	Reports on Progress in Physics	2008	118
+Optional	"[{:family=>""Website"", :given=>""Prof John Bush’s""}]"	Professor John Bush has many images of surface tension related phenomena				118
+Optional	"[{:family=>""Woodward"", :given=>""Ian""}]"	Plant Science: Tall Storeys	article-journal	Nature	2004	118
+Optional	"[{:family=>""Thoroddsen"", :given=>""S.T.""}, {:family=>""Takehara"", :given=>""K.""}]"	The Coalescence Cascade of a Drop	article-journal	Physics of Fluids	2000	118
+Optional	"[{:literal=>""Anderson Jr., John D.""}]"	Ludwig Prandtl’s Boundary Layer	article-journal	Physics Today	2005	118
+Optional	"[{:family=>""Avila"", :given=>""Kerstin""}, {:family=>""Moxey"", :given=>""David""}, {:others=>true}]"	The Onset of Turbulence in Pipe Flow	article-journal	Science	2011	118
+Optional	"[{:family=>""Zeidan"", :given=>""F.Y.""}, {:family=>""Jain"", :given=>""Dilip""}]"	Application of Hydrodynamic Thrust Bearings in Submersible Pumps	chapter	ESP Workshop held in	April 26–28	118
+Optional	"[{:family=>""McHugh"", :given=>""Jim""}]"	Albert Kingsbury – His Life and Times	article-journal	Sound & Vibration	2003-10	118
+Optional	"[{:family=>""Bird"", :given=>""R.Byron""}, {:family=>""Armstrong"", :given=>""Robert C.""}, {:family=>""Hassager"", :given=>""Ole""}]"	Dynamics of Polymeric Liquids			1987	118
+Optional	"[{:family=>""Newman"", :given=>""John Nicholas""}]"	Hydrodynamic Pressure Forces	chapter	Section 4.12 in Marine Hydrodynamics	1977	118
+Optional	"[{:family=>""Astarita"", :given=>""Gianni""}, {:family=>""Mackay"", :given=>""Michael E.""}]"	The Generalized Engineering Bernoulli Equation (GEBE) and the First and Second Laws of Thermodynamics for Viscoelastic Fluids	article-journal	Journal of Rheology	1996	118
+Optional	"[{:family=>""Tritton"", :given=>""D.J.""}]"	Physical Fluid Dynamics			2013	118
+Optional	"[{:family=>""Schlichting"", :given=>""H.""}, {:family=>""Gersten"", :given=>""K.""}]"	Boundary Layer Theory			2000	118
+Optional		Multimedia Fluid Mechanics			2011	118
+Optional	"[{:family=>""Matthews"", :given=>""Jermey N.A.""}]"	Low-drag Suit Propels Swimmers	article-journal	Physics Today	2008	118
+Optional	"[{:family=>""Pope"", :given=>""Stephen B.""}]"	Turbulent Flows			2000	118
+Required	"[{:family=>""Thompson"", :given=>""P.A.""}]"	Compressible Fluid Dynamics			1972	119
+Required	"[{:family=>""Taylor"", :given=>""Geoffrey""}]"	The Formation of a Blast Wave by a Very Intense Explosion. I. Theoretical Discussion_._	article-journal	Proceedings of the Royal Society of London. Series A	1950	119
+Optional	"[{:family=>""Landau"", :given=>""L.D.""}, {:family=>""Lifshitz"", :given=>""E.M.""}]"	Fluid Mechanics	book		1995	119
+Optional	"[{:family=>""Liepmann"", :given=>""H.W.""}, {:family=>""Roshko"", :given=>""A.""}]"	Elements of Gas Dynamics	book		2001	119
+Optional	"[{:family=>""Oosthuizen"", :given=>""P.H.""}, {:family=>""Carscallen"", :given=>""W.E.""}]"	Compressible Fluid Flow	book		1997	119
+Optional	"[{:family=>""Saad"", :given=>""M.A.""}]"	Compressible Fluid Flow	book		1993	119
+Optional	"[{:family=>""White"", :given=>""F.M.""}]"	Viscous Fluid Flow	book		1991	119
+Optional	"[{:family=>""Zel’dovich"", :given=>""Ya B.""}, {:family=>""Raizer"", :given=>""Yu P.""}]"	Physics of Shock Waves and High-Temperature Hydrodynamics Phenomena	book		2002	119
+Optional	"[{:family=>""Courant"", :given=>""R.""}, {:family=>""Friedrichs"", :given=>""K.O.""}]"	Supersonic Flow and Shock Waves	book		1976	119
+Optional	"[{:family=>""Shapiro"", :given=>""A.H.""}]"	Compressible Fluid Flow 1 and 2	book		1953	119
+Optional	"[{:family=>""Anderson"", :given=>""J.D.""}]"	Modern Compressible Flow with Historical Perspective	book		1990	119
+Optional	"[{:family=>""Vincenti"", :given=>""W.G.""}, {:family=>""Kruger"", :given=>""C.H.""}]"	Introduction to Physical Gas Dynamics	book		1975	119
+Optional		Purdue University Thermophysical Properties Research Center. Thermophysical Properties of Matter			1970	125
+Optional	"[{:family=>""Reid"", :given=>""R.C.""}]"	The Properties of Gases and Liquids			1987	125
+Optional	"[{:family=>""Vargaftik"", :given=>""N.B.""}]"	Handbook of Physical Properties of Liquids and Gases: Pure Substances and Mixtures			1983	125
+Optional	"[{:family=>""Bellows"", :given=>""James C.""}, {:family=>""Gallagher"", :given=>""John S.""}, {:family=>""Harvey"", :given=>""Allan H.""}, {:family=>""Parry"", :given=>""William T.""}]"	ASME Steam Tables for Industrial Use			2000	125
+Optional	"[{:family=>""Poling"", :given=>""B.E.""}, {:others=>true}]"	The Properties of Gases and Liquids			2000	125
+Optional	"[{:family=>""Lienhard"", :given=>""J.H."", :suffix=>""IV""}, {:family=>""Lienhard"", :given=>""J.H.""}, {:given=>""V.""}]"	A Heat Transfer Version Textbook			2008	125
+Optional	"[{:family=>""Mills"", :given=>""A.F.""}]"	Basic Heat and Mass Transfer			1999	125
+Optional	"[{:family=>""Baehr"", :given=>""H.D.""}, {:family=>""Stephan"", :given=>""K.""}]"	Heat and Mass Transfer			1998	125
+Optional	"[{:family=>""Cengel"", :given=>""Y.A.""}]"	Heat Transfer: A Practical Approach			2002	125
+Optional	"[{:family=>""MathWorks"", :given=>""Inc""}]"	Partial Differential Equation	book		1995	125
+Required	"[{:family=>""Honsberg"", :given=>""C.""}, {:family=>""Bowden"", :given=>""S.""}]"	Photovoltaics: Devices				131
+Required	"[{:family=>""Green"", :given=>""M.A.""}]"	Solar Cells: Operating Principles			1981	131
+Optional		Applied Photovoltaics			2006	131
+Optional		Handbook of Photovoltaic Science and Engineering			2003	131
+Optional	"[{:family=>""Yu"", :given=>""P.""}, {:family=>""Cardona"", :given=>""M.""}]"	Fundamentals of Semiconductors: Physics and Materials Properties			2004	131
+Optional	"[{:family=>""Kazmerski"", :given=>""L.""}]"	Solar Photovoltaics R&D at the Tipping Point: A 2005 Technology Overview	article-journal	J_ournal of Electron Spectroscopy and Related Phenomena_	2006	131
+Optional	"[{:family=>""Nelson"", :given=>""J.""}]"	The Physics of Solar Cells			2003	131
+Optional	"[{:family=>""Bube"", :given=>""R.""}]"	Photovoltaic Materials			1998	131
+Optional	"[{:family=>""Green"", :given=>""M.""}]"	Silicon Solar Cells: Advanced Principles and Practice	article-journal	Centre Photovoltaic Devices & Systems	1995	131
+Optional	"[{:family=>""Poortmans"", :given=>""J.""}, {:family=>""Arkhipov"", :given=>""V.""}]"	Thin Film Solar Cells: Fabrication			2006	131
+Optional	"[{:family=>""Schroder"", :given=>""D.""}]"	Semiconductor Material and Device Characterization			1998	131
+Optional	"[{:family=>""Kittel"", :given=>""Charles""}]"	Introduction to Solid State Physics			2004	131
+Optional	"[{:family=>""Ashcroft"", :given=>""N.""}, {:family=>""Mermin"", :given=>""D.""}]"	Solid State Physics			1976	131
+Optional	"[{:family=>""Aberle"", :given=>""A.""}]"	Crystalline Silicon Solar Cells: Advanced Surface Passivation and Analysis			1999	131
+Required	"[{:family=>""Sussman"", :given=>""Joseph""}]"	Introduction to Transportation Systems			2000	24
+Optional	"[{:family=>""Committee"", :given=>""T.R.B.Executive""}]"	Critical Issues in Transportation 2005				24
+Optional	"[{:family=>""Transportation"", :given=>""United States Department"", :particle=>""of""}]"	The Secretary’s Vision	chapter	Department of Transportation Strategic Plan 2003-2008		24
+Optional	"[{:family=>""Board"", :given=>""Federal Transportation Advisory""}]"	Vision 2050: An Integrated National Transportation System				24
+Optional	"[{:family=>""Sussman"", :given=>""Joseph M.""}]"	Educating the New Transportation Professional	article-journal	ITS Quarterly	1995	24
+Optional	"[{:family=>""Pisarski"", :given=>""Alan E.""}]"	Prescriptions for Research: Reviewing the History of TRB’s Critical Issues in Transportation	article-journal	TR News	2003-05	24
+Optional	"[{:family=>""Board"", :given=>""Transportation Research""}]"	The Interstate Achievement: Getting There and Beyond	article-journal	TR News	2006-05	24
+Optional	"[{:family=>""Manheim"", :given=>""Marvin L.""}]"	Challenge of Transportation Systems Analysis	chapter	Fundamentals of Transportation Systems Analysis	1979	24
+Optional	"[{:family=>""Gomez-Ibañez"", :given=>""Jose A.""}, {:family=>""Tye"", :given=>""William B.""}, {:family=>""Winston"", :given=>""Clifford""}]"	Demand	chapter	Essays in Transportation Economics and Policy	1999	24
+Optional	"[{:family=>""Shrock"", :given=>""David L.""}]"	The Functional Approach to Motor Carrier Costing: Applications and Limitations	paper-conference	Proceedings	1986	24
+Optional	"[{:family=>""Martland"", :given=>""Carl""}]"	Allocating the Costs of Railroad Infrastructure to Specific Traffic Classes	paper-conference	Proceedings of Workshop on Integrated Transportation and Economic Modeling (ITEM	2001	24
+Optional	"[{:family=>""Martland"", :given=>""Carl""}]"	Performance-Based Technology Scanning Applied to Containerizable Freight Traffic	article-journal	Journal of the Transportation Research Forum	2003	24
+Optional	"[{:family=>""Guo"", :given=>""Zhan""}, {:family=>""Wilson"", :given=>""Nigel H.M.""}]"	Assessment of the Transfer Penalty for Transit Trips: A GIS-based Disaggregate Modeling Approach	article-journal	Transportation Research Record	2004	24
+Optional	"[{:family=>""Pucher"", :given=>""John""}, {:family=>""Lefevre"", :given=>""Christian""}]"	The Urban Transport Crisis in Europe and North America			1996	24
+Optional	"[{:family=>""Furth"", :given=>""P.G.""}, {:family=>""Wilson"", :given=>""N.""}]"	Setting Frequencies on Bus Routes: Theory and Practice	article-journal	Transportation Research Record	1981	24
+Optional	"[{:family=>""Kumar"", :given=>""Vimal""}, {:family=>""Martland"", :given=>""Carl D.""}]"	Assessment of Current Project Evaluation Techniques	chapter	Working Paper PE-1	2003-09	24
+Optional	"[{:family=>""Program"", :given=>""National Cooperative Highway Research""}]"	Emerging Models for Delivering Transportation Programs and Services	article-journal	Research Results Digest	1999-03	24
+Optional	"[{:family=>""Molina"", :given=>""Luisa""}]"	Air Quality in the Mexico Megacity: An Integrated Assessment			2002	24
+Optional	"[{:family=>""Board"", :given=>""Transportation Research""}]"	New York City’s Subway Century	article-journal	TR News	2006-01	24
+Optional	"[{:family=>""Coughlin"", :given=>""Joseph F.""}, {:family=>""Reimer"", :given=>""Bryan""}]"	New Demands from an Older Population: An Integrated Approach to Defining the Future of Older Driver Safety	paper-conference	Proceedings of the SAE Convergence Conference	2006	24
+Required	"[{:family=>""Sussman"", :given=>""Joseph""}]"	Introduction to Transportation Systems			2000	30
+Required	"[{:family=>""Sussman"", :given=>""Joseph""}]"	Perspectives on Intelligent Transportation Systems (ITS			2005	30
+Required	"[{:family=>""Committee"", :given=>""T.R.B.Executive""}]"	Critical Issues in Transportation 2002	article-journal	TR News	2001-11	30
+Required	"[{:family=>""Martland"", :given=>""Carl D.""}]"	Rail Freight Service Productivity from the Manager’s Perspective	article-journal	Transportation Research	1992	30
+Required	"[{:family=>""Sussman"", :given=>""Joseph M.""}]"	Transportation’s Rich History and Challenging Future–Moving Goods	article-journal	Transportation Research Circular	1996-08	30
+Required	"[{:family=>""Hoel"", :given=>""Lester A.""}]"	Historical Overview of U.S. Passenger Transportation	article-journal	Transportation Research Circular	1996-08	30
+Required	"[{:family=>""Thompson"", :given=>""Louis S.""}]"	High Speed Rail in the United States–Why Isn’t There More?	article-journal	Japan Railway and Transport Review	1994-10	30
+Required		To Travel Hopefully: A Survey of Commuting	article-journal	The Economist	1998-09-05	30
+Required	"[{:family=>""Sussman"", :given=>""Joseph M.""}]"	Transitions in the World of Transportation	article-journal	Transportation Quarterly	2002	30
+Required	"[{:family=>""Patrikalakis"", :given=>""N.M.""}, {:family=>""Maekawa"", :given=>""T.""}, {:family=>""Cho"", :given=>""W.""}]"	Shape Interrogation for Computer Aided Design and Manufacturing	book		2010	109
+Required	"[{:family=>""Beach"", :given=>""R.C.""}]"	An Introduction to Curves and Surfaces of Computer Aided Design	book		1991	109
+Required	"[{:family=>""Ding"", :given=>""Q.""}]"	Surface Engineering Geometry for Computer Aided Design and Manufacture	book		1987	109
+Required	"[{:family=>""Farin"", :given=>""G.E.""}]"	Curves and Surfaces for Computer Aided Geometric Design	book		1993	109
+Required	"[{:family=>""Faux"", :given=>""I.D.""}, {:family=>""Pratt"", :given=>""M.""}]"	Computational Geometry for Design and Manufacture				109
+Required	"[{:family=>""Hoschek"", :given=>""J.""}, {:family=>""Lasser"", :given=>""D.""}]"	Fundamentals of Computer Aided Geometric Design	book		1993	109
+Required	"[{:family=>""Lawrence"", :given=>""J.D.""}]"	A Catalog of Special Plane Curves	book		1972	109
+Required	"[{:family=>""Mortensen"", :given=>""M.E.Geometric Modeling J.Wiley""}]"				1985	109
+Required	"[{:family=>""Piegl"", :given=>""L.""}, {:family=>""Tiller"", :given=>""W.""}]"	The NURBS Book	book		1995	109
+Required	"[{:family=>""Rogers"", :given=>""D.F.""}]"	An Introduction to NURBS: With Historical Perspective	book		2000	109
+Required	"[{:family=>""Yamaguchi"", :given=>""F.""}]"	Curves and Surfaces in Computer Aided Geometric Design	book		1988	109
+Required	"[{:family=>""Yamaguchi"", :given=>""F.""}]"	Computer-Aided Geometric Design	book		2002	109
+Required	"[{:family=>""Hoffmann"", :given=>""C.""}]"	Geometric and Solid Modeling	book		1989	109
+Required	"[{:family=>""Mantyla"", :given=>""M.""}]"	An Introduction to Solid Modeling	book		1988	109
+Required	"[{:family=>""Foley"", :given=>""J.D.""}]"	Computer Graphics	book		1990	109
+Required	"[{:family=>""Rogers"", :given=>""D.F.""}]"	Mathematical Elements for Computer Graphics	book		1990	109
+Required	"[{:family=>""Do Carmo"", :given=>""M.P.""}]"	Differential Geometry of Curves and Surfaces	book		1976	109
+Required	"[{:family=>""Gray"", :given=>""A.""}]"	Modern Differential Geometry of Curves and Surfaces	book		1993	109
+Required	"[{:family=>""Struik"", :given=>""D.J.""}]"	Lectures on Classical Differential Geometry	book		1950	109
+Required	"[{:family=>""Dahlquist"", :given=>""G.""}, {:family=>""Bjorck"", :given=>""A.""}]"	Numerical Methods	book		1974	109
+Required	"[{:family=>""Press"", :given=>""W.H.""}, {:others=>true}]"	Numerical Recipes in C: The Art of Scientific Computing	book		1988	109
+Required	"[{:given=>""Sonin""}]"	Fundamental Laws of Motion: Particles				120
+Required	"[{:family=>""Bird"", :given=>""Curtis""}, {:given=>""Hirschfelder""}]"	Molecular Theory of Gases and Liquid			1954	120
+Required	"[{:given=>""Vincenti""}, {:given=>""Kruger""}]"	_Introduction to Physical Gas Dynamics._1965				120
+Required	"[{:family=>""Champagne"", :given=>""Pao""}, {:given=>""Wygnaski""}]"		article-journal	J. Fluid Mech	1976	120
+Required	"[{:given=>""Rodi""}]"	Studies in Convection	book		1975	120
+Required	"[{:family=>""Chap"", :given=>""Townsend""}]"	6 in The Structure of Turbulent Shear Flow			1976	120
+Required	"[{:given=>""Cebeci""}, {:given=>""Smith""}]"	Analysis of Turbulent Boundary Layers	book		1974	120
+Required	"[{:given=>""Bushnell""}, {:given=>""McGinley""}]"	Turbulence control in wall flows	article-journal	Ann. Rev. Fluid Mech	1989	120
+Required	"[{:given=>""Blackwelder""}]"	Haritonidis	article-journal	J. Fluid Mech	1983	120
+Required	"[{:family=>""Morton"", :given=>""Taylor""}, {:given=>""Turner""}]"	Proc	article-journal	Roy. Soc. A	1956	120
+Required	"[{:given=>""Turner""}]"	Buoyancy Effects in Fluids			1973	120
+Required	"[{:given=>""Chen""}, {:given=>""Rodi""}]"	A Review of Experimental Data	book		1980	120
+Required	"[{:given=>""Chen""}, {:given=>""Yaw""}]"	Fundamentals of Turbulence Modeling	book		1998	120
+Required	"[{:given=>""Libby""}]"	Introduction to Turbulence	book		1996	120
+Required		LaJones	article-journal	Int. J. Heat Mass Transfer	1972	120
+Required		LaJones	article-journal	Int. J. Heat Mass Transfer	1973	120
+Required	"[{:family=>""Bradshaw"", :given=>""Cebeci""}, {:given=>""Whitelaw""}]"	Engineering Calculation Methods for Turbulent Flow	book		1981	120
+Required	"[{:given=>""Rodi""}]"	Turbulence models and their applications in Hydraulics– “a state of the art review	article-journal	Int. Assoc. for Hydraulics		120
+Required	"[{:given=>""Rodi""}]"	Engineering Turbulence Modelling and Experiments 3	book		1996	120
+Required	"[{:family=>""Chap"", :given=>""Turbulence""}]"	1 & 5	book		1978	120
+Required	"[{:family=>""Probstein"", :given=>""R.F.""}]"	Physicochemical Hydrodynamics	book		1994	120
+Required	"[{:given=>""Monin""}, {:given=>""Yaglom""}]"	Statistical Fluid Mechanics	book		1973	120
+Required	"[{:given=>""Levich""}]"	Physicochemical Hydrodynamics	book		1962	120
+Required	"[{:family=>""Fischer"", :given=>""H.B.""}]"	Longitudinal dispersion and turbulent mixing in open channel flow	article-journal	Ann. Rev. Fluid Mech	1973	120
+Required	"[{:family=>""Chatwin"", :given=>""P.C.""}, {:family=>""Sullivan"", :given=>""P.J.""}]"		article-journal	J. Fluid Mech	1982	120
+Optional	"[{:family=>""Hoerner"", :given=>""S.""}]"	Fluid Dynamic Drag			1993	108
+Optional		Fluid Dynamic Lift			1992	108
+Optional	"[{:family=>""Blevins"", :given=>""R.""}]"	Applied Fluid Dynamics Handbook			1984	108
+Optional		Principles of Naval Architecture			1967	108
+Optional	"[{:family=>""Fossen"", :given=>""T.""}]"	Guidance and Control of Ocean Vehicles			1994	108
+Optional	"[{:family=>""Morgan"", :given=>""M.""}]"	Dynamic Positioning of Offshore Vessels			1978	108
+Optional	"[{:family=>""Ogata"", :given=>""K.""}]"	Modern Control Engineering			2001	108
+Required	"[{:family=>""Lippman"", :given=>""S.""}, {:family=>""Primer"", :given=>""J.Lajoie C.++""}]"				1998-04	21
+Required	"[{:family=>""Sedgewick"", :given=>""R.""}]"	Algorithms in C++			2001-06	21
+Required	"[{:family=>""Campione"", :given=>""M.""}, {:family=>""Walrath"", :given=>""K.""}, {:family=>""Huml"", :given=>""A.""}]"	The Java® Tutorial			1999-12	21
+Optional	"[{:family=>""Deitel"", :given=>""H.""}, {:family=>""Deitel"", :given=>""P.""}]"	C++ How to Program			2002-08	21
+Optional	"[{:family=>""Stroustrup"", :given=>""B.""}]"	The C++ Programming Language				21
+Optional	"[{:given=>""Johnsonbaugh""}, {:given=>""Kalin""}]"	Object Oriented Programming in C++			1999-08	21
+Optional	"[{:family=>""Cline"", :given=>""M.""}, {:family=>""Girou"", :given=>""M.""}, {:family=>""Lomow"", :given=>""G.""}]"	C++ FAQs			1998-12	21
+Optional	"[{:family=>""Weiss"", :given=>""M.Algorithms""}]"	Data Structures and Problem Solving with C++			1999-11	21
+Optional	"[{:family=>""Cormen"", :given=>""T.""}, {:family=>""Leiserson"", :given=>""C.""}, {:family=>""Rivest"", :given=>""R.""}]"	Introduction to Algorithms			2001-09	21
+Optional	"[{:family=>""Horstmann"", :given=>""C.""}, {:family=>""Cornell"", :given=>""G.""}]"	Core Java® 2: Fundamentals			2002-08	21
+Optional	"[{:family=>""Arnold"", :given=>""K.""}, {:family=>""Gosling"", :given=>""J.""}, {:family=>""Holmes"", :given=>""D.""}]"	The Java® Programming Language			2000-06	21
+Optional	"[{:family=>""Deitel"", :given=>""H.""}, {:family=>""Deitel"", :given=>""P.""}]"	Java® How to Program			2001-08	21
+Required	"[{:family=>""Gordon"", :given=>""Deborah""}]"	American Transportation in the 20th Century.” Steering a New Course: Transportation			1991	35
+Required	"[{:family=>""Hardin"", :given=>""G.""}]"	The Tragedy of the Commons	article-journal	Science	1968-12	35
+Required	"[{:family=>""Weiner"", :given=>""E.""}]"	History of Urban Transportation Planning	chapter	Urban Transportation Planning in the United States: An Historical Overview Revised	1992	35
+Required		Environmental Policy from 1970s to the 1990s.” Environmental Policy: New Directions for the Twenty-First Century			2005	35
+Required	"[{:family=>""Paehlke"", :given=>""R.""}]"	Environmental Values and Public Policy			1997	35
+Required	"[{:family=>""Nivola"", :given=>""P.""}, {:family=>""Crandall"", :given=>""R.""}]"	The Policy Problem”			1995	35
+Required	"[{:family=>""Gordon"", :given=>""Deborah""}]"	Ultra-Fuel-Efficient Vehicles.” Steering a New Course: Transportation			1991	35
+Required	"[{:family=>""Howitt"", :given=>""A.""}, {:family=>""Altshuler"", :given=>""A.""}]"	The Politics of Controlling Auto Air Pollution	article-journal	Regulation for Revenue	1993	35
+Required	"[{:family=>""Nivola"", :given=>""P.""}, {:family=>""Crandall"", :given=>""R.""}]"	The Fuel Tax Option”			1995	35
+Required	"[{:family=>""Gomez-Ibanez"", :given=>""J.A.""}]"	Pricing	article-journal	Transportation Quarterly	1992-07	35
+Required	"[{:family=>""Freudenburg"", :given=>""Nicolas""}, {:family=>""Steinsapir"", :given=>""Carol""}]"	Not in Our Backyards: The Grassroots Environmental Movement	chapter	American Environmentalism: The U.S. Environmental Movement	1970	35
+Required	"[{:family=>""Dempsey"", :given=>""P.""}, {:family=>""Goetz"", :given=>""A.""}, {:family=>""Szyliowicz"", :given=>""J.""}]"	Three Hubs to One: The Folly of Forecasting in the Dynamic Airline Industry	chapter	Denver International Airport: Lessons Learned	1997	35
+Required	"[{:family=>""Kuttner"", :given=>""R.""}]"	Everything For Sale: The Limits of Markets			1997	35
+Required	"[{:family=>""Bullard"", :given=>""R.""}]"	Environmentalism and Social Justice	chapter	US Department of Transportation Order on Environmental		35
+Required	"[{:family=>""Rosenbaum"", :given=>""W.""}]"	Climate Diplomacy: The Emerging Politics of Global Environmentalism	chapter	Environmental Politics and Policy	1998	35
+Required	"[{:family=>""Gore"", :given=>""A.""}]"	Earth in the Balance			1993	35
+Required	"[{:family=>""Nijkamp"", :given=>""P.""}]"	Roads to Environmentally Sustainable Transport	article-journal	Transportation Research	1994	35
+Required	"[{:family=>""Schaefer"", :given=>""A.""}, {:family=>""Victor"", :given=>""D.""}]"	The Past and Future of Global Mobility	chapter	Scientific American	1997-10	35
+Required	"[{:family=>""Part"", :given=>""I.""}, {:family=>""Concerns"", :given=>""Common""}]"	Our Common Future. The World Commission on Environment and Development			1987	35
+Optional	"[{:family=>""Ang"", :given=>""Alfredo""}, {:family=>""Tang"", :given=>""Wilson""}]"	Probability Concepts in Engineering Planning and Design: Vol I - Basic Principles			1975	23
+Required	"[{:family=>""Rye"", :given=>""T.""}, {:family=>""Wilson"", :given=>""N.""}]"	The Urban Bus Situation in the UK: Recent Developments and a Case Study of Edinburgh	book		2002-03	37
+Required	"[{:family=>""Wilson"", :given=>""N.H.M.""}]"	Public Transport in the U.S.A.: A Critical Appraisal and Prospects For Future Industry Restructuring	book		2002-03	37
+Required	"[{:family=>""Gwilliam"", :given=>""K.""}]"	Ownership	chapter	Fifth International Competition and Ownership in Land Passenger Transport	1997-05	37
+Required	"[{:family=>""Halvorsen"", :given=>""R.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	The Role of Contract Structuring in Contracted Public Transport Performance: Theory and Practice	paper-conference	Proceedings of the Fourth International Conference on Competition and Ownership in Land Passenger Transport	1995-07	37
+Required	"[{:family=>""Blakey"", :given=>""Tara""}]"	Designing Transit Concession Contracts to Deal with Uncertainty	chapter	Master of Science in Transportation Thesis	2006	37
+Required		Using Archived AVL-APC Data to Improve Transit Performance and Management				37
+Required	"[{:family=>""Lee"", :given=>""Douglass""}]"	Transit Cost and Performance Measurement	article-journal	Transport Reviews	1989	37
+Required		The Role of Performance-Based Measures in Allocating Funding for Transit Operations				37
+Required		A Summary of TCRP Report 88: “A Guidebook for Developing a Transit Performance-Measurement System				37
+Required		Support for Fundamental Change in Public Transportation				37
+Required		Customer-Focused Transit			Project J-7	37
+Required		Innovative Financing Techniques for Transit Agencies				37
+Required		Fare Policies				37
+Required	"[{:family=>""Yi"", :given=>""Hong""}]"	Transition to Smart Card Technology: How Transit Operators Can Encourage the Take-Up of Smart Card Technology	chapter	Master of Science in Transportation Thesis	2006	37
+Required		A Handbook of Proven Marketing Strategies for Public Transit				37
+Required						37
+Required		A Challenged Employment System: Hiring				37
+Required		Practices in Assuring Employee Availability				37
+Required		Total Quality Management in Public Transportation				37
+Required		The Quality Journey: A TQM Roadmap for Public Transportation				37
+Required	"[{:family=>""Harsh"", :given=>""W."", :suffix=>""Jr""}]"	Innovative Labor-Management Practices	report		1995	37
+Required	"[{:family=>""Koutsopoulos"", :given=>""H.N.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	Operator Workforce Planning in the Transit Industry	article-journal	Transportation Research	1987	37
+Required	"[{:family=>""Shiftan"", :given=>""Y.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	Absence	article-journal	Transportation Research Record	1993	37
+Required		Light Rail Service: Vehicular and Pedestrian Safety				37
+Required		Monitoring Bus Maintenance Performance				37
+Required		Leveraging Information for Better Transit Maintenance				37
+Required		Information Technology Update for Transit				37
+Optional	"[{:family=>""Fielding"", :given=>""G.J.""}]"	Managing Public Transit Strategically			Pete	37
+Required	"[{:family=>""Chapra"", :given=>""Steven""}, {:family=>""Canale"", :given=>""Raymond""}]"	Numerical Methods for Engineers			2014	122
+Required	"[{:family=>""Ferziger"", :given=>""Joel H.""}, {:family=>""Peric"", :given=>""Milovan""}]"	Computational Methods for Fluid Dynamics			2013	122
+Required	"[{:family=>""Cebeci"", :given=>""Tuncer""}, {:family=>""Shao"", :given=>""Jian P.""}, {:others=>true}]"	Computational Fluid Dynamics for Engineers: From Panel to Navier-stokes Methods with Computer Programs			2005	122
+Optional	"[{:family=>""Kundu"", :given=>""Pijush K.""}, {:family=>""Cohen"", :given=>""Ira M.""}, {:family=>""Dowling"", :given=>""David R.""}]"	Fluid Mechanics			2015	122
+Optional	"[{:family=>""White"", :given=>""Frank""}]"	Fluid Mechanics			2010	122
+Optional	"[{:family=>""Lomax"", :given=>""Harvard""}, {:family=>""Pulliam"", :given=>""Thomas H.""}, {:family=>""Zingg"", :given=>""David W.""}]"	Fundamentals of Computational Fluid Dynamics			2004	122
+Optional	"[{:family=>""Wesseling"", :given=>""Pieter""}]"	Principles of Computational Fluid Dynamics			2000	122
+Optional	"[{:family=>""Versteeg"", :given=>""H.""}, {:family=>""Malalasekera"", :given=>""W.""}]"	An Introduction to Computational Fluid Dynamics: The Finite Volume Method			2007	122
+Optional	"[{:family=>""Durran"", :given=>""Dale R.""}]"	Numerical Methods for Fluid Dynamics: With Applications to Geophysics			2010	122
+Optional	"[{:family=>""Griebel"", :given=>""Michael""}, {:family=>""Dornsheifer"", :given=>""Thomas""}, {:family=>""Neunhoeffer"", :given=>""Tilman""}]"	Numerical Simulation in Fluid Dynamics: A Practical Introduction			1997	122
+Optional	"[{:family=>""Chung"", :given=>""T.J.""}]"	Computational Fluid Dynamics			2010	122
+Optional	"[{:family=>""Karniadakis"", :given=>""George Em""}, {:family=>""Sherwin"", :given=>""Spencer J.""}]"	Spectral / hp Element Methods for Computational Fluid Dynamics			2005	122
+Optional	"[{:family=>""Pozrikidis"", :given=>""Constantine""}]"	Introduction to Finite and Spectral Element Methods Using MATLAB			2014	122
+Optional	"[{:family=>""Roache"", :given=>""Patrick J.""}]"	Fundamentals of Computational Fluid Dynamics			1998	122
+Optional	"[{:family=>""Lapidus"", :given=>""Leon""}, {:family=>""Pinder"", :given=>""George F.""}]"	Numerical Solution of Partial Differential Equations in Science and Engineering	article-journal	Wiley-interscience	1999	122
+Optional	"[{:family=>""Fletcher"", :given=>""C.A.J.""}]"	Computational Techniques for Fluid Dynamics			2013	122
+Optional	"[{:family=>""Trefethen"", :given=>""Lloyd N.""}, {:family=>""Bau"", :given=>""David"", :suffix=>""III""}]"	Numerical Linear Algebra			1997	122
+Optional	"[{:family=>""Chapra"", :given=>""Steven""}, {:family=>""Canale"", :given=>""Raymond""}]"	Numerical Methods for Engineers			2014	122
+Optional	"[{:family=>""Lomax"", :given=>""Harvard""}, {:family=>""Pulliam"", :given=>""Thomas H.""}, {:family=>""Zingg"", :given=>""David W.""}]"	Fundmentals of Computational Fluid Dynamics			2004	122
+Optional	"[{:family=>""Wendt"", :given=>""John""}]"	Computational Fluid Dynamics: An Introduction			2008	122
+Optional	"[{:family=>""Löhner"", :given=>""Rainald""}]"	Applied Computational Fluid Dynamics Techniques: An Introduction Based on Finite Element Methods			2008	122
+Required	"[{:family=>""Bird"", :given=>""R.B.""}, {:family=>""Armstrong"", :given=>""R.C.""}, {:family=>""Hassager"", :given=>""O.""}]"	Dynamics of Polymeric Liquids			1987	123
+Optional	"[{:family=>""Reiner"", :given=>""M.""}]"	The Deborah Number	article-journal	Physics Today	1964	123
+Optional	"[{:family=>""Dealy"", :given=>""John M.""}]"	Weissenberg and Deborah Numbers Their Definition and Use	article-journal	Rheology Bulletin	2010	123
+Optional	"[{:family=>""Bilmes"", :given=>""L.""}]"	The Rheological Chart	article-journal	Nature	1942	123
+Optional	"[{:family=>""Sella"", :given=>""Andrea""}]"	Classic Kit: Weissenberg’s Camera	book		2011-11	123
+Optional	"[{:family=>""Denn"", :given=>""Morton""}]"	50 Years of Non-Newtonian Fluid Dynamics	article-journal	AIChE Journal	2004	123
+Optional	"[{:family=>""Wagner"", :given=>""N.J.""}, {:family=>""Brady"", :given=>""J.F.""}]"	Shear-Thickening in Colloidal Dispersions	article-journal	Physics Today	2009	123
+Optional	"[{:family=>""Balmforth"", :given=>""Frigaard""}, {:others=>true}]"	Yielding to Stress: Recent Developments in Viscoplastic Fluid Mechanics	article-journal	Annual Review of Fluid Mechanics	2014	123
+Optional	"[{:family=>""Ward"", :given=>""Ian M.""}]"	Chapter 5 in Mechanical Properties of Solid Polymers			1983	123
+Optional	"[{:family=>""Markovitz"", :given=>""H.""}]"	Boltzmann & the Beginnings of Linear Viscoelasticity	article-journal	Transactionas of the Society of Rheology	1977	123
+Optional	"[{:family=>""Rubinstein"", :given=>""M.""}, {:family=>""Colby"", :given=>""R.H.""}]"	Chapter 8 in Polymer Physics			2003	123
+Optional	"[{:family=>""Chandrasekhar"", :given=>""S.""}]"	Stochastic Processes in Physics and Astronomy	article-journal	Reviews of Modern Physics	1943	123
+Optional	"[{:family=>""Gennes"", :given=>""Pierre-Gilles de""}]"	Entangled Polymers	article-journal	Physics Today	1983	123
+Optional	"[{:family=>""Lodge"", :given=>""T.P.""}, {:family=>""Muthukumar"", :given=>""M.""}]"	Physical Chemistry of Polymers: Entropy	article-journal	The Journal of Physical Chemistry	1996	123
+Optional	"[{:family=>""Rubinstein""}, {:given=>""Colby""}]"	Chapter 9 in Polymer Physics (Chemistry			2003	123
+Optional	"[{:family=>""Malkin"", :given=>""A.Ya""}]"	The State of the Art in the Rheology of Polymers: Achievements and Challenges	article-journal	Polymer Science Series A	2009	123
+Optional	"[{:family=>""Prakash"", :given=>""J.Ravi""}]"	Micro and Macro in the Dynamics of Dilute Polymer Solution	article-journal	Korea-Australia Rheology Journal	2009	123
+Optional	"[{:family=>""Larson"", :given=>""R.G.""}]"	Constitutive Equations for Polymer Melts and Solutions: Butterworths Series in Chemical Engineering			2013	123
+Optional	"[{:family=>""Morrison"", :given=>""F.""}]"	Understanding Rheology			2001	123
+Optional	"[{:family=>""Doi"", :given=>""M.""}, {:family=>""Edwards"", :given=>""S.F.""}]"	The Theory of Polymer Dynamics			1986	123
+Optional	"[{:family=>""Graessley"", :given=>""W.W.""}]"	Polymeric Liquids & Networks: Dynamics and Rheology			2008	123
+Optional	"[{:family=>""Tanner"", :given=>""R.I.""}]"	Engineering Rheology (Oxford Engineering Science Series			2000	123
+Optional	"[{:family=>""Walters"", :given=>""K.""}]"	Rheometry			1975	123
+Optional	"[{:family=>""Probstein"", :given=>""R.F.""}]"	Physicochemical Hydrodynamics: An Introduction			1994	123
+Optional	"[{:family=>""Ferry"", :given=>""J.D.""}]"	Viscoelastic Properties of Polymers			1980	123
+Required	"[{:family=>""Bruun"", :given=>""E.C.""}]"	In Better Public Transit Systems: Analyzing Investments and Performance	article-journal	Routledge	2007	36
+Required	"[{:family=>""Furth"", :given=>""P.G.""}]"	Introduction to Public Transportation Systems” in Chapter 61: Urban Transit			2003	36
+Required	"[{:family=>""Neff"", :given=>""J.""}, {:family=>""Dickens"", :given=>""M.""}]"	Public Transportation Fact Book	book		2015	36
+Required		Transit Capacity and Quality of Service Manual	report		2003	36
+Required	"[{:family=>""Furth"", :given=>""P.G.""}, {:family=>""Attanucci"", :given=>""J.""}, {:family=>""Burns"", :given=>""I.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	Transit Data Collection Design Manual	report		1985	36
+Required	"[{:family=>""Furth"", :given=>""P.G.""}, {:family=>""Hemily"", :given=>""B.""}, {:family=>""Muller"", :given=>""T.""}, {:family=>""Strathman"", :given=>""J.""}]"	TCRP Report 113: Using Archived AVL-APC Data to Improve Transit Performance and Management	article-journal	Transportation Research Board	2006	36
+Required	"[{:family=>""Furth"", :given=>""P.G.""}]"	Synthesis of Transit Practice 34: Data Analysis for Bus Planning and Monitoring	article-journal	Transportation Research Board	2000	36
+Required	"[{:family=>""Dawson"", :given=>""W.R.""}]"	Optimizing Transit Service Decisions Based on Ridership – Good for Passengers and the Community	chapter	UITP Congress	1999-05	36
+Required	"[{:family=>""Benn"", :given=>""H.""}]"	Synthesis of Transit Practice 10: Bus Route Evaluation Standards	article-journal	Transportation Research Board	1995	36
+Required	"[{:family=>""Wilson"", :given=>""N.H.M.""}, {:family=>""Nelson"", :given=>""D.""}, {:family=>""Palmere"", :given=>""A.""}, {:family=>""Grayson"", :given=>""T.""}, {:family=>""Cederquist"", :given=>""C.""}]"	Service Quality Monitoring for High-Frequency Transit Lines	article-journal	Transportation Research Record	1992	36
+Required	"[{:family=>""Herzenberg"", :given=>""A.""}]"	Methods of Estimating the Costs of Drivers’ Wages for Bus Service	article-journal	Transportation Research Record	1983	36
+Required	"[{:family=>""Peng"", :given=>""Z.""}, {:family=>""Dueker"", :given=>""K.""}, {:family=>""Strathman"", :given=>""J.""}, {:family=>""Hopper"", :given=>""J.""}]"	A Simultaneous Route-level Transit Patronage Model: Demand	article-journal	Transportation	1997	36
+Required	"[{:family=>""Commission"", :given=>""Toronto Transit""}]"	Ridership Forecasting Methods	article-journal	Service Standards Process Technical Background Papers	1991-01	36
+Required	"[{:family=>""Chapman"", :given=>""R.A.""}, {:family=>""Michel"", :given=>""J.F.""}]"	Modeling the Tendency of Buses to Form Pairs	article-journal	Transportation Science	1978	36
+Required	"[{:family=>""Furth"", :given=>""P.G.""}, {:family=>""Rahbee"", :given=>""A.B.""}]"	Optimal Bus Stop Spacing Using Dynamic Programming and Geographic Modeling	article-journal	Transportation Research Record	2000	36
+Required	"[{:family=>""Wilson"", :given=>""N.H.M.""}, {:family=>""Lin"", :given=>""T.""}]"	Dwell-Time Relationships for Light Rail Systems	article-journal	Transportation Research Record	1993	36
+Required	"[{:family=>""Milkovtis"", :given=>""M.N.""}]"	Modeling the Factors Affecting Bus Stop Dwell Time	article-journal	Transportation Research Board of the National Academies	2008	36
+Required		A Summary of TCRP Report 88: A Guidebook for Developing a Transit Performance-Measurement System	article-journal	Transportation Research Board	2003	36
+Required	"[{:family=>""Gordon"", :given=>""J.B.""}, {:others=>true}]"	Automated Inference of Linked Transit Journeys in London Using Fare-Transaction and Vehicle Location Data	article-journal	Transportation Research Record: Journal of the Transportation Research Board	2013	36
+Required	"[{:family=>""Furth"", :given=>""P.G.""}, {:family=>""Wilson"", :given=>""N.""}]"	Setting Frequencies on Bus Routes: Theory and Practice	article-journal	Transportation Research Record	1981	36
+Required	"[{:family=>""Furth"", :given=>""P.G.""}, {:family=>""Muller"", :given=>""T.H.J.""}]"	Service Reliability and Optimal Running Time Schedules	article-journal	Transportation Research Record	2007	36
+Required	"[{:family=>""Salzborn"", :given=>""F.J.M.""}]"	Optimum Bus Scheduling	article-journal	Transportation Science	1972	36
+Required	"[{:family=>""Ceder"", :given=>""A.""}]"	Public Transport Timetabling and Vehicle Scheduling.” Chapter 2 in Advanced Modeling for Transit Operations and Service Planning			2002	36
+Required	"[{:family=>""Ceder"", :given=>""A.""}]"	Public Transport Scheduling	chapter	Handbook of Transport Systems and Traffic Control	2001	36
+Required	"[{:family=>""Ceder"", :given=>""A.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	Bus Network Design	article-journal	Transportation Research	1986	36
+Required	"[{:family=>""Vuchic"", :given=>""V.""}]"	Sections 4.1–4.6	chapter	Urban Transit: Operations	2005	36
+Required	"[{:family=>""Becker"", :given=>""J.""}, {:family=>""Bakker"", :given=>""J.""}]"	The Design of Timed Transfer Networks	paper-conference	Proceedings of Operations and Service Planning Symposium	1993	36
+Required	"[{:family=>""Halvorsen"", :given=>""R.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	The Role of Contract Structuring in Contracted Public Transport Performance: Theory and Practice	paper-conference	Proceedings of the Fourth International Conference on Competition and Ownership in Land Passenger Transport	1995-07	36
+Required	"[{:family=>""Furth"", :given=>""P.""}, {:family=>""Muller"", :given=>""T.""}]"	Conditional Bus Priority at Signalized Intersections: Better Service Quality with Less Traffic Disruption	article-journal	Transportation Research Record	2000	36
+Required		TCRP Report 94: Fare Policies	article-journal	Transportation Research Board	2003	36
+Required	"[{:family=>""Vuchic"", :given=>""V.""}]"	Chapter 7: Transit Fares	chapter	Urban Transit: Operations	2005	36
+Required	"[{:family=>""Koutsopolos"", :given=>""H.N.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	Operator Workforce Planning in the Transit Industry	article-journal	Transportation Research	1987	36
+Required	"[{:family=>""Shiftan"", :given=>""Y.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	Absence	article-journal	Transportation Research Record	1993	36
+Required	"[{:family=>""Porter"", :given=>""M.E.""}]"	Competitive Advantage: Creating and Sustaining Superior Performance			1985	45
+Required	"[{:family=>""Porter"", :given=>""M.E.""}]"	Strategy and the Internet	article-journal	Harvard Business Review	2001-03	45
+Required	"[{:family=>""Porter"", :given=>""M.E.""}, {:family=>""Millar"", :given=>""V.E.""}]"	How Information Gives You Competitive Advantage	article-journal	Harvard Business Review	1985-07	45
+Required	"[{:family=>""Macomber"", :given=>""J.D.""}]"	IT Strategy for Construction Companies: A Pragmatist’s Vision				45
+Required	"[{:family=>""Stalk"", :given=>""G.""}, {:family=>""Evans"", :given=>""P.""}, {:family=>""Shulman"", :given=>""L.E.""}]"	Competing on Capabilities: The New Rules of Corporate Strategy	article-journal	Harvard Business Review	1992-03	45
+Required	"[{:family=>""Kahn"", :given=>""G.""}]"	Made to Measure: Invisible Supplier Has Penney’s Shirts All Buttoned Up,” and “From Hong Kong	article-journal	The Wall Street Journal	2003-09-11	45
+Required	"[{:family=>""Kim"", :given=>""W.C.""}, {:family=>""Mauborgne"", :given=>""R.""}]"	Knowing a Winning Business Idea When You See One	article-journal	Harvard Business Review (September-October		45
+Required	"[{:family=>""Kim"", :given=>""W.C.""}, {:family=>""Mauborgne"", :given=>""R.""}]"	How to Tell a Flyer From a Failure”	article-journal	Financial Times	2001-01	45
+Required	"[{:family=>""Sahlman"", :given=>""W.A.""}]"	How to Write a Great Business Plan	article-journal	Harvard Business Review (July-August		45
+Required	"[{:family=>""Macomber"", :given=>""J.D.""}]"	US Construction Demographics: Some Relevant Statistics to Consider				45
+Required	"[{:family=>""Macomber"", :given=>""J.D.""}]"	Yes	article-journal	Construction Business Review	1999-12	45
+Required	"[{:family=>""Macomber"", :given=>""J.D.""}]"	Follow the Money: What Really Drives Technology Innovation in Construction	chapter	2003 ASCE Construction Research Congress		45
+Required	"[{:family=>""Narayanan"", :given=>""V.G.""}, {:family=>""Raman"", :given=>""A.""}]"	Aligning Incentives for Supply Chain Efficiency	book			45
+Required	"[{:family=>""Cachon"", :given=>""G.P.""}, {:family=>""Lariviere"", :given=>""M.A.""}]"	Turning the Supply Chain into Revenue Chain	article-journal	Harvard Business Review	2001-03	45
+Required	"[{:family=>""Peers"", :given=>""M.""}]"	Blockbuster’s New Pitch: Why Not Buy That Movie?	article-journal	The Wall Street Journal	2002-11-01	45
+Required	"[{:family=>""Orwall"", :given=>""B.""}, {:family=>""Peers"", :given=>""M.""}, {:family=>""Zimmerman"", :given=>""A.""}]"	DVD Gains on Tape	article-journal	The Wall Street Journal	2002-02-05	45
+Required	"[{:family=>""Brandenburger"", :given=>""A.""}, {:family=>""Nalebuff"", :given=>""B.""}]"	The Right Game: Use Game Theory to Shape Strategy	article-journal	Harvard Business Review (July-August		45
+Required	"[{:family=>""Gompers"", :given=>""P.A.""}, {:family=>""Conneely"", :given=>""C.M.""}]"	A Note on Franchising	book			45
+Required	"[{:family=>""Hansen"", :given=>""M.T.""}, {:family=>""Davenport"", :given=>""T.H.""}]"	Knowledge Management at Andersen Consulting	book			45
+Required	"[{:family=>""Hansen"", :given=>""M.T.""}, {:family=>""Nohria"", :given=>""N.""}, {:family=>""Tierney"", :given=>""T.""}]"	What’s Your Strategy for Managing Knowledge?	article-journal	Harvard Business Review	1999-03	45
+Required	"[{:family=>""Rayport"", :given=>""J.F.""}, {:family=>""Sviokla"", :given=>""J.J.""}]"	Exploiting the Virtual Value Chain	article-journal	Harvard Business Review	1995-11	45
+Required	"[{:family=>""Diamant-Berger"", :given=>""A.""}, {:family=>""Ovans"", :given=>""A.""}]"	E-Procurement at Schlumberger	article-journal	Harvard Business Review	2000-05	45
+Required	"[{:family=>""Applegate"", :given=>""L.""}]"	Emerging E-Business Models: Lessons from the Field	chapter	HBS Teaching Note	2001	45
+Required	"[{:family=>""Sullivan"", :given=>""Louis H.""}]"	The Tall Office Building Artistically Considered	article-journal	Lippincott’s Magazine	1896-03	3
+Required	"[{:family=>""McAdow"", :given=>""R.""}]"	The Charles River Basin Study Area	chapter	The Charles River	1992	3
+Required		Metropolitan District Commission				3
+Required		The Old Colony Trust Company			1926	3
+Required	"[{:family=>""Ty"", :given=>""Raymond Kieh Sheng""}]"	History and characteristics of man-made fill in Boston and Cambridge”	thesis		1987	3
+Required		The Old Charles River Dam: Committee on Charles River Dam			1903	3
+Required	"[{:family=>""Hall"", :given=>""M.""}]"	Flood Control	chapter	The Charles	1986-05	3
+Required		Alternatives for the New Charles River Dam: The Department of the Army New England Division Corps of Engineers	article-journal	Design Memorandum	1972	3
+Required		Historic Back Bay poised to expand commercial focus: With Boston’s office space tighter than ever	article-journal	Boston Business Journal Real Estate Quarterly	January 22-28	3
+Optional		Guide for Building and Classing Floating Production Installations	book		2010	86
+Optional		Guide for ‘Dynamic Loading Approach’ for Floating Production	book		2010	86
+Optional		Sections 5.1 to 5.4 of “Common Structural Rules for Double Hull Oil Tankers	book		2010	86
+Optional	"[{:family=>""Organization"", :given=>""International Maritime""}]"	Regulation 22 from MARPOL Consolidated Edition	article-journal	International Maritime Organization	2006	86
+Optional	"[{:given=>""Offshore-Technologycom""}]"	Elf exploration field – Girassol			2011	86
+Optional	"[{:family=>""Doumont"", :given=>""Jean-Luc""}]"	Part Four	article-journal	Trees	2009	86
+Optional		Principles of Naval Architecture			1988	86
+Optional	"[{:family=>""Paik"", :given=>""Jeom Kee""}, {:family=>""Kumar"", :given=>""Anil""}]"	Ship-shaped Offshore Installations: Design			2007	86
+Optional	"[{:family=>""Faltinsen"", :given=>""O.M.""}]"	Sea Loads on Ships and Offshore Structures			1993	86
+Optional	"[{:family=>""Gillmer"", :given=>""T.C.""}, {:family=>""Johnson"", :given=>""Bruce""}]"	Introduction to Naval Architecture			1982	86
+Optional	"[{:family=>""Lamb"", :given=>""Thomas""}]"	Chapter 30 in Ship Design and Construction			2003	86
+Optional	"[{:family=>""Terpstra"", :given=>""T.""}, {:family=>""d’Hautefeuille"", :given=>""B.B.""}, {:family=>""MacMillan"", :given=>""A.A.""}]"	FPSO Design and Conversion: A Designer’s Approach	paper-conference	Offshore Technology Conference	2001	86
+Required	"[{:family=>""White"", :given=>""Frank M.""}]"	Fluid Mechanics			2010	92
+Optional	"[{:family=>""Baruh"", :given=>""H.""}]"	Analytical Dynamics			1998	87
+Optional	"[{:family=>""Ginsberg"", :given=>""J.H.""}]"	Advanced Engineering Dynamics			1995	87
+Optional	"[{:literal=>""Crandall, S. H., D. C. Karnopp, E. F. Kurtz, Jr., and D. C. Pridmore-Brown.""}]"	Dynamics of Mechanical and Electromechanical Systems			1982	87
+Optional	"[{:family=>""Moon"", :given=>""F.C.""}]"	Applied Dynamics			1998	87
+Optional	"[{:family=>""Greenwood"", :given=>""D.T.""}]"	Classical Dynamics			1997	87
+Optional	"[{:family=>""Greenwood"", :given=>""D.T.""}]"	Principles of Dynamics			1987	87
+Optional	"[{:family=>""Goldstein"", :given=>""H.""}]"	Classical Mechanics	book		1959	87
+Optional	"[{:family=>""Hartog"", :given=>""J.P.Den""}]"	Mechanics	book		1961	87
+Optional	"[{:family=>""Marion"", :given=>""J.B.""}]"	Classical Dynamics of Particles and Systems	book		1970	87
+Optional	"[{:family=>""Landau"", :given=>""L.D.""}, {:family=>""Lifshitz"", :given=>""E.M.""}]"	Mechanics	book		1976	87
+Optional	"[{:family=>""Williams"", :given=>""J.H."", :suffix=>""Jr""}]"	Fundamentals of Applied Dynamics	book		1996	87
+Optional	"[{:family=>""Hartog"", :given=>""J.P.Den""}]"	Mechanical Vibrations	book		1956	87
+Optional	"[{:family=>""Meirovitch"", :given=>""L.""}]"	Elements of Vibration Analysis	book		1975	87
+Optional	"[{:family=>""Meirovitch"", :given=>""L.""}]"	Analytical Methods in Vibrations	book		1967	87
+Optional	"[{:family=>""Pippard"", :given=>""A.B.""}]"	Response and Stability	book		1985	87
+Optional	"[{:family=>""Nayfeh"", :given=>""A.H.""}, {:family=>""Mook"", :given=>""D.T.""}]"	Nonlinear Oscillations	book		1979	87
+Optional	"[{:family=>""Strogatz"", :given=>""S.H.""}]"	Nonlinear Dynamics and Chaos	book		1994	87
+Required	"[{:family=>""Hemond"", :given=>""H.F.""}, {:family=>""Fechner"", :given=>""E.J.""}]"	Chemical Fate and Transport in the Environment			2000	50
+Optional	"[{:family=>""Driscoll"", :given=>""F.""}]"	Groundwater and Wells			1986	50
+Optional	"[{:family=>""Freeze"", :given=>""R.A.""}, {:family=>""Cherry"", :given=>""J.A.""}]"	Groundwater			1979	50
+Optional	"[{:family=>""Morel"", :given=>""F.M.M.""}, {:family=>""Hering"", :given=>""J.G.""}]"	Principles and Application of Aquatic Chemistry			1993	50
+Optional	"[{:family=>""Reid"", :given=>""G.""}, {:family=>""Wood"", :given=>""R.""}]"	Ecology of Inland Waters and Estuaries			1976	50
+Optional	"[{:family=>""Schwarzenbach"", :given=>""R.P.""}, {:family=>""Gschwend"", :given=>""P.M.""}, {:family=>""Imboden"", :given=>""D.M.""}]"	Environmental Organic Chemistry			1993	50
+Optional	"[{:family=>""Stern"", :given=>""A.C.""}, {:family=>""Boubel"", :given=>""R.W.""}, {:family=>""Turner"", :given=>""D.B.""}, {:family=>""Fox"", :given=>""D.L.""}]"	Fundamentals of Air Pollution			1984	50
+Optional	"[{:family=>""Stumm"", :given=>""W.""}, {:family=>""Morgan"", :given=>""J.J.""}]"	Aquatic Chemistry			1981	50
+Optional	"[{:family=>""Thibodeaux"", :given=>""L.""}]"	Chemodynamics			1979	50
+Optional	"[{:family=>""Wayne"", :given=>""R.P.""}]"	Chemistry of Atmospheres			1991	50
+Optional	"[{:family=>""Wetzel"", :given=>""R.G.""}]"	Limnology Saunders			1983	50
+Required	"[{:family=>""Martland"", :given=>""Carl D.""}]"	Toward More Sustainable Infrastructure: Project Evaluation for Planners and Engineers			2011	2
+Required	"[{:family=>""Plotkin"", :given=>""Natasha""}]"	To-do Maintenance: $2.1 Billion Required	article-journal	The Tech	2011-01-19	2
+Required	"[{:family=>""Gawande"", :given=>""Atul""}]"	The Checklist.” Chapter 2 in The Checklist Manifesto	article-journal	Metropolitan Books	2009	2
+Required	"[{:family=>""Nakagawa"", :given=>""Manabu""}]"	Macro-engineering: From the Grand Canal of China to the Colonization of the Moon	chapter	Chapter 2 in Macro-Engineering Global Infrastructure Solutions	1993	2
+Required	"[{:family=>""Gawande"", :given=>""Atul""}]"	The End of the Master Builder	article-journal	The Checklist Manifesto	2009	2
+Required	"[{:family=>""Stolberg"", :given=>""Sheryl Gay""}]"	Obama Unveils Wireless Expansion Plan	article-journal	New York Times		2
+Required	"[{:family=>""Givoni"", :given=>""Moshe""}]"	Development and Impact of the Modern High-speed Train: A Review	article-journal	Transport Reviews	2006	2
+Required	"[{:family=>""Albalate"", :given=>""Daniel""}, {:family=>""Bel"", :given=>""Germa""}]"	High-Speed Rail: Lessons for Policy Makers from Experiences Abroad	article-journal	Research Institute of Applied Economics Working Paper	2010-03	2
+Required	"[{:family=>""Eilperin"", :given=>""Juliet""}]"	Great Plains Oil Pipeline Plan Sparks Grass-roots Activism			2011-01-23	2
+Required	"[{:family=>""Mitchell"", :given=>""Ronald K.""}, {:family=>""Agle"", :given=>""Bradley R.""}, {:family=>""Wood"", :given=>""Donna J.""}]"	Toward a Theory of Stakeholder Identification and Salience: Defining the Principle of Who and What Really Counts	article-journal	Academy of Management Review	1997	2
+Required	"[{:family=>""Sussman"", :given=>""Joe""}]"	How Little Mistakes Can Lead to Big Differences in Outcomes: The Weather	article-journal	Teaching Note	2010-02-25	2
+Required	"[{:family=>""Sussman"", :given=>""Joe""}]"	The Tsunami That Wasn’t	article-journal	Teaching Note	2010-03-07	2
+Required	"[{:family=>""Sussman"", :given=>""Joe""}]"	Did Belichick Make the Right Call?	article-journal	Teaching Note	2010-02-19	2
+Required	"[{:family=>""Sussman"", :given=>""Joe""}]"	Real Options — A Simple Illustration	article-journal	Teaching Note	2010-04-28	2
+Required	"[{:family=>""Nelson"", :given=>""Theresa""}, {:family=>""Ingols"", :given=>""Cynthia""}, {:family=>""Christian-Murtie"", :given=>""Jennifer""}, {:family=>""Myers"", :given=>""Paul""}]"	Susan Murcott and Pure Home Water: Building a Sustainable Mission-Driven Enterprise in Northern Ghana	article-journal	Entrepreneurship Theory and Practice	2011	2
+Required	"[{:family=>""Moavenzadeh"", :given=>""Fred""}]"	Globalization Strategies of Selected E&C Firms			2009	44
+Required		Financial Innovations and the Welfare of Nations			2001	44
+Required		Measuring Productivity and Evaluating Innovation in the U.S	chapter	Construction Industry. Building Futures Council whitepaper	2006	44
+Required		Greatest Construction Projects: a Look Back at 125 Years of Construction Milestones	article-journal	Engineering News-Record	1999	44
+Required	"[{:family=>""Moavenzadeh"", :given=>""Fred""}]"	Marketing in the Construction Industry			2009	44
+Required	"[{:family=>""Flyvbjerg"", :given=>""Bent""}, {:family=>""Holm"", :given=>""Mette Skamris""}, {:family=>""Buhl"", :given=>""Soren""}]"	Underestimating Costs in Public Works Projects	article-journal	Journal of the American Planning Association	2002	44
+Required	"[{:family=>""Emmons"", :given=>""Willis""}, {:family=>""Brand"", :given=>""Monica""}]"	Empresas ICA and the Mexican Road Privatization Program.” Harvard Business School Case			1993-03-24	44
+Required	"[{:family=>""Ybarra"", :given=>""Shirley J.""}]"	VMS Asset Management Contract for Virginia’s Interstate Highways	article-journal	Public Works Financing	1998	44
+Required		2008 Corruption Perceptions Index	book		2008	44
+Required		Global Competitiveness Report 2009-2010	book		2009	44
+Required	"[{:family=>""Friedman"", :given=>""Thomas L.""}]"	The Lexus and the Olive Tree			2000	44
+Required	"[{:family=>""King"", :given=>""Ralph""}, {:family=>""McCoy"", :given=>""Charlie""}]"	Bechtel’s Power Outage	article-journal	Business	2004-03-01	44
+Required	"[{:family=>""Wolff"", :given=>""Derish""}]"	Is Your Firm the Next Enron?	book		2009	44
+Optional	"[{:family=>""Horstmann"", :given=>""Cay""}]"	Big Java			2009	0
+Optional	"[{:family=>""Press"", :given=>""William""}, {:family=>""Teukolsky"", :given=>""Saul""}, {:others=>true}]"	Numerical Recipes in C: The Art of Scientific Computing			1992	0
+Required	"[{:family=>""Jayne"", :given=>""T.S.""}, {:family=>""Mather"", :given=>""D.""}, {:family=>""Mghenyi"", :given=>""E.""}]"	Principal Challenges Confronting Smallholder Agriculture in Sub-Saharan Africa	article-journal	World Development	2010	52
+Required	"[{:family=>""Carr"", :given=>""S.J.""}]"	Changes in African Smallholder Agriculture in the Twentieth Century and the Challenges of the Twenty-First	article-journal	African Crop Science Journal	2001	52
+Required	"[{:family=>""Larson"", :given=>""D.F.""}, {:family=>""Muraoka"", :given=>""R.""}, {:family=>""Otsuka"", :given=>""K.""}]"	Why African Rural Development Strategies Must Depend on Small Farms	article-journal	Global Food Security	2016	52
+Required	"[{:family=>""Collier"", :given=>""P.""}, {:family=>""Dercon"", :given=>""S.""}]"	African Agriculture in 50 Years: Smallholders in a Rapidly Changing World?	article-journal	World Development	2014	52
+Required	"[{:family=>""Ittersum"", :given=>""M.K."", :particle=>""Van""}, {:family=>""Bussel"", :given=>""L.G."", :particle=>""Van""}, {:others=>true}]"	Can Sub-Saharan Africa Feed Itself?	article-journal	Proceedings of the National Academy of Sciences	2016	52
+Required	"[{:family=>""Lobell"", :given=>""David B.""}, {:family=>""Cassman"", :given=>""Kenneth G.""}, {:family=>""Field"", :given=>""Christopher B.""}]"	Crop Yield Gaps: Their Importance	article-journal	Annual Review of Environment and Resources	2009	52
+Required	"[{:family=>""Mueller"", :given=>""Nathaniel D.""}, {:family=>""Gerber"", :given=>""James S.""}, {:others=>true}]"	Closing Yield Gaps Through Nutrient and Water Management	article-journal	Nature	2012	52
+Required	"[{:family=>""Cleland"", :given=>""John""}]"	World Population Growth; Past	article-journal	Environmental and Resource Economics	2013	52
+Required	"[{:family=>""Smil"", :given=>""Vaclav""}]"	Worldwide Transformation of Diets	article-journal	Enzyme and Microbial Technology	2002	52
+Required	"[{:family=>""Gomez"", :given=>""Miguel I.""}, {:family=>""Barrett"", :given=>""Christopher B.""}, {:others=>true}]"	Post-Green Revolution Food Systems and the Triple Burden of Malnutrition	article-journal	Food Policy	2013	52
+Required	"[{:family=>""Alexander"", :given=>""Peter""}, {:family=>""Brown"", :given=>""Calum""}, {:others=>true}]"	Losses	article-journal	Agricultural Systems	2017	52
+Required	"[{:family=>""Yudelman"", :given=>""Montague""}, {:family=>""Ratta"", :given=>""Annu""}, {:others=>true}]"	Pest Management and Food Production: Looking to the Future (Sections 1–3). International Food Policy Research Institute			1998	52
+Required	"[{:family=>""Tilman"", :given=>""David""}, {:family=>""Cassman"", :given=>""Kenneth G.""}, {:others=>true}]"	Agricultural Sustainability and Intensive Production Practices	article-journal	Nature	2002	52
+Required	"[{:family=>""Gruber"", :given=>""Nicolas""}, {:family=>""Galloway"", :given=>""James N.""}]"	An Earth-System Perspective of the Global Nitrogen Cycle	article-journal	Nature	2008	52
+Required	"[{:family=>""Cordell"", :given=>""Dana""}, {:family=>""Drangert"", :given=>""Jan-Olof""}, {:family=>""White"", :given=>""Stuart""}]"	The Story of Phosphorus: Global Food Security and Food for Thought	article-journal	Global Environmental Change	2009	52
+Required	"[{:family=>""Yudelman"", :given=>""Montague""}, {:family=>""Ratta"", :given=>""Annu""}, {:family=>""Nygaard"", :given=>""David""}]"	Pest Management and Food Production: Looking to the Future (Section 4	book		1998	52
+Required	"[{:family=>""Peterson"", :given=>""R.K.""}, {:family=>""Higley"", :given=>""L.G.""}, {:family=>""Pedigo"", :given=>""L.P.""}]"	Whatever happened to IPM?	article-journal	American Entomologist	2018	52
+Required	"[{:family=>""Ehrlich"", :given=>""Paul R.""}, {:family=>""Ehrlich"", :given=>""Anne H.""}]"	Can a Collapse of Global Civilization Be Avoided?	article-journal	Proceedings of the Royal Society B: Biological Sciences	2013	52
+Required	"[{:family=>""Lomborg"", :given=>""Bjørn""}]"	Food and Hunger.” Chapter 5 in The Skeptical Environmentalist: Measuring the Real State of the World			2001	52
+Required	"[{:family=>""Godfray"", :given=>""H.Charles J.""}, {:family=>""Beddington"", :given=>""John R.""}, {:others=>true}]"	Food Security: The Challenge of Feeding 9 Billion People	article-journal	Science	2010	52
+Required	"[{:family=>""Sen"", :given=>""Amartya""}]"	The Food Problem: Theory and Policy	article-journal	Third World Quarterly	1982	52
+Required	"[{:family=>""Lambin"", :given=>""Eric F.""}, {:family=>""Meyfroidt"", :given=>""Patrick""}]"	Global Land Use Change	article-journal	Proceedings of the National Academy of Sciences	2011	52
+Required	"[{:family=>""Zabel"", :given=>""Florian""}, {:family=>""Putzenlechner"", :given=>""Birgitta""}, {:family=>""Mauser"", :given=>""Wolfram""}]"	Global Agricultural Land Resources—A High Resolution Suitability Evaluation and Its Perspectives until 2100 under Climate Change Conditions	article-journal	PloS One	2014	52
+Required	"[{:family=>""Tilman"", :given=>""David""}, {:family=>""Socolow"", :given=>""Robert""}, {:others=>true}]"	Beneficial Biofuels—The Food	article-journal	Science	2009	52
+Required	"[{:family=>""Fixen"", :given=>""Paul E.""}, {:family=>""Johnston"", :given=>""Adrian M.""}]"	World Fertilizer Nutrient Reserves: A View to the Future	article-journal	Better Crops with Plant Food	2009	52
+Required	"[{:given=>""I.P.C.C.""}]"	Climate Change 2014: Synthesis Report. Contribution of Working Groups I	chapter	Sections SPM1 and SPM2	2014	52
+Required	"[{:family=>""Ruane"", :given=>""A.C.""}, {:family=>""Rosenzweig"", :given=>""C.""}]"	Chapter 5: Climate Change Impacts on Agriculture	chapter	Agriculture & Food Systems to 2050	2019	52
+Required	"[{:family=>""Morton"", :given=>""J.F.""}]"	The Impact of Climate Change on Smallholder and Subsistence Agriculture	article-journal	Proceedings of the National Academy of Sciences	2007	52
+Required	"[{:family=>""Deutsch"", :given=>""C.A.""}, {:family=>""Tewksbury"", :given=>""J.J.""}, {:others=>true}]"	Increase in Crop Losses to Insect Pests in a Warming Climate	article-journal	Science	2018	52
+Required	"[{:family=>""Postel"", :given=>""Sandra L.""}, {:family=>""Daily"", :given=>""Gretchen C.""}, {:family=>""Ehrlich"", :given=>""Paul R.""}]"	Human Appropriation of Renewable Fresh Water	article-journal	Science	1996	52
+Required	"[{:family=>""Rosa"", :given=>""Lorenzo""}, {:family=>""Chiarelli"", :given=>""Davide Danilo""}, {:others=>true}]"	Global Agricultural Economic Water Scarcity	article-journal	Science Advances	2020	52
+Required	"[{:family=>""Aeschbach-Hertig"", :given=>""Werner""}, {:family=>""Gleeson"", :given=>""Tom""}]"	Regional Strategies for the Accelerating Global Problem of Groundwater Depletion	article-journal	Nature Geoscience	2012	52
+Required	"[{:family=>""Wezel"", :given=>""Alexander""}, {:family=>""Casagrande"", :given=>""Marion""}, {:others=>true}]"	Agroecological Practices for Sustainable Agriculture	article-journal	A Review.” Agronomy for Sustainable Development	2014	52
+Required	"[{:family=>""Pretty"", :given=>""Jules""}]"	Agricultural Sustainability: Concepts	article-journal	Philosophical Transactions of the Royal Society B: Biological Sciences	2008	52
+Required	"[{:family=>""Seufert"", :given=>""Verena""}, {:family=>""Ramankutty"", :given=>""Navin""}]"	Many Shades of Gray—the Context-Dependent Performance of Organic Agriculture	article-journal	Science Advances	2017	52
+Required	"[{:family=>""Seufert"", :given=>""Verena""}, {:family=>""Ramankutty"", :given=>""Navin""}]"	Many Shades of Gray—the Context-Dependent Performance of Organic Agriculture. Supplementary Information	article-journal	Science Advances	2017	52
+Required	"[{:family=>""Hazell"", :given=>""Peter B.R.""}]"	Green Revolution: Curse or Blessing?			2002	52
+Required	"[{:family=>""Pimentel"", :given=>""D.""}, {:family=>""Pimentel"", :given=>""M.""}]"	Comment: Adverse Environmental Consequences of the Green Revolution	article-journal	Population and Development Review	1990	52
+Required	"[{:family=>""Cassman"", :given=>""Kenneth G.""}]"	Ecological Intensification of Cereal Production Systems: Yield Potential	article-journal	Proceedings of the National Academy of Sciences	1999	52
+Required	"[{:family=>""D’Odorico"", :given=>""Paolo""}, {:family=>""Carr"", :given=>""Joel A.""}, {:others=>true}]"	Feeding Humanity Through Global Food Trade	article-journal	Earth’s Future	2014	52
+Required	"[{:family=>""MacDonald"", :given=>""Graham K.""}, {:family=>""Brauman"", :given=>""Kate A.""}, {:others=>true}]"	Rethinking Agricultural Trade Relationships in an Era of Globalization	article-journal	BioScience	2015	52
+Required	"[{:family=>""Davis"", :given=>""Kyle F.""}, {:family=>""Rulli"", :given=>""Maria C.""}, {:others=>true}]"	Increased Food Production and Reduced Water Use Through Optimized Crop Distribution	article-journal	Nat. Geosci	2017	52
+Required	"[{:family=>""Ronald"", :given=>""Pamela""}]"	Plant Genetics	article-journal	Genetics	2011	52
+Required	"[{:family=>""Wolfenbarger"", :given=>""L.L.""}, {:family=>""Phifer"", :given=>""P.R.""}]"	The Ecological Risks and Benefits of Genetically Engineered Plants	article-journal	Science	2000	52
+Required	"[{:family=>""Gilbert"", :given=>""Natasha""}]"	Case Studies: A Hard Look at GM Crops	article-journal	Nature	2013	52
+Required	"[{:family=>""Sciences"", :given=>""U.S.National Academy"", :particle=>""of""}]"	Genetically Engineered Crops: Experiences And Prospects	book		2016	52
+Required	"[{:family=>""Gebbers"", :given=>""Robin""}, {:family=>""Adamchuk"", :given=>""Viacheslav I.""}]"	Precision Agriculture and Food Security	article-journal	Science	2010	52
+Required	"[{:family=>""Bogue"", :given=>""Robert""}]"	Sensors Key to Advances in Precision Agriculture	article-journal	Sensor Review	2017	52
+Optional	"[{:family=>""Rapsomanikis"", :given=>""G.""}]"	The Economic Lives of Smallholder Farmers: An Analysis Based on Household Data from Nine Countries	chapter	Food and Agriculture Organization of the United Nations	2015	52
+Optional	"[{:family=>""Lowder"", :given=>""S.K.""}, {:family=>""Skoet"", :given=>""J.""}, {:family=>""Raney"", :given=>""T.""}]"	The Number	article-journal	World Development	2016	52
+Optional	"[{:family=>""Fritz"", :given=>""Steffen""}, {:family=>""See"", :given=>""Linda""}, {:others=>true}]"	Mapping Global Cropland and Field Size	article-journal	Global Change Biology	2015	52
+Optional		IFAD International Fund for Agricultural Development	article-journal	Annexes	2010	52
+Optional	"[{:family=>""Lowder"", :given=>""Sarah K.""}, {:family=>""Skoet"", :given=>""Jakob""}, {:family=>""Raney"", :given=>""Terri""}]"	The Number	article-journal	World Development	2016	52
+Optional	"[{:family=>""Ricciardi"", :given=>""Vincent""}, {:family=>""Ramankutty"", :given=>""Navin""}, {:others=>true}]"	How Much of the World’s Food Do Smallholders Produce?	article-journal	Global Food Security	2018	52
+Optional		National Agricultural Statistics Service	article-journal	Annual Reports for	2000-06	52
+Optional		US Department of Agriculture			2002	52
+Optional		University of Michigan Extension website			2020-07	52
+Optional	"[{:family=>""Licker"", :given=>""Rachel""}, {:family=>""Johnston"", :given=>""Matt""}, {:others=>true}]"	Mind the Gap: How Do Climate and Agricultural Management Explain the ‘Yield Gap’of Croplands Around the World?	article-journal	Global Ecology and Biogeography	2010	52
+Optional	"[{:family=>""Ray"", :given=>""Deepak K.""}, {:family=>""Ramankutty"", :given=>""Navin""}, {:others=>true}]"	Recent Patterns of Crop Yield Growth and Stagnation	article-journal	Nature Communications	2012	52
+Optional	"[{:family=>""Achard"", :given=>""F.""}, {:family=>""Eva"", :given=>""H.D.""}, {:others=>true}]"	Determination of Deforestation Rates of the World’s Humid Tropical Forests	article-journal	Science	2002	52
+Optional	"[{:family=>""Hansen"", :given=>""M.C.""}, {:family=>""Potapov"", :given=>""P.V.""}, {:others=>true}]"	High-Resolution Global Maps of 21st-Century Forest Cover Change	article-journal	Science	2013	52
+Optional	"[{:family=>""Lambin"", :given=>""Eric F.""}, {:family=>""Meyfroidt"", :given=>""Patrick""}]"	Global Land Use Change	article-journal	Proceedings of the National Academy of Sciences	2011	52
+Optional	"[{:family=>""Leemans"", :given=>""R.""}, {:family=>""Cramer"", :given=>""W.""}]"	The IIASA Database for Mean Monthly Values of Temperature	report		1991	52
+Optional	"[{:family=>""Mueller"", :given=>""Nathan""}, {:family=>""Gerber"", :given=>""James""}, {:others=>true}]"	Closing Yield Gaps Through Nutrient and Water Management	article-journal	Nature	2012	52
+Optional	"[{:family=>""Ramankutty"", :given=>""Navin""}, {:family=>""Evan"", :given=>""Amato T.""}, {:others=>true}]"	Farming the Planet: 1. Geographic Distribution of Global Agricultural Lands in the Year 2000	article-journal	Global Biogeochemical Cycles	2008	52
+Optional	"[{:family=>""Zabel"", :given=>""Florian""}, {:family=>""Putzenlechner"", :given=>""Birgitta""}, {:family=>""Mauser"", :given=>""Wolfram""}]"	Global Agricultural Land Resources—A High Resolution Suitability Evaluation and Its Perspectives until 2100 under Climate Change Conditions	article-journal	PloS One	2014	52
+Optional	"[{:family=>""ERS"", :given=>""U.S.D.A.""}, {:given=>""N.A.S.S.""}]"	Agricultural Resource Management Survey			2012	52
+Optional	"[{:family=>""Wu"", :given=>""Yiyun""}, {:family=>""Xi"", :given=>""Xican""}, {:others=>true}]"	Policy Distortions	article-journal	Proceedings of the National Academy of Sciences	2018	52
+Optional	"[{:family=>""Alexandratos"", :given=>""Nikos""}, {:family=>""Bruinsma"", :given=>""Jelle""}]"	World Agriculture Towards 2030/2050: The 2012 Revision. Food and Agriculture Organization (FAO) of the United Nations	article-journal	ESA Working Paper	2012	52
+Optional	"[{:family=>""Gibson"", :given=>""Mark""}]"	The Feeding of Nations: Redefining Food Security for the 21st Century	book		2012	52
+Optional	"[{:family=>""Gustavsson"", :given=>""Jenny""}, {:family=>""Cederberg"", :given=>""Christel""}, {:others=>true}]"	Global Food Losses and Food Waste: Extent	chapter	Report commissioned by Food and Agriculture Organization (FAO) of the United Nations	2011	52
+Optional	"[{:family=>""Oerke"", :given=>""E.-C.""}]"	Crop Losses to Pests	article-journal	Journal of Agricultural Science	2006	52
+Optional						52
+Optional	"[{:family=>""Rost"", :given=>""S.""}, {:family=>""Gerten"", :given=>""Dieter""}, {:others=>true}]"	Agricultural Green and Blue Water Consumption and Its Influence on the Global Water System	article-journal	Water Resources Research	2008	52
+Optional	"[{:family=>""Trenberth"", :given=>""Kevin E.""}, {:family=>""Smith"", :given=>""Lesley""}, {:others=>true}]"	Estimates of the Global Water Budget and Its Annual Cycle Using Observational and Model Data	article-journal	Journal of Hydrometeorology	2007	52
+Optional	"[{:family=>""Matson"", :given=>""P.A.""}, {:family=>""Parton"", :given=>""W.J.""}, {:others=>true}]"	Agricultural Intensification and Ecosystem Properties	article-journal	Science	1997	52
+Optional	"[{:family=>""Vitousek"", :given=>""Peter M.""}, {:family=>""Mooney"", :given=>""Harold A.""}, {:others=>true}]"	Human Domination of Earth’s Ecosystems	article-journal	Science	1997	52
+Optional	"[{:family=>""Smil"", :given=>""Vaclav""}]"	Global Population and the Nitrogen Cycle	article-journal	Scientific American	1997	52
+Optional	"[{:family=>""Smil"", :given=>""Vaclav""}]"	Nitrogen in Crop Production: An Account of Global Flows	article-journal	Global biogeochemical cycles	1999	52
+Optional	"[{:family=>""Galloway"", :given=>""James N.""}, {:family=>""Cowling"", :given=>""Ellis B.""}]"	Reactive Nitrogen and the World: 200 Years of Change	article-journal	AMBIO: A Journal of the Human Environment	2002	52
+Optional	"[{:family=>""Childers"", :given=>""Daniel L.""}, {:family=>""Corman"", :given=>""Jessica""}, {:others=>true}]"	Sustainability Challenges of Phosphorus and Food: Solutions from Closing the Human Phosphorus Cycle	article-journal	BioScience	2011	52
+Optional	"[{:family=>""McCauley"", :given=>""Ann""}, {:family=>""Jones"", :given=>""Clain""}, {:family=>""Jacobsen"", :given=>""Jeff""}]"	Basic Soil Properties	article-journal	Soil and Water Management Module	2005	52
+Optional	"[{:family=>""Brady"", :given=>""Nyle C.""}, {:family=>""Weil"", :given=>""Ray R.""}]"	The Nature and Properties of Soils	book		2002	52
+Optional	"[{:family=>""Doran"", :given=>""John W.""}, {:family=>""Parkin"", :given=>""Timothy B.""}]"	Defining and Assessing Soil Quality	article-journal	Defining Soil Quality for a Sustainable Environment	1994	52
+Optional	"[{:given=>""F.A.O./I.I.A.S.A./I.S.R.I.C./I.S.S.C.A.S./J.R.C.""}]"	Harmonized World Soil Database v 1.2	book		2012	52
+Optional	"[{:family=>""Günther Fischer"", :given=>""F.Nachtergaele""}, {:others=>true}]"	Global Agro-Ecological Zones (GAEZ	book		2012	52
+Optional	"[{:family=>""Gibbs"", :given=>""H.K.""}, {:family=>""Salmon"", :given=>""J.M.""}]"	Mapping the World’s Degraded Lands	article-journal	Applied Geography	2015	52
+Optional	"[{:family=>""McCauley"", :given=>""A.""}, {:family=>""Jones"", :given=>""C.""}, {:family=>""Jacobsen"", :given=>""J.""}]"	Basic Soil Properties	article-journal	Soil and Water Management Module	2005	52
+Optional	"[{:family=>""Wander"", :given=>""Michelle M.""}, {:family=>""Cihacek"", :given=>""Larry J.""}, {:others=>true}]"	Developments in Agricultural Soil Quality and Health: Reflections by the Research Committee on Soil Organic Matter Management	article-journal	Frontiers in Environmental Science	2019	52
+Optional	"[{:family=>""Zabel"", :given=>""Florian""}, {:family=>""Putzenlechner"", :given=>""Birgitta""}, {:family=>""Mauser"", :given=>""Wolfram""}]"	Global Agricultural Land Resources—A High Resolution Suitability Evaluation and Its Perspectives until 2100 under Climate Change Conditions	article-journal	PLoS One	2014	52
+Optional	"[{:family=>""Alexander"", :given=>""Peter""}, {:family=>""Brown"", :given=>""Calum""}, {:others=>true}]"	Losses	article-journal	Agricultural Systems	2017	52
+Optional	"[{:family=>""FAO"", :given=>""I.F.A.D.""}, {:given=>""W.F.P.""}]"	The State of Food Insecurity in the World 2014	chapter	Strengthening the Enabling Environment for Food Security and Nutrition	2014	52
+Optional	"[{:family=>""Rijsberman"", :given=>""Frank""}]"	Water Scarcity: Fact or Fiction?	article-journal	Agricultural Water Management	2006	52
+Optional	"[{:family=>""Rodell"", :given=>""M.""}, {:family=>""Famiglietti"", :given=>""J.S.""}, {:others=>true}]"	Emerging Trends in Global Freshwater Availability	article-journal	Nature	2018	52
+Optional	"[{:family=>""Wada"", :given=>""Yoshihide""}, {:family=>""Beek"", :given=>""Ludovicus P.H."", :particle=>""Van""}, {:others=>true}]"	Global Depletion of Groundwater Resources	article-journal	Geophysical Research Letters	2010	52
+Optional	"[{:family=>""UN"", :given=>""F.A.O.""}]"	Agroecology for Food Security and Nutrition	paper-conference	Proceedings of the FAO International Symposium.” International Symposium on Agroecology for Food Security and Nutrition	2015	52
+Optional	"[{:family=>""Clark"", :given=>""Michael""}, {:family=>""Tilman"", :given=>""David""}]"	Comparative Analysis of Environmental Impacts of Agricultural Production Systems	article-journal	Environmental Research Letters	2017	52
+Optional	"[{:family=>""Cassman"", :given=>""Kenneth G.""}, {:family=>""Dobermann"", :given=>""Achim""}, {:family=>""Walters"", :given=>""Daniel T.""}]"	Agroecosystems	article-journal	AMBIO: A Journal of the Human Environment	2002	52
+Optional	"[{:family=>""Robertson"", :given=>""G.Philip""}, {:family=>""Vitousek"", :given=>""Peter M.""}]"	Nitrogen in Agriculture: Balancing the Cost of an Essential Resource	article-journal	Annual Review of Environment and Resources	2009	52
+Optional	"[{:family=>""Seufert"", :given=>""Verena""}, {:family=>""Ramankutty"", :given=>""Navin""}, {:family=>""Foley"", :given=>""Jonathan A.""}]"	Comparing the Yields of Organic and Conventional Agriculture	article-journal	Nature	2012	52
+Optional	"[{:family=>""Fliessbach"", :given=>""Andreas""}, {:family=>""Oberholzer"", :given=>""Hans-Rudolf""}, {:others=>true}]"	Soil Organic Matter and Biological Soil Quality Indicators After 21 Years of Organic and Conventional Farming	article-journal	Agriculture	2007	52
+Optional	"[{:family=>""Division"", :given=>""U.N.Population""}]"	Department of Economic and Social Affairs	book		2019	52
+Optional	"[{:family=>""Salvatore"", :given=>""Mirella""}, {:family=>""Pozzi"", :given=>""Francesca""}, {:others=>true}]"	Mapping Global Urban and Rural Population Distributions	chapter	Environment and Natural Resources Working Paper 24	2005	52
+Optional	"[{:family=>""Hazell"", :given=>""Peter B.R.""}]"	Asia’s Green Revolution: Past Achievements and Future Challenges.” Chapter 1.3 in Rice in the Global Economy. Strategic Research and Policy Issues for Food Security	chapter	IRRI	2010	52
+Optional	"[{:family=>""Khush"", :given=>""Gurdev S.""}]"	Green Revolution: the Way Forward	article-journal	Nature Reviews Genetics	2001	52
+Optional	"[{:family=>""Dalin"", :given=>""Carole""}, {:family=>""Konar"", :given=>""Megan""}, {:others=>true}]"	Evolution of the Global Virtual Water Trade Network	article-journal	Proceedings of the National Academy of Sciences	2012	52
+Optional	"[{:family=>""Paarlberg"", :given=>""Robert""}]"	GMO Foods and Crops: Africa’s Choice	article-journal	New Biotechnology	2010	52
+Optional	"[{:family=>""Hefferon"", :given=>""Kathleen L.""}, {:family=>""Herring"", :given=>""Ronald J.""}]"	The End of the GMO? Genome Editing	article-journal	Review of Agrarian Studies	2017	52
+Optional	"[{:family=>""Ricroch"", :given=>""Agnès E.""}, {:family=>""Hénard-Damave"", :given=>""Marie-Cécile""}]"	Next Biotech Plants: New Traits	article-journal	Critical Reviews in Biotechnology	2016	52
+Required	"[{:family=>""Connor"", :given=>""J.J.""}]"	Introduction to Structural Motion Control	book		2002-08	46
+Optional	"[{:family=>""Rasmussen"", :given=>""E.""}]"	Dampers Hold Sway	article-journal	Civil Engineering Magazine	1997	46
+Optional	"[{:family=>""Kojima"", :given=>""H.""}, {:family=>""Fukahori"", :given=>""Y.""}]"	Rubber World			1990	46
+Optional	"[{:family=>""Fujita"", :given=>""R.""}, {:family=>""Suzuki"", :given=>""S.""}, {:family=>""Fujita"", :given=>""S.""}]"		paper-conference	The 1989 ASME Pressure Vesseles and Piping Conference	1989	46
+Optional	"[{:family=>""Allen"", :given=>""D.E.""}, {:family=>""Murray"", :given=>""T.M.""}]"	Design Criterion for Vibrations Due to Walking	article-journal	AISC Engineering Journal	1993	46
+Optional		American National Standard Guide to the Evaluation of Human Exposure to Vibration in Buildings				46
+Optional	"[{:family=>""Billington"", :given=>""D.P.""}]"	Robert Maillart and the Art of Reinforced Concrete	chapter	The Architectural History Foundation	1990	46
+Optional	"[{:family=>""Blanc"", :given=>""A.""}, {:family=>""McEvoy"", :given=>""M.""}, {:family=>""Plank"", :given=>""R.""}]"	Architecture and Construction in Steel	book		1993	46
+Optional	"[{:family=>""Bush-Brown"", :given=>""A.Skidmore""}, {:given=>""Owings""}, {:given=>""Merrill""}]"	Architecture and Urbanism 1973 -1983	book		1983	46
+Optional	"[{:family=>""Crosnier Leconte"", :given=>""M.-L.""}, {:family=>""Granet"", :given=>""A.""}, {:family=>""Marrey"", :given=>""B.Eiffel""}]"	La Bibliotheque des Expositions Adam Biro			1989	46
+Optional	"[{:family=>""Elliott"", :given=>""C.D.""}]"	Technics and Architecture	chapter	The Development of Materials and Systems for Buildings	1992	46
+Optional	"[{:family=>""Englekirk"", :given=>""R.""}]"	Steel Structures	chapter	Controlling Behavior through Design	1994	46
+Optional	"[{:family=>""Frampton"", :given=>""K.""}]"	Calatrava Bridges Birkhauser Verlag	book		1996	46
+Optional	"[{:family=>""Gordon"", :given=>""J.E.""}]"	The Science of Structures and Materials Scientific American Books			1988	46
+Optional	"[{:family=>""Graham"", :given=>""B.""}]"	Bruce Graham of SOM Rizzoli International			1989	46
+Optional	"[{:family=>""Herzog"", :given=>""T.""}, {:family=>""Nervi"", :given=>""P.L.""}]"	Gestalten in Beton zum Werk von Pier Luigi Nervi Rudolf Muller			1989	46
+Optional	"[{:family=>""Lee"", :given=>""D.J.""}]"	Bridge Bearings and Expansion Joints	book		1994	46
+Optional	"[{:family=>""Leonhardt"", :given=>""F.Brucken""}]"	Asthetik und Gestaltung = Bridges: Aesthetics and Design	book		1982	46
+Optional	"[{:family=>""Major"", :given=>""M.""}]"	Pier Luigi Nervi Henschelverlag			1970	46
+Optional		Architectural Technology up to the Scientific Revolution	chapter	The Art and Structure of Large-Scale Buildings	1993	46
+Optional	"[{:family=>""Arup"", :given=>""Ove""}, {:given=>""Partners""}]"	Ove Arup & Partners 1946-1986	book		1986	46
+Optional	"[{:family=>""Piano"", :given=>""R.Renzo Piano""}]"	Progetti e architetture 1987-1994	book		1994	46
+Optional	"[{:family=>""Piano"", :given=>""R.""}]"	Renzo Piano and Building Workshop Buildings and Projects 1971-1989	article-journal	Rizzoli International	1989	46
+Optional	"[{:family=>""Rice"", :given=>""P.""}]"	An Engineer Imagines Artemis	article-journal	London	1994	46
+Optional	"[{:family=>""Roig"", :given=>""J.""}]"	Nuevos Puentes/New Bridges Gustavo Gili			1996	46
+Optional		San Francisco Museum of Art Nervi Space and Structural Integrity Associated Arts Foundation				46
+Optional	"[{:family=>""Scott"", :given=>""Q.""}, {:family=>""Miller"", :given=>""H.S.""}]"				1979	46
+Optional		Santiago Calatrava	article-journal	Architectural Monographs	1996	46
+Optional	"[{:family=>""Stackpole"", :given=>""P.""}]"	The Bridge Builders Pomegranate			1984	46
+Optional	"[{:family=>""Walker"", :given=>""D.""}]"	Great Engineers	chapter	The Art of British Engineers 1837-1987	1987	46
+Optional	"[{:family=>""Wilson"", :given=>""F.""}]"	Architecture	chapter	Fundamental Issues	1990	46
+Optional		Architectural Record			1891	46
+Optional		Architecture			1900	46
+Optional					1959	46
+Required	"[{:family=>""Bergman"", :given=>""Theodore L.""}, {:family=>""Lavine"", :given=>""Adrienne S.""}, {:family=>""Incropera"", :given=>""Frank P.""}, {:others=>true}]"	Introduction to Heat Transfer			2011	91
+Optional	"[{:family=>""Lienhard"", :given=>""John H.""}, {:family=>""Lienhard"", :given=>""John H.""}]"	A Heat Transfer Textbook			2011	91
+Optional	"[{:family=>""Etter"", :given=>""D.M.""}]"	Introduction to MATLAB® for Engineers and Scientists			1995	84
+Optional	"[{:family=>""Smits"", :given=>""A.J.""}]"	A Physical Introduction to Fluid Mechanics			1999	84
+Optional	"[{:family=>""White"", :given=>""F.""}]"	Fluid Mechanics			2002	84
+Required	"[{:family=>""Nise"", :given=>""Norman S.""}]"	Control Systems Engineering			2010	90
+Required	"[{:family=>""Connor"", :given=>""Jerome J.""}]"	Introduction to Structural Motion Control			2002	47
+Required	"[{:family=>""Ang"", :given=>""Alfredo H.-S.""}, {:family=>""Tang"", :given=>""Wilson H.""}]"	Probability Concepts in Engineering: Emphasis on Applications to Civil and Environmental Engineering			2006	1
+Required	"[{:family=>""Morel"", :given=>""Francois M.""}, {:family=>""Hering"", :given=>""Janet G.""}]"	Principles and Applications of Aquatic Chemistry			1993	53
+Optional	"[{:family=>""Anderson"", :given=>""G.W.""}]"	Thermodyanmics of Natural Systems			2005	53
+Optional	"[{:family=>""Stumm"", :given=>""Werner""}, {:family=>""Morgan"", :given=>""James J.""}]"	Aquatic Chemistry			1996	53
+Required	"[{:family=>""Seinfeld"", :given=>""John H.""}, {:family=>""Pandis"", :given=>""Spyros N.""}]"	Atmospheric Chemistry and Physics: From Air Pollution to Climate Change			2006	57
+Optional	"[{:family=>""Jacob"", :given=>""Daniel""}]"	Introduction to Atmospheric Chemistry			1999	57
+Optional	"[{:family=>""Finlayson-Pitts"", :given=>""Barbara J.""}, {:family=>""Pitts"", :given=>""James N.""}]"	Chemistry of the Upper and Lower Atmosphere: Theory			1999	57
+Required	"[{:family=>""Smith"", :given=>""Robert""}, {:family=>""Smith"", :given=>""Thomas""}]"	Ecology and Field Biology			2001	5
+Required	"[{:family=>""Carruthers"", :given=>""G.T.""}]"	Locusts in the Red Sea	article-journal	Nature	1889	5
+Required	"[{:family=>""Vernadskii"", :given=>""V.I.""}]"	The Biosphere	chapter	Biosfera	1926	5
+Required	"[{:family=>""Rowe"", :given=>""J.Stan""}]"	Biological Fallacy: Life Equals Organisms	article-journal	Bioscience	1992	5
+Required	"[{:family=>""Remmert"", :given=>""Hermann""}]"	Ecology: the Basic Concept	chapter	Ecology	1980	5
+Required	"[{:family=>""Chyba"", :given=>""Christopher F.""}]"	Rethinking Earth’s Early Atmosphere	article-journal	Science	2005	5
+Required	"[{:family=>""Kump"", :given=>""Lee R.""}]"	The Rise of Atmospheric Oxygen	article-journal	Nature	2008	5
+Required	"[{:family=>""Kaiser"", :given=>""Jocelyn""}]"	Can Deep Bacteria Live on Nothing but Rocks and Water?	article-journal	Science	1995	5
+Required	"[{:family=>""Jannasch"", :given=>""Holger W.""}]"	Life at the Sea Floor	article-journal	Nature	1995	5
+Required	"[{:family=>""Lovley"", :given=>""Derek R.""}]"	Bug Juice: Harvesting Electricity with Microorganisms	article-journal	Nature Reviews Microbiology	2006	5
+Required	"[{:family=>""Jetten"", :given=>""Mike""}, {:others=>true}]"	Microbiology and Application of the Anaerobic Ammonium Oxidation (‘anammox’) Process	article-journal	Current Opinion in Biotechnology	2001	5
+Required	"[{:family=>""Morton"", :given=>""Oliver""}]"	Introduction	chapter	Eating the Sun	2008	5
+Required	"[{:family=>""Chisholm"", :given=>""S.W.""}]"	What Limits Phytoplankton Growth	article-journal	Oceanus	1992	5
+Required	"[{:family=>""Falkowski"", :given=>""Paul G.""}]"	The Ocean’s Invisible Forest	book		2002-08	5
+Required	"[{:family=>""Galloway"", :given=>""James""}, {:others=>true}]"	Transformation of the Nitrogen Cycle: Recent Trends	article-journal	Science	2008	5
+Required	"[{:family=>""Oki"", :given=>""Taikan""}, {:family=>""Kanae"", :given=>""Shinjiro""}]"	Global Hydrological Cycles and World Water Resources	article-journal	Science	2006	5
+Required	"[{:family=>""Filippelli"", :given=>""Gabriel M.""}]"	The Global Phosphorus Cycle: Past	article-journal	Elements	2008	5
+Required	"[{:family=>""Canadell"", :given=>""Josep G.""}, {:others=>true}]"	Contributions to Accelerating Atmospheric CO2 Growth from Economic Activity	article-journal	PNAS	2007	5
+Required	"[{:family=>""Field"", :given=>""Christopher B.""}, {:family=>""Behrenfeld"", :given=>""Michael J.""}, {:family=>""Randerson"", :given=>""James T.""}, {:family=>""Falkowski"", :given=>""Paul""}]"	Primary Production of the Biosphere: Integrating Terrestrial and Oceanic Components	article-journal	Science	1998	5
+Required	"[{:family=>""Falkowski"", :given=>""Paul""}, {:others=>true}]"	The Global Carbon Cycle: A Test of Our Knowledge of Earth as a System	article-journal	Science	2000	5
+Required	"[{:family=>""Doney"", :given=>""Scott C.""}, {:family=>""Fabry"", :given=>""Victoria J.""}, {:family=>""Feely"", :given=>""Richard A.""}, {:family=>""Kleypas"", :given=>""Joan A.""}]"	Ocean Acidification: The Other CO2 Problem	article-journal	Annual Review of Marine Science	2009	5
+Required	"[{:family=>""Redfield"", :given=>""Alfred C.""}]"	On the Proportions of Organic Derivatives in Seawater and their Relation to the Composition of Plankton	chapter	Chapter 5 in James Johnstone Memorial Volume	1934	5
+Required	"[{:family=>""Likens"", :given=>""Gene""}]"	Some Perspectives on Long-term Biogeochemical Research from the Hubbard Brook Ecosystem Study	article-journal	Ecology	2004	5
+Required		A Changing Climate of Opinion?	article-journal	The Economist	2008-09-04	5
+Required	"[{:family=>""Lovelock"", :given=>""James""}]"	A Geophysiologist’s Thoughts on Geoengineering	article-journal	Philosophical Transactions of the Royal Society A	2008	5
+Required	"[{:family=>""Schiermeier"", :given=>""Quirin""}]"	Mixing the Oceans Proposed to Reduce Global Warming	article-journal	Naturenews	2007-09-26	5
+Required	"[{:family=>""Kintisch"", :given=>""Eli""}]"	Scientists Say Continued Warming Warrants Closer Look at Drastic Fixes	article-journal	Science	2007	5
+Required	"[{:family=>""Carpenter"", :given=>""Stephen""}, {:others=>true}]"	Ecosystem Experiments	article-journal	Science	1995	5
+Required	"[{:family=>""Beddington"", :given=>""John""}]"	The Primary Requirements	article-journal	Nature	1995	5
+Required	"[{:family=>""Pauly"", :given=>""Daniel""}, {:family=>""Christensen"", :given=>""V.""}]"	Primary Production Required to Sustain Global Fisheries	article-journal	Nature	1995	5
+Required	"[{:family=>""Pauley"", :given=>""Daniel""}, {:others=>true}]"	Fishing Down Aquatic Food Webs	article-journal	American Scientist	2000	5
+Required	"[{:family=>""Stapp"", :given=>""Paul""}, {:family=>""Polis"", :given=>""Gary A.""}, {:family=>""Piñero"", :given=>""Francisco Sánchez""}]"	Stable Isotopes Reveal Strong Marine and El Niño Effects on Island Food Webs	article-journal	Nature	1999	5
+Required	"[{:family=>""Peterson"", :given=>""Bruce""}, {:family=>""Howarth"", :given=>""Robert""}, {:family=>""Garritt"", :given=>""Robert""}]"	Sulfur and Carbon Isotopes as Tracers of Salt-Marsh Organic Matter Flow	article-journal	Ecology	1986	5
+Required	"[{:family=>""Dunne"", :given=>""Jennifer""}, {:family=>""Williams"", :given=>""Richard""}, {:family=>""Martinez"", :given=>""Neo""}]"	Network Structure and Biodiversity Loss in Food Webs: Robustness Increases with Connectance	article-journal	Ecology Letters	2002	5
+Required	"[{:family=>""Bol"", :given=>""Roland""}, {:family=>""Pflieger"", :given=>""Christian""}]"	Stable Isotope Analysis of the Hair of Modern Humans and Their Domestic Animals	article-journal	Rapid Communications in Mass Spectrometry	2002	5
+Required	"[{:family=>""Smil"", :given=>""Vaclav""}]"	How Many Billions to Go?	article-journal	Nature	1999	5
+Required	"[{:family=>""Palumbi"", :given=>""Stephen""}]"	Humans as the World’s Greatest Evolutionary Force	article-journal	Science	2001	5
+Required	"[{:family=>""Cohen"", :given=>""Joel""}]"	Population Growth and Earth’s Human Carrying Capacity	article-journal	Science	1995	5
+Required	"[{:family=>""Tilman"", :given=>""David""}, {:others=>true}]"	Agricultural Sustainability and Intensive Production Practices	article-journal	Nature	2002	5
+Required	"[{:family=>""Wackernagel"", :given=>""Mathis""}, {:others=>true}]"	National Natural Capital Accounting with the Ecological Footprint Concept	article-journal	Ecological Economics	1999	5
+Required	"[{:family=>""Hindell"", :given=>""Mark""}]"	Some Life-History Parameters of a Declining Population of Southern Elephant Seals	article-journal	Journal of Animal Ecology	1991	5
+Required	"[{:family=>""Lauer"", :given=>""Thomas""}, {:family=>""Spacie"", :given=>""Anne""}]"	Space as a Limiting Resource in Freshwater Systems: Competition between Zebra Mussels (Dreissena polymorpha) and Freshwater Sponges (Porifera	article-journal	Hydrobiologia	2004	5
+Required	"[{:family=>""Byers"", :given=>""James""}]"	Competition Between Two Estuarine Snails: Implications For Invasions of Exotic Species	article-journal	Ecology	2000	5
+Required	"[{:family=>""Turchin"", :given=>""P.""}, {:family=>""Oksanen"", :given=>""L.""}, {:family=>""Ekerholm"", :given=>""P.""}, {:family=>""Oksanen"", :given=>""T.""}, {:family=>""Henttonen"", :given=>""H.""}]"	Are Lemmings Prey or Predators?	article-journal	Nature	2000	5
+Required	"[{:family=>""Gilg"", :given=>""Olivier""}, {:family=>""Hanski"", :given=>""Ilkka""}, {:family=>""Sittler"", :given=>""Benoit""}]"	Cyclic Dynamics in a Simple Vertebrate Predator-Prey Community	article-journal	Science	2003	5
+Required	"[{:family=>""Hudson"", :given=>""Peter J.""}, {:family=>""Bjørnstad"", :given=>""Ottar N.""}]"	Vole Stranglers and Lemming Cycles	article-journal	Science	2003	5
+Required	"[{:family=>""Myers"", :given=>""Norman""}, {:others=>true}]"	Biodiversity Hotspots for Conservation Priorities	article-journal	Nature	2000	5
+Required	"[{:family=>""Worm"", :given=>""Boris""}, {:others=>true}]"	Impacts of Biodiversity Loss on Ocean Ecosystem Services	article-journal	Science	2006	5
+Required	"[{:family=>""Layard"", :given=>""Richard""}]"	Happiness: Has Social Science a Clue?	article-journal	Lionel Robbins Memorial Lectures	March 3-5	5
+Required	"[{:family=>""Turner"", :given=>""Graham""}]"	A Comparison of ‘The Limits to Growth’ with 30 Years of Reality	article-journal	Global Environmental Change	2008	5
+Required	"[{:family=>""Porter"", :given=>""Michael E.""}]"	Competitive Advantage: Creating and Sustaining Superior Performance			1985	43
+Required	"[{:family=>""Williams"", :given=>""E.G.""}]"	Fourier Acoustics: Sound Radiation and Nearfield Acoustical Holography			1999	94
+Required	"[{:family=>""Slocum"", :given=>""Alexander H.""}]"	Design Is A Passionate Process	chapter	Chapter 1 in Fundamentals of Design		80
+Required	"[{:family=>""Kent"", :given=>""Adrian""}]"	A Critical Look at Risk Assessments for Global Catastrophes	article-journal	Risk Analysis	2004	80
+Required	"[{:family=>""Calogero"", :given=>""Francesco""}]"	Might A Laboratory Experiment Destroy Planet Earth?	article-journal	Interdisciplinary Science Reviews	2000	80
+Required	"[{:family=>""Overbye"", :given=>""Dennis""}]"	Gauging a Collider’s Odds of Creating a Black Hole	article-journal	New York Times	2008-04-15	80
+Optional	"[{:family=>""Slocum"", :given=>""Alexander H.""}]"	Creating Ideas	chapter	Chapter 2 in Fundamentals of Design		80
+Optional	"[{:family=>""Newman"", :given=>""Dava""}]"	Introduction to Engineering,” and “Design: Lighter-Than-Air (LTA) Vehicle Module.” Chapters 2 and 12 in Interactive Aerospace Engineering and Design			2001	80
+Optional	"[{:family=>""Belden"", :given=>""Jesse""}]"	3 Methods for Dimensional Analysis				80
+Optional	"[{:family=>""White"", :given=>""Frank M.""}]"	Dimensional Analysis and Similarity,” and “Experimental External Flow.” Chapter 5 and Section 7.6 in Fluid Mechanics			2006	80
+Optional	"[{:family=>""Taylor"", :given=>""Geoffrey""}]"	The Formation of a Blast Wave by a Very Intense Explosion II. The Atomic Explosion of 1945	paper-conference	Proceedings of the Royal Society of London A 201	1950-03-22	80
+Optional	"[{:family=>""Jaffe"", :given=>""R.L.""}, {:others=>true}]"	Review of Speculative ‘Disaster Scenarios’ at RHIC	article-journal	Reviews of Modern Physics	2000	80
+Optional	"[{:family=>""Johnson"", :given=>""George""}]"	Physicists Strive to Build a Black Hole	article-journal	New York Times	2001-09-11	80
+Optional	"[{:family=>""Overbye"", :given=>""Dennis""}]"	Asking a Judge to Save the World	article-journal	New York Times	2008-03-29	80
+Optional	"[{:family=>""Nizza"", :given=>""Mike""}]"	Hawking Anticipates Collider’s Start	article-journal	New York Times	2008-09-09	80
+Optional	"[{:family=>""Overbye"", :given=>""Dennis""}]"	A Giant Takes On Physics’ Biggest Questions	article-journal	New York Times	2005-05-15	80
+Optional	"[{:family=>""Dar"", :given=>""Arnon""}, {:family=>""Rújula"", :given=>""A."", :particle=>""De""}, {:family=>""Heinz"", :given=>""Ulrich""}]"	Will Relativistic Heavy Ion Colliders Destroy Our Planet?	article-journal	Physical Review Letters B	1999	80
+Optional	"[{:given=>""AssociatedPress""}]"	Particle Collider Fires	article-journal	September	2008	80
+Optional	"[{:family=>""McCloud"", :given=>""Scott""}]"	Understanding Comics: The Invisible Art			1994	81
+Optional	"[{:family=>""Norman"", :given=>""Donald""}]"	Emotional Design: Why We Love (or Hate) Every Day Things			2005	81
+Optional	"[{:family=>""Ulrich"", :given=>""Karl T.""}, {:family=>""Eppinger"", :given=>""Steven D.""}]"	Product Design and Development			2003	81
+Optional	"[{:family=>""Ashby"", :given=>""Michael""}, {:family=>""Johnson"", :given=>""Kara""}]"	Materials and Design: The Art and Science of Material Selection in Product Design			2002	81
+Optional	"[{:family=>""Sutton-Smith"", :given=>""Brian""}]"	Toys as Culture			1986	81
+Optional	"[{:family=>""Bee"", :given=>""Helen L.""}, {:family=>""Boyd"", :given=>""Denise Roberts""}]"	The Developing Child			2003	81
+Required	"[{:family=>""Jensen"", :given=>""Finn B.""}, {:family=>""Kuperman"", :given=>""William A.""}, {:family=>""Porter"", :given=>""Michael B.""}, {:family=>""Schmidt"", :given=>""Henrik""}]"	Computational Ocean Acoustics			1994	95
+Required	"[{:family=>""Devore"", :given=>""Jay L.""}]"	Probability and Statistics for Scientists and Engineers			2000	4
+Required	"[{:family=>""Etter"", :given=>""D.""}]"	Introduction to MATLAB® for Engineers and Scientists			1996	4
+Required	"[{:family=>""Harr"", :given=>""Jonathan""}]"	A Civil Action	book		1995	40
+Required	"[{:family=>""Manual"", :given=>""U.S.E.P.A.R.C.R.A.Orientation""}]"	EPA/530/R-02/016. Office of Solid Waste and Emergency Response			2002-09	40
+Required	"[{:family=>""EPA"", :given=>""U.S.""}]"	Seminar Publication: Transport and Fate of Contaminants in the Subsurface	chapter	Report Number EPA/625/4-89/019. Center for Environmental Research Information	1989-09	40
+Required	"[{:family=>""Huling"", :given=>""S.G.""}, {:family=>""Weaver"", :given=>""J.W.""}]"	Dense Nonaqueous Phase Liquids	chapter	EPA Ground Water Issue. Report Number EPA/540/4-91-002. R.S. Kerr Environmental Research Center	1991-03	40
+Required	"[{:family=>""Kueper"", :given=>""B.H.""}, {:family=>""McWhorter"", :given=>""D.B.""}]"	The Behavior of Dense	article-journal	Ground Water	September/October 1991	40
+Required	"[{:family=>""Newell"", :given=>""C.J.""}, {:family=>""Acree"", :given=>""S.D.""}, {:family=>""Ross"", :given=>""R.R.""}, {:family=>""Huling"", :given=>""S.G.""}]"	Light Nonaqueous Phase Liquids	article-journal	EPA Ground Water	1995-07	40
+Required	"[{:family=>""EPA"", :given=>""U.S.""}]"	Seminar Publication: Site Characterization for Subsurface Remediation	chapter	Report Number EPA/625/4-91/026. Office of Research and Development	1991-11	40
+Required	"[{:family=>""Grubb"", :given=>""D.G.""}, {:family=>""Sitar"", :given=>""N.""}]"	Evaluation of Technologies for In-Situ Cleanup of DNAPL Contaminated Sites	chapter	Report Number EPA/600/R-94/120. NTIS Number PB94-195039. R.S. Kerr Environmental Research Laboratory	1994-08	40
+Required	"[{:family=>""Cohen"", :given=>""R.M.""}, {:family=>""Mercer"", :given=>""J.W.""}, {:family=>""Greenwald"", :given=>""R.M.""}, {:family=>""Beljin"", :given=>""M.S.""}]"	Design Guidelines for Conventional Pump-and-Treat Systems	article-journal	EPA Ground Water	1997-09	40
+Required	"[{:family=>""EPA"", :given=>""U.S.""}]"	Presumptive Remedies: Site Characterization and Technology Selection for CERCLA Sites With Volatile Organic Compounds In Soils	chapter	Report Number EPA/540/F-93/048. U.S. Environmental Protection Agency	1993-09	40
+Required	"[{:family=>""Powell"", :given=>""R.M.""}, {:family=>""Blowes"", :given=>""D.W.""}, {:family=>""Gillham"", :given=>""R.W.""}, {:family=>""Schultz"", :given=>""D.""}, {:family=>""Sivavec"", :given=>""T.""}, {:family=>""Puls"", :given=>""R.W.""}, {:family=>""Vogan"", :given=>""J.L.""}, {:family=>""Powell"", :given=>""P.D.""}, {:family=>""Landis"", :given=>""R.""}]"	Permeable Reactive Barrier Technologies for Contaminant Remediation	article-journal	Report Number EPA/600/R-98/125. Office of Research and Development	1998-09	40
+Required	"[{:family=>""Sims"", :given=>""J.L.""}, {:family=>""Suflita"", :given=>""J.M.""}, {:family=>""Russell"", :given=>""H.H.""}]"	In-situ Bioremediation of Contaminated Ground Water. EPA Ground Water Issue	chapter	Report Number EPA/540/S-92/003. R.S. Kerr Environmental Research Laboratory	1992-02	40
+Required	"[{:family=>""Pivetz"", :given=>""B.E.""}]"	Phytoremediation of Contaminated Soil and Ground Water at Hazardous Waste Sites	chapter	EPA Ground Water Issue. Report Number EPA/540/S-01/500. R.S. Kerr Environmental Research Laboratory	2001-02	40
+Required	"[{:family=>""Pope"", :given=>""D.F.""}, {:family=>""Jones"", :given=>""J.N.""}]"	Monitored Natural Attenuation of Chlorinated Solvents	chapter	U.S. EPA Remedial Technology Fact Sheet. Report Number EPA/600/F-98/022. Office of Research and Development	1999-05	40
+Required	"[{:family=>""Pope"", :given=>""D.F.""}, {:family=>""Jones"", :given=>""J.N.""}]"	Monitored Natural Attenuation of Petroleum Hydrocarbons	chapter	U.S. EPA Remedial Technology Fact Sheet. Report Number EPA/600/F-98/021. Office of Research and Development	1999-05	40
+Required	"[{:family=>""EPA"", :given=>""U.S.""}]"	Use of Monitored Natural Attenuation at Superfund	chapter	Report Number OSWER Directive 9200.4-17. U.S. Environmental Protection Agency	1997-11	40
+Required	"[{:family=>""EPA"", :given=>""U.S.""}]"	Guidance for Evaluating Technical Impractibility of Ground-Water Restoration	chapter	OSWER Directive 9234.2-25. Report Number EPA-540-R-93-080. Office of Solid Waste and Emergency Response	1993-09	40
+Required	"[{:family=>""EPA"", :given=>""U.S.""}]"	Risk Assessment Guidance for Superfund (RAGS) Part A	chapter	Report Number EPA/540/1-89/002. Office of Emergency and Remedial Response	1989-12	40
+Required	"[{:family=>""EPA"", :given=>""U.S.""}]"	Rules of Thumb for Superfund Remedy Selection	chapter	Report Number EPA/540/R-97/013. U.S. Environmental Protection Agency	1997-08	40
+Required	"[{:family=>""EPA"", :given=>""U.S.""}]"	Seminar Publication: Design	report		1994-09	40
+Required	"[{:family=>""EPA"", :given=>""U.S.""}]"	Design and Construction of RCRA/CERCLA Final Covers	chapter	Report Number EPA/625/4-91/025. U.S. Environmental Protection Agency	1991-05	40
+Required	"[{:family=>""EPA"", :given=>""U.S.""}]"	Seminar Publication: Requirements for Hazardous Waste Landfill Design	report		1989-08	40
+Required	"[{:family=>""EPA"", :given=>""U.S.""}]"	Geosynthetic Clay Liners Used in Municipal Solid Waste Landfills	chapter	Report Number EPA-530-F-97-002. Office of Solid Waste and Emergency Response	2001-12	40
+Required	"[{:family=>""EPA"", :given=>""U.S.""}]"	Technical Approaches to Characterizing and Cleaning Up Brownfields Sites	chapter	Report Number EPA/625/R-00/009. National Risk Management Research Laboratory	2001-11-06	40
+Optional	"[{:family=>""Fetter"", :given=>""C.W.""}]"	Contaminant Hydrogeology	book		1999	40
+Optional	"[{:family=>""Qian"", :given=>""X.""}, {:family=>""Koerner"", :given=>""R.M.""}, {:family=>""Gray"", :given=>""D.H.""}]"	Geotechnical Aspects of Landfill Design and Construction	book		2002	40
+Optional	"[{:family=>""McBean"", :given=>""E.A.""}, {:family=>""Rovers"", :given=>""F.A.""}, {:family=>""Farquhar"", :given=>""G.J.""}]"	Solid Waste Landfill Engineering and Design	book		1995	40
+Optional	"[{:family=>""Daniel"", :given=>""D.E.""}]"	Geotechnical Practice for Waste Disposal	book		1993	40
+Required	"[{:family=>""Fischer"", :given=>""Hugo B.""}, {:family=>""List"", :given=>""John E.""}, {:family=>""Koh"", :given=>""C.Robert""}, {:family=>""Imberger"", :given=>""Jorg""}, {:family=>""Brooks"", :given=>""Norman H.""}]"	Mixing in Inland and Coastal Waters			1979	54
+Optional	"[{:family=>""ischer"", :given=>""Hugo B.""}, {:family=>""List"", :given=>""John E.""}, {:family=>""Koh"", :given=>""C.Robert""}, {:family=>""Imberger"", :given=>""Jorg""}, {:family=>""Brooks"", :given=>""Norman H.""}]"	Mixing in Inland and Coastal Waters			1979	54
+Optional	"[{:family=>""Chapra"", :given=>""Steven C.""}]"	Surface Water Quality Modeling			1996	54
+Optional	"[{:family=>""Clark"", :given=>""Mark M.""}]"	Transport Modeling for Environmental Engineers and Scientists			1996	54
+Optional	"[{:family=>""DiToro"", :given=>""Dominic M.""}]"	Sediment Flux Modeling			2000	54
+Optional	"[{:family=>""Agency"", :given=>""Environmental Protection""}]"	Water Quality Assessment: A Screening Procedure for Toxic and Conventional Pollutants in Surface and Ground Water: Parts I and II			1985	54
+Optional	"[{:family=>""Holley"", :given=>""Edward R.""}, {:family=>""Jirka"", :given=>""Gerhard H.""}]"	Mixing in Rivers	chapter	Environmental and Water Quality Operational Studies	1986	54
+Optional	"[{:family=>""Martin"", :given=>""James L.""}, {:family=>""McCutcheon"", :given=>""Steven C.""}]"	Hydrodynamics and Transport for Water Quality Modeling			1999	54
+Optional		Mathematical Modeling of Water Quality: Streams			1983	54
+Optional	"[{:family=>""Rutherford"", :given=>""J.C.""}]"	River Mixing			1994	54
+Optional	"[{:family=>""Schnoor"", :given=>""Jerald L.""}]"	Environmental Modeling: Fate and Transport of Pollutants in Water			1996	54
+Optional	"[{:family=>""Thomann"", :given=>""Robert V.""}, {:family=>""Mueller"", :given=>""John A.""}]"	Principles of Surface Water Quality Modeling and Control			1997	54
+Required	"[{:family=>""Williams"", :given=>""James H."", :suffix=>""Jr""}]"	Fundamentals of Applied Dynamics	book		1996	68
+Optional	"[{:family=>""Rao"", :given=>""S.S.""}]"	Mechanical Vibrations	book		1995	68
+Optional	"[{:family=>""Beer"", :given=>""Ferdinand Pierre""}]"	Vector Mechanics for Engineers	book		1988	68
+Required	"[{:family=>""Stewart"", :given=>""Robert""}]"	Introduction to Physical Oceanography			2005-08~	83
+Optional	"[{:family=>""Denny"", :given=>""Mark W.""}]"	Air and Water: The Biology and Physics of Life’s Media			1993	83
+Optional	"[{:family=>""Dorn"", :given=>""W.G."", :particle=>""Van""}]"	Oceanography and Seamanship			1993	83
+Optional	"[{:family=>""H."", :given=>""Medwin""}, {:family=>""Clay"", :given=>""C.S.""}]"	Fundamentals of Acoustical Oceanography	book		1998	83
+Optional	"[{:family=>""Littlefield"", :given=>""B.""}, {:family=>""Hanselman"", :given=>""D.""}]"	Mastering MATLAB® 6	book		2001	83
+Optional	"[{:family=>""Urick"", :given=>""R.J.""}]"	Principles of Underwater Sound	book		1983	83
+Optional	"[{:family=>""Knauss"", :given=>""J.A.""}]"	Introduction to Physical Oceanography	book		1997	83
+Optional	"[{:family=>""University"", :given=>""Open""}]"	Ocean Circulation	book		1989	83
+Optional	"[{:family=>""Ugural"", :given=>""A.C.""}]"	Stresses in Plates and Shells			1998	97
+Optional	"[{:family=>""Shames"", :given=>""Irving H.""}, {:family=>""Dym"", :given=>""Clive L.""}]"	Energy and Finite Element Methods in Structural Mechanics: SI Units			1996	97
+Optional	"[{:family=>""Timoshenko"", :given=>""Stephen P.""}, {:family=>""Woinowsky-Krieger"", :given=>""S.""}]"	Theory of Plates and Shells			1959	97
+Optional	"[{:family=>""Hill"", :given=>""R.""}]"	Mathematical Theory of Plasticity	book		1950	97
+Optional	"[{:family=>""Prager"", :given=>""W.""}, {:family=>""Hodge"", :given=>""P.G.""}]"	Theory of Perfectly Plastic Solids	book		1951	97
+Optional	"[{:family=>""Prager"", :given=>""W.""}]"	Introduction to Plasticity	book		1959	97
+Optional	"[{:family=>""Prager"", :given=>""W.""}]"	Introduction to Plasticity	book		1967	97
+Optional	"[{:family=>""Calladine"", :given=>""C.""}]"	Engineering Plasticity	book		1969	97
+Optional	"[{:family=>""Mroz"", :given=>""Z.""}]"	Mathematical Models of Inelastic Material Behavior	book		1973	97
+Optional	"[{:family=>""Kachanov"", :given=>""L.""}]"	Fundamentals of the Theory of Plasticity	book		1974	97
+Optional	"[{:family=>""Martin"", :given=>""J.B.""}]"	Plasticity: Fundamental and General Results			1975	97
+Optional	"[{:family=>""Zyczkowski"", :given=>""M.""}]"	Combined Loadings in the Theory of Plasticity	book		1981	97
+Optional	"[{:family=>""Calladine"", :given=>""C.""}]"	Plasticity for Engineers. E	book		1985	97
+Optional	"[{:family=>""Lubliner"", :given=>""J.""}]"	Plasticity Theory	book		1990	97
+Optional			paper-conference	Proceedings of IUTAM Symposium on Optimization in Structural Design	1973	97
+Optional	"[{:family=>""Hodge"", :given=>""P.G.""}]"	Plastic Analysis of Structures	book		1959	97
+Optional	"[{:family=>""Jaeger"", :given=>""A.""}, {:family=>""Sawczuck"", :given=>""A.""}]"	Load Carrying Capacity of Plates (in German	book		1963	97
+Optional	"[{:family=>""Hodge"", :given=>""P.G.""}]"	Limit Analysis of Rotationally Symmetric Plates and Shells	book		1963	97
+Optional	"[{:family=>""Olszak"", :given=>""W.""}, {:family=>""Sawczuk"", :given=>""A.""}]"	Inelastic Behavior of Shells	book		1969	97
+Optional	"[{:family=>""Massonet"", :given=>""C.""}, {:family=>""Olszack"", :given=>""W.""}, {:family=>""Philips"", :given=>""A.""}]"	Plasticity in Structural Engineering Fundamentals and Applications	book		1979	97
+Optional	"[{:family=>""Calladine"", :given=>""C.""}]"	Theory of Shell Structures	book		1983	97
+Optional	"[{:family=>""Konig"", :given=>""A.""}]"	Shakedown of Elastic-Plastic Structures	book		1987	97
+Optional	"[{:family=>""Kudo"", :given=>""H.""}]"	Study of Forging and Extrusion Processes	chapter	Koku Kenkya-sho Shu ko	1958	97
+Optional	"[{:family=>""Szczepinski"", :given=>""W.""}]"	Introduction to the Mechanics of Plastic Forming of Metals. Alphen aan den Rijn	book		1979	97
+Optional	"[{:family=>""Johnson"", :given=>""W.""}, {:family=>""Mellor"", :given=>""P.""}]"	Engineering Plasticity	book		1983	97
+Optional	"[{:family=>""Goldsmith"", :given=>""W.""}]"	Impact: The Theory and Physical Behavior of Colliding Solids	book		1960	97
+Optional	"[{:family=>""Cristescu"", :given=>""N.""}]"	Dynamic Plasticity	book		1967	97
+Optional	"[{:family=>""Johnson"", :given=>""W.""}]"	Impact Strength of Materials	book		1972	97
+Optional	"[{:family=>""Wierzbicki"", :given=>""T.""}]"	Design of Plastic Structures to Dynamic Loads			1981	97
+Optional	"[{:family=>""Cristescu"", :given=>""C.""}, {:family=>""Suliciu"", :given=>""I.""}]"	Viscoplasticity	book		1982	97
+Optional	"[{:family=>""McClintock"", :given=>""F.A.""}]"	Plasticity Aspects of Fracture	chapter	Fracture: An Advanced Treatise	1971	97
+Optional	"[{:family=>""Hutchinson"", :given=>""J.W.""}]"	Nonlinear Fracture Mechanics	book		1979	97
+Required	"[{:family=>""Ugural"", :given=>""Ansel C.""}, {:family=>""Fenster"", :given=>""Saul K.""}]"	Advanced Strength and Applied Elasticity			2003	96
+Required	"[{:family=>""Williams"", :given=>""J.H."", :suffix=>""Jr""}]"	Fundamentals of Applied Dynamics			2006	69
+Optional	"[{:family=>""Bedford"", :given=>""A.""}, {:family=>""Fowler"", :given=>""Wallace L.""}]"	Engineering Mechanics: Dynamics			1998	69
+Required	"[{:family=>""Easley"", :given=>""David""}, {:family=>""Kleinberg"", :given=>""Jon""}]"	Networks			2010	7
+Required	"[{:family=>""Lambe"", :given=>""T.William""}, {:family=>""Whitman"", :given=>""Robert V.""}]"	Soil Mechanics			1969	41
