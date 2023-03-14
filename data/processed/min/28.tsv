@@ -1,0 +1,28 @@
+Required	Barnhart, C., and K. Talluri. “Airline Operations Research.“In Design and Operation of Civil and Environmental Engineering Systems. 1997, pp. 435-469
+Required	Desrochers, M., and F. Soumis. “A Generalised Permanent Labelling Algorithm for the Shortest Path Problem with Time Windows."INFOR 26, 3 (1988): 191-212
+Required	Barnhart, C., C. L. Hane, E. L. Johnson, and G. Sigismondi. “A Column Generation and Partitioning Approach for Multi-Commodity Flow Problems."Telecommunication Systems 3 (1995): 239-258
+Required	Barnhart, C., C. L. Hane, and P. H. Vance (to appear). “Using Branch-and-Price-and-Cut to Solve Origin-Destination Integer Multicommodity Problems."Operations Research 48, 2 (March-April 2000): 318-326
+Required	Barnhart, C., E. L. Johnson, G. L. Nemhauser, M. W. P. Savelsbergh, and P. H. Vance. “Branch-and-Price: Column Generation for Solving Huge Integer Programs."Operations Research 46, 3 (1998): 316-329
+Required	Lohatepanont, M. “Passenger Mix Problem—portion of Ph.D. dissertation of Lohatepanont.“Center for Transportation Studies, Massachusetts Institute of Technology, Cambridge, MA, 2001
+Required	Hane, C. A., C. Barnhart, E. L. Johnson, R. E. Marsten, G. L. Nemhauser, and G. Sigismondi. “The Fleet Assignment Problem: Solving a Large-Scale Integer Program.” Mathematical Programming 70, 2 (1995): 211-232
+Required	Barnhart, C., T. Kniker, and M. Lohatepanont. “Itinerary-Based Airline Fleet Assignment.“2000. Transportation Science 36, 2 (May 2002): 199-217
+Required	Barnhart, C., A. Farahat, and M. Lohatepanont. “Airline Fleet Assignment: An Alternative Model and Solution Approach Based on Composite Variables.“2001. Submitted to Operations Research (May 2001)
+Required	Rexing, B., C. Barnhart, T. Kniker, A. Jarrah, and N. Krishnamurthy. “Airline Fleet Assignment with Time Windows."Transportation Science 34, 1 (2000): 1-20
+Required	Anbil, R., C. Barnhart, L. Hatay, E. L. Johnson, and V. S. Ramakrishnan. “Crew Pairing Optimization at American Airlines Decision Technologies.“In Optimization in Industry: Mathematical Programming and Modeling Techniques in Practice. Edited by T. Ciriano, and R. Leachman. England: John Wiley and Son, 1993, pp. 31-36
+Required	Barnhart, C., N. L. Boland, L. W. Clarke, E. L. Johnson, G. L. Nemhauser, and R. G. Shenoi. “Flight String Models for Aircraft Fleeting and Routing."Transportation Science 32, 3 (1998): 208-220. (Focused Issue on Airline Optimization)
+Required	Barnhart, C., E. L. Johnson, G. L Nemhauser, and P. H. Vance. “Crew Scheduling.“In Handbook of Transportation Science. Edited by Randolph W. Hall. Norwell, MA: Kluwer Academic Publisher, 1999, pp. 493-521
+Required	Barnhart, C., E. L. Johnson, R. Anbil, and L. Hatay. “A Column Generation Technique for the Long-Haul Crew Assignment Problem.“In Optimization in Industry: Volume II. Edited by T. Ciriano, and R. Leachman. England: John Wiley and Son, 1994, 7-22
+Required	Desrochers, M., and F. Soumis. “A Generalised Permanent Labelling Algorithm for the Shortest Path Problem with Time Windows.” INFOR 26, 3 (1988): 191-212
+Required	Cohn, A., and C. Barnhart. “Improving Crew Scheduling by Incorporating Key Maintenance Routing Decisions.“2000. Operations Research 51, 3 (May-June 2003): 387-396
+Required	Barnhart, C., F. Lu, and R. Shenoi. “Integrated Airline Scheduling.“In Operations Research in the Air Industry. International Series in Operations Research and Management Science. Vol. 9. Edited by Prof. Gang Yu. Kluwer Academic Publishers, 1997, pp. 384-403
+Required	Lohatepanont, M., and C. Barnhart. “Airline Schedule Planning: Integrated Models and Algorithms for Schedule Design and Fleet Assignment.“2001. Transportation Science (June 2001)
+Required	Bratu S., C. Barnhart. “Real Time Optimization Models to Recover Aircraft Schedules and Minimize Passenger Disruptions.“MIT Working Paper, 2003
+Required	Jarrah, A., G. Yu, N. Krishnamurthy, and A. Rakshit. “A Decision Support Framework for Airline Flight Cancellations and Delays."Transportation Science 27, 3 (1993)
+Required	Thengvall, B., Gang Y., and J. Bard. “Balancing User Preferences for Aircraft Schedule Recovery During Irregular Operations."IIE Transactions, 32 (1998): 181-193
+Required	Ageeva, Y. “Approaches to Incorporating Robustness into Airline Scheduling."Master’s Thesis, Massachusetts Institute of Technology, 2000
+Required	Chebalov, S., and D. Klabjan. “Robust Airline Crew Scheduling: Move-up Crews.“Proceedings of the 2002 NSF Design, Service, and Manufacturing Grantees and Research Conference, 2002
+Required	Kang, L. S., and J. P. Clarke. “Degradable Airline Scheduling.“Working paper, Operations Research Center, Massachusetts Institute of Technology, 2002
+Required	Klabjan, D., A. J. Shaefer, E. L. Johnson, and G. L. Nemhauser. “Robust Airlines Crew Scheduling.“White papers and reports series, the Logistics Institute, Georgia Institute of Technology, 2002
+Required	Rosenberger, J. M., E. L. Johnson, and G. L. Nemhauser. “A Robust Assignment Model with Hub Isolation and Short Cycles.“White papers and reports series, the Logistics Institute, Georgia Institute of Technology, 2001
+Required	Schaefer, A. J., E. L. Johnson, A. J. Kleywegt, and G. L. Nemhauser. “Airline Crew Scheduling Under Uncertainty.“White papers and reports series series, the Logistics Institute, Georgia Institute of Technology, 2001
+Required	Yen, J. W., and J. R. Birge. “A Stochastic Programming Approach to the Airline Crew Scheduling Problem.“Submitted to Operations Research, 2001

@@ -1,0 +1,7 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Reynolds"", :given=>""T.D.""}, {:family=>""Richards"", :given=>""P.A.""}]"	Unit Operations and Processes in Environmental Engineering			1996	left_only	Optional
+"[{:family=>""Mara"", :given=>""D.""}]"	Domestic Wastewater Treatment in Developing Countries			2003	both	Optional
+"[{:family=>""Viessman"", :given=>""W."", :suffix=>""Jr.""}, {:family=>""Hammer"", :given=>""M.J.""}]"	Water Supply and Pollution Control			2005	both	Optional
+"[{:family=>""Tchobanoglous"", :given=>""G.""}, {:family=>""Burton"", :given=>""F.L.""}, {:family=>""Stensel"", :given=>""H.D.""}]"	Wastewater Engineering: Treatment and Reuse			2003	both	Optional
+"[{:family=>""Staff"", :given=>""M.W.H.""}]"	Water Treatment: Principles and Design			2005	both	Optional
+"[{:family=>""Droste"", :given=>""R.L.""}]"	Theory and Practice of Water and Wastewater Treatment			1997	left_only	Optional

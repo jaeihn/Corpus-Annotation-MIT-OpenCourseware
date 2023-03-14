@@ -1,0 +1,4 @@
+Required	[{:family=>"Vecchio", :given=>"Del"}, {:family=>"Domitilla"}, {:family=>"Murray", :given=>"Richard M."}]	["Biomolecular Feedback Systems"]			["2014"]
+Optional	[{:family=>"Alon", :given=>"Uri"}]	["An Introduction to Systems Biology: Design Principles of Biological Circuits"]			["2006"]
+Optional	[{:family=>"Klipp", :given=>"Edda"}, {:family=>"Herwig", :given=>"Ralf"}, {:others=>true}]	["Systems Biology in Practice: Concepts, Implementation and Application"]			["2005"]
+Optional	[{:family=>"Alberts", :given=>"Bruce"}, {:family=>"Johnson", :given=>"Alexander"}, {:others=>true}]	["Molecular Biology of the Cell"]			["2002"]

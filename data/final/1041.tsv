@@ -1,0 +1,24 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Stokey"", :given=>""Nancy L.""}, {:family=>""Robert E. Lucas"", :given=>""with Edward C.Prescott"", :suffix=>""Jr.""}]"	Recursive Methods in Economic Dynamics	book		1989	both	Required
+"[{:family=>""Weitzman"", :given=>""M.L.""}]"	Duality Theory for Infinite Horizon Convex Models	article-journal	Management Science	1973-03	both	Optional
+"[{:family=>""Benveniste"", :given=>""L.M.""}, {:family=>""Scheinkman"", :given=>""J.A.""}]"	Duality Theory for Dynamic Optimization Models of Economics: The Continuous Time Case	article-journal	Journal of Economic Theory	1982	both	Optional
+"[{:family=>""Kamihigashi"", :given=>""Takashi""}]"	Necessity of Transversality Conditions for Infinite Horizon Problems	article-journal	Econometrica	2001-07	both	Optional
+"[{:family=>""Kamihigashi"", :given=>""Takashi""}]"	A Simple Proof of the Necessity of the Transversality Condition	article-journal	Economic Theory	2002-09	both	Optional
+"[{:family=>""Araujo"", :given=>""A.""}, {:family=>""Scheinkman"", :given=>""J.A.""}]"	Maximum Principle and Transversality Condition for Concave Infinite Horizon Economic Models	article-journal	Journal of Economic Theory	1983-06	both	Optional
+"[{:family=>""Michel"", :given=>""Philippe""}]"	On the Transversality Condition in Infinite Horizon Optimal Problems	article-journal	Econometrica	1982-07	both	Optional
+"[{:family=>""Michel"", :given=>""Philippe""}]"	Some Clarifications on the Transversality Condition	article-journal	Econometrica	1990-05	both	Optional
+"[{:family=>""Leung"", :given=>""Siu Fai""}]"	Transversality Condition and Optimality in a Class of Infinite Horizon Continuous Time Economic Models	article-journal	Journal of Economic Theory	1991-06	both	Optional
+"[{:family=>""Milgrom"", :given=>""Paul""}, {:family=>""Segal"", :given=>""Ilya""}]"	Envelope Theorems for Arbitrary Choice Sets”	article-journal	Econometrica	2002-03	both	Optional
+"[{:family=>""Araujo"", :given=>""A.""}]"	The Once but Not Twice Differentiability of the Policy Function	article-journal	Econometrica	1991-09	both	Optional
+"[{:family=>""Araujo"", :given=>""A.""}, {:family=>""A"", :given=>""J.""}]"	Scheinkman “Smoothness	article-journal	Econometrica	1977-04	both	Optional
+"[{:family=>""Santos"", :given=>""Manuel S.""}]"	Smoothness of the Policy Function in Discrete Time Economic Models	article-journal	Econometrica	1991-09	both	Optional
+"[{:family=>""Alvarez"", :given=>""Fernando""}, {:family=>""Stokey"", :given=>""Nancy L.""}]"	Dynamic Programming with Homogenous Functions	article-journal	Journal of Economic Theory	1998-09	both	Optional
+"[{:family=>""Boldrin"", :given=>""Michele""}, {:family=>""Montrucchio"", :given=>""Luigi""}]"	On the Indeterminacy of Capital Accumulation Paths	article-journal	Journal of Economic Theory	1986	both	Optional
+"[{:family=>""Mitra"", :given=>""Tapan""}]"	On the Relationship between Discounting and Complicated Behavior in Dynamic Optimization Models	article-journal	Journal of Economic Behavior and Organizations	1998-01	both	Optional
+"[{:family=>""Abreu"", :given=>""Dilip""}, {:family=>""Pearce"", :given=>""David""}, {:family=>""Stachetti"", :given=>""Ennio""}]"	Towards a Theory of Infinitely Repeated Games with Discounting	article-journal	Econometrica	1990	both	Optional
+"[{:family=>""Ljungqvist"", :given=>""Lars""}, {:family=>""Sargent"", :given=>""Thomas""}]"	Recursive Macroeconomic Theory	book		2000	both	Optional
+"[{:family=>""Phelan"", :given=>""Christopher""}, {:family=>""Stacchetti"", :given=>""Ennio""}]"	Sequential Equilibria in a Ramsey Tax Model	article-journal	Econometrica	2001-11	both	Optional
+"[{:family=>""Athey"", :given=>""Susan""}, {:family=>""Atkeson"", :given=>""Andrew""}, {:family=>""Kehoe"", :given=>""Patrick J.""}]"	On the optimality of transparent monetary policy	article-journal	Federal Reserve Bank of Minneapolis	2001	both	Optional
+"[{:family=>""Athey"", :given=>""Susan""}, {:family=>""Bagwell"", :given=>""Kyle""}, {:family=>""Sanchirico"", :given=>""Chris""}]"	Collusion and Price Rigidity	manuscript		2002	both	Optional
+"[{:family=>""Levin"", :given=>""Jonathan""}]"	Relational Incentive Contracts	book		2002	both	Optional
+"[{:family=>""Fleming"", :given=>""Wendell Helms""}, {:family=>""Soner"", :given=>""H.Mete""}]"	Controlled Markov Processes and Viscosity Solutions	article-journal	Applications of Mathematics	1993	both	Optional

@@ -1,0 +1,4 @@
+Required	[{:family=>"Nise", :given=>"Norman S."}]	["Control Systems Engineering"]			["2007"]
+Optional	[{:given=>"Rowell"}, {:given=>"Wormley"}]	["System Dynamics: An Introduction"]	book		["1996"]
+Optional	[{:given=>"Dorf"}, {:given=>"Bishop"}]	["Modern Control Systems"]	book		["1995"]
+Optional	[{:given=>"Ogata"}]	["Modern Control Engineering"]	book		["1996"]

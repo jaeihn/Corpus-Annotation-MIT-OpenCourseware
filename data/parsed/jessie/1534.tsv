@@ -1,0 +1,6 @@
+Required	[{:family=>"Hull", :given=>"John"}]	["Options, Futures, and Other Derivatives"]			["1997"]
+Required	[{:family=>"Baxter", :given=>"Martin"}, {:family=>"Rennie", :given=>"Andrew"}]	["Financial Calculus: An Introduction to Derivative Pricing"]			["1996"]
+Required	[{:family=>"Wilmott", :given=>"Paul"}, {:family=>"Howison", :given=>"Sam"}, {:family=>"Dewynne", :given=>"Jeff"}]	["The Mathematics of Financial Derivatives: A Student Introduction"]			["1995"]
+Required	[{:family=>"Grinold", :given=>"Richard C."}, {:family=>"Kahn", :given=>"Ronald N."}]	["Active Portfolio Management: Quantitative Theory and Applications"]			["1995"]
+Required	[{:family=>"Fabozzi", :given=>"Frank J."}, {:family=>"Focardi", :given=>"Sergio M."}, {:family=>"Kolm", :given=>"Petter N."}]	["Financial Modeling of the Equity Market: From CAPM to Cointegration"]			["2006"]
+Required	[{:family=>"Tsay", :given=>"Ruey S."}]	["Analysis of Financial Time Series"]	article-journal	["Wiley-Interscience"]	["2001"]

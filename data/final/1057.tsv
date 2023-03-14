@@ -1,0 +1,10 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Arellano"", :given=>""Manuel""}, {:family=>""Hahn"", :given=>""Jinyong""}]"	Understanding Bias in Nonlinear Panel Models: Some Recent Developments	chapter	Advances in Economics and Econometrics	2007	both	Optional
+"[{:family=>""Chamberlain"", :given=>""Gary""}]"	Panel Data	chapter	Chapter 22 In Handbook of Econometrics	1984	both	Optional
+"[{:family=>""Fernández-Val"", :given=>""Iván""}, {:family=>""Weidner"", :given=>""Martin""}]"	Individual and Time Effects in Nonlinear Panel Models with Large N	article-journal	Journal of Econometrics	2016-05	both	Optional
+"[{:family=>""Newey"", :given=>""Whitney K.""}]"	Convergence Rates and Asymptotic Normality for Series Estimators	article-journal	Journal of Econometrics	1997	both	Optional
+	Efficient Estimation of Models with Conditional Moment Restrictions	chapter	Handbook of Statistics	1993	left_only	Optional
+"[{:family=>""Vaart"", :given=>""A.W."", :particle=>""van der""}]"	Asymptotic Statistics			2000	right_only	Optional
+"[{:family=>""Pearl"", :given=>""Judea""}]"	Causality: Models			2009	right_only	Optional
+"[{:family=>""Imbens"", :given=>""Guido W.""}, {:family=>""Rubin"", :given=>""Donald B.""}]"	Causal Inference for Statistics			2015	right_only	Optional
+"[{:literal=>""— — —.""}]"	Efficient Estimation of Models with Conditional Moment Restrictions	chapter	Handbook of Statistics	1993	right_only	Optional

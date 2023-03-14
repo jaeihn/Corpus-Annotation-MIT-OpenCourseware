@@ -1,0 +1,7 @@
+Required	[{:family=>"Vischer", :given=>"Jacqueline"}]	["Will This Open Space Work?"]	article-journal	["Harvard Business Review"]	["1999-05"]
+Required	[{:family=>"Allen", :given=>"Thomas"}]	["Architecture and Communication Among Product Development Engineers"]	chapter	["MIT Sloan School of Management Working Paper"]	["1997"]
+Required	[{:family=>"Berger", :given=>"Warren"}]	["Lost in Space"]	article-journal	["Wired"]	["1999-02"]
+Required	[{:family=>"Gladwell", :given=>"Malcolm"}]	["Designs for Working"]	article-journal	["The New Yorker"]	["2000-12-11"]
+Required	[{:family=>"Henn", :given=>"Gunter"}, {:family=>"Meyhofer", :given=>"Dirk"}]	["Architecture of Knowledge"]	book		["2003"]
+Required	[{:family=>"Chusid", :given=>"Michael"}]	["Public Musings on Acoustical Privacy"]	article-journal	["Architectural Record"]	["2001-09"]
+Required	[{:family=>"Duffy", :given=>"Francis"}]	["The New Office"]	book		["1997"]

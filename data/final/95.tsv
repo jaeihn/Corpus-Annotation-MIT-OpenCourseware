@@ -1,0 +1,4 @@
+author	title	type	collection	year	_merge	category
+"[{:given=>""Kuperman""}, {:given=>""Schmidt""}]"	Spectral and modal representations of the Doppler-shifted field in ocean waveguides	article-journal	The Journal of the Acoustical Society of America	1994-07	left_only	Required
+"[{:family=>""Jensen"", :given=>""Kuperman""}]"	Porter	chapter	Computational Ocean Acoustics		left_only	Required
+"[{:family=>""Jensen"", :given=>""Finn B.""}, {:family=>""Kuperman"", :given=>""William A.""}, {:family=>""Porter"", :given=>""Michael B.""}, {:family=>""Schmidt"", :given=>""Henrik""}]"	Computational Ocean Acoustics			1994	right_only	Required

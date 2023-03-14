@@ -1,0 +1,4 @@
+Required	[{:family=>"Halfin", :given=>"Shlomo"}, {:family=>"Whitt", :given=>"Ward"}]	["Heavy-Traffic Limits for Queues with Many Exponential Servers"]	article-journal	["Operations Research"]	["1981"]
+Optional	[{:family=>"Kleinrock", :given=>"Leonard"}]	["Queueing Systems"]			["1975"]
+Optional	[{:family=>"Kelly", :given=>"Frank P."}]	["Reversibility and Stochastic Networks"]			["1979"]
+Optional	[{:family=>"Chen", :given=>"Hong"}, {:family=>"Yao", :given=>"David"}]	["Fundamentals of Queueing Networks: Performance, Asymptotics, and Optimization"]			["2001"]

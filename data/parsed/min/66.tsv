@@ -1,0 +1,5 @@
+Required	[{:family=>"Lardner", :given=>"T.J."}, {:family=>"Archer", :given=>"R.R."}, {:family=>"Crandall", :given=>"S.H."}, {:family=>"Dahl", :given=>"N.C."}]	["An Introduction to the Mechanics of Solids"]			["1999"]
+Optional	[{:family=>"Dowling", :given=>"N.E."}]	["Mechanical Behavior of Materials"]			["1998"]
+Optional	[{:family=>"Ashby", :given=>"M.F."}, {:family=>"Jones", :given=>"D.R.H."}]	["Engineering Materials 1: An Introduction to their Properties and Applications"]			["1996"]
+Optional	[{:family=>"Pratap", :given=>"Rudra"}]	["Getting Started with MATLAB®"]			["2001"]
+Optional	[{:family=>"Bowman", :given=>"Keith"}]	["Mechanical Behavior of Materials"]			["2003"]

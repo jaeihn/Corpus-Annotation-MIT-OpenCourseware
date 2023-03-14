@@ -1,0 +1,4 @@
+Required	[{:family=>"Newman", :given=>"J.N."}]	["Marine Hydrodynamics"]			["1977"]
+Optional	[{:family=>"Mei", :given=>"Chiang C."}]	["The Applied Dynamics of Ocean Surface Waves"]	book		["1989"]
+Optional	[{:family=>"Faltinsen", :given=>"O.M."}]	["Sea Loads on Ships and Offshore Structures"]			["1993"]
+Optional	[{:family=>"Laitone", :given=>"Edmund V."}, {:family=>"Wehausen", :given=>"John V."}]	["Surface Waves"]	chapter	["Encyclopedia of Physics"]	["1960"]

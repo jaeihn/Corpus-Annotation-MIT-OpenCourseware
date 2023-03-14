@@ -1,0 +1,8 @@
+Required	[{:family=>"Easley", :given=>"David"}, {:family=>"Kleinberg", :given=>"Jon"}]	["Networks, Crowds, and Markets: Reasoning about a Highly Connected World"]			["2010"]
+Required	[{:family=>"Jackson", :given=>"Matthew O."}]	["Social and Economic Networks"]			["2010"]
+Required	[{:family=>"Newman", :given=>"M.E.J."}]	["Networks: An Introduction"]			["2010"]
+Required	[{:family=>"Shah", :given=>"Devavrat"}]	["Gossip Algorithms"]			["2009"]
+Required	[{:family=>"Spielman", :given=>"Daniel"}]	["Chapter 16: Spectral Graph Theory"]	book		["2007"]
+Optional	[{:given=>"Battiston"}, {:others=>true}]	["DebtRank: Too Central to Fail? Financial Networks, the FED and Systemic Risk"]			["2012"]
+Optional	[{:given=>"Akbarpour"}, {:others=>true}]	["Just a Few Seeds More: Value of Network Information for Diffusion"]			["2018"]
+Optional	[{:given=>"Shah"}, {:given=>"Zaman"}]	["Rumors in a Network: Who’s the Culprit?"]			["2011"]

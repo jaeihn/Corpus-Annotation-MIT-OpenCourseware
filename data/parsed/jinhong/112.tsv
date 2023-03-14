@@ -1,0 +1,2 @@
+Required	[{:family=>"F.", :given=>"Gene"}, {:family=>"Powell", :given=>"J.David"}, {:family=>"Workman", :given=>"Michael L."}]	["The course text is: Franklin", "Digital Control of Dynamic Systems"]			["1997"]
+Optional	[{:family=>"Biernson", :given=>"G."}]	["A Servo for Integrated-Circuit Photolithography"]	chapter	["Chapter 15 in Principles of Feedback Control"]	["1988"]
