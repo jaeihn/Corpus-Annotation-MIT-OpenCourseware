@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Catamaran:wght@400;700&display=swap");
+/* start_of_search_page */
+
+body {
+  font-family: "Catamaran", sans-serif;
+  line-height: 1.6;
+  color: var(--primary-color);
+  font-size: 1.1rem;
+}
+
+.search {
+  width: 852px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+.wrapper {
+  margin: 8px 0;
+}
+
+.search-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-content: stretch;
+  align-items: flex-start;
+}
+
+.search-result {
+  background: #c9bfb2;
+  margin-top: 50px;
+  height: 400px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+select {
+  width: 200px;
+  min-height: 40px;
+  padding-left: 10px;
+  margin: 0 8px 0 0;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  height: 30px;
+  color: #fefefe;
+  background: #5f524f;
+}
+
+.button {
+  padding: 8px 16px;
+  min-height: 40px;
+  min-width: 10px;
+  word-wrap: nowrap;
+  background: #d7d2d1;
+  color: #000;
+  border: 1px solid #fff;
+  border-radius: 5px;
+}
+
+select {
+    order: 0;
+    align-self: auto;
+}
+
+.search {
+  flex: 2 1 auto;
+}
+
+.button {
+    order: 4;
+    flex: 0 1 auto;
+    align-self: auto;
+}
+
+/* end_of_search_page */
