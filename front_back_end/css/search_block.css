@@ -4,8 +4,17 @@
 body {
   font-family: "Catamaran", sans-serif;
   line-height: 1.6;
-  color: var(--primary-color);
-  font-size: 1.1rem;
+  color: var(--ternary-color);
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+:root {
+  --primary-color: #041434;
+  --secondary-color: #f55b5c;
+  --ternary-color: #efdfca;
+  --light-color: #ffffff;
+  --overlay-color: rgb(4,20,52);
 }
 
 .search {
@@ -28,7 +37,7 @@ body {
 }
 
 .search-result {
-  background: #c9bfb2;
+  background: var(--ternary-color);
   margin-top: 50px;
   height: 400px;
   padding: 10px;
@@ -43,8 +52,8 @@ select {
   border: 1px solid #fff;
   border-radius: 5px;
   height: 30px;
-  color: #fefefe;
-  background: #5f524f;
+  color: var(--primary-color);
+  background: var(--ternary-color);
 }
 
 .button {
@@ -71,6 +80,10 @@ select {
     order: 4;
     flex: 0 1 auto;
     align-self: auto;
+}
+
+.button:hover {
+  background-color: var(--secondary-color);
 }
 
 /* end_of_search_page */

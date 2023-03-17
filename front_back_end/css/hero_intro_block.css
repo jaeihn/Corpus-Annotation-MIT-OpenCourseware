@@ -1,15 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Catamaran:wght@400;700&display=swap");
+@import url('https://fonts.cdnfonts.com/css/galano-classic-alt');
+
+
 
 
 /* start_of_hero_program_intro_page */
 :root {
-  --primary-color: #5F524F;
-  --secondary-color: #796C64;
-  --ternary-color: #aaa09d;
-  --light-color: #eeedec;
-  --light-secondary-color: #fefefe;
-  --light-ternary-color: #eee;
-  --overlay-color: rgba(0, 0, 0, 0.7);
+  --primary-color: #041434;
+  --secondary-color: #f55b5c;
+  --ternary-color: #efdfca;
+  --light-color: #ffffff;
+  --overlay-color: rgb(4,20,52);
 }
 
 * {
@@ -18,18 +19,40 @@
   padding: 0;
 }
 
+
 body {
-  font-family: "Catamaran", sans-serif;
   line-height: 1.6;
   color: var(--primary-color);
-  font-size: 1.1rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  background-color: #041434;
 }
 
-h1,
+.light {
+  color: var(--ternary-color);
+}
+
+.coral {
+  color: var(--secondary-color);
+}
+
+.question {
+  line-height: 1.5;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: 1000;
+  line-height: 1;
+  color: var(--secondary-color);
+}
+
 h2,
 h3,
 h4 {
-  line-height: 1.3;
+  line-height: 1
 }
 
 a {
@@ -37,32 +60,42 @@ a {
   text-decoration: none;
 }
 
+li a {
+  color: var(--ternary-color);
+}
+
 ul {
   list-style: none;
 }
 
 img {
-  width: 100%;
+  width: 600px;
+  height: 500px;
 }
 
 .container {
   max-width: 1100px;
   margin: auto;
   overflow: hidden;
-  padding: 0 2rem;
+  padding: 1 1rem;
+}
+
+.my-image-container {
+  text-align: right;
+  margin-right: 5px;
 }
 
 /* navbar */
 
 .navbar {
   font-size: 1.2rem;
-  padding: 0.3rem 0;
+  padding: 2rem 0.5rem;
 }
 
 .navbar .container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 2rem;
+  gap: 1 rem;
 }
 
 .navbar ul {
@@ -92,22 +125,29 @@ img {
   gap: 3rem;
   align-items: center;
   justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .section-showcase h1 {
   font-size: 4rem;
-  color: var(--primary-color);
+  color: var(--secondary-color);
 }
 
 .section-showcase p {
-  margin: 1rem 0;
+  margin: 1rem 3;
+}
+
+.section-showcase img {
+  display: block;
+  margin: auto;
 }
 
 .btn {
   display: inline-block;
-  background-color: var(--primary-color);
-  color: #fff;
-  padding: 0.8rem 1.5rem;
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
+  padding: 1rem 2rem;
   border: none;
   cursor: pointer;
   font-size: 1.1rem;
@@ -115,29 +155,20 @@ img {
 }
 
 .btn:hover {
-  background: var(--secondary-color);
+  background-color: var(--ternary-color);
 }
 
 /* large text section */
 
-.section-large-text {
-  position: relative;
-  background: url("https://www.trolleytours.com/wp-content/uploads/2016/05/boston-mit-480x270.jpg") bottom center/cover
-    no-repeat;
-  height: 600px;
-}
 
-.overlay {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  background-color: var(--overlay-color);
+.section-large-text {
+  background-color: var(--light-color);
+  color: var(--primary-color);
+
 }
 
 .section-large-text-inner {
-  color: #fff;
+  color: var(--primary-color);
   height: 100%;
   display: flex;
   flex-direction: column;
