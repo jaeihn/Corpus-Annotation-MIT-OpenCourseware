@@ -1,0 +1,56 @@
+.moment {
+  background-color: var(--light-color);
+  color: var(--primary-color);
+
+}
+
+.moment-inner {
+  color: var(--primary-color);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: auto;
+  max-width: 860px;
+  padding: 5rem 0;
+}
+
+.moment-inner h2 {
+  font-size: 5rem;
+  margin-top: 1rem;
+}
+
+.moment-inner h3 {
+  font-size: 50px;
+}
+
+.moment-inner p {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+
+.moment-inner img{
+  width: 100%;
+  display: block;
+}
+
+
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.image-container img {
+  max-width: 100%;
+  width: 250px; 
+  height: 280px;
+  margin-right: 20px;
+  margin-top: 50px;
+}
+
+
+
+
