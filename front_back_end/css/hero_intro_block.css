@@ -1,6 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Catamaran:wght@400;700&display=swap");
-@import url('https://fonts.cdnfonts.com/css/galano-classic-alt');
-
 
 
 
@@ -186,12 +184,17 @@ img {
 }
 
 .section-large-text-inner h3 {
-  font-size: 2rem;
+  font-size: 50px;
 }
 
 .section-large-text-inner p {
   font-size: 1.5rem;
   margin-top: 1rem;
+}
+
+.section-large-text-inner img{
+  width: 100%;
+  display: block;
 }
 
 /* end_of_hero_program_intro_page */

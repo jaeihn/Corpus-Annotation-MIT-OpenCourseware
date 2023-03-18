@@ -19,15 +19,20 @@ body {
 
 .search {
   width: 852px;
-  margin: 0 auto;
+  margin:  auto;
   padding: 16px;
 }
 
+.search p {
+  padding: 0.3rem;
+
+}
 .wrapper {
   margin: 8px 0;
 }
 
 .search-container {
+  padding: 0.2rem;
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
