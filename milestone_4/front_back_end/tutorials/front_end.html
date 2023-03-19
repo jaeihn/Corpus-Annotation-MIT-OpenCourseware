@@ -1,0 +1,33 @@
+<html>
+<head>
+	<script language="javascript" type="text/javascript" src="front_end.js">
+	</script>
+	<link rel="stylesheet" type="text/css" href="front_end.css">
+</head>
+<body>
+<div>
+<div class="leftbox">
+<form id="form" action="/">
+<select id="genre" name="genre">
+  <option value="news">News</option>
+  <option value="romance">Romance</option>
+  <option value="government">Government</option>
+  <option value="learned">Learned</option>
+</select>
+  <br>
+  <input type="radio" id="table" name="output" value="table" checked> table<br>
+  <input type="radio" id="graph" name="output" value="graph">
+  <label for="graph">graph</label><br>
+ <input type="text" name="word"><br>
+ <input type="checkbox" id="happycheckbox" name="happy" checked> Happy ? <br>
+<button type="button" onclick="addDiv();"> Submit </button>
+<button type="button"  onclick="turnGreen();"> Green ddddd it </button>
+<span id="toturngreen">I must be green </span>
+</form>
+</div>
+<div class="rightbox" id="rightbox">
+<!--Hi there!-->
+</div>
+</div>
+</body>
+</html>
