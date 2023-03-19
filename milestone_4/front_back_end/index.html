@@ -2,24 +2,25 @@
 <html>
 
 <head>
-    <link rel="stylesheet" href="./css/hero_intro_block.css">
-    <link rel="stylesheet" href="./css/search_block.css">
-    <link rel="stylesheet" href="./css/moment_block.css">
+    <link rel="stylesheet" href="../static/css/hero_intro_block.css">
+    <link rel="stylesheet" href="../static/css/search_block.css">
+    <link rel="stylesheet" href="../static/css/moment_block.css">
 </head>
 
-  <!-- nav bar -->
+<!-- nav bar -->
 <nav class="navbar">
     <div class="container">
       <p class="logo">
-        <span class="light">Analysis of Mooc:  </span>
+        <span>MOOC Corpus Analysis : </span>
         <span class="coral"> MIT OpenCourseWare</span>
       </p>
       <ul class="nav">
-        <li><a href="#home">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#search">Search</a></li>
+        <li><a href="index.html" class='active-page'>About</a></li>
+        <li><a href="search-by-title.html">Search by Title</a></li>
+        <li><a href="search-by-author.html">Search by Author</a></li>
+        <li><a href="statistics.html">Statistcs</a></li>
       </ul>
-    </div>
+  </div>
   </nav>
 <!-- nav bar -->
 
@@ -30,13 +31,12 @@
       <div>
         <h1>To read,</h1>
         <h1>or not to read ...</h1>
-        <p class="question">
-          THAT IS A QUETION.
-        </p>
+		  <hr style="width:50%;text-align:left;margin-top:5px;margin-bottom:15px">
+        <p class="question"><em> THAT IS THE QUESTION! </em> </p>
         <a href="#about" class="btn">Learn More</a>
       </div>
       <div class="img_container">
-        <img src="https://images.pexels.com/photos/3728084/pexels-photo-3728084.jpeg?cs=srgb&amp;dl=pexels-wallace-chuck-3728084.jpg&amp;fm=jpg" alt="" />
+        <img src="" alt="" />
       </div>
     </div>
   </section>
@@ -46,85 +46,19 @@
   <section id="about" class="section-large-text">
     <div class="overlay">
       <div class="section-large-text-inner">
-        <h4>COLX 523 Advanced Corpus</h4>
+        <h3>COLX 523 Advanced Corpus</h3>
         <h2>Project Introduction</h2>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta
           repudiandae laboriosam quia, error tempore porro ducimus voluptate
           laborum nostrum iure.
         </p>
-        <img src="https://images.unsplash.com/photo-1505664194779-8beaceb93744?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"> </img>
+        <img src="mit_ocw_search.png" id="rcorners"> </img>
       </div>
     </div>
   </section>
 
   <!-- Intro Block Text -->
-
-<!--  search -->
-<div id="search" class="search">
-    <form>
-    
-      <div class="wrapper">
-        <p>Search</p>
-        <p> search instruction: </p>
-  
-        <div class="search-container">
-          <select id="topics" name="topics">
-            <option value="data_science">Data Science</option>
-            <option value="linear_algebra">Linear Algebra</option>
-            <option value="mathmatics">Mathmatics</option>
-            <option value="topic4">Topic 4</option>
-          </select>
-          <select id="format" name="formats">
-            <option value="book">Book</option>
-            <option value="academic_paper">Academic Paper</option>
-          </select>
-          <select id="groupby" name="groupby">
-            <option value="author">Author</option>
-            <option value="title">Title</option>
-          </select>
-          <select id="include" name="include">
-            <option value="required">Required</option>
-            <option value="optional">Optional</option>
-          </select>
-          <button type="submit" class="button">Search</button>
-        </div>
-        <div class="search-result">
-          <p>Search</p>
-        </div>
-      </div>
-    
-    </form>
-    
-    </div>
-    
-    <!--  search -->
-
-
-
-  <!-- Intro Block Text -->
-  <section id="moment" class="moment">
-    <div class="overlay">
-      <div class="moment-inner">
-        <h4>spread some laughter</h4>
-        <h2>Share Our Stories</h2>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta
-          repudiandae laboriosam quia, error tempore porro ducimus voluptate
-          laborum nostrum iure.
-        </p>
-
-        <div class="image-container">
-          <img src="https://images.unsplash.com/photo-1590598687530-581406de2262?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"> </img>
-          <img src="https://images.unsplash.com/photo-1549675584-91f19337af3d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80">
-          <img src="https://images.unsplash.com/photo-1505664194779-8beaceb93744?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"> </img>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Intro Block Text -->
-
 
 </html>
 
