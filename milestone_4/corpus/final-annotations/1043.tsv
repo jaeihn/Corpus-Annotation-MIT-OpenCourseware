@@ -1,0 +1,199 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Milgrom"", :given=>""Paul""}]"	Putting Auction Theory to Work			2004	both	Required
+"[{:family=>""Roth"", :given=>""Alvin""}, {:family=>""Sotomayor"", :given=>""Marilda""}]"	Two-Sided Matching: A Study in Game-Theoretic Modeling and Analysis			1992	both	Required
+"[{:family=>""Klemperer"", :given=>""Paul""}]"	Auctions: Theory and Practice			2004	both	Optional
+"[{:family=>""Krishna"", :given=>""Vijay""}]"	Auction Theory			2009	both	Optional
+"[{:family=>""Moulin"", :given=>""Hervé""}]"	Axioms of Cooperative Decision Making			1991	both	Optional
+"[{:family=>""Shiller"", :given=>""Robert""}]"	Macro Markets: Creating Institutions for Managing Society’s Largest Economic Risks			1998	both	Optional
+"[{:family=>""Roth"", :given=>""Alvin E.""}]"	The Economist as Engineer: Game Theory	article-journal	Econometrica	2002-07	both	Required
+"[{:family=>""Milgrom"", :given=>""Paul""}]"	Package Auctions and Package Exchanges	article-journal	Econometrica	2007-07	both	Required
+"[{:family=>""Joskow"", :given=>""Paul""}, {:family=>""Schmalensee"", :given=>""Richard""}, {:family=>""Bailey"", :given=>""Elizabeth""}]"	The Market for Sulfur Dioxide Emissions	article-journal	American Economic Review	1998-09	both	Required
+"[{:family=>""Che"", :given=>""Yeon-Koo""}, {:family=>""Gale"", :given=>""Ian""}]"	Market Versus Non-Market Assignment of Initial Ownership	book		2006	both	Required
+"[{:family=>""Klemperer"", :given=>""Paul""}]"	What Really Matters in Auction Design?	article-journal	Journal of Economic Perspectives	2002	both	Required
+"[{:family=>""Coase"", :given=>""Ronald""}]"	The Federal Communications Commission	article-journal	Journal of Law and Economics	1959-10	both	Optional
+	The Problem of Social Cost	article-journal	Journal of Law and Economics	1960-10	left_only	Optional
+"[{:family=>""McMillan"", :given=>""John""}]"	Selling Spectrum Rights	article-journal	Journal of Economic Perspectives	1994	both	Optional
+"[{:family=>""Montgomery"", :given=>""W.David""}]"	Markets in Licenses and Efficient Pollution Control Programs	article-journal	Journal of Economic Theory	1972-12	both	Optional
+"[{:family=>""Hahn"", :given=>""Robert""}]"	Market Power and Transferable Property Rights	article-journal	Quarterly Journal of Economics	1984-11	both	Optional
+"[{:family=>""Weitzman"", :given=>""Martin""}]"	Is the Price System or Rationing More Effective in Getting a Commodity to Those Who Need it Most?	article-journal	Bell Journal of Economics	1977	both	Optional
+"[{:family=>""Sah"", :given=>""Raaj Kumar""}]"	Queues	article-journal	American Economic Review	1987-03	both	Optional
+"[{:family=>""Elster"", :given=>""Jon""}]"	Local Justice: How Institutions Allocate Scarce Goods and Necessary Burdens			1993	both	Optional
+"[{:family=>""Roth"", :given=>""Alvin E.""}]"	Repugnance as a Constraint on Markets	article-journal	Journal of Economic Perspectives	2007	both	Optional
+"[{:family=>""Moulin"", :given=>""Hervé""}]"	Priority Rules and Other Asymmetric Rationing Methods	article-journal	Econometrica	2000-05	both	Optional
+"[{:family=>""Fowlie"", :given=>""Meredith""}, {:family=>""Perloff"", :given=>""Jeffrey""}]"	Distributing Pollution Rights in Cap-and-Trade Programs: Are Outcomes Independent of Allocation?	book		2009	both	Optional
+"[{:family=>""Mansur"", :given=>""Erin T.""}, {:family=>""White"", :given=>""Matt""}]"	Market Organization and Efficiency in Electricity Markets	book		2007	both	Optional
+"[{:family=>""Leslie"", :given=>""Phillip""}, {:family=>""Sorenson"", :given=>""Alan""}]"	The Welfare Effects of Ticket Resale	article-journal	Also available as National Bureau of Economic Research Working Paper	2009-10	both	Optional
+"[{:family=>""Fowlie"", :given=>""Meredith""}, {:family=>""Holland"", :given=>""Stephen""}, {:family=>""Mansur"", :given=>""Erin T.""}]"	What Do Emissions Markets Deliver and To Whom? Evidence from Southern California’s NOx Trading Program	article-journal	National Bureau of Economic Research Working Paper	2009-06	both	Optional
+"[{:family=>""Reny"", :given=>""Philip""}]"	Arrow’s Theorem and the Gibbard-Satterthwaite Theorem: A Unified Approach	article-journal	Economics Letters	2001-01	both	Required
+"[{:family=>""Klemperer"", :given=>""Paul""}]"	Why Every Economist Should Learn Some Auction Theory.” Chapter 2 in Advances in Economics and Econometrics: Theory and Practice			2003	both	Required
+"[{:family=>""Ausubel"", :given=>""Lawrence""}, {:family=>""Milgrom"", :given=>""Paul""}]"	The Lovely but Lonely Vickrey Auction	chapter	Chapter 1 in Combinatorial Auctions	2010	both	Required
+"[{:family=>""Rothkopf"", :given=>""Michael""}, {:family=>""Tesiberg"", :given=>""Thomas""}, {:family=>""Kahn"", :given=>""Edward""}]"	Why are Vickrey Auctions Rare?	article-journal	Journal of Political Economy	1990-02	both	Required
+"[{:family=>""Milgrom"", :given=>""Paul""}, {:family=>""Segal"", :given=>""Ilya""}]"	The Envelope Theorem for Arbitrary Choice Sets	article-journal	Econometrica	2002-03	both	Required
+"[{:family=>""Vickrey"", :given=>""William""}]"	Counterspeculation	article-journal	Journal of Finance	1961-03	both	Optional
+"[{:family=>""Harris"", :given=>""Milton""}, {:family=>""Townsend"", :given=>""Robert""}]"	Resource Allocation under Asymmetric Information	article-journal	Econometrica	1981-01	both	Optional
+"[{:family=>""Holmström"", :given=>""Bengt""}]"	Groves’ Schemes on Restricted Domains	article-journal	Econometrica	1979-09	both	Optional
+"[{:family=>""Gibbard"", :given=>""Allan""}]"	Manipulation of Voting Schemes: A General Result	article-journal	Econometrica	1973-07	both	Optional
+"[{:family=>""Satterthwaite"", :given=>""Mark""}]"	Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions	article-journal	Journal of Economic Theory	1975-04	both	Optional
+"[{:family=>""Gibbard"", :given=>""Allan""}]"	Manipulation of Schemes that Mix Voting with Chance	article-journal	Econometrica	1977-04	both	Optional
+"[{:family=>""Fudenberg"", :given=>""Drew""}, {:family=>""Tirole"", :given=>""Jean""}]"	Bayesian Games and Mechanism Design	chapter	Chapter 7 in Game Theory	1991	both	Optional
+"[{:family=>""d’Aspremont"", :given=>""Claude""}, {:family=>""Gerard-Varet"", :given=>""Louis-Andre""}]"	Incentives and Incomplete Information	article-journal	Journal of Public Economics	1979-02	both	Optional
+"[{:family=>""Crémer"", :given=>""Jacques""}, {:family=>""McLean"", :given=>""Richard""}]"	Optimal Selling Strategies under Uncertainty for a Discriminating Monopolist when Demands are Interdependent	article-journal	Econometrica	1985-03	both	Optional
+"[{:family=>""McAfee"", :given=>""R.Preston""}, {:family=>""Reny"", :given=>""Philip""}]"	Correlated Information and Mechanism Design	article-journal	Econometrica	1992-03	both	Optional
+"[{:family=>""Chung"", :given=>""Kim-Sau""}, {:family=>""Olszewski"", :given=>""Wojciech""}]"	A Non-Differentiable Approach to Revenue Equivalence	article-journal	Theoretical Economics	2007-12	both	Optional
+"[{:family=>""McLennan"", :given=>""Andrew""}]"	Manipulation in Elections with Uncertain Preferences	article-journal	School of Economics Discussion Paper	2008	both	Optional
+"[{:family=>""Myerson"", :given=>""Roger""}]"	Optimal Auction Design	article-journal	Mathematics of Operations Research	1981-02	both	Required
+"[{:family=>""Demange"", :given=>""Gabrielle""}, {:family=>""Gale"", :given=>""David""}, {:family=>""Sotomayor"", :given=>""Marilda""}]"	Multi-Item Auctions	article-journal	Journal of Political Economy	1986-08	both	Required
+"[{:family=>""Myerson"", :given=>""Roger""}, {:family=>""Satterthwaite"", :given=>""Mark""}]"	Efficient Mechanisms for Bilateral Trading	article-journal	Journal of Economic Theory	1983-04	both	Required
+"[{:family=>""Milgrom"", :given=>""Paul""}, {:family=>""Weber"", :given=>""Robert""}]"	A Theory of Auctions and Competitive Bidding	article-journal	Econometrica	1982-09	both	Required
+"[{:family=>""Bulow"", :given=>""Jeremy""}, {:family=>""Roberts"", :given=>""John""}]"	The Simple Economics of Optimal Auctions	article-journal	Journal of Political Economy	1989-10	both	Required
+"[{:family=>""McAfee"", :given=>""R.Preston""}, {:family=>""McMillan"", :given=>""John""}]"	Bidding Rings	article-journal	American Economic Review	1992-06	both	Required
+"[{:family=>""Levin"", :given=>""Daniel""}, {:family=>""Smith"", :given=>""James L.""}]"	Equilibrium in Auctions with Entry	article-journal	American Economic Review	1994-06	both	Optional
+"[{:family=>""Bulow"", :given=>""Jeremy""}, {:family=>""Klemperer"", :given=>""Paul""}]"	Auctions versus Negotiations	article-journal	American Economic Review	1996-03	both	Optional
+"[{:family=>""Armstrong"", :given=>""Mark""}]"	Optimal Multi-Object Auctions	article-journal	Review of Economic Studies	2000-07	both	Optional
+"[{:family=>""Wilson"", :given=>""Robert""}]"	Incentive Efficiency of Double Auctions	article-journal	Econometrica	1985-09	both	Optional
+"[{:family=>""McAfee"", :given=>""R.Preston""}, {:family=>""McMillan"", :given=>""J.""}]"	Auctions and Bidding	article-journal	Journal of Economic Literature	1987-06	both	Optional
+"[{:family=>""Milgrom"", :given=>""Paul""}, {:family=>""Weber"", :given=>""Robert""}]"	The Value of Information in a Sealed-Bid Auction	article-journal	Journal of Mathematical Economics	1982-06	both	Optional
+"[{:family=>""Bergemann"", :given=>""Dirk""}, {:family=>""Välimäki"", :given=>""Juuso""}]"	The Dynamic Pivot Mechanism	chapter	Cowles Foundation Discussion Paper No. 1672	2008-08	both	Optional
+"[{:family=>""Chen"", :given=>""Chia-Hui""}]"	One-to-Many Negotiation Between a Seller and Asymmetric Buyers	thesis		2009-04	both	Optional
+"[{:family=>""Pai"", :given=>""Mallesh M.""}, {:family=>""Vohra"", :given=>""Rakesh""}]"	Optimal Auctions with Financially Constrained Bidders	book		2009-07	both	Optional
+"[{:family=>""Fox"", :given=>""Jeremy T.""}, {:family=>""Bajari"", :given=>""Patrick""}]"	Measuring the Efficiency of an FCC Spectrum Auction	article-journal	Also available as National Bureau of Economic Research Working Paper	2009-10	left_only	Optional
+"[{:family=>""Segal"", :given=>""Ilya""}, {:family=>""Whinston"", :given=>""Michael D.""}]"	An Expected-Efficient Status Quo Allows Efficient Bargaining	book		2009-01	both	Optional
+"[{:family=>""Hafalir"", :given=>""Isa""}, {:family=>""Krishna"", :given=>""Vijay""}]"	Asymmetric Auctions with Resale	book		2006-01	both	Optional
+"[{:family=>""Cheng"", :given=>""Harrison""}, {:family=>""Tan"", :given=>""Guofu""}]"	Auctions with Resale and Bargaining Power	book		2009-01	both	Optional
+"[{:family=>""Shapley"", :given=>""Lloyd""}, {:family=>""Scarf"", :given=>""Herbert""}]"	On Cores and Indivisibility	article-journal	Journal of Mathematical Economics	1974-03	both	Required
+"[{:family=>""Moulin"", :given=>""Hervé""}]"	Core and Competitive Equilibrium: Multiple Goods.” Chapter 3 in Cooperative Microeconomics: A Game-Theoretic Introduction			1995	both	Required
+"[{:family=>""Roth"", :given=>""Alvin E.""}, {:family=>""Postlewaite"", :given=>""Andrew""}]"	Weak versus Strong Domination in a Market with Indivisible Goods	article-journal	Journal of Mathematical Economics	1977-08	both	Required
+"[{:family=>""Roth"", :given=>""Alvin E.""}]"	Incentive Compatibility in a Market with Indivisible Goods	article-journal	Economics Letters	1982	both	Required
+"[{:family=>""Hylland"", :given=>""Aanund""}, {:family=>""Zeckhauser"", :given=>""Richard""}]"	The Efficient Allocation of Individuals to Positions	article-journal	Journal of Political Economy	1979-04	both	Required
+"[{:family=>""Abdulkadiroğlu"", :given=>""Atila""}, {:family=>""Sönmez"", :given=>""Tayfun""}]"	House Allocation with Existing Tenants	article-journal	Journal of Economic Theory	1977-10	both	Required
+"[{:family=>""Roth"", :given=>""Alvin E.""}, {:family=>""Sönmez"", :given=>""Tayfun""}, {:family=>""Ünver"", :given=>""M.Utku""}]"	Kidney Exchange	article-journal	Quarterly Journal of Economics	2004-05	both	Required
+"[{:family=>""Gale"", :given=>""David""}, {:family=>""Shapley"", :given=>""Lloyd S.""}]"	College Admissions and the Stability of Marriage	article-journal	American Mathematical Monthly	1962-01	both	Required
+"[{:family=>""Roth"", :given=>""Alvin E.""}]"	The Evolution of the Labor Market for Medical Interns and Residents: A Case Study in Game Theory	article-journal	Journal of Political Economy	1984-12	both	Required
+"[{:family=>""Niederle"", :given=>""Muriel""}, {:family=>""Roth"", :given=>""Alvin E.""}]"	Relationship Between Wages and Presence of a Match in Medical Fellowships	article-journal	Journal of the American Medical Association	2003	both	Required
+"[{:family=>""Bulow"", :given=>""Jeremy""}, {:family=>""Levin"", :given=>""Jonathan""}]"	Matching and Price Competition	article-journal	American Economic Review	2006-06	both	Required
+"[{:family=>""Niederle"", :given=>""Muriel""}, {:family=>""Roth"", :given=>""Alvin E.""}]"	Unraveling Reduces the Scope of an Entry Level Labor Market: Gastroenterology With and Without a Centralized Match	article-journal	Journal of Political Economy	2003-12	both	Required
+"[{:family=>""Sönmez"", :given=>""Tayfun""}]"	Manipulation via Capacities in Two-Sided Matching Markets	article-journal	Journal of Economic Theory	1997-11	both	Optional
+	Can Pre-Arranged Matches by Avoided in Two-Sided Matching Markets?	article-journal	Journal of Economic Theory	1999-05	left_only	Optional
+"[{:family=>""Kelso"", :given=>""Alexander S."", :suffix=>""Jr.""}, {:family=>""Crawford"", :given=>""Vincent P.""}]"	Job Matching	article-journal	Econometrica	1982-11	both	Optional
+"[{:family=>""Gul"", :given=>""Faruk""}, {:family=>""Stachetti"", :given=>""Ennio""}]"	Walrasian Equilibrium with Gross Substitutes	article-journal	Journal of Economic Theory	1999-07	both	Optional
+"[{:family=>""Hatfield"", :given=>""John""}, {:family=>""Milgrom"", :given=>""Paul""}]"	Matching with Contracts	article-journal	American Economic Review	2005-09	both	Optional
+"[{:family=>""Ostrovsky"", :given=>""Michael""}]"	Stability in Supply-Chain Networks	article-journal	American Economic Review	2008-06	both	Optional
+"[{:family=>""Abdulkadiroğlu"", :given=>""Atila""}, {:family=>""Sönmez"", :given=>""Tayfun""}]"	Random Serial Dictatorship and the Core from Random Endowments in House Allocation Problems	article-journal	Econometrica	1998-05	both	Required
+"[{:family=>""Pathak"", :given=>""Parag""}]"	Lotteries in Student Assignment: The Equivalence of Queueing and a Market-Based Approach	book		2008-12	both	Required
+"[{:family=>""Bogomolnaia"", :given=>""Anna""}, {:family=>""Moulin"", :given=>""Hervé""}]"	A New Solution to the Random Assignment Problem	article-journal	Journal of Economic Theory	2001-10	both	Required
+"[{:family=>""Kojima"", :given=>""Fuhito""}, {:family=>""Manea"", :given=>""Mihai""}]"	Strategy-Proofness of the Probabilistic Serial Mechanism in Large Random Assignment Problems	book		2008-09	both	Required
+"[{:family=>""Kojima"", :given=>""Fuhito""}, {:family=>""Che"", :given=>""Yeon-Koo""}]"	Asymptotic Equivalence of Probabilistic Serial and Random Priority Mechanisms	chapter	Econometrica . Also available as Cowles Foundation Discussion Paper No. 1677	2008-10	both	Required
+"[{:family=>""Manea"", :given=>""Mihai""}]"	Asymptotic Ordinal Inefficiency of Random Serial Dictatorship	article-journal	Theoretical Economics	2009-06	both	Optional
+"[{:family=>""Sönmez"", :given=>""Tayfun""}, {:family=>""Ünver"", :given=>""M.Utku""}]"	House Allocation with Existing Tenants: An Equivalence	article-journal	Games and Economic Behavior	2005-07	both	Optional
+"[{:family=>""Bogomolnaia"", :given=>""Anna""}, {:family=>""Moulin"", :given=>""Hervé""}]"	Random Matching under Dichotomous Preferences	article-journal	Econometrica	2004-01	both	Optional
+"[{:family=>""Roth"", :given=>""Alvin E.""}, {:family=>""Sönmez"", :given=>""Tayfun""}, {:family=>""Ünver"", :given=>""M.Utku""}]"	Pairwise Kidney Exchange	article-journal	Journal of Economic Theory	2005-12	both	Optional
+"[{:family=>""Abdulkadiroğlu"", :given=>""Atila""}, {:family=>""Sönmez"", :given=>""Tayfun""}]"	School Choice: A Mechanism Design Approach	article-journal	American Economic Review	2003-06	both	Required
+"[{:family=>""Abdulkadiroğlu"", :given=>""Atila""}, {:family=>""Pathak"", :given=>""Parag""}, {:family=>""Roth"", :given=>""Alvin E.""}]"	Strategy-Proofness vs. Efficiency Matching with Indifferences: Redesigning the New York City High School Match	article-journal	American Economic Review	2009-12	both	Required
+"[{:family=>""Erdil"", :given=>""Aytek""}, {:family=>""Ergin"", :given=>""Haluk""}]"	What’s the Matter with Tie-Breaking? Improving Efficiency in School Choice	article-journal	American Economic Review	2008-06	both	Required
+"[{:family=>""Pathak"", :given=>""Parag""}, {:family=>""Sönmez"", :given=>""Tayfun""}]"	Leveling the Playing Field: Sincere and Sophisticated Players in the Boston Mechanism	article-journal	American Economic Review	2008-09	both	Required
+"[{:family=>""Abdulkadiroğlu"", :given=>""Atila""}, {:family=>""Pathak"", :given=>""Parag""}, {:family=>""Roth"", :given=>""Alvin E.""}, {:family=>""Sönmez"", :given=>""Tayfun""}]"	Changing the Boston School Choice Mechanism: Strategy-Proofness as Equal Access	book		2006	both	Optional
+"[{:family=>""Abdulkadiroğlu"", :given=>""Atila""}, {:family=>""Che"", :given=>""Yeon-Koo""}, {:family=>""Yasuda"", :given=>""Yosuke""}]"	Expanding ‘Choice’ in School Choice	article-journal	Economic Research Initiatives at Duke (ERID) Research Paper	2008-11	both	Optional
+"[{:family=>""Edelman"", :given=>""Benjamin""}, {:family=>""Ostrovsky"", :given=>""Michael""}, {:family=>""Schwarz"", :given=>""Michael""}]"	Internet Advertising and the Generalized Second Price Auction: Selling Billions of Dollars of Keywords	article-journal	Also available as National Bureau of Economic Research Working Paper	2007-03	left_only	Required
+"[{:family=>""Harrison"", :given=>""Glenn""}]"	Theory and Misbehavior in First-Price Auctions	article-journal	American Economic Review	1989-09	left_only	Required
+"[{:family=>""Laffont"", :given=>""Jean-Jacques""}, {:family=>""Ossard"", :given=>""Hervé""}, {:family=>""Vuong"", :given=>""Quang""}]"	Econometrics of First Price Auctions	article-journal	Econometrica	1995-07	left_only	Required
+"[{:family=>""Guerre"", :given=>""Emmanuel""}, {:family=>""Perrigne"", :given=>""Isabelle""}, {:family=>""Vuong"", :given=>""Quang""}]"	Optimal Nonparametric Estimation of First-Price Auctions	article-journal	Econometrica	2000-05	left_only	Required
+"[{:family=>""Haile"", :given=>""Philip""}, {:family=>""Tamer"", :given=>""Elie""}]"	Inference with an Incomplete Model of English Auctions	article-journal	Journal of Political Economy	2003-02	left_only	Required
+"[{:family=>""Hendricks"", :given=>""Kenneth""}, {:family=>""Porter"", :given=>""Robert H.""}]"	An Empirical Study of an Auction with Asymmetric Information	article-journal	American Economic Review	1988-12	left_only	Optional
+"[{:family=>""Guerre"", :given=>""Emmanuel""}, {:family=>""Perrigne"", :given=>""Isabelle""}, {:family=>""Vuong"", :given=>""Quang""}]"	Nonparametric Identification of Risk Aversion in First-Price Auctions Under Exclusion Restrictions	article-journal	Econometrica	2009-07	left_only	Optional
+"[{:family=>""Athey"", :given=>""Susan""}, {:family=>""Haile"", :given=>""Philip""}]"	Identification of Standard Auction Models	article-journal	Econometrica	2002-11	left_only	Optional
+	Nonparametric Approaches to Auctions	chapter	Chapter 60 in Handbook of Econometrics	2005	left_only	Optional
+"[{:family=>""Wilson"", :given=>""Robert""}]"	Auctions of Shares	article-journal	Quarterly Journal of Economics	1979-11	left_only	Optional
+"[{:family=>""Kremer"", :given=>""Ilan""}, {:family=>""Nyborg"", :given=>""Kjell""}]"	Divisible Good Auctions: The Role of Allocation Rules	article-journal	Rand Journal of Economics	2004	left_only	Optional
+"[{:family=>""Back"", :given=>""Kerry""}, {:family=>""Zender"", :given=>""Jaime F.""}]"	Auctions of Divisible Goods: on the Rationale for the Treasury Experiment	article-journal	Review of Financial Studies	1993	left_only	Optional
+"[{:family=>""Nyborg"", :given=>""Kjell""}, {:family=>""Rydqvist"", :given=>""Kristian""}, {:family=>""Sundaresan"", :given=>""Suresh""}]"	Bidder Behavior in Multiunit Auctions: Evidence from Swedish Treasury Auctions	article-journal	Journal of Political Economy	2002-04	left_only	Optional
+"[{:family=>""Malvey"", :given=>""Paul F.""}, {:family=>""Archibald"", :given=>""Christine M.""}]"	Uniform-Price Auctions: Update of the Treasury Experience	chapter	Office of Market Finance	1998-10	left_only	Optional
+"[{:family=>""Milgrom"", :given=>""Paul""}]"	Putting Auction Theory to Work: the Simultaneous Ascending Auction	article-journal	Journal of Political Economy	2000-04	left_only	Optional
+"[{:family=>""Bernheim"", :given=>""B.Douglas""}, {:family=>""Whinston"", :given=>""Michael""}]"	Menu Auctions	article-journal	Quarterly Journal of Economics	1986-02	left_only	Optional
+"[{:family=>""Ausubel"", :given=>""Lawrence""}]"	An Efficient Ascending-Bid Auction for Multiple Objects	article-journal	American Economic Review	2004-12	left_only	Optional
+"[{:family=>""Ausubel"", :given=>""Lawrence""}, {:family=>""Cramton"", :given=>""Peter""}]"	Demand Reduction and Inefficiency in Multi-Unit Auctions			2002-07	left_only	Optional
+"[{:family=>""Ausubel"", :given=>""Lawrence""}, {:family=>""Milgrom"", :given=>""Paul""}]"	Ascending Auctions with Package Bidding	article-journal	Working Paper	2002-03	left_only	Optional
+"[{:family=>""Dasgupta"", :given=>""Partha""}, {:family=>""Maskin"", :given=>""Eric""}]"	Efficient Auctions	article-journal	Quarterly Journal of Economics	2000-05	left_only	Optional
+"[{:family=>""Jehiel"", :given=>""Philippe""}, {:family=>""Moldovanu"", :given=>""Benny""}]"	Efficient Design with Interdependent Valuations	article-journal	Econometrica	2001-09	left_only	Optional
+"[{:family=>""Hansen"", :given=>""Robert G.""}]"	Auctions with Contingent Payments	article-journal	American Economic Review	1985-09	left_only	Optional
+"[{:family=>""Maskin"", :given=>""Eric""}, {:family=>""Riley"", :given=>""John""}]"	Asymmetric Auctions	article-journal	Review of Economic Studies	2000-07	left_only	Optional
+"[{:family=>""DeMarzo"", :given=>""Peter""}, {:family=>""Kremer"", :given=>""Ilan""}, {:family=>""Skrzypacz"", :given=>""Andrzej""}]"	Bidding with Securities: Auctions and Security Design	article-journal	American Economic Review	2005-09	left_only	Optional
+"[{:family=>""Krishna"", :given=>""Vijay""}]"	Asymmetric English Auctions	article-journal	Journal of Economic Theory	2003-10	left_only	Optional
+"[{:family=>""Asker"", :given=>""John""}]"	A Study of the Internal Organisation of a Bidding Cartel			2009-04	left_only	Optional
+"[{:family=>""Marshall"", :given=>""Robert""}, {:family=>""Marx"", :given=>""Leslie""}]"	The Vulnerability of Auctions to Bidder Collusion	article-journal	Quarterly Journal of Economics	2009-05	left_only	Optional
+"[{:family=>""Kastl"", :given=>""Jakub""}]"	Discrete Bids and Empirical Inference in Divisible Good Auctions	book		2009	left_only	Optional
+"[{:family=>""Hortaçsu"", :given=>""Ali""}, {:family=>""Kastl"", :given=>""Jakub""}]"	Do Bidders in Canadian Treasury Bill Auctions Have Private Values?	book		2008	left_only	Optional
+"[{:family=>""Ma"", :given=>""Jipeng""}]"	Strategy-Proofness and Strict Core in a Market with Indivisibilities	article-journal	International Journal of Game Theory	1994	left_only	Optional
+"[{:family=>""Svensson"", :given=>""Lars-Gunnar""}]"	Queue Allocation of Indivisible Goods	article-journal	Social Choice and Welfare	1994-10	left_only	Optional
+	Strategy-Proof Allocation of Indivisible Goods	article-journal	Social Choice and Welfare	1999-09	left_only	Optional
+"[{:family=>""Papai"", :given=>""Szilvia""}]"	Strategy-Proof Assignment by Hierarchical Exchange	article-journal	Econometrica	2000-11	left_only	Optional
+"[{:family=>""Sönmez"", :given=>""Tayfun""}, {:family=>""Ünver"", :given=>""M.Utku""}]"	House Allocation with Existing Tenants: A Characterization	book		2009	left_only	Optional
+"[{:family=>""Pycia"", :given=>""Marek""}, {:family=>""Ünver"", :given=>""M.Utku""}]"	A Theory of House Allocation and Exchange Mechanisms	article-journal	Boston College Working Papers in Economics	2009-01	left_only	Optional
+"[{:family=>""Jehiel"", :given=>""Philippe""}, {:family=>""Moldovanu"", :given=>""Benny""}, {:family=>""Stacchetti"", :given=>""Ennio""}]"	How (Not) to Sell Nuclear Weapons	article-journal	American Economic Review	1996-09	left_only	Required
+"[{:family=>""Jehiel"", :given=>""Philippe""}, {:family=>""Moldovanu"", :given=>""Benny""}]"	Resale Markets and the Assignment of Property Rights	article-journal	Review of Economic Studies	1999-10	left_only	Required
+"[{:family=>""Halafir"", :given=>""Isa""}, {:family=>""Krishna"", :given=>""Vijay""}]"	Asymmetric Auctions with Resale	article-journal	American Economic Review	2008-03	left_only	Required
+"[{:family=>""Haile"", :given=>""Philip""}]"	Auctions with Resale Markets: An Application to U.S. Forest Service Timber Sales	article-journal	American Economic Review	2001-06	left_only	Required
+"[{:family=>""Gomes"", :given=>""Armando""}, {:family=>""Jehiel"", :given=>""Philippe""}]"	Dynamic Processes of Social and Economic Interactions: On the Persistence of Inefficiencies	article-journal	Journal of Political Economy	2005-06	left_only	Optional
+"[{:family=>""Garratt"", :given=>""Rodney""}, {:family=>""Tröger"", :given=>""Thomas""}, {:family=>""Zheng"", :given=>""Charles""}]"	Collusion via Resale	article-journal	Econometrica	2009-07	left_only	Optional
+"[{:family=>""Garratt"", :given=>""Rodney""}, {:family=>""Tröger"", :given=>""Thomas""}]"	Speculation in Standard Auctions with Resale	article-journal	Econometrica	2006-05	left_only	Optional
+"[{:family=>""Zheng"", :given=>""Charles""}]"	Optimal Auctions with Resale	article-journal	Econometrica	2002-11	left_only	Optional
+"[{:family=>""Bergemann"", :given=>""Dirk""}, {:family=>""Välimäki"", :given=>""Juuso""}]"	Dynamic Marginal Contribution Mechanisms	chapter	Cowles Foundation Discussion Paper No. 1616	2007-07	left_only	Optional
+"[{:family=>""Segal"", :given=>""Ilya""}, {:family=>""Pavan"", :given=>""Alessandro""}, {:family=>""Toikka"", :given=>""Juuso""}]"	Dynamic Mechanism Design: Revenue Equivalence	book		2008-05	left_only	Optional
+"[{:family=>""Gershkov"", :given=>""Alex""}, {:family=>""Moldovanu"", :given=>""Benny""}]"	Learning about the Future and Dynamic Efficiency	article-journal	American Economic Review	2009-09	left_only	Optional
+	Dynamic Revenue Maximization with Heterogeneous Objects: A Mechanism Design Approach	article-journal	American Economic Journal: Microeconomics	2009-08	left_only	Optional
+"[{:family=>""Roth"", :given=>""Alvin E.""}, {:family=>""Rothblum"", :given=>""Uriel G.""}]"	Truncation Strategies in Matching Markets—In Search of Advice for Participants	article-journal	Econometrica	1999-01	left_only	Required
+"[{:family=>""Pathak"", :given=>""Parag""}, {:family=>""Sönmez"", :given=>""Tayfun""}]"	Comparing Mechanisms by their Vulnerability to Manipulation	book		2009-01	left_only	Required
+"[{:family=>""Dasgupta"", :given=>""Partha""}, {:family=>""Maskin"", :given=>""Eric""}]"	On the Robustness of Majority Rule	article-journal	Journal of the European Economic Association	2008-09	left_only	Required
+"[{:family=>""Milgrom"", :given=>""Paul""}]"	Simplified Mechanisms with an Application to Sponsored-Search Auctions	chapter	Games and Economic Behavior . Also available as Stanford Institute for Economic Policy Research (SIEPR) Discussion Paper 08-013	2008-12	left_only	Required
+	Assignment Messages and Exchanges	article-journal	American Economic Journal: Microeconomics	2009-08	left_only	Required
+"[{:family=>""Esponda"", :given=>""Ignacio""}]"	Behavioral Equilibrium in Economies with Adverse Selection	article-journal	American Economic Review	2008-09	left_only	Required
+	Information Feedback in First Price Auctions	article-journal	Rand Journal of Economics	2008	left_only	Required
+"[{:family=>""Bergemann"", :given=>""Dirk""}, {:family=>""Morris"", :given=>""Stephen""}]"	Robust Mechanism Design	article-journal	Econometrica	2005-11	left_only	Required
+	An Ascending Auction for Interdependent Values: Uniqueness and Robustness to Strategy Uncertainty	article-journal	American Economic Review	2007-05	left_only	Required
+"[{:family=>""Wilson"", :given=>""Robert B.""}]"	Efficient and Competitive Rationing	article-journal	Econometrica	1989-01	left_only	Optional
+"[{:family=>""McAfee"", :given=>""R.Preston""}]"	Coarse Matching	article-journal	Econometrica	2002-09	left_only	Optional
+"[{:family=>""Roth"", :given=>""Alvin E.""}, {:family=>""Sönmez"", :given=>""Tayfun""}, {:family=>""Ünver"", :given=>""M.Utku""}]"	Efficient Kidney Exchange: Coincidence of Wants in Markets with Compatibility-Based Preferences	article-journal	American Economic Review	2007-06	left_only	Optional
+"[{:family=>""Budish"", :given=>""Eric""}]"	The Combinatorial Assignment Problem: Approximate Competitive Equilibrium from Equal Incomes	book		2009-10	left_only	Optional
+"[{:family=>""Chung"", :given=>""Kim-Sau""}, {:family=>""Ely"", :given=>""Jeffrey C.""}]"	Foundations of Dominant Strategy Mechanisms	article-journal	Review of Economic Studies	2007-04	left_only	Optional
+"[{:family=>""Roth"", :given=>""Alvin E.""}, {:family=>""Ockenfels"", :given=>""Axel""}]"	Last-Minute Bidding and the Rules for Ending Second-Price Auctions: Evidence from eBay and Amazon Auctions on the Internet	article-journal	American Economic Review	2002-09	left_only	Optional
+"[{:family=>""Ely"", :given=>""Jeffrey C.""}, {:family=>""Hossain"", :given=>""Tanjim""}]"	Sniping and Squatting in Auction Markets	article-journal	American Economic Journal: Microeconomics	2009-08	left_only	Optional
+"[{:family=>""Chapman"", :given=>""James T.E.""}, {:family=>""McAdams"", :given=>""David""}, {:family=>""Paarsch"", :given=>""Harry""}]"	Bounding Best-Response Violations in Discriminatory Auctions with Private Values	book		2006-07	left_only	Optional
+"[{:family=>""Roth"", :given=>""Alvin E.""}, {:family=>""Peranson"", :given=>""Elliot""}]"	The Redesign of the Matching Market for American Physicians: Some Engineering Aspects of Economic Design	article-journal	American Economic Review	1999-09	left_only	Required
+"[{:family=>""Kojima"", :given=>""Fuhito""}, {:family=>""Pathak"", :given=>""Parag""}]"	Incentives and Stability in Large Two-Sided Matching Markets	article-journal	American Economic Review	2009-06	left_only	Required
+"[{:family=>""Kojima"", :given=>""Fuhito""}, {:family=>""Pathak"", :given=>""Parag""}, {:family=>""Roth"", :given=>""Alvin E.""}]"	Stability and Incentives in Matching with Couples	book		2009	left_only	Required
+"[{:family=>""Roberts"", :given=>""Donald John""}, {:family=>""Postlewaite"", :given=>""Andrew""}]"	The Incentives for Price-Taking Behavior in Large Exchange Economies	article-journal	Econometrica	1976-01	left_only	Required
+"[{:family=>""Rustichini"", :given=>""Aldo""}, {:family=>""Satterthwaite"", :given=>""Mark A.""}, {:family=>""Williams"", :given=>""Steven R.""}]"	Convergence to Efficiency in a Simple Market with Incomplete Information	article-journal	Econometrica	1994-09	left_only	Required
+"[{:family=>""Satterthwaite"", :given=>""Mark A.""}, {:family=>""Williams"", :given=>""Steven R.""}]"	The Optimality of a Simple Market Mechanism	article-journal	Econometrica	2002-09	left_only	Required
+"[{:family=>""Satterthwaite"", :given=>""Mark A.""}]"	Strategy-Proofness and Markets	article-journal	Social Choice and Welfare	2001	left_only	Required
+"[{:family=>""Gresik"", :given=>""Thomas""}, {:family=>""Satterthwaite"", :given=>""Mark A.""}]"	The Rate of Which a Simple Market Becomes Efficient as the Number of Traders Increases: An Asymptotic Result for Optimal Trading Mechanisms	article-journal	Journal of Economic Theory	1989-06	left_only	Optional
+"[{:family=>""Pesendorfer"", :given=>""Wolfgang""}, {:family=>""Swinkels"", :given=>""Jeroen""}]"	The Loser’s Curse and Information Aggregation in Common Value Auctions	article-journal	Econometrica	1997-11	left_only	Optional
+	Efficiency and Information Aggregation in Auctions	article-journal	American Economic Review	2000-06	left_only	Optional
+"[{:family=>""Wilson"", :given=>""Robert B.""}]"	A Bidding Model of Perfect Competition	article-journal	Review of Economic Studies	1977-10	left_only	Optional
+"[{:family=>""Milgrom"", :given=>""Paul""}]"	A Convergence Theorem for Competitive Bidding with Differential Information	article-journal	Econometrica	1979-05	left_only	Optional
+"[{:family=>""Swinkels"", :given=>""Jeroen""}]"	Efficiency of Large Private Value Auctions	article-journal	Econometrica	2001-01	left_only	Optional
+"[{:family=>""Perry"", :given=>""Motty""}, {:family=>""Reny"", :given=>""Philip J.""}]"	Toward a Strategic Foundation for Rational Expectations Equilibrium	article-journal	Econometrica	2006-09	left_only	Optional
+"[{:family=>""Wilson"", :given=>""Robert B.""}]"	Incentive Efficiency of Double Auctions	article-journal	Econometrica	1985-09	left_only	Optional
+"[{:family=>""Cripps"", :given=>""Martin""}, {:family=>""Swinkels"", :given=>""Jeroen""}]"	Efficiency of Large Double Auctions	article-journal	Econometrica	2006-01	left_only	Optional
+"[{:family=>""Fudenberg"", :given=>""Drew""}, {:family=>""Mobius"", :given=>""Markus""}, {:family=>""Szeidl"", :given=>""Adam""}]"	Existence of Equilibrium in Large Double Auctions	article-journal	Journal of Economic Theory	2007-03	left_only	Optional
+"[{:family=>""McLean"", :given=>""Richard""}, {:family=>""Postlewaite"", :given=>""Andrew""}]"	Informational Size and Incentive Compatibility	article-journal	Econometrica	2002-11	left_only	Optional
+"[{:family=>""Jackson"", :given=>""Matthew""}, {:family=>""Kremer"", :given=>""Ilan""}]"	The Relevance of a Choice of Auction Format in a Competitive Environment	article-journal	Also available as Division of the Humanities and Social Sciences Working Paper No. 1190	2004-01	left_only	Optional
+"[{:family=>""Casella"", :given=>""Alessandra""}]"	Storable Votes	article-journal	Games and Economic Behavior	2005-05	left_only	Required
+"[{:family=>""Jackson"", :given=>""Matthew""}, {:family=>""Sonnenschein"", :given=>""Hugo""}]"	Overcoming Incentive Constraints by Linking Decisions	article-journal	Econometrica	2007-01	left_only	Required
+"[{:family=>""Börgers"", :given=>""Tilman""}]"	Costly Voting	article-journal	American Economic Review	2004-03	left_only	Optional
+"[{:family=>""Börgers"", :given=>""Tilman""}, {:family=>""Postl"", :given=>""Peter""}]"	Efficient Compromising	article-journal	Journal of Economic Theory	2009-09	left_only	Optional
+"[{:family=>""Hortalla-Vallve"", :given=>""Rafael""}]"	Qualitative Voting	article-journal	Economics Series Working Papers	2007	left_only	Optional
+"[{:family=>""Segal"", :given=>""Ilya""}]"	Communication in Economic Mechanisms.” Chapter 6 in Advances in Economics and Econometrics: Theory and Applications			2006	left_only	Optional
+	The Communication Requirements of Social Choice Rules and Supporting Budget Sets	article-journal	Journal of Economic Theory	2007-09	left_only	Optional
+"[{:family=>""Nisan"", :given=>""Noam""}, {:family=>""Segal"", :given=>""Ilya""}]"	The Communication Requirements of Efficient Allocations and Supporting Prices	article-journal	Journal of Economic Theory	2006-07	left_only	Optional
+"[{:family=>""Segal"", :given=>""Ilya""}]"	Nash Implementation with Little Communication	article-journal	Theoretical Economics	2010-03	left_only	Optional
+"[{:family=>""Athanasoulis"", :given=>""Stefano""}, {:family=>""Shiller"", :given=>""Robert""}]"	World Income Components: Measuring and Exploiting Risk Sharing Opportunities	article-journal	American Economic Review	2001-09	left_only	Required
+	The Significance of the Market Portfolio	article-journal	Review of Financial Studies	2000	left_only	Required
+"[{:family=>""Acharya"", :given=>""Viral""}, {:family=>""Bisin"", :given=>""Alberto""}]"	Centralized versus Over the Counter Markets			2009-05	left_only	Required
+"[{:family=>""Cabrales"", :given=>""Antonio""}, {:family=>""Calvo-Armengol"", :given=>""Antoni""}, {:family=>""Jackson"", :given=>""Matthew""}]"	La Crema: Fire Insurance in a Village Economy of Modern Day Europe	article-journal	Journal of Political Economy	2003	left_only	Optional
+"[{:family=>""Dekel"", :given=>""Eddie""}, {:family=>""Jackson"", :given=>""Matthew""}, {:family=>""Wolinsky"", :given=>""Asher""}]"	Vote Buying: General Elections	article-journal	Journal of Political Economy	2008-04	left_only	Optional
+"[{:family=>""Pycia"", :given=>""Marek""}]"	Many-to-One Matching without Substitutability	chapter	Industrial Performance Center (IPC) Working Paper No. 05-008	2005-11	left_only	Optional
+"[{:family=>""Yenmez"", :given=>""M.Bumin""}]"	Incentive Compatible Market Design with an Application to Matching with Wages	book		2009-11	left_only	Optional
+"[{:family=>""Lee"", :given=>""Soohyung""}]"	Marriage and Online Mate-Search Services: Evidence from South Korea	book		2009-10	left_only	Optional
+"[{:given=>""Milgrom""}]"	Getting to Work,” “Vickrey-Clarke-Groves Mechanisms,” and “The Envelope Theorem and Payoff Equivalence	article-journal	chapters		right_only	Required
+"[{:family=>""Coase"", :given=>""Ronald""}]"	The Problem of Social Cost	article-journal	Journal of Law and Economics	1960-10	right_only	Optional
+"[{:family=>""Fox"", :given=>""Jeremy T.""}, {:family=>""Bajari"", :given=>""Patrick""}]"	Measuring the Efficiency of an FCC Spectrum Auction	book		2009-10	right_only	Optional
+"[{:family=>""Sönmez"", :given=>""Tayfun""}]"	Can Pre-Arranged Matches by Avoided in Two-Sided Matching Markets?	article-journal	Journal of Economic Theory	1999-05	right_only	Optional

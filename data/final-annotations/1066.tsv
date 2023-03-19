@@ -1,0 +1,38 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Acemoglu"", :given=>""Daron""}]"	Introduction to Modern Economic Growth			2009	both	Required
+"[{:family=>""Helpman"", :given=>""Elhanan""}]"	The Mystery of Economic Growth			2004	both	Required
+"[{:family=>""Quah"", :given=>""Danny T.""}]"	Empirics for Growth and Distribution: Stratification	article-journal	Journal of Economic Growth	1997	both	Required
+"[{:family=>""Jones"", :given=>""Charles I.""}]"	On the Evolution of the World Income Distribution	article-journal	Journal of Economic Perspectives	1997	both	Required
+"[{:family=>""Acemoglu"", :given=>""Daron""}, {:family=>""Naidu"", :given=>""Suresh""}, {:others=>true}]"	Democracy Does Cause Growth	article-journal	National Bureau of Economic Research Working Paper	2014-03	both	Required
+"[{:family=>""Acemoglu"", :given=>""Daron""}, {:family=>""Johnson"", :given=>""Simon""}, {:family=>""Robinson"", :given=>""James""}]"	Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution	article-journal	The Quarterly Journal of Economics	2002	both	Required
+"[{:family=>""Solow"", :given=>""Robert M.""}]"	Growth Theory: An Exposition			2000	both	Required
+"[{:family=>""Mankiw"", :given=>""N.Gregory""}, {:family=>""Romer"", :given=>""David""}, {:family=>""Weil"", :given=>""David N.""}]"	A Contribution to the Empirics of Economic Growth	article-journal	The Quarterly Journal of Economics	1992	both	Required
+"[{:family=>""Barro"", :given=>""Robert J.""}, {:family=>""Sala-i-Martin"", :given=>""Xavier""}]"	Chapter 10 in Economic Growth			2003	both	Required
+"[{:family=>""Young"", :given=>""Alwyn""}]"	The Tyranny of Numbers: Confronting the Statistical Realities of the East Asian Growth Experience	article-journal	The Quarterly Journal of Economics	1995	both	Required
+"[{:family=>""Klenow"", :given=>""Peter J.""}, {:family=>""Rodriguez-Clare"", :given=>""Andrés""}]"	The Neoclassical Revival in Growth Economics: Has It Gone Too Far?	chapter	NBER Macroeconomics Annual 1997	1997	both	Required
+"[{:family=>""Trefler"", :given=>""Daniel""}]"	International Factor Price Differences: Leontief Was Right!	article-journal	Journal of Political Economy	1993	both	Required
+"[{:family=>""Diamond"", :given=>""Jared M.Guns""}]"	Germs and Steel: The Fates of Human Societies			1999	both	Required
+"[{:family=>""Acemoglu"", :given=>""Daron""}, {:family=>""Johnson"", :given=>""Simon""}, {:family=>""Robinson"", :given=>""James A.""}]"	The Colonial Origins of Comparative Development: An Empirical Investigation	article-journal	American Economic Review	2001	both	Required
+"[{:family=>""Mas-Colell"", :given=>""Andreu""}, {:family=>""Whinston"", :given=>""Michael D.""}, {:family=>""Green"", :given=>""Jerry R.""}]"	Chapters 4 and 16 in Microeconomic Theory			1995	both	Required
+"[{:family=>""Bewley"", :given=>""Truman F.""}]"	General Equilibrium			2007	both	Required
+"[{:family=>""Shell"", :given=>""Karl""}]"	Notes on the Economics of Infinity	article-journal	Journal of Political Economy	1971	both	Required
+"[{:family=>""Diamond"", :given=>""Peter A.""}]"	National Debt in a Neoclassical Growth Model	article-journal	The American Economic Review	1965	both	Required
+"[{:family=>""Jones"", :given=>""Larry""}]"	Special Problems Arising in the Study of Economics with Infinitely Many Commodities	paper-conference	Models of Economic Dynamics: Proceedings of a Workshop held at the IMA	October 24–28	both	Required
+"[{:family=>""Rebelo"", :given=>""Sergio""}]"	Long-Run Policy Analysis and Long-Run Growth	article-journal	Journal of Political Economy	1991	both	Required
+"[{:family=>""Jones"", :given=>""Larry E.""}, {:family=>""Manuelli"", :given=>""Rodolfo E.""}]"	A Convex Model of Equilibrium Growth: Theory and Policy Implications	article-journal	Journal of Political Economy	1990	both	Required
+"[{:family=>""Romer"", :given=>""Paul M.""}]"	Increasing Returns and Long-Run Growth	article-journal	Journal of Political Economy	1986	both	Required
+"[{:family=>""Ben-Porath"", :given=>""Yoram""}]"	The Production of Human Capital and the Life Cycle of Earnings	article-journal	Journal of Political Economy	1967	both	Required
+"[{:family=>""Nelson"", :given=>""Richard R.""}, {:family=>""Phelps"", :given=>""Edmund S.""}]"	Investment in Humans	article-journal	The American Economic Review	1966	both	Required
+"[{:family=>""Acemoglu"", :given=>""Daron""}]"	A Microfoundation for Social Increasing Returns in Human Capital Accumulation	article-journal	The Quarterly Journal of Economics	1996	both	Required
+"[{:literal=>""Jr. Lucas, Robert E.""}]"	On the Mechanics of Economic Development	article-journal	Journal of Monetary Economics	1988	both	Required
+"[{:family=>""Acemoglu"", :given=>""Daron""}, {:family=>""Angrist"", :given=>""Joshua""}]"	How Large are Human Capital Externalities? Evidence from Compulsory Schooling Laws	chapter	NBER Macroeconomics Annual 2000	2001	both	Required
+"[{:family=>""Romer"", :given=>""Paul M.""}]"	Endogenous Technological Change	article-journal	Journal of Political Economy	1990	both	Required
+"[{:family=>""Jones"", :given=>""Charles I.""}]"	R & D-Based Models of Economic Growth	article-journal	Journal of Political Economy	1995	both	Required
+"[{:family=>""Bloom"", :given=>""Nicholas""}, {:family=>""Schankerman"", :given=>""Mark""}, {:family=>""Reenen"", :given=>""J."", :particle=>""John Van""}]"	Identifying Technology Spillovers and Product Market Rivalry	article-journal	Econometrica	2013	both	Required
+"[{:family=>""Jaffe"", :given=>""Adam B.""}, {:family=>""Trajtenberg"", :given=>""Manuel""}, {:family=>""Henderson"", :given=>""Rebecca""}]"	Geographic Localization of Knowledge Spillovers as Evidenced by Patent Citations	article-journal	The Quarterly Journal of Economics	1993	both	Required
+"[{:family=>""Kerr"", :given=>""William R.""}]"	Ethnic Scientific Communities and International Technology Diffusion	article-journal	The Review of Economics and Statistics	2008	both	Required
+"[{:family=>""Griliches"", :given=>""Zvi""}]"	Hybrid Corn: An Exploration in the Economics of Technological Change	article-journal	Econometrica	1957	both	Required
+	The Search for R&D Spillovers	article-journal	The Scandinavian Journal of Economics	1992	left_only	Required
+"[{:family=>""Irwin"", :given=>""Douglas A.""}, {:family=>""Klenow"", :given=>""Peter J.""}]"	Learning by Doing Spillovers in the Semiconductor Industry	article-journal	Journal of Political Economy	1994	both	Required
+"[{:family=>""Hall"", :given=>""Robert""}, {:family=>""Jones"", :given=>""Charles I.""}]"	Why Do Some Countries Produce So Much More Output per Worker than Others?	article-journal	The Quarterly Journal of Economics	1999	right_only	Required
+"[{:family=>""Griliches"", :given=>""Zvi""}]"	The Search for R&D Spillovers	article-journal	The Scandinavian Journal of Economics	1992	right_only	Required

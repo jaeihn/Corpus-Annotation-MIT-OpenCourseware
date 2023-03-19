@@ -1,0 +1,8 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Foott"", :given=>""R.""}, {:family=>""Ladd"", :given=>""C.""}]"	Undrained Settlement of Plastic and Organic Clays	article-journal	Journal of the Geotechnical Engineering Division	1981-08	both	Required
+"[{:family=>""Jamiolkowski"", :given=>""M.""}, {:family=>""Ladd"", :given=>""C.""}, {:family=>""Germaine"", :given=>""J.""}, {:family=>""Lancellotta"", :given=>""R.""}]"	New Developments in Field and Laboratory Testing of Soils	paper-conference	Proceedings of the 11th International Conference on Soil Mechanics and Foundation Engineering	1995	both	Required
+"[{:family=>""Koutsoftas"", :given=>""D.""}, {:family=>""Ladd"", :given=>""C.""}]"	Design Strengths for an Offshore Clay	article-journal	Journal of Geotechnical Engineering	1985-03	both	Required
+"[{:family=>""Ladd"", :given=>""C.""}, {:family=>""Foott"", :given=>""R.""}, {:family=>""Ishihara"", :given=>""K.""}, {:family=>""Schlosser"", :given=>""F.""}, {:family=>""Poulos"", :given=>""H.""}]"	Stress-Deformation and Strength Characteristics	paper-conference	Proceedings of the 9th International Conference on Soil Mechanics and Foundation Engineering	1977	both	Required
+"[{:family=>""Ladd"", :given=>""C.""}, {:family=>""Foott"", :given=>""R.""}]"	New Design Procedure for Stability of Soft Clays	article-journal	Joumal of the Geotechnical Engincening Dision	1974-07	both	Required
+"[{:family=>""Ladd"", :given=>""C.""}]"	Stress-Strain Behavior of Saturated Clay and Basic Strength Principles	article-journal	Research in Earth Physics	1964-04	both	Required
+"[{:family=>""Ladd"", :given=>""C.""}, {:family=>""Kinner"", :given=>""E.""}]"	The Strength of Clays at Low Effective Stress	article-journal	Research in Earth Physics	1967-01	both	Required

@@ -1,0 +1,313 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Atkinson"", :given=>""A.""}, {:family=>""Stiglitz"", :given=>""J.""}]"	Lectures on Public Economics			1980	both	Optional
+"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Feldstein"", :given=>""M.""}]"	Handbook of Public Economics			1985	both	Optional
+	Handbook of Public Economics			1987	left_only	Optional
+	Handbook of Public Economics			2002	left_only	Optional
+"[{:family=>""Gruber"", :given=>""J.""}]"	Public Finance and Public Policy			2009	both	Optional
+	Institute for Fiscal Studies. Dimensions of Tax Design: The Mirrlees Review			2010	both	Optional
+"[{:family=>""Myles"", :given=>""G.""}]"	Public Economics			1995	both	Optional
+"[{:family=>""Slemrod"", :given=>""J.""}, {:family=>""Bakija"", :given=>""J.""}]"	Taxing Ourselves: A Citizen’s Guide to the Debate over Taxes			2008	both	Optional
+"[{:family=>""Congress"", :given=>""U.S.""}, {:family=>""Office"", :given=>""Congressional Budget""}]"	The Budget and Economic Outlook: An Update	article-journal	BiblioGov	2012	both	Optional
+"[{:family=>""Chetty"", :given=>""R.""}, {:family=>""Looney"", :given=>""A.""}, {:others=>true}]"	Salience and Taxation: Theory and Evidence	article-journal	American Economic Review	2009	both	Required
+"[{:family=>""Congdon"", :given=>""W.""}, {:family=>""Kling"", :given=>""J.""}, {:family=>""Mullainathan"", :given=>""S.""}]"	Policy and Choice: Public Finance through the Lens of Behavioral Economics			2011	both	Required
+"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""McFadden"", :given=>""D.""}]"	Some Uses of the Expenditure Function in Public Finance	article-journal	Journal of Public Economics	1976	both	Required
+"[{:family=>""Einav"", :given=>""L.""}, {:family=>""Knoepfle"", :given=>""D.""}, {:others=>true}]"	Sales Taxes and Internet Commerce	article-journal	NBER Working Paper	2012-04	both	Required
+"[{:family=>""Ellison"", :given=>""G.""}, {:family=>""Ellison"", :given=>""S.""}]"	Tax Sensitivity and Home State Preferences in Internet Purchasing	article-journal	American Economic Journal: Economic Policy	2009	both	Required
+"[{:family=>""Evans"", :given=>""W.""}, {:family=>""Ringel"", :given=>""J.""}, {:family=>""Stech"", :given=>""D.""}]"	Tobacco Taxes and Public Policy to Discourage Smoking	chapter	Tax Policy and the Economy	1999	both	Required
+"[{:family=>""Goulder"", :given=>""L.""}, {:family=>""Williams"", :given=>""R.""}]"	The Substantial Bias from Ignoring General Equilibrium Effects in Estimating Excess Burden	article-journal	Journal of Political Economy	2003	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Koszegi"", :given=>""B.""}]"	Tax Incidence When Individuals Are Time-Inconsistent: The Case Of Cigarette Excise Taxes	article-journal	Journal of Public Economics	2004	both	Required
+"[{:family=>""Harding"", :given=>""M.""}, {:family=>""Leibtag"", :given=>""E.""}, {:others=>true}]"	The Heterogeneous Geographic and Socioeconomic Incidence of Cigarette Taxes: Evidence from Neilsen Homescan Data	book		2010	both	Required
+"[{:family=>""Hausman"", :given=>""J.""}]"	Exact Consumers Surplus and Deadweight Loss	article-journal	American Economic Review	1981	both	Required
+"[{:family=>""Hausman"", :given=>""J.""}, {:family=>""Newey"", :given=>""W.""}]"	Nonparametric Measurement of Exact Consumers Surplus and Deadweight Loss	article-journal	Econometrica	1995	both	Required
+"[{:family=>""Manning"", :given=>""W.""}, {:given=>""Willard""}, {:others=>true}]"	The Taxes of Sin: Do Smokers and Drinkers Pay Their Way?	article-journal	Journal of the American Medical Association	1989	both	Required
+"[{:family=>""Marion"", :given=>""J.""}, {:family=>""Muehlegger"", :given=>""E.""}]"	Measuring Illegal Activity and the Effects of Regulatory Innovation: A Study of Diesel Fuel Tax Evasion	article-journal	Journal of Political Economy	2008	both	Required
+"[{:family=>""Salanie"", :given=>""B.""}]"	Chapter 1 in Economics of Taxation			2011	both	Required
+"[{:family=>""Atkinson"", :given=>""A.""}, {:family=>""Stiglitz"", :given=>""J.""}]"	Chapter 6 in Lectures on Public Economics			1980	both	Required
+"[{:family=>""Ballard"", :given=>""C.""}, {:family=>""Fullerton"", :given=>""D.""}, {:others=>true}]"	Chapters 2			1985	both	Required
+"[{:family=>""Bradford"", :given=>""D.""}]"	Factor Prices May be Constant but Factor Returns are Not	article-journal	Economic Letters	1978	both	Required
+"[{:family=>""Cutler"", :given=>""D.""}]"	Tax Reform and the Stock Market: An Asset Price Approach	article-journal	American Economic Review	1988	both	Required
+"[{:family=>""Fullerton"", :given=>""D.""}, {:family=>""Metcalf"", :given=>""G.""}]"	Tax Incidence	chapter	Handbook of Public Economics	2002	both	Required
+"[{:family=>""Gravelle"", :given=>""J.""}, {:family=>""Smetters"", :given=>""K.""}]"	Does the Open Economy Assumption Really Mean That Labor Bears the Burden of a Capital Income Tax?	article-journal	Advances in Economic Analysis & Policy	2006	both	Required
+"[{:family=>""Harberger"", :given=>""A.""}]"	The Incidence of the Corporation Income Tax	article-journal	Journal of Political Economy	1962	both	Required
+"[{:family=>""Poterba"", :given=>""J.""}]"	Tax Subsidies to Owner-Occupied Housing: An Asset Market Approach	article-journal	Quarterly Journal of Economics	1984	both	Required
+"[{:family=>""Stroebel"", :given=>""J.""}, {:family=>""Floetotto"", :given=>""M.""}]"	Government Intervention in the Housing Market: Who Wins	book		2010	both	Required
+"[{:family=>""Alesina"", :given=>""A.""}, {:family=>""Glaeser"", :given=>""E.""}, {:family=>""Sacerdote"", :given=>""B.""}]"	Work and Leisure in the U.S. and Europe: Why So Different?	chapter	NBER Macroeconomics Annual 2005	2006	both	Required
+"[{:family=>""Blomquist"", :given=>""S.""}]"	Restrictions in Labor Supply Estimation: Is the MaCurdy Critique Correct?	article-journal	Economics Letters	1995	both	Required
+	Estimation Methods for Male Labor Supply Functions: How to Take Account of Nonlinear Taxes	article-journal	Journal of Econometrics	1996	left_only	Required
+"[{:family=>""Blomquist"", :given=>""S.""}, {:family=>""Eklof"", :given=>""M.""}, {:others=>true}]"	Tax Reform Evaluation Using Nonparametric Methods: Sweden 1980-1991	article-journal	Journal of Public Economics	2001	both	Required
+"[{:family=>""Blundell"", :given=>""R.""}, {:family=>""Duncan"", :given=>""A.""}, {:others=>true}]"	Estimating Labor Supply Responses Using Tax Reforms	article-journal	Econometrica	1998	both	Required
+"[{:family=>""Blundell"", :given=>""R.""}, {:family=>""MaCurdy"", :given=>""T.""}]"	Labor Supply: A Review of Alternative Approaches	chapter	Handbook of Labor Economics	1999	both	Required
+"[{:family=>""Chetty"", :given=>""R.""}]"	Bounds on Elasticities with Optimization Frictions: A Synthesis of Micro and Macro Evidence on Labor Supply	article-journal	Econometrica	2012	both	Required
+"[{:family=>""Chetty"", :given=>""R.""}, {:family=>""Friedman"", :given=>""J.""}, {:others=>true}]"	Adjustment Costs	article-journal	Quarterly Journal of Economics	2011	both	Required
+"[{:family=>""Davis"", :given=>""S.""}, {:family=>""Henrekson"", :given=>""M.""}]"	Tax Effects on Work Activity	chapter	Labour Supply and Incentives to Work in Europe		both	Required
+"[{:family=>""Eissa"", :given=>""N.""}, {:family=>""Kleven"", :given=>""H.""}, {:others=>true}]"	Evaluation of Four Tax Reforms in the United States: Labor Supply and Welfare Effects for Single Mothers	article-journal	Journal of Public Economics	2008	both	Required
+"[{:family=>""Eklof"", :given=>""M.""}, {:family=>""Sacklen"", :given=>""H.""}]"	The Hausman-MaCurdy Controversy: Why Do the Results Differ Across Studies?	article-journal	Journal of Human Resources	2000	both	Required
+"[{:family=>""Fullerton"", :given=>""D.""}]"	Reconciling Recent Estimates of the Marginal Welfare Cost of Taxation	article-journal	American Economic Review	1991	both	Required
+"[{:family=>""Gelber"", :given=>""A.""}, {:family=>""Jones"", :given=>""D.""}, {:others=>true}]"	Individual Earnings Adjustment to Policy: Evidence from the Social Security Earnings Test	chapter	mimeo	2012	both	Required
+"[{:family=>""Hausman"", :given=>""J.""}]"	Labor Supply	chapter	How Taxes Affect Economic Behavior	1981	both	Required
+"[{:family=>""Heckman"", :given=>""J.""}]"	Comment	chapter	Behavioral Simulations in Tax Policy Analysis	1982	both	Required
+"[{:family=>""Imbens"", :given=>""G.""}, {:family=>""Rubin"", :given=>""D.""}, {:others=>true}]"	Estimating the Effect of Unearned Income on Labor Earnings	article-journal	American Economic Review	2001	both	Required
+"[{:family=>""Keane"", :given=>""M.""}]"	Labor Supply and Taxes: A Survey	article-journal	Journal of Economic Literature	2011	both	Required
+"[{:family=>""Kleven"", :given=>""H.""}, {:family=>""Landais"", :given=>""C.""}, {:others=>true}]"	Taxation and International Migration of Superstars: Evidence from the European Football Market	article-journal	NBER Working Paper		both	Required
+"[{:family=>""Kumar"", :given=>""A.""}]"	Labor Supply	article-journal	Journal of Public Economics	2008	both	Required
+"[{:family=>""Ljunge"", :given=>""M.""}, {:family=>""Ragan"", :given=>""K.""}]"	Labor Supply and the Tax Reform of the Century			2005	both	Required
+"[{:family=>""Ljungqvist"", :given=>""L.""}, {:family=>""Sargent"", :given=>""T.""}]"	Do Taxes Explain European Employment? Indivisible Labor	chapter	NBER Macroeconomics Annual 2006	2007	both	Required
+	Career Length: Effects of Curvature of Earnings Profiles	book		2010	left_only	Required
+"[{:family=>""MaCurdy"", :given=>""T.""}]"	An Empirical Model of Labor Supply in a Lifecycle Setting	article-journal	Journal of Political Economy	1981	both	Required
+	Work Disincentive Effects of Taxes: A Reexamination of Some Evidence	article-journal	American Economic Review	1992	left_only	Required
+"[{:family=>""Meghir"", :given=>""C.""}, {:family=>""Phillips"", :given=>""D.""}]"	Labor Supply and Taxes	article-journal	Dimensions of Tax Design: The Mirrlees Review. Edited by Institute for Fiscal Studies	2010	both	Required
+"[{:family=>""Moffitt"", :given=>""R.""}, {:family=>""Wilhelm"", :given=>""M.""}]"	Taxes and Labor Supply Decisions of the Affluent	chapter	Does Atlas Shrug? The Economic Consequences of Taxing the Rich	2000	both	Required
+"[{:family=>""Ohanian"", :given=>""L.""}, {:family=>""Raffo"", :given=>""A.""}, {:others=>true}]"	Long-Term Changes in Labor Supply and Taxes: Evidence from OECD Countries	article-journal	Journal of Monetary Economics	2008	both	Required
+"[{:family=>""Prescott"", :given=>""E.""}]"	Why Do Americans Work So Much More Than Europeans?	article-journal	Federal Reserve Bank of Minneapolis Review	2004	both	Required
+"[{:family=>""Rogerson"", :given=>""R.""}]"	Taxation and Market Work: Is Scandinavia an Outlier?	article-journal	Economic Theory	2007	both	Required
+"[{:family=>""Rogerson"", :given=>""R.""}, {:family=>""Wallenius"", :given=>""J.""}]"	Micro and Macro Elasticities in a Life Cycle Model with Taxes	article-journal	Journal of Economic Theory	2009	both	Required
+"[{:family=>""Saez"", :given=>""E.""}]"	Do Tax Filers Bunch at Kink Points?	article-journal	American Economic Journal: Economic Policy	2010	both	Required
+"[{:family=>""Showalter"", :given=>""M.""}, {:family=>""Thurston"", :given=>""N.""}]"	Taxes and Labor Supply of High-Income Physicians	article-journal	Journal of Public Economics	1997	both	Required
+"[{:family=>""Ziliak"", :given=>""J.""}, {:family=>""Kniesner"", :given=>""T.""}]"	Estimating Life Cycle Labor Supply Tax Effects	article-journal	Journal of Political Economy	1999	both	Required
+"[{:family=>""Blau"", :given=>""F.""}, {:family=>""Kahn"", :given=>""L.""}]"	Changes in the Labor Supply Behavior of Married Women	article-journal	Journal of Labor Economics	2007	both	Required
+"[{:family=>""Eissa"", :given=>""N.""}]"	Taxation and Labor Supply of Married Women: The Tax Reform Act of 1986 as a Natural Experiment	article-journal	NBER Working Paper	1995-02	both	Required
+"[{:family=>""Gelber"", :given=>""A.""}]"	Taxation and Family Labor Supply	chapter	mimeo	2008	both	Required
+"[{:family=>""Mroz"", :given=>""T.""}]"	The Sensitivity of an Empirical Model of Married Women’s Hours of Work to Economic and Statistical Assumptions	article-journal	Econometrica	1987	both	Required
+"[{:family=>""Selin"", :given=>""H.""}]"	The Rise in Female Employment and the Role of Tax Incentives: An Empirical Analysis of the Swedish Individual Tax Reform of 1971	article-journal	CESifo Working Paper	2009-04	both	Required
+"[{:family=>""Triest"", :given=>""R.""}]"	The Effect of Income Taxation on Labor Supply in the United States	article-journal	Journal of Human Resources	1990	both	Required
+"[{:family=>""Beaudry"", :given=>""P.""}, {:family=>""Blackorby"", :given=>""C.""}, {:others=>true}]"	Taxes and Employment Subsidies in Optimal Redistribution Programs	article-journal	American Economic Review	2009	both	Required
+"[{:family=>""Blundell"", :given=>""R.""}, {:family=>""Shephard"", :given=>""A.""}]"	Employment	article-journal	Review of Economic Studies	2012	both	Required
+"[{:family=>""Cancian"", :given=>""M.""}, {:family=>""Levinson"", :given=>""A.""}]"	Labor Supply Effects of the EITC: Evidence from Wisconsin’s Supplemental Benefit for Families with Three Children	article-journal	National Tax Journal	2006	both	Required
+"[{:family=>""Chetty"", :given=>""R.""}, {:family=>""Saez"", :given=>""E.""}]"	Teaching the Tax Code: Earnings Responses to an Experiment with EITC Recipients	article-journal	NBER Working Paper	2009-12	both	Required
+"[{:family=>""Eissa"", :given=>""N.""}, {:family=>""Hoynes"", :given=>""H.""}]"	Taxes and the Labor Market Participation of Married Couples: The Earned Income Tax Credit	article-journal	Journal of Public Economics	2004	both	Required
+"[{:family=>""Eissa"", :given=>""N.""}, {:family=>""Liebman"", :given=>""J.""}]"	Labor Supply Response to the Earned Income Tax Credit	article-journal	Quarterly Journal of Economics	1996	both	Required
+"[{:family=>""Hotz"", :given=>""V.""}, {:family=>""Scholz"", :given=>""J.K.""}]"	The Earned Income Tax Credit	chapter	Means-Tested Welfare Programs in the United States	2003	both	Required
+"[{:family=>""Meyer"", :given=>""B.""}]"	Labor Supply at the Extensive and Intensive Margins: The EITC	article-journal	American Economic Review	2002	both	Required
+"[{:family=>""Meyer"", :given=>""B.""}, {:family=>""Rosenbaum"", :given=>""D.""}]"	Making Single Mothers Work: Recent Tax and Welfare Policy and Its Effects	article-journal	National Tax Journal	2000	both	Required
+"[{:family=>""Rothstein"", :given=>""J.""}]"	The Unintended Consequences of Encouraging Work: Tax Incidence and the EITC	article-journal	Working paper	2008-05	both	Required
+	Is the EITC as Good as an NIT? Conditional Cash Transfers and Tax Incidence	article-journal	American Economic Journal: Economic Policy	2010	left_only	Required
+"[{:family=>""Rates"", :given=>""Tax""}, {:family=>""Taxable IncomeBastani"", :given=>""S.""}, {:family=>""Selin"", :given=>""H.""}]"	Bunching and Non-Bunching at Kink Points of the Swedish Tax Schedule	article-journal	Working Paper		left_only	Required
+"[{:family=>""Chetty"", :given=>""R.""}]"	Is the Taxable Income Elasticity Sufficient to Calculate Deadweight Loss? The Implications of Evasion and Avoidance	article-journal	American Economic Journal: Economic Policy	2009	both	Required
+	Bounds on Elasticities with Optimization Frictions: An Application to Taxation and Labor Supply	article-journal	NBER Working Paper	2009-12	left_only	Required
+"[{:family=>""Feenberg"", :given=>""D.""}, {:family=>""Poterba"", :given=>""J.""}]"	Income Inequality and the Incomes of High Income Taxpayers: Evidence from Tax Returns	chapter	Tax Policy and the Economy	1993	both	Required
+"[{:family=>""Feldstein"", :given=>""M.""}]"	The Effects of Marginal Tax Rates on Taxable Income: A Panel Study of the 1986 Tax Reform	article-journal	Journal of Political Economy	1995	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Saez"", :given=>""E.""}]"	The Elasticity of Taxable Income: Evidence and Implications	article-journal	Journal of Public Economics	2002	both	Required
+"[{:family=>""Kopczuk"", :given=>""W.""}]"	Tax Bases	article-journal	Journal of Public Economics	2004	both	Required
+"[{:family=>""Piketty"", :given=>""T.""}, {:family=>""Saez"", :given=>""E.""}, {:others=>true}]"	Optimal Taxation of Top Labor Incomes: A Tale of Three Elasticities	article-journal	NBER Working Paper	2011-11	both	Required
+"[{:family=>""Romer"", :given=>""C.""}, {:family=>""Romer"", :given=>""D.""}]"	The Incentive Effects of Marginal Tax Rates: Evidence from the Interwar Era	article-journal	NBER Working Paper	2012-11	both	Required
+"[{:family=>""Saez"", :given=>""E.""}, {:family=>""Slemrod"", :given=>""J.""}, {:others=>true}]"	The Elasticity of Taxable Income with Respect to Marginal Tax Rates: A Critical Review	article-journal	Journal of Economic Literature	2012	both	Required
+"[{:family=>""Trabandt"", :given=>""M.""}, {:family=>""Uhlig"", :given=>""H.""}]"	How Far Are We From the Slippery Slope? The Laffer Curve Revisited	article-journal	NBER Working Paper	2009-09	both	Required
+"[{:family=>""Burman"", :given=>""L.""}, {:family=>""Randolph"", :given=>""W.""}]"	Measuring Permanent Responses to Capital-Gains Tax Changes in Panel Data	article-journal	American Economic Review	1994	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}]"	Taxes and Health Insurance	chapter	Tax Policy and the Economy	2002	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Washington"", :given=>""E.""}]"	Subsidies to Employee Health Insurance Premiums and the Health Insurance Market	article-journal	Journal of Health Economics	2005	both	Required
+"[{:family=>""Poterba"", :given=>""J.""}, {:family=>""Sinai"", :given=>""T.""}]"	Revenue Costs and Incentive Effects of the Mortgage Interest Deduction for Owner-Occupied Housing	article-journal	National Tax Journal	2011	both	Required
+"[{:family=>""Bricker"", :given=>""J.""}, {:family=>""Kennickell"", :given=>""A.""}, {:others=>true}]"	Changes in U.S. Family Finances from 2007 to 2010: Evidence from the Survey of Consumer Finances	article-journal	Federal Reserve Bulletin	2012	both	Required
+"[{:family=>""Altonji"", :given=>""J.""}, {:family=>""Hayashi"", :given=>""F.""}, {:others=>true}]"	Parental Altruism and Inter Vivos Transfers: Theory and Evidence	article-journal	Journal of Political Economy	1997	both	Required
+"[{:family=>""Bernheim"", :given=>""B.""}, {:family=>""Shleifer"", :given=>""A.""}, {:others=>true}]"	The Strategic Bequest Motive	article-journal	Journal of Political Economy	1985	both	Required
+"[{:family=>""Bernheim"", :given=>""B.""}, {:family=>""Severinov"", :given=>""S.""}]"	Bequests as Signals: An Explanation for the Equal Division Puzzle	article-journal	Journal of Political Economy	2003	both	Required
+"[{:family=>""Nardi"", :given=>""M."", :particle=>""De""}, {:family=>""French"", :given=>""E.""}, {:others=>true}]"	Why do the Elderly Save? The Role of Medical Expenses	article-journal	Journal of Political Economy	2010	both	Required
+"[{:family=>""Dynan"", :given=>""K.""}, {:family=>""Skinner"", :given=>""J.""}, {:others=>true}]"	Do the Rich Save More?	article-journal	Journal of Political Economy	2004	both	Required
+"[{:family=>""Kotlikoff"", :given=>""L.""}]"	Intergenerational Transfers and Saving	article-journal	Journal of Economic Perspectives	1988	both	Required
+"[{:family=>""Modigliani"", :given=>""F.""}]"	The Role of Intergenerational Transfers and Lifecycle Saving in the Accumulation of Wealth	article-journal	Journal of Economic Perspectives	1988	both	Required
+"[{:family=>""Poterba"", :given=>""J.""}, {:family=>""Venti"", :given=>""S.""}, {:others=>true}]"	The Composition and Draw-Down of Wealth in Retirement	article-journal	Journal of Economic Perspectives	2011	both	Required
+	Were They Prepared for Retirement? Financial Status at Advanced Ages in the HRS and AHEAD Cohorts	chapter	Investigations in the Economics of Aging	2012	left_only	Required
+"[{:family=>""Wilhelm"", :given=>""M.""}]"	Bequest Behavior and the Effect of Heirs Earnings: Testing the Altruistic Model of Bequests	article-journal	American Economic Review	1996	both	Required
+"[{:literal=>""Angeletos, G. -M., D. Laibson, et al.""}]"	The Hyperbolic Consumption Model: Calibration	article-journal	Journal of Economic Perspectives	2001	both	Required
+"[{:family=>""Atkinson"", :given=>""A.""}, {:family=>""Stiglitz"", :given=>""J.""}]"	Chapter 3 in Lectures in Public Economics			1980	both	Required
+"[{:family=>""Attanasio"", :given=>""O.""}, {:family=>""Wakefield"", :given=>""M.""}]"	The Effect on Consumption and Saving of Taxing Asset Returns	article-journal	Dimensions of Tax Design: The Mirrlees Review. Edited by Institute for Fiscal Studies	2010	both	Required
+"[{:family=>""Attanasio"", :given=>""O.""}, {:family=>""Weber"", :given=>""G.""}]"	Consumption and Saving: Models of Intertemporal Allocation and their Implications for Public Policy	article-journal	Journal of Economic Literature	2010	both	Required
+"[{:family=>""Barsky"", :given=>""R.""}, {:family=>""Juster"", :given=>""T.""}, {:others=>true}]"	Preference Parameters and Behavioral Heterogeneity: An Experimental Approach in the Health and Retirement Study	article-journal	Quarterly Journal of Economics	1997	both	Required
+"[{:family=>""Boskin"", :given=>""M.""}]"	Taxation	article-journal	Journal of Political Economy	1978	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}]"	A Tax-Based Estimate of the Elasticity of Intertemporal Substitution	article-journal	NBER Working Paper	2006-01	both	Required
+"[{:family=>""Hall"", :given=>""R.""}]"	Intertemporal Substitution in Consumption	article-journal	Journal of Political Economy	1988	both	Required
+"[{:family=>""McGrattan"", :given=>""E.""}]"	Capital Taxation During the Great Depression	article-journal	Quarterly Journal of Economics	2012	both	Required
+"[{:family=>""Mulligan"", :given=>""C.""}]"	What Do Aggregate Consumption Euler Equations Say About the Capital Income Tax Burden?	article-journal	American Economic Review	2004	both	Required
+"[{:family=>""Ogaki"", :given=>""M.""}, {:family=>""Reinhart"", :given=>""C.""}]"	Measuring Intertemporal Substitution: The Role of Durable Goods	article-journal	Journal of Political Economy	1998	both	Required
+"[{:family=>""Summers"", :given=>""L.""}]"	Capital Taxation and Accumulation in a Life Cycle Model	article-journal	American Economic Review	1981	both	Required
+"[{:family=>""Vissing-Jorgensen"", :given=>""A.""}]"	Limited Asset Market Participation and the Elasticity of Intertemporal Substitution	article-journal	Journal of Political Economy	2002	both	Required
+"[{:family=>""Altig"", :given=>""D.""}, {:family=>""Auerbach"", :given=>""A.""}, {:others=>true}]"	Simulating Fundamental Tax Reform in the United States	article-journal	American Economic Review	2001	both	Required
+"[{:family=>""Auerbach"", :given=>""A.""}]"	The Choice Between Income and Consumption Taxes: A Primer	chapter	Institutional Foundations of Public Finance: Economic and Legal Perspectives	2009	both	Required
+"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Kotlikoff"", :given=>""L.""}]"	Chapter 5 Dynamic Fiscal Policy			1987	both	Required
+"[{:family=>""McLure"", :given=>""C.""}]"	The Value Added Tax: Key to Deficit Reduction			1988	both	Required
+"[{:family=>""Poterba"", :given=>""J.""}]"	Lifetime Incidence and the Distributional Burden of Excise Taxes	article-journal	American Economic Review	1989	both	Required
+"[{:family=>""Agnew"", :given=>""J.""}, {:family=>""Balduzzi"", :given=>""P.""}, {:others=>true}]"	Portfolio Choice and Trading in a Large 401(k) Plan	article-journal	American Economic Review	2003	both	Required
+"[{:family=>""Benjamin"", :given=>""D.""}]"	Does 401(k) Eligibility Increase Saving? Evidence from Propensity Score Subclassification	article-journal	Journal of Public Economics	2003	both	Required
+"[{:family=>""Bronchetti"", :given=>""E.""}, {:family=>""Dee"", :given=>""T.""}, {:others=>true}]"	When a Nudge Isn’t Enough: Defaults and Saving Among Low-Income Tax Filers	article-journal	NBER Working Paper	2011	both	Required
+"[{:family=>""Carroll"", :given=>""G.""}, {:family=>""Choi"", :given=>""J.""}, {:others=>true}]"	Optimal Defaults and Active Decisions: Theory and Evidence from 401(k) Saving	article-journal	Quarterly Journal of Economics	2009	both	Required
+"[{:family=>""Duflo"", :given=>""E.""}, {:family=>""Gale"", :given=>""W.""}, {:others=>true}]"	Saving Incentives for Low and Middle-Income Families: Evidence from a Field Experiment with H&R Block	article-journal	Quarterly Journal of Economics	2006	both	Required
+"[{:family=>""Duflo"", :given=>""E.""}, {:family=>""Saez"", :given=>""E.""}]"	Participation and Investment Decisions in a Retirement Plan: The Influence of Colleagues’ Choices	article-journal	Journal of Public Economics	2002	both	Required
+"[{:family=>""Engelhardt"", :given=>""G.""}, {:family=>""Kumar"", :given=>""A.""}]"	Employer Matching and 401(k) Saving: Evidence from the Health and Retirement Study	article-journal	Journal of Public Economics	2007	both	Required
+"[{:family=>""Engen"", :given=>""E.""}, {:family=>""Gale"", :given=>""W.""}, {:others=>true}]"	The Illusory Effects of Saving Incentives on Saving	article-journal	Journal of Economic Perspectives	1996	both	Required
+"[{:family=>""Gelber"", :given=>""A.""}]"	How Do 401(k)s Affect Saving? Evidence from Changes in 401(k) Eligibility	article-journal	American Economic Journal: Economic Policy	2011	both	Required
+"[{:family=>""Heim"", :given=>""B.""}, {:family=>""Lurie"", :given=>""I.""}]"	The Effect of Recent Tax Changes on Tax-Preferred Saving Behavior	article-journal	National Tax Journal	2012	both	Required
+"[{:family=>""Madrian"", :given=>""B.""}, {:family=>""Shea"", :given=>""D.""}]"	The Power of Suggestion: Inertia in 401(k) Participation and Saving Behavior	article-journal	Quarterly Journal of Economics	2001	both	Required
+"[{:family=>""Milligan"", :given=>""K.""}]"	How Do Contribution Limits Affect Contributions to Tax-Preferred Saving Accounts?	article-journal	Journal of Public Economics	2003	both	Required
+"[{:family=>""Poterba"", :given=>""J.""}, {:family=>""Venti"", :given=>""S.""}, {:others=>true}]"	Do 401(k) Contributions Crowd Out Other Personal Saving?	article-journal	Journal of Public Economics	1995	both	Required
+	How Retirement Saving Programs Increase Saving	article-journal	Journal of Economic Perspectives	1996	left_only	Required
+"[{:family=>""Selin"", :given=>""H.""}]"	Marginal Tax Rates and the Tax-Favoured Pension Savings of the Self-Employed: Evidence from Sweden	article-journal	Scandinavian Journal of Economics	2012	both	Required
+"[{:family=>""Auerbach"", :given=>""A.""}]"	Taxation	article-journal	Journal of Economic Literature	1983	both	Required
+	The Tax Reform Act of 1986 and the Cost of Capital	article-journal	Journal of Economic Perspectives	1987	left_only	Required
+"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Devereux"", :given=>""M.""}, {:family=>""Simpson"", :given=>""H.""}]"	Taxing Corporate Income	article-journal	Dimensions of Tax Design: The Mirrlees Review. Edited by Institute for Fiscal Studies	2010	both	Required
+"[{:family=>""Bernanke"", :given=>""B.""}, {:family=>""Bohn"", :given=>""H.""}, {:others=>true}]"	Alternative Non-nested Specification Tests of Time Series Investment Models	article-journal	Journal of Econometrics	1988	both	Required
+"[{:family=>""Blundell"", :given=>""R.""}, {:others=>true}]"	Investment and Tobin’s Q: Evidence from Company Panel Data	article-journal	Journal of Econometrics	1992	both	Required
+"[{:family=>""Cummins"", :given=>""J.""}, {:family=>""Hassett"", :given=>""K.""}, {:others=>true}]"	Investment Behavior	article-journal	American Economic Review	2006	both	Required
+"[{:family=>""Desai"", :given=>""M.""}, {:family=>""Goolsbee"", :given=>""A.""}]"	Investment	article-journal	Brookings Papers on Economic Activity	2004	both	Required
+"[{:family=>""Erickson"", :given=>""T.""}, {:family=>""Whited"", :given=>""T.""}]"	Measurement Error and the Relationship Between Investment and q	article-journal	Journal of Political Economy	2000	both	Required
+"[{:family=>""Fazzari"", :given=>""S.""}, {:family=>""Hubbard"", :given=>""R.""}, {:others=>true}]"	Financing Constraints and Corporate Investment	article-journal	Brookings Papers on Economic Activity	1988	both	Required
+"[{:family=>""Goolsbee"", :given=>""A.""}]"	Investment Incentives and the After-Tax Price of Capital Goods	article-journal	Quarterly Journal of Economics	1998	both	Required
+"[{:family=>""Hassett"", :given=>""K.""}, {:family=>""Hubbard"", :given=>""R.G.""}]"	Tax Policy and Business Investment	chapter	Handbook of Public Economics	2002	both	Required
+"[{:family=>""House"", :given=>""C.""}, {:family=>""Shapiro"", :given=>""M.""}]"	Temporary Investment Tax Incentives: Theory with Evidence from Bonus Depreciation	article-journal	American Economic Review	2008	both	Required
+"[{:family=>""Knittel"", :given=>""M.""}]"	Corporate Response to Accelerated Tax Depreciation: Bonus Depreciation for Tax Years 2002-2004	chapter	U.S. Treasury Office of Tax Analysis Working Paper 98	2007-05	both	Required
+"[{:family=>""Lamont"", :given=>""O.""}]"	Cash Flow and Investment: Evidence from Internal Capital Markets	article-journal	Journal of Finance	1997	both	Required
+"[{:family=>""Shaviro"", :given=>""D.""}]"	Decoding the U.S	article-journal	Corporate Income Tax. Urban Institute	2009	both	Required
+"[{:family=>""Summers"", :given=>""L.""}]"	Taxation and Corporate Investment: A q-Theory Approach	article-journal	Brookings Papers on Economic Activity	1981	both	Required
+"[{:family=>""Chen"", :given=>""Y.""}, {:family=>""He"", :given=>""Z.""}, {:others=>true}]"	The Effect of Investment Tax Incentives: Evidence from China’s Value Added Tax Reform	book		2011	both	Required
+"[{:family=>""Fama"", :given=>""E.""}, {:family=>""French"", :given=>""K.""}]"	Financing Decisions: Who Issues Stock?	article-journal	Journal of Financial Economics	2005	both	Required
+"[{:family=>""Givoly"", :given=>""D.""}, {:others=>true}]"	Taxes & Capital Structure: Evidence from Firms’ Responses to the Tax Reform Act of 1986	article-journal	Review of Financial Studies	1992	both	Required
+"[{:family=>""Graham"", :given=>""J.""}]"	A Review of Taxes and Corporate Finance	article-journal	Foundations and Trends in Finance	2006	both	Required
+	How Big Are the Tax Benefits of Debt?	article-journal	Journal of Finance	2000	left_only	Required
+"[{:family=>""Mackie-Mason"", :given=>""J.""}]"	Do Taxes Affect Corporate Financing Decisions	article-journal	Journal of Finance	1990	both	Required
+"[{:family=>""Miller"", :given=>""M.""}]"	Debt and Taxes	article-journal	Journal of Finance	1977	both	Required
+"[{:family=>""Myers"", :given=>""S.""}]"	Financing of Corporations	chapter	Handbook of the Economics of Finance	2003	both	Required
+"[{:family=>""Binsbergen"", :given=>""J.van""}, {:family=>""Graham"", :given=>""J.""}, {:others=>true}]"	The Cost of Debt	article-journal	NBER Working Paper	2010-12	both	Required
+"[{:family=>""Allen"", :given=>""F.""}, {:family=>""Michaely"", :given=>""R.""}]"	Payout Policy	chapter	Handbook of the Economics of Finance	2003	both	Required
+"[{:family=>""Auerbach"", :given=>""A.""}]"	Taxation and Corporate Financial Policy	chapter	Handbook of Public Economics	2002	both	Required
+"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Hassett"", :given=>""K.""}]"	On the Marginal Source of Investment Funds	article-journal	Journal of Public Economics	2003	both	Required
+	The 2003 Dividend Tax Cuts and the Value of the Firm: An Event Study	chapter	Taxing Capital Income in the 21st Century	2007	left_only	Required
+"[{:family=>""Bagwell"", :given=>""L.""}, {:family=>""Shoven"", :given=>""J.""}]"	Cash Distributions to Shareholders	article-journal	Journal of Economic Perspectives	1989	both	Required
+"[{:family=>""Baker"", :given=>""M.""}, {:family=>""Nagel"", :given=>""S.""}, {:others=>true}]"	The Effect of Dividends on Consumption	article-journal	Brookings Papers on Economic Activity	2007	both	Required
+"[{:family=>""Bernheim"", :given=>""D.""}]"	Tax Policy and the Dividend Puzzle	article-journal	RAND Journal of Economics	1991	both	Required
+"[{:family=>""Bernheim"", :given=>""D.""}, {:family=>""Wantz"", :given=>""A.""}]"	A Tax-Based Test of the Dividend Signalling Hypothesis	article-journal	American Economic Review	1995	both	Required
+"[{:family=>""Brav"", :given=>""A.""}, {:family=>""Graham"", :given=>""J.""}, {:others=>true}]"	The Effect of the May 2003 Dividend Tax Cut on Corporate Dividend Policy: Empirical and Survey Evdience	article-journal	National Tax Journal	2008	both	Required
+"[{:family=>""Brown"", :given=>""J.""}, {:family=>""Liang"", :given=>""N.""}, {:others=>true}]"	Executive Financial Incentives and Payout Policy: Firm Responses to the 2003 Dividend Tax Cut	article-journal	Journal of Finance	2007	both	Required
+"[{:family=>""Chetty"", :given=>""R.""}, {:family=>""Saez"", :given=>""E.""}]"	Dividend Taxes and Corporate Behavior: Evidence from the 2003 Dividend Tax Cut	article-journal	Quarterly Journal of Economics	2005	both	Required
+	Dividends and Corporate Taxation in an Agency Model of the Firm	article-journal	American Economic Journal: Economic Policy	2010	left_only	Required
+"[{:family=>""DeAngelo"", :given=>""H.""}, {:family=>""DeAngelo"", :given=>""L.""}, {:others=>true}]"	Dividend Policy and the Earned/Contributed Capital Mix: A Test of Lifecycle Theory	article-journal	Journal of Financial Economics	2006	both	Required
+"[{:family=>""Desai"", :given=>""M.""}, {:family=>""Jin"", :given=>""L.""}]"	Institutional Tax Clienteles and Payout Policy	article-journal	Journal of Financial Economics	2011	both	Required
+"[{:family=>""Gordon"", :given=>""R.""}, {:family=>""Dietz"", :given=>""M.""}]"	Dividends and Taxes	chapter	Institutional Foundations of Public Finance: Economic and Legal Perspectives	2009	both	Required
+"[{:family=>""Korinek"", :given=>""A.""}, {:family=>""Stiglitz"", :given=>""J.""}]"	Dividend Taxation and Intertemporal Arbitrage	article-journal	Journal of Public Economics	2009	both	Required
+"[{:family=>""Poterba"", :given=>""J.""}]"	Taxation and Corporate Payout Policy	article-journal	American Economic Review	2004	both	Required
+"[{:family=>""Poterba"", :given=>""J.""}, {:family=>""Summers"", :given=>""L.""}]"	The Economic Effects of Dividend Taxation	chapter	Recent Advances in Corporation Finance	1985	both	Required
+"[{:family=>""Asano"", :given=>""S.""}, {:family=>""Fukushima"", :given=>""T.""}]"	Some Empirical Evidence on Demand System and Optimal Commodity Taxation	article-journal	Japanese Economic Review	2006	both	Required
+"[{:family=>""Auerbach"", :given=>""A.""}]"	The Theory of Excess Burden and Optimal Taxation	chapter	Handbook of Public Economics	1985	both	Required
+"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Hines"", :given=>""J.""}]"	Taxation and Economic Efficiency	chapter	Handbook of Public Economics	2002	both	Required
+"[{:family=>""Chari"", :given=>""V.V.""}, {:family=>""Kehoe"", :given=>""P.""}]"	Optimal Fiscal and Monetary Policy	chapter	Section 1 in Handbook of Macroeconomics	1999	both	Required
+"[{:family=>""Deaton"", :given=>""A.""}]"	Econometric Issues in Tax Design for Developing Countries	chapter	The Theory of Taxation in Developing Countries	1987	both	Required
+"[{:family=>""Deaton"", :given=>""A.""}, {:family=>""Stern"", :given=>""N.""}]"	Optimally Uniform Commodity Taxes	article-journal	Economics Letters	1986	both	Required
+"[{:family=>""Diamond"", :given=>""P.""}]"	A Many-Person Ramsey Tax Rule	article-journal	Journal of Public Economics	1975	both	Required
+"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Mirrlees"", :given=>""J.""}]"	Optimal Taxation and Public Production I: Production Efficiency” 	article-journal	American Economic Review	1971	both	Required
+"[{:family=>""Dixit"", :given=>""A.""}]"	Welfare Effects of Tax and Price Changes	article-journal	Journal of Public Economics	1975	both	Required
+"[{:family=>""Kaplow"", :given=>""L.""}]"	On the Undesirability of Commodity Taxation Even When Income Taxation is not Optimal	article-journal	Journal of Public Economics	2006	both	Required
+"[{:family=>""Laroque"", :given=>""G.""}]"	Indirect Taxation is Superfluous Under Separability and Taste Homogeneity: A Simple Proof	article-journal	Economics Letters	2005	both	Required
+"[{:family=>""Mankiw"", :given=>""N.""}, {:family=>""Weinzierl"", :given=>""M.""}, {:others=>true}]"	Optimal Taxation in Theory and Practice	article-journal	Journal of Economic Perspectives	2009	both	Required
+"[{:family=>""Myles"", :given=>""G.""}]"	Chapter 4 in Public Economics			1985	both	Required
+"[{:family=>""Naito"", :given=>""H.""}]"	Re-Examination of Uniform Commodity Taxes Under a Non-Linear Income Tax System and Its Implication for Production Efficiency	article-journal	Journal of Public Economics	1999	both	Required
+"[{:family=>""Stern"", :given=>""N.""}]"	The Theory of Optimal Commodity and Income Taxation: An Introduction	chapter	The Theory of Taxation in Developing Countries	1987	both	Required
+"[{:family=>""Saez"", :given=>""E.""}]"	The Desirability of Commodity Taxation Under Non-Linear Income Taxation and Heterogeneous Tastes	article-journal	Journal of Public Economics	2002	both	Required
+"[{:family=>""Slemrod"", :given=>""J.""}]"	Optimal Taxation and Optimal Tax Systems	article-journal	Journal of Economic Perspectives	1990	both	Required
+"[{:family=>""Barthold"", :given=>""T.""}]"	Issues in the Design of Environmental Excise Taxes	article-journal	Journal of Economic Perspectives	1994	both	Required
+"[{:family=>""Bernheim"", :given=>""B.""}, {:family=>""Rangel"", :given=>""A.""}]"	Behavioral Public Economics: Welfare and Policy Analysis with Non-Standard Decision Makers	chapter	Economic Institutions & Behavioral Economics	2007	both	Required
+"[{:family=>""Bovenberg"", :given=>""L.""}, {:family=>""Goulder"", :given=>""L.""}]"	Environmental Taxation and Regulation	chapter	Handbook of Public Economics	2002	both	Required
+"[{:family=>""Diamond"", :given=>""P.""}]"	Consumption Externalities and Imperfect Corrective Pricing	article-journal	Bell Journal of Economics	1973	both	Required
+"[{:family=>""Goulder"", :given=>""L.""}]"	Environmental Taxation and the Double Dividend: A Reader’s Guide	article-journal	International Tax and Public Finance	1995	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Koszegi"", :given=>""B.""}]"	Tax Incidence when Individuals are Time Inconsistent: The Case of Cigarette Excise Taxes	article-journal	Journal of Public Economics	2004	both	Required
+"[{:family=>""Metcalf"", :given=>""G.""}]"	Designing a Carbon Tax to Reduce U.S	article-journal	Greenhouse Gas Emissions.” Review of Environmental Economics and Policy	2009	both	Required
+"[{:family=>""Nordhaus"", :given=>""W.""}]"	To Tax or Not to Tax? Alterative Approaches to Slowing Global Warming	article-journal	Review of Environmental Economics and Policy	2007	both	Required
+	The “Stern Review” on the Economics of Climate Change	article-journal	Journal of Economic Literature	2007	left_only	Required
+"[{:family=>""Parry"", :given=>""I.""}, {:family=>""Sigman"", :given=>""H.""}, {:others=>true}]"	The Incidence of Pollution Control Policies	chapter	The International Yearbook of Environmental and Resource Economics 1999/2000: A Survey of Current Issues	2000	both	Required
+"[{:family=>""Rothschild"", :given=>""C.""}, {:family=>""Scheuer"", :given=>""F.""}]"	Optimal Taxation with Rent-Seeking			2012	both	Required
+"[{:literal=>""Sinn, H. -W.""}]"	Public Policies against Global Warming: A Supply Side Approach	article-journal	International Tax and Public Finance	2008	both	Required
+"[{:family=>""Barro"", :given=>""R.""}]"	On the Determination of Public Debt	article-journal	Journal of Political Economy	1979	both	Required
+"[{:family=>""Aiyagari"", :given=>""R.A.Marcet""}, {:others=>true}]"	Optimal Taxation without State-Contingent Debt	article-journal	Journal of Political Economy	2002	both	Required
+"[{:family=>""Christiano"", :given=>""L.""}, {:family=>""Chari"", :given=>""V.V.""}, {:others=>true}]"	Optimal Fiscal Policy in a Business Cycle Model	article-journal	Journal of Political Economy	1994	both	Required
+"[{:family=>""Fahri"", :given=>""E.""}]"	Capital Taxation and Ownership when Markets are Incomplete			2006	both	Required
+"[{:family=>""Lucas"", :given=>""R.""}, {:family=>""Stokey"", :given=>""N.""}]"	Optimal Fiscal and Monetary Policy in an Economy without Capital	article-journal	Journal of Monetary Economics	1983	both	Required
+"[{:family=>""Werning"", :given=>""I.""}]"	Optimal Fiscal Policy with Redistribution	article-journal	Quarterly Journal of Economics	2007	both	Required
+"[{:family=>""Akerlof"", :given=>""G.""}]"	The Economics of Tagging as Applied to the Optimal Income Tax	article-journal	American Economic Review	1978	both	Required
+"[{:family=>""Allen"", :given=>""F.""}]"	Optimal Linear Income Taxation with General Equilibrium Effects on Wages	article-journal	Journal of Public Economics	1982	both	Required
+"[{:family=>""Besley"", :given=>""T.""}, {:family=>""Coate"", :given=>""S.""}]"	Workfare versus Welfare: Incentives Arguments for Work Requirements in Poverty-Alleviation Programs	article-journal	American Economic Review	1992	both	Required
+"[{:family=>""Brewer"", :given=>""M.""}, {:family=>""Saez"", :given=>""E.""}, {:family=>""Shephard"", :given=>""A.""}]"	Means Testing and Tax Rates on Earnings	article-journal	Dimensions of Tax Design: The Mirrlees Review. Edited by Institute for Fiscal Studies	2009	both	Required
+"[{:family=>""Choné"", :given=>""P.""}, {:family=>""Laroque"", :given=>""G.""}]"	Optimal Incentives for Labor Force Participation	article-journal	Journal of Public Economics	2005	both	Required
+	Should Low Skilled Work be Subsidized?			2006	left_only	Required
+	Optimal Taxation in the Extensive Model				left_only	Required
+"[{:family=>""Diamond"", :given=>""P.""}]"	Income Taxation with Fixed Hours of Work	article-journal	Journal of Public Economics	1980	both	Required
+	Optimal Income Taxation: An Example with a U-Shaped Pattern of Optimal Marginal Tax Rates	article-journal	American Economic Review	1998	left_only	Required
+"[{:family=>""Gaube"", :given=>""T.""}]"	Optimal Taxation of Each Year’s Income	article-journal	Journal of Public Economic Theory	2007	both	Required
+"[{:family=>""Helpman"", :given=>""E.""}, {:family=>""Sadka"", :given=>""E.""}]"	The Optimal Income Tax: Some comparative statics results	article-journal	Journal of Public Economics	1978	both	Required
+"[{:family=>""Immonen"", :given=>""R.""}, {:family=>""Kanbur"", :given=>""R.""}, {:others=>true}]"	Tagging and Taxing: The Optimal Use of Categorical and Income Information in Designing Tax/Transfer Schemes	article-journal	Economica	1998	both	Required
+"[{:family=>""Judd"", :given=>""K.""}, {:family=>""Su"", :given=>""C.""}]"	Optimal Income Taxation with Multidimensional Taxpayer Types			2006	both	Required
+"[{:family=>""Maskin"", :given=>""E.""}, {:family=>""Riley"", :given=>""J.""}]"	Input versus Output Incentive Schemes	article-journal	Journal of Public Economics	1985	both	Required
+"[{:family=>""Kleven"", :given=>""H.""}, {:family=>""Kreiner"", :given=>""C.""}, {:others=>true}]"	The Optimal Income Taxation of Couples	article-journal	Econometrica	2009	both	Required
+"[{:family=>""Mankiw"", :given=>""N.""}, {:family=>""Weinzierl"", :given=>""M.""}]"	The Optimal Taxation of Height: A Case Study of Utilitarian Income Redistribution	article-journal	American Economic Journal: Economic Policy	2010	both	Required
+"[{:family=>""Mirrlees"", :given=>""J.""}]"	An Exploration in the Theory of Optimal Income Taxation	article-journal	Review of Economic Studies	1971	both	Required
+"[{:family=>""Piketty"", :given=>""T.""}, {:family=>""Saez"", :given=>""E.""}]"	Income Inequality in the United States	article-journal	Quarterly Journal of Economics	2003	both	Required
+"[{:family=>""Saez"", :given=>""E.""}]"	Using Elasticities to Derive Optimal Income Tax Rates	article-journal	Review of Economic Studies	2001	both	Required
+	Optimal Income Transfer Programs: Intensive vs. Extensive Labor Supply Responses	article-journal	Quarterly Journal of Economics	2002	left_only	Required
+"[{:family=>""Slemrod"", :given=>""J.""}, {:family=>""Yitzhaki"", :given=>""S.""}, {:others=>true}]"	The Optimal Two Bracket Linear Income Tax	article-journal	Journal of Public Economics	1994	both	Required
+"[{:family=>""Stern"", :given=>""N.""}]"	Optimum Taxes with Errors in Administration	article-journal	Journal of Public Economics	1982	both	Required
+	On the Specification of Models of Optimum Income Taxation	article-journal	Journal of Public Economics	1976	left_only	Required
+"[{:family=>""Stiglitz"", :given=>""J.""}]"	Pareto Efficient and Optimal Taxation and the New New Welfare Economics	chapter	Handbook of Public Economics	1990	both	Required
+"[{:family=>""Werning"", :given=>""I.""}]"	Pareto Efficient Income Taxation	chapter	MIT mimeo		left_only	Required
+"[{:family=>""Abel"", :given=>""A.""}]"	Optimal Taxation When Consumers Have Endogenous Benchmark Levels of Consumption	article-journal	Review of Economic Studies	2005	both	Required
+"[{:family=>""Aiyagari"", :given=>""S.""}]"	Optimal Capital Income Taxation with Incomplete Markets	article-journal	Journal of Political Economy	1995	both	Required
+"[{:family=>""Atkeson"", :given=>""A.""}, {:family=>""Chari"", :given=>""V.""}, {:others=>true}]"	Taxing Capital Income: A Bad Idea	article-journal	Federal Reserve Bank of Minneapolis Quarterly Review	1999	both	Required
+"[{:family=>""Atkinson"", :given=>""A.""}, {:family=>""Sandmo"", :given=>""A.""}]"	Welfare Implications of the Taxation of Savings	article-journal	Economic Journal	1980	both	Required
+"[{:family=>""Atkinson"", :given=>""A.""}, {:family=>""Stiglitz"", :given=>""J.""}]"	Chapter 8 in Lectures on Public Economics			1980	both	Required
+"[{:family=>""Banks"", :given=>""J.""}, {:family=>""Diamond"", :given=>""P.""}]"	The Base for Direct Taxation	article-journal	Dimensions of Tax Design: The Mirrlees Review. Edited by Institute for Fiscal Studies	2009	both	Required
+"[{:family=>""Bernheim"", :given=>""D.""}]"	Taxation and Saving.” Chapter 18 in Handbook of Public Economics			2002	both	Required
+"[{:family=>""Benigno"", :given=>""P.""}, {:family=>""Woodford"", :given=>""M.""}]"	Optimal Taxation in an RBC Model: A Linear Quadratic Approach	article-journal	Journal of Economic Dynamics and Control	2006	both	Required
+"[{:family=>""Chamley"", :given=>""C.""}]"	Efficient Tax Reform in a Dynamic Model of General Equilibrium	article-journal	Quarterly Journal of Economics	1985	both	Required
+	Optimal Taxation of Capital Income in General Equilibrium with Infinite Lives	article-journal	Econometrica	1986	left_only	Required
+"[{:family=>""Conesa"", :given=>""J.""}, {:family=>""Kitao"", :given=>""S.""}, {:others=>true}]"	Taxing Capital? Not a Bad Idea After All	article-journal	American Economic Review	2009	both	Required
+"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Spinnewijn"", :given=>""J.""}]"	Capital Income Taxes with Heterogeneous Discount Rates	article-journal	NBER Working Paper	2009	both	Required
+"[{:family=>""Diamond"", :given=>""P.""}]"	The Incidence of an Interest Income Tax	article-journal	Journal of Economic Theory	1970	both	Required
+"[{:family=>""Farhi"", :given=>""E.""}, {:family=>""Werning"", :given=>""I.""}]"	Capital Taxation: Quantitative Explorations of the Inverse Euler Equation	article-journal	Journal of Political Economy	2012	both	Required
+"[{:family=>""Farhi"", :given=>""E.""}, {:family=>""Sleet"", :given=>""C.""}, {:others=>true}]"	Non-linear Capital Taxation Without Commitment	article-journal	Review of Economic Studies	2012	both	Required
+"[{:family=>""Golosov"", :given=>""M.""}, {:family=>""Kocherlakota"", :given=>""N.""}, {:others=>true}]"	Optimal Indirect and Capital Taxation	article-journal	Review of Economic Studies	2003	both	Required
+"[{:family=>""Golosov"", :given=>""M.""}, {:family=>""Tsyvinski"", :given=>""A.""}]"	Optimal Taxation with Endogenous Insurance Markets	article-journal	Quarterly Journal of Economics	2007	both	Required
+"[{:family=>""Golosov"", :given=>""M.""}, {:family=>""Tsyvinski"", :given=>""A.""}, {:family=>""Werning"", :given=>""I.""}]"	New Dynamic Public Finance: A User’s Guide	chapter	NBER Macroeconomics Annual 2006	2007	both	Required
+"[{:family=>""Feldstein"", :given=>""M.""}]"	The Welfare Cost of Capital Income Taxation	article-journal	Journal of Political Economy	1978	both	Required
+"[{:family=>""Judd"", :given=>""K.""}]"	Optimal Taxation in Dynamic Stochastic Economies: Theory and Evidence	book		1989	both	Required
+	The Welfare Cost of Factor Taxation in a Perfect Foresight Model	article-journal	Journal of Political Economy	1987	left_only	Required
+	Redistributive Taxation in a Simple Perfect Foresight Model	article-journal	Journal of Public Economics	1985	left_only	Required
+	Optimal Taxation and Spending in General Competitive Growth Models	article-journal	Journal of Public Economics	1999	left_only	Required
+"[{:family=>""Kocherlakota"", :given=>""N.""}]"	Zero Expected Wealth Taxes: A Mirrlees Approach to Dynamic Optimal Taxation	article-journal	Econometrica	2005	both	Required
+	Advances in Dynamic Optimal Taxation	chapter	Advances in Economics and Econometrics: Theory and Applications	2006	left_only	Required
+	The New Dynamic Public Finance			2010	left_only	Required
+"[{:family=>""Lucas"", :given=>""R.""}]"	Supply-Side Economics: An Analytical Review	article-journal	Oxford Economic Papers	1990	both	Required
+"[{:family=>""Saez"", :given=>""E.""}]"	Optimal Progressive Capital Income Taxation in the Infinite Horizon Model	article-journal	NBER Working Paper	2002-07	both	Required
+"[{:family=>""Stokey"", :given=>""N.""}, {:family=>""Rebelo"", :given=>""S.""}]"	Growth Effects of Flat-Rate Taxes	article-journal	Journal of Political Economy	1995	both	Required
+"[{:family=>""Werning"", :given=>""I.""}]"	Nonlinear Capital Taxation			2011-09	both	Required
+"[{:family=>""Albanesi"", :given=>""S.""}, {:family=>""Sleet"", :given=>""C.""}]"	Dynamic Optimal Taxation with Private Information	article-journal	Review of Economic Studies	2006	both	Required
+"[{:family=>""Erosa"", :given=>""A.""}, {:family=>""Gervais"", :given=>""M.""}]"	Optimal Taxation in Life-Cycle Economies	article-journal	Journal of Economic Theory	2002	both	Required
+"[{:family=>""Farhi"", :given=>""E.""}, {:family=>""Werning"", :given=>""I.""}]"	Insurance and Taxation over the Life Cycle	article-journal	forthcoming Review of Economic Studies	2012	both	Required
+"[{:family=>""Aaron"", :given=>""H.""}, {:family=>""Munnell"", :given=>""A.""}]"	Reassessing the Role for Wealth Transfer Taxes	article-journal	National Tax Journal	1992	both	Required
+"[{:family=>""Bernheim"", :given=>""B.""}, {:family=>""Lemke"", :given=>""R.""}, {:others=>true}]"	Do Estate and Gift Taxes Affect the Timing of Private Transfers	article-journal	Journal of Public Economics	2004	both	Required
+"[{:family=>""Farhi"", :given=>""E.""}, {:family=>""Werning"", :given=>""I.""}]"	Progressive Estate Taxation	article-journal	Quarterly Journal of Economics	2009	both	Required
+"[{:family=>""Gale"", :given=>""W.""}, {:family=>""Slemrod"", :given=>""J.""}]"	Overview	chapter	Rethinking Estate and Gift Taxation: Overview	2001	both	Required
+"[{:family=>""Kopczuk"", :given=>""W.""}]"	Economics of estate taxation: a brief review of theory and evidence	article-journal	NBER Working Paper		both	Required
+"[{:family=>""Piketty"", :given=>""T.""}, {:family=>""Saez"", :given=>""E.""}]"	A Theory of Optimal Capital Taxation	article-journal	NBER Working Paper	2012-04	both	Required
+	The Evolution of Top Incomes: A Historical and International Perspective	article-journal	American Economic Review	2006	left_only	Required
+"[{:family=>""Poterba"", :given=>""J.""}]"	The Estate and Gift Tax and Inter Vivos Giving in the United States	article-journal	Journal of Public Economics	2001	both	Required
+"[{:family=>""Blomquist"", :given=>""S.""}]"	Estimation Methods for Male Labor Supply Functions: How to Take Account of Nonlinear Taxes	article-journal	Journal of Econometrics	1996	right_only	Required
+"[{:family=>""Ljungqvist"", :given=>""L.""}, {:family=>""Sargent"", :given=>""T.""}]"	Career Length: Effects of Curvature of Earnings Profiles	book		2010	right_only	Required
+"[{:family=>""MaCurdy"", :given=>""T.""}]"	Work Disincentive Effects of Taxes: A Reexamination of Some Evidence	article-journal	American Economic Review	1992	right_only	Required
+"[{:family=>""Rothstein"", :given=>""J.""}]"	Is the EITC as Good as an NIT? Conditional Cash Transfers and Tax Incidence	article-journal	American Economic Journal: Economic Policy	2010	right_only	Required
+"[{:family=>""Bastani"", :given=>""S.""}, {:family=>""Selin"", :given=>""H.""}]"	Bunching and Non-Bunching at Kink Points of the Swedish Tax Schedule	article-journal	Working Paper		right_only	Required
+"[{:family=>""Chetty"", :given=>""R.""}]"	Bounds on Elasticities with Optimization Frictions: An Application to Taxation and Labor Supply	article-journal	NBER Working Paper	2009-12	right_only	Required
+"[{:family=>""Poterba"", :given=>""J.""}, {:family=>""Venti"", :given=>""S.""}, {:others=>true}]"	Were They Prepared for Retirement? Financial Status at Advanced Ages in the HRS and AHEAD Cohorts	chapter	Investigations in the Economics of Aging	2012	right_only	Required
+"[{:family=>""Poterba"", :given=>""J.""}, {:family=>""Venti"", :given=>""S.""}, {:others=>true}]"	How Retirement Saving Programs Increase Saving	article-journal	Journal of Economic Perspectives	1996	right_only	Required
+"[{:family=>""Auerbach"", :given=>""A.""}]"	The Tax Reform Act of 1986 and the Cost of Capital	article-journal	Journal of Economic Perspectives	1987	right_only	Required
+"[{:family=>""Graham"", :given=>""J.""}]"	How Big Are the Tax Benefits of Debt?	article-journal	Journal of Finance	2000	right_only	Required
+"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Hassett"", :given=>""K.""}]"	The 2003 Dividend Tax Cuts and the Value of the Firm: An Event Study	chapter	Taxing Capital Income in the 21st Century	2007	right_only	Required
+"[{:family=>""Chetty"", :given=>""R.""}, {:family=>""Saez"", :given=>""E.""}]"	Dividends and Corporate Taxation in an Agency Model of the Firm	article-journal	American Economic Journal: Economic Policy	2010	right_only	Required
+"[{:family=>""Nordhaus"", :given=>""W.""}]"	The “Stern Review” on the Economics of Climate Change	article-journal	Journal of Economic Literature	2007	right_only	Required
+"[{:family=>""Choné"", :given=>""P.""}, {:family=>""Laroque"", :given=>""G.""}]"	Should Low Skilled Work be Subsidized?			2006	right_only	Required
+"[{:family=>""Choné"", :given=>""P.""}, {:family=>""Laroque"", :given=>""G.""}]"	Optimal Taxation in the Extensive Model				right_only	Required
+"[{:family=>""Diamond"", :given=>""P.""}]"	Optimal Income Taxation: An Example with a U-Shaped Pattern of Optimal Marginal Tax Rates	article-journal	American Economic Review	1998	right_only	Required
+"[{:family=>""Saez"", :given=>""E.""}]"	Optimal Income Transfer Programs: Intensive vs. Extensive Labor Supply Responses	article-journal	Quarterly Journal of Economics	2002	right_only	Required
+"[{:family=>""Stern"", :given=>""N.""}]"	On the Specification of Models of Optimum Income Taxation	article-journal	Journal of Public Economics	1976	right_only	Required
+"[{:family=>""Chamley"", :given=>""C.""}]"	Optimal Taxation of Capital Income in General Equilibrium with Infinite Lives	article-journal	Econometrica	1986	right_only	Required
+"[{:family=>""Judd"", :given=>""K.""}]"	The Welfare Cost of Factor Taxation in a Perfect Foresight Model	article-journal	Journal of Political Economy	1987	right_only	Required
+"[{:family=>""Judd"", :given=>""K.""}]"	Redistributive Taxation in a Simple Perfect Foresight Model	article-journal	Journal of Public Economics	1985	right_only	Required
+"[{:family=>""Judd"", :given=>""K.""}]"	Optimal Taxation and Spending in General Competitive Growth Models	article-journal	Journal of Public Economics	1999	right_only	Required
+"[{:family=>""Kocherlakota"", :given=>""N.""}]"	Advances in Dynamic Optimal Taxation	chapter	Advances in Economics and Econometrics: Theory and Applications	2006	right_only	Required
+"[{:family=>""Kocherlakota"", :given=>""N.""}]"	The New Dynamic Public Finance			2010	right_only	Required
+"[{:family=>""Piketty"", :given=>""T.""}, {:family=>""Saez"", :given=>""E.""}]"	The Evolution of Top Incomes: A Historical and International Perspective	article-journal	American Economic Review	2006	right_only	Required
+"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Feldstein"", :given=>""M.""}]"	Handbook of Public Economics			1987	right_only	Optional
+"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Feldstein"", :given=>""M.""}]"	Handbook of Public Economics			2002	right_only	Optional

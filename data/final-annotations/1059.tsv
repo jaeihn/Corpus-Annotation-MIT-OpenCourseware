@@ -1,0 +1,75 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Ahn"", :given=>""H.""}, {:family=>""Powell"", :given=>""J.L.""}]"	Semiparametric Estimation of Censored Selection Models with a Nonparametric Selection Mechanism	article-journal	Journal of Econometrics	1993	both	Required
+"[{:family=>""Autor"", :given=>""D.""}, {:family=>""Katz"", :given=>""L.F.""}, {:family=>""Kearney"", :given=>""M.S.""}]"	Rising Wage Inequality: The Role of Composition and Prices	chapter	National Bureau of Economic Research (NBER) Working Paper No	2005-08	both	Required
+"[{:family=>""Chernozhukov"", :given=>""V.""}, {:family=>""Hong"", :given=>""H.""}]"	Three-step Censored Quantile Regression and Extramarital Affairs	article-journal	Journal of the American Statistical Association	2002-09	both	Required
+"[{:family=>""Cameron"", :given=>""Adrian Colin""}, {:family=>""Trivedi"", :given=>""Pravin K.""}]"	Microeconometrics: Methods and Applications			2005	both	Optional
+"[{:family=>""Wooldridge"", :given=>""Jeffrey M.""}]"	Econometric Analysis of Cross Section and Panel Data			2008	both	Optional
+"[{:family=>""Newey"", :given=>""Whitney K.""}, {:family=>""McFadden"", :given=>""Daniel""}]"	Large Sample Estimation and Hypothesis Testing	article-journal	Handbook of Econometrics	1999	both	Optional
+"[{:family=>""Amemiya"", :given=>""Takeshi""}]"	Advanced Econometrics			1985	both	Optional
+"[{:family=>""Vaart"", :given=>""A.W."", :particle=>""van der""}]"	Asymptotic Statistics			1998	both	Optional
+"[{:family=>""Vaart"", :given=>""A.W."", :particle=>""van der""}]"	Asymptotic Statistics			1998	both	Optional
+"[{:family=>""Grilliches"", :given=>""Zvi""}, {:family=>""Intriligator"", :given=>""Michael D.""}]"	Handbook of Econometrics			1994	both	Optional
+"[{:family=>""Grilliches"", :given=>""Zvi""}]"	Handbook of Econometrics			1983	both	Optional
+"[{:family=>""Grilliches"", :given=>""Zvi""}, {:family=>""Intriligator"", :given=>""Michael D.""}]"	Handbook of Econometrics			1984	both	Optional
+	Handbook of Econometrics			1986	left_only	Optional
+"[{:family=>""McFadden"", :given=>""Daniel""}, {:family=>""Engle"", :given=>""Robert""}]"	Handbook of Econometrics			1999	both	Optional
+"[{:family=>""Heckman"", :given=>""James J.""}, {:family=>""Leamer"", :given=>""Edward E.""}]"	Handbook of Econometrics			2001	both	Optional
+"[{:family=>""Ruud"", :given=>""Paul A.""}]"	An Introduction to Classical Econometric Theory			2000	both	Optional
+"[{:family=>""DeGroot"", :given=>""Morris H.""}, {:family=>""Schervish"", :given=>""Mark J.""}]"	Probability and Statistics	book		2001	both	Optional
+"[{:family=>""Hayashi"", :given=>""Fumio""}]"	Econometrics			2000	both	Optional
+"[{:family=>""Andrews"", :given=>""Donald W.K.""}]"	Empirical Process Methods in Econometrics	article-journal	Handbook of Econometrics	1999	both	Optional
+"[{:family=>""Knight"", :given=>""Keith""}]"	Epi-Convergence in Distribution and Stochastic Equi-semicontinuity				left_only	Optional
+"[{:family=>""Koenker"", :given=>""Roger""}, {:family=>""Yoon"", :given=>""Jungmo""}]"	Parametric Links for Binary Choice Models			2006	both	Optional
+"[{:family=>""Pollard"", :given=>""David""}]"	Asymptotics for Least Absolute Deviation Regression Estimators	article-journal	Econometric Theory	1991-06	both	Optional
+"[{:family=>""Horowitz"", :given=>""Joel L.""}]"	The Bootstrap	article-journal	Handbook of Econometrics	2001	both	Optional
+"[{:family=>""Koenker"", :given=>""Roger""}, {:family=>""Hallock"", :given=>""Kevin F.""}]"	Quantile Regression	article-journal	The Journal of Economic Perspectives	2001	both	Optional
+"[{:family=>""Buchinsky"", :given=>""Moshe""}]"	Changes in the U.S. Wage Structure 1963-1987: Application of Quantile Regression	article-journal	Econometrica	1994-03	both	Optional
+"[{:family=>""Powell"", :given=>""James L.""}]"	Least Absolute Deviations Estimation for the Censored Regression Model	article-journal	Journal of Econometrics	1984-07	both	Optional
+"[{:family=>""Chernozhukov"", :given=>""Victor""}, {:family=>""Hong"", :given=>""Han""}]"	An MCMC Approach to Classical Estimation	article-journal	Journal of Econometrics	2003-08	both	Optional
+"[{:family=>""Haile"", :given=>""Philip A.""}, {:family=>""Tamer"", :given=>""Elie""}]"	Inference with an Incomplete Model of English Auctions	article-journal	Journal of Political Economy	2003-02	both	Optional
+"[{:family=>""Newey"", :given=>""W.K.""}]"	Generalized Method of Moments Specification Testing	article-journal	Journal of Econometrics	1985	both	Required
+"[{:family=>""Newey"", :given=>""W.K.""}, {:family=>""West"", :given=>""K.D.""}]"	Hypothesis Testing with Efficient Method of Moments Estimation	article-journal	International Economic Review	1987	both	Required
+"[{:family=>""Hansen"", :given=>""L.P.""}]"	Large Sample Properties of Generalized Method of Moments Estimators	article-journal	Econometrica	1982	both	Optional
+"[{:family=>""Hansen"", :given=>""L.P.""}, {:family=>""Singleton"", :given=>""K.J.""}]"	Generalized Instrumental Variables Estimation of Nonlinear Rational Expectations Models	article-journal	Econometrica	1982	both	Optional
+"[{:family=>""Chamberlain"", :given=>""G.""}]"	Asymptotic Efficiency in Estimation with Conditional Moment Restrictions	article-journal	Journal of Econometrics	1987	both	Optional
+"[{:family=>""Altonji"", :given=>""J.""}, {:family=>""Segal"", :given=>""L.M.""}]"	Small Sample Bias in GMM Estimation of Covariance Structures	article-journal	Journal of Economic and Business Statistics	1996	both	Optional
+"[{:family=>""Hansen"", :given=>""L.P.""}, {:family=>""Heaton"", :given=>""J.""}, {:family=>""Yaron"", :given=>""A.""}]"	Finite-Sample Properties of Some Alternative GMM Estimators	article-journal	Journal of Business and Economic Statistics	1996	both	Optional
+"[{:family=>""Donald"", :given=>""S.G.""}, {:family=>""Imbens"", :given=>""G.""}, {:family=>""Newey"", :given=>""W.K.""}]"	Choosing Instruments in Conditional Moment Restriction Models			2007	both	Optional
+"[{:family=>""Staiger"", :given=>""D.""}, {:family=>""Stock"", :given=>""J.""}]"	Instrumental Variables Regression with Weak Instruments	article-journal	Econometrica	1997	both	Optional
+"[{:family=>""Moreira"", :given=>""M.""}]"	A Conditional Likelihood Ratio Test for Structural Models	article-journal	Econometrica	2003	both	Optional
+"[{:family=>""Newey"", :given=>""W.K.""}, {:family=>""Smith"", :given=>""R.J.""}]"	Higher-Order Properties of GMM and Generalized Empirical Likelihood Estimators	article-journal	Econometrica	2004	both	Required
+"[{:family=>""Donald"", :given=>""S.G.""}, {:family=>""Newey"", :given=>""W.K.""}]"	Choosing the Number of Instruments	article-journal	Econometrica	2001	both	Required
+"[{:family=>""Kleibergen"", :given=>""F.""}]"	Pivotal Statistics for Testing Structural Parameters in Instrumental Variables Regression	article-journal	Econometrica	2002	both	Required
+"[{:family=>""Andrews"", :given=>""D.W.K.""}, {:family=>""Stock"", :given=>""J.H.""}]"	Inference with Weak Instruments	chapter	Advances in Economics and Econometrics: Theory and Applications	2007	both	Required
+"[{:family=>""Hansen"", :given=>""C.""}, {:family=>""Hausman"", :given=>""J.A.""}, {:family=>""Newey"", :given=>""W.K.""}]"	Estimation with Many Instrumental Variables	article-journal	Forthcoming in the Journal of Business and Economic Statistics		both	Required
+"[{:family=>""Bekker"", :given=>""P.A.""}]"	Alternative Approximations to the Distributions of Instrumental Variables Estimators	article-journal	Econometrica	1994	both	Optional
+"[{:family=>""Chao"", :given=>""J.C.""}, {:family=>""Swanson"", :given=>""N.R.""}]"	Consistent Estimation With a Large Number of Weak Instruments	article-journal	Econometrica	2005	both	Optional
+"[{:family=>""Stock"", :given=>""J.""}, {:family=>""Wright"", :given=>""J.""}]"	GMM With Weak Identification	article-journal	Econometrica	2000	both	Optional
+"[{:family=>""Kleibergen"", :given=>""F.""}]"	Testing Parameters in GMM Without Assuming They are Identified	article-journal	Econometrica	2005	both	Optional
+"[{:family=>""Newey"", :given=>""W.K.""}, {:family=>""Windmeijer"", :given=>""F.""}]"	GMM Estimation with Many Weak Moment Conditions			2007	both	Optional
+"[{:family=>""Hausman"", :given=>""J.A.""}, {:family=>""Newey"", :given=>""W.K.""}, {:family=>""Woutersen"", :given=>""T.""}, {:family=>""Chao"", :given=>""J.""}, {:family=>""Swanson"", :given=>""N.""}]"	Instrumental Variable Estimation with Heteroskedasticity and Many Instruments			2007	both	Required
+"[{:family=>""Imbens"", :given=>""Guido""}, {:family=>""Wooldridge"", :given=>""Jeffrey""}]"	Weak Instruments and Many Instruments	article-journal	Institute 2007: What’s New in Econometrics	2007-08-01	both	Required
+"[{:family=>""Hardle"", :given=>""W.""}, {:family=>""Linton"", :given=>""O.""}]"	Applied Nonparametric Methods	article-journal	Handbook of Econometrics	1999	both	Required
+"[{:family=>""Deaton"", :given=>""A.""}]"	Rice Prices and Income Distribution in Rural Thailand: A Nonparametric Analysis	article-journal	Economic Journal	1989	both	Required
+"[{:family=>""Imbens"", :given=>""Guido""}, {:family=>""Wooldridge"", :given=>""Jeffrey""}]"	Regression Discontinuity Designs	article-journal	Lecture	2007-07-30	both	Required
+"[{:family=>""Newey"", :given=>""W.K.""}]"	Kernel Estimation of Partial Means and a General Variance Estimator	article-journal	Econometric Theory	1994	both	Optional
+	Convergence Rates and Asymptotic Normality for Series Estimators	article-journal	Journal of Econometrics	1997	left_only	Optional
+"[{:family=>""Powell"", :given=>""James""}]"	Estimation of Semiparametric Models	article-journal	Handbook of Econometrics	1999	both	Optional
+"[{:family=>""Hausman"", :given=>""J.""}, {:family=>""Newey"", :given=>""W.K.""}]"	Nonparametric Estimation of Exact Consumer Surplus and Deadweight Loss	article-journal	Econometrica	1995-11	both	Optional
+"[{:family=>""Newey"", :given=>""W.K.""}]"	Asymptotic Variance of Semiparametric Estimators	article-journal	Econometrica	1994	both	Optional
+"[{:family=>""Imbens"", :given=>""G.W.""}, {:family=>""Angrist"", :given=>""J.D.""}]"	Identification and Estimation of Local Average Treatment Effects	article-journal	Econometrica	1994-03	both	Optional
+"[{:family=>""Angrist"", :given=>""J.D.""}, {:family=>""Imbens"", :given=>""G.W.""}, {:family=>""Rubin"", :given=>""D.""}]"	Identification of Causal Effects Using Instrumental Variables	article-journal	Journal of the American Statistical Association	1996-06	both	Optional
+"[{:family=>""Chamberlain"", :given=>""Gary""}]"	Panel Data	article-journal	Handbook of Econometrics	1984	both	Optional
+"[{:family=>""Lancaster"", :given=>""T.""}]"	The Incidental Parameter Problem Since 1948	article-journal	Journal of Econometrics	2000	both	Optional
+"[{:family=>""Arellano"", :given=>""Manuel""}, {:family=>""Honoré"", :given=>""Bo""}]"	Panel Data Models: Some Recent Developments	article-journal	Handbook of Econometrics	2001	both	Optional
+"[{:family=>""Honoré"", :given=>""B.E.""}, {:family=>""Tamer"", :given=>""E.""}]"	Bounds on Parameters in Dynamic Discrete Choice Models	article-journal	Econometrica	2006-05	both	Optional
+"[{:family=>""Nevo"", :given=>""A.""}]"	Measuring Market Power in the Ready to Eat Breakfast Cereal Industry	article-journal	Econometrica	2001	both	Optional
+"[{:family=>""Hausman"", :given=>""J.A.""}, {:family=>""Leonard"", :given=>""G.""}]"	The Competitive Effects of a New Product Introduction: A Case Study	article-journal	Journal of Industrial Economics	2002	both	Optional
+"[{:family=>""Hahn"", :given=>""J.""}, {:family=>""Newey"", :given=>""W.""}]"	Jacknife and Analytical Bias Reduction for Nonlinear Panel Data Models	article-journal	Econometrica	2004	both	Required
+"[{:family=>""Berry"", :given=>""S.""}, {:family=>""Levinsohn"", :given=>""J.""}, {:family=>""Pakes"", :given=>""A.""}]"	Automobile Prices in Market Equilibrium	article-journal	Econometrica	1995	both	Required
+"[{:family=>""Ackerberg"", :given=>""Daniel""}, {:family=>""Benkard"", :given=>""C.Lanier""}, {:family=>""Berry"", :given=>""Steven""}, {:family=>""Pakes"", :given=>""Ariel""}]"	Econometric Tools for Analyzing Market Outcomes	article-journal	Handbook of Econometrics	2005	both	Optional
+"[{:family=>""Blomquist"", :given=>""S.""}, {:family=>""Newey"", :given=>""W.K.""}]"	Nonparametric Estimation with Nonlinear Budget Sets	article-journal	Econometrica	2002	both	Optional
+"[{:family=>""Grilliches"", :given=>""Zvi""}, {:family=>""Intriligator"", :given=>""Michael D.""}]"	Handbook of Econometrics			1986	right_only	Optional
+"[{:family=>""Newey"", :given=>""W.K.""}]"	Convergence Rates and Asymptotic Normality for Series Estimators	article-journal	Journal of Econometrics	1997	right_only	Optional
+"[{:family=>""Amemiya"", :given=>""Takeshi""}]"	Tobit Models.” Chapter 10 in Advanced Econometrics			1985	right_only	Optional
+"[{:family=>""Koenker"", :given=>""Roger""}, {:family=>""Bilias"", :given=>""Yannis""}]"	Quantile Regression for Duration Data: A Reappraisal of the Pennsylvania Reemployment Bonus Experiments	article-journal	Empirical Economics	2001	right_only	Optional

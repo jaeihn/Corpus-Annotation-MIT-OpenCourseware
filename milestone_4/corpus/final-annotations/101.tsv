@@ -1,0 +1,3 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Yano"", :given=>""Masayuki""}, {:others=>true}]"	Math	article-journal	V2.1	2013-08	both	Required
+"[{:family=>""Yano"", :given=>""Masayuki""}, {:others=>true}]"	Math	manuscript		2014	right_only	Required

@@ -1,0 +1,52 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Smith"", :given=>""Robert""}, {:family=>""Smith"", :given=>""Thomas""}]"	Ecology and Field Biology			2001	both	Required
+"[{:family=>""Carruthers"", :given=>""G.T.""}]"	Locusts in the Red Sea	article-journal	Nature	1889	both	Required
+"[{:family=>""Vernadskii"", :given=>""V.I.""}]"	The Biosphere	chapter	Biosfera	1926	both	Required
+"[{:family=>""Rowe"", :given=>""J.Stan""}]"	Biological Fallacy: Life Equals Organisms	article-journal	Bioscience	1992	both	Required
+"[{:family=>""Remmert"", :given=>""Hermann""}]"	Ecology: the Basic Concept	chapter	Ecology	1980	both	Required
+"[{:family=>""Marais"", :particle=>""Des""}, {:family=>""J"", :given=>""David""}]"	When did Photosynthesis Emerge on Earth?	article-journal	Science	2000	both	Required
+"[{:family=>""Chyba"", :given=>""Christopher F.""}]"	Rethinking Earth’s Early Atmosphere	article-journal	Science	2005	both	Required
+"[{:family=>""Kump"", :given=>""Lee R.""}]"	The Rise of Atmospheric Oxygen	article-journal	Nature	2008	both	Required
+"[{:family=>""Kaiser"", :given=>""Jocelyn""}]"	Can Deep Bacteria Live on Nothing but Rocks and Water?	article-journal	Science	1995	both	Required
+"[{:family=>""Jannasch"", :given=>""Holger W.""}]"	Life at the Sea Floor	article-journal	Nature	1995	both	Required
+"[{:family=>""Lovley"", :given=>""Derek R.""}]"	Bug Juice: Harvesting Electricity with Microorganisms	article-journal	Nature Reviews Microbiology	2006	both	Required
+"[{:family=>""Jetten"", :given=>""Mike""}, {:others=>true}]"	Microbiology and Application of the Anaerobic Ammonium Oxidation (‘anammox’) Process	article-journal	Current Opinion in Biotechnology	2001	both	Required
+"[{:family=>""Morton"", :given=>""Oliver""}]"	Introduction	chapter	Eating the Sun	2008	both	Required
+"[{:family=>""Chisholm"", :given=>""S.W.""}]"	What Limits Phytoplankton Growth	article-journal	Oceanus	1992	both	Required
+"[{:family=>""Falkowski"", :given=>""Paul G.""}]"	The Ocean’s Invisible Forest	book		2002-08	both	Required
+"[{:family=>""Galloway"", :given=>""James""}, {:others=>true}]"	Transformation of the Nitrogen Cycle: Recent Trends	article-journal	Science	2008	both	Required
+"[{:family=>""Oki"", :given=>""Taikan""}, {:family=>""Kanae"", :given=>""Shinjiro""}]"	Global Hydrological Cycles and World Water Resources	article-journal	Science	2006	both	Required
+"[{:family=>""Filippelli"", :given=>""Gabriel M.""}]"	The Global Phosphorus Cycle: Past	article-journal	Elements	2008	both	Required
+"[{:family=>""Canadell"", :given=>""Josep G.""}, {:others=>true}]"	Contributions to Accelerating Atmospheric CO2 Growth from Economic Activity	article-journal	PNAS	2007	both	Required
+"[{:family=>""Field"", :given=>""Christopher B.""}, {:family=>""Behrenfeld"", :given=>""Michael J.""}, {:family=>""Randerson"", :given=>""James T.""}, {:family=>""Falkowski"", :given=>""Paul""}]"	Primary Production of the Biosphere: Integrating Terrestrial and Oceanic Components	article-journal	Science	1998	both	Required
+"[{:family=>""Falkowski"", :given=>""Paul""}, {:others=>true}]"	The Global Carbon Cycle: A Test of Our Knowledge of Earth as a System	article-journal	Science	2000	both	Required
+"[{:family=>""Doney"", :given=>""Scott C.""}, {:family=>""Fabry"", :given=>""Victoria J.""}, {:family=>""Feely"", :given=>""Richard A.""}, {:family=>""Kleypas"", :given=>""Joan A.""}]"	Ocean Acidification: The Other CO2 Problem	article-journal	Annual Review of Marine Science	2009	both	Required
+"[{:family=>""Redfield"", :given=>""Alfred C.""}]"	On the Proportions of Organic Derivatives in Seawater and their Relation to the Composition of Plankton	chapter	Chapter 5 in James Johnstone Memorial Volume	1934	both	Required
+"[{:family=>""Likens"", :given=>""Gene""}]"	Some Perspectives on Long-term Biogeochemical Research from the Hubbard Brook Ecosystem Study	article-journal	Ecology	2004	both	Required
+	A Changing Climate of Opinion?	article-journal	The Economist	2008-09-04	both	Required
+"[{:family=>""Lovelock"", :given=>""James""}]"	A Geophysiologist’s Thoughts on Geoengineering	article-journal	Philosophical Transactions of the Royal Society A	2008	both	Required
+"[{:family=>""Schiermeier"", :given=>""Quirin""}]"	Mixing the Oceans Proposed to Reduce Global Warming	article-journal	Naturenews	2007-09-26	both	Required
+"[{:family=>""Kintisch"", :given=>""Eli""}]"	Scientists Say Continued Warming Warrants Closer Look at Drastic Fixes	article-journal	Science	2007	both	Required
+"[{:family=>""Carpenter"", :given=>""Stephen""}, {:others=>true}]"	Ecosystem Experiments	article-journal	Science	1995	both	Required
+"[{:family=>""Beddington"", :given=>""John""}]"	The Primary Requirements	article-journal	Nature	1995	both	Required
+"[{:family=>""Pauly"", :given=>""Daniel""}, {:family=>""Christensen"", :given=>""V.""}]"	Primary Production Required to Sustain Global Fisheries	article-journal	Nature	1995	both	Required
+"[{:family=>""Pauley"", :given=>""Daniel""}, {:others=>true}]"	Fishing Down Aquatic Food Webs	article-journal	American Scientist	2000	both	Required
+"[{:family=>""Stapp"", :given=>""Paul""}, {:family=>""Polis"", :given=>""Gary A.""}, {:family=>""Piñero"", :given=>""Francisco Sánchez""}]"	Stable Isotopes Reveal Strong Marine and El Niño Effects on Island Food Webs	article-journal	Nature	1999	both	Required
+"[{:family=>""Peterson"", :given=>""Bruce""}, {:family=>""Howarth"", :given=>""Robert""}, {:family=>""Garritt"", :given=>""Robert""}]"	Sulfur and Carbon Isotopes as Tracers of Salt-Marsh Organic Matter Flow	article-journal	Ecology	1986	both	Required
+"[{:family=>""Dunne"", :given=>""Jennifer""}, {:family=>""Williams"", :given=>""Richard""}, {:family=>""Martinez"", :given=>""Neo""}]"	Network Structure and Biodiversity Loss in Food Webs: Robustness Increases with Connectance	article-journal	Ecology Letters	2002	both	Required
+"[{:family=>""Bol"", :given=>""Roland""}, {:family=>""Pflieger"", :given=>""Christian""}]"	Stable Isotope Analysis of the Hair of Modern Humans and Their Domestic Animals	article-journal	Rapid Communications in Mass Spectrometry	2002	both	Required
+"[{:family=>""Smil"", :given=>""Vaclav""}]"	How Many Billions to Go?	article-journal	Nature	1999	both	Required
+"[{:family=>""Palumbi"", :given=>""Stephen""}]"	Humans as the World’s Greatest Evolutionary Force	article-journal	Science	2001	both	Required
+"[{:family=>""Cohen"", :given=>""Joel""}]"	Population Growth and Earth’s Human Carrying Capacity	article-journal	Science	1995	both	Required
+"[{:family=>""Tilman"", :given=>""David""}, {:others=>true}]"	Agricultural Sustainability and Intensive Production Practices	article-journal	Nature	2002	both	Required
+"[{:family=>""Wackernagel"", :given=>""Mathis""}, {:others=>true}]"	National Natural Capital Accounting with the Ecological Footprint Concept	article-journal	Ecological Economics	1999	both	Required
+"[{:family=>""Hindell"", :given=>""Mark""}]"	Some Life-History Parameters of a Declining Population of Southern Elephant Seals	article-journal	Journal of Animal Ecology	1991	both	Required
+"[{:family=>""Lauer"", :given=>""Thomas""}, {:family=>""Spacie"", :given=>""Anne""}]"	Space as a Limiting Resource in Freshwater Systems: Competition between Zebra Mussels (Dreissena polymorpha) and Freshwater Sponges (Porifera	article-journal	Hydrobiologia	2004	both	Required
+"[{:family=>""Byers"", :given=>""James""}]"	Competition Between Two Estuarine Snails: Implications For Invasions of Exotic Species	article-journal	Ecology	2000	both	Required
+"[{:family=>""Turchin"", :given=>""P.""}, {:family=>""Oksanen"", :given=>""L.""}, {:family=>""Ekerholm"", :given=>""P.""}, {:family=>""Oksanen"", :given=>""T.""}, {:family=>""Henttonen"", :given=>""H.""}]"	Are Lemmings Prey or Predators?	article-journal	Nature	2000	both	Required
+"[{:family=>""Gilg"", :given=>""Olivier""}, {:family=>""Hanski"", :given=>""Ilkka""}, {:family=>""Sittler"", :given=>""Benoit""}]"	Cyclic Dynamics in a Simple Vertebrate Predator-Prey Community	article-journal	Science	2003	both	Required
+"[{:family=>""Hudson"", :given=>""Peter J.""}, {:family=>""Bjørnstad"", :given=>""Ottar N.""}]"	Vole Stranglers and Lemming Cycles	article-journal	Science	2003	both	Required
+"[{:family=>""Myers"", :given=>""Norman""}, {:others=>true}]"	Biodiversity Hotspots for Conservation Priorities	article-journal	Nature	2000	both	Required
+"[{:family=>""Worm"", :given=>""Boris""}, {:others=>true}]"	Impacts of Biodiversity Loss on Ocean Ecosystem Services	article-journal	Science	2006	both	Required
+"[{:family=>""Layard"", :given=>""Richard""}]"	Happiness: Has Social Science a Clue?	article-journal	Lionel Robbins Memorial Lectures	March 3-5	both	Required
+"[{:family=>""Turner"", :given=>""Graham""}]"	A Comparison of ‘The Limits to Growth’ with 30 Years of Reality	article-journal	Global Environmental Change	2008	both	Required

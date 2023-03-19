@@ -1,0 +1,4 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Fudenberg"", :given=>""Drew""}, {:family=>""Tirole"", :given=>""Jean""}]"	Game Theory			1991	both	Required
+"[{:family=>""Osborne"", :given=>""Martin J.""}, {:family=>""Rubinstein"", :given=>""Ariel""}]"	A Course in Game Theory			1994	both	Required
+"[{:family=>""Roth"", :given=>""Alvin E.""}, {:family=>""Sotomayer"", :given=>""Marilda A.Oliveira""}]"	Two-Sided Matching: A Study in Game-Theoretic Modeling and Analysis			1992	both	Required

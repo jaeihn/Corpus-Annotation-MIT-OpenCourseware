@@ -1,0 +1,36 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Bruun"", :given=>""E.C.""}]"	In Better Public Transit Systems: Analyzing Investments and Performance	article-journal	Routledge	2007	both	Required
+"[{:family=>""Furth"", :given=>""P.G.""}]"	Introduction to Public Transportation Systems” in Chapter 61: Urban Transit			2003	both	Required
+"[{:family=>""Neff"", :given=>""J.""}, {:family=>""Dickens"", :given=>""M.""}]"	Public Transportation Fact Book	book		2015	both	Required
+	Transit Capacity and Quality of Service Manual	report		2003	both	Required
+"[{:family=>""Furth"", :given=>""P.G.""}, {:family=>""Attanucci"", :given=>""J.""}, {:family=>""Burns"", :given=>""I.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	Transit Data Collection Design Manual	report		1985	both	Required
+"[{:family=>""Furth"", :given=>""P.G.""}, {:family=>""Hemily"", :given=>""B.""}, {:family=>""Muller"", :given=>""T.""}, {:family=>""Strathman"", :given=>""J.""}]"	TCRP Report 113: Using Archived AVL-APC Data to Improve Transit Performance and Management	article-journal	Transportation Research Board	2006	both	Required
+"[{:family=>""Furth"", :given=>""P.G.""}]"	Synthesis of Transit Practice 34: Data Analysis for Bus Planning and Monitoring	article-journal	Transportation Research Board	2000	both	Required
+"[{:family=>""Dawson"", :given=>""W.R.""}]"	Optimizing Transit Service Decisions Based on Ridership – Good for Passengers and the Community	chapter	UITP Congress	1999-05	both	Required
+"[{:family=>""Benn"", :given=>""H.""}]"	Synthesis of Transit Practice 10: Bus Route Evaluation Standards	article-journal	Transportation Research Board	1995	both	Required
+"[{:family=>""Wilson"", :given=>""N.H.M.""}, {:family=>""Nelson"", :given=>""D.""}, {:family=>""Palmere"", :given=>""A.""}, {:family=>""Grayson"", :given=>""T.""}, {:family=>""Cederquist"", :given=>""C.""}]"	Service Quality Monitoring for High-Frequency Transit Lines	article-journal	Transportation Research Record	1992	both	Required
+"[{:family=>""Herzenberg"", :given=>""A.""}]"	Methods of Estimating the Costs of Drivers’ Wages for Bus Service	article-journal	Transportation Research Record	1983	both	Required
+"[{:family=>""Peng"", :given=>""Z.""}, {:family=>""Dueker"", :given=>""K.""}, {:family=>""Strathman"", :given=>""J.""}, {:family=>""Hopper"", :given=>""J.""}]"	A Simultaneous Route-level Transit Patronage Model: Demand	article-journal	Transportation	1997	both	Required
+"[{:family=>""Commission"", :given=>""Toronto Transit""}]"	Ridership Forecasting Methods	article-journal	Service Standards Process Technical Background Papers	1991-01	both	Required
+"[{:family=>""Chapman"", :given=>""R.A.""}, {:family=>""Michel"", :given=>""J.F.""}]"	Modeling the Tendency of Buses to Form Pairs	article-journal	Transportation Science	1978	both	Required
+"[{:family=>""Furth"", :given=>""P.G.""}, {:family=>""Rahbee"", :given=>""A.B.""}]"	Optimal Bus Stop Spacing Using Dynamic Programming and Geographic Modeling	article-journal	Transportation Research Record	2000	both	Required
+"[{:family=>""Wilson"", :given=>""N.H.M.""}, {:family=>""Lin"", :given=>""T.""}]"	Dwell-Time Relationships for Light Rail Systems	article-journal	Transportation Research Record	1993	both	Required
+"[{:family=>""Milkovtis"", :given=>""M.N.""}]"	Modeling the Factors Affecting Bus Stop Dwell Time	article-journal	Transportation Research Board of the National Academies	2008	both	Required
+	A Summary of TCRP Report 88: A Guidebook for Developing a Transit Performance-Measurement System	article-journal	Transportation Research Board	2003	both	Required
+"[{:family=>""Gordon"", :given=>""J.B.""}, {:others=>true}]"	Automated Inference of Linked Transit Journeys in London Using Fare-Transaction and Vehicle Location Data	article-journal	Transportation Research Record: Journal of the Transportation Research Board	2013	both	Required
+"[{:family=>""Furth"", :given=>""P.G.""}, {:family=>""Wilson"", :given=>""N.""}]"	Setting Frequencies on Bus Routes: Theory and Practice	article-journal	Transportation Research Record	1981	both	Required
+"[{:family=>""Furth"", :given=>""P.G.""}, {:family=>""Muller"", :given=>""T.H.J.""}]"	Service Reliability and Optimal Running Time Schedules	article-journal	Transportation Research Record	2007	both	Required
+"[{:family=>""Salzborn"", :given=>""F.J.M.""}]"	Optimum Bus Scheduling	article-journal	Transportation Science	1972	both	Required
+"[{:family=>""Ceder"", :given=>""A.""}]"	Public Transport Timetabling and Vehicle Scheduling.” Chapter 2 in Advanced Modeling for Transit Operations and Service Planning			2002	both	Required
+"[{:family=>""Ceder"", :given=>""A.""}]"	Public Transport Scheduling	chapter	Handbook of Transport Systems and Traffic Control	2001	both	Required
+"[{:family=>""Ceder"", :given=>""A.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	Bus Network Design	article-journal	Transportation Research	1986	both	Required
+"[{:family=>""Vuchic"", :given=>""V.""}]"	Sections 4.1–4.6	chapter	Urban Transit: Operations	2005	both	Required
+"[{:family=>""Becker"", :given=>""J.""}, {:family=>""Bakker"", :given=>""J.""}]"	The Design of Timed Transfer Networks	paper-conference	Proceedings of Operations and Service Planning Symposium	1993	both	Required
+"[{:family=>""Halvorsen"", :given=>""R.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	The Role of Contract Structuring in Contracted Public Transport Performance: Theory and Practice	paper-conference	Proceedings of the Fourth International Conference on Competition and Ownership in Land Passenger Transport	1995-07	both	Required
+"[{:family=>""Furth"", :given=>""P.""}, {:family=>""Muller"", :given=>""T.""}]"	Conditional Bus Priority at Signalized Intersections: Better Service Quality with Less Traffic Disruption	article-journal	Transportation Research Record	2000	both	Required
+	TCRP Report 94: Fare Policies	article-journal	Transportation Research Board	2003	left_only	Required
+"[{:family=>""Vuchic"", :given=>""V.""}]"	Chapter 7: Transit Fares	chapter	Urban Transit: Operations	2005	both	Required
+"[{:family=>""Koutsopolos"", :given=>""H.N.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	Operator Workforce Planning in the Transit Industry	article-journal	Transportation Research	1987	both	Required
+"[{:family=>""Shiftan"", :given=>""Y.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	Absence	article-journal	Transportation Research Record	1993	both	Required
+	Toronto Transit Commission			2008-04	right_only	Required
+	TCRP Report 94: Fare Policies	book		2003	right_only	Required

@@ -1,0 +1,34 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Church"", :given=>""Jeffrey""}, {:family=>""Ware"", :given=>""Roger""}]"	Industrial Organization: A Strategic Approach			1999	both	Required
+"[{:family=>""Pepall"", :given=>""Lynne""}, {:family=>""Richards"", :given=>""Dan""}, {:family=>""Norman"", :given=>""George""}]"	Industrial Organization: Contemporary Theory and Empirical Applications			2008	both	Required
+"[{:family=>""Goldfarb"", :given=>""Avi""}, {:family=>""Tucker"", :given=>""Catherine""}]"	Advertising Bans and the Substitutability of Online and Offline Advertising	article-journal	May	2010	both	Optional
+	Privacy Regulation and Online Advertising	article-journal	Management Science	2010	left_only	Optional
+"[{:family=>""Ellison"", :given=>""Sara Fisher""}, {:family=>""Snyder"", :given=>""Christopher M.""}]"	Countervailing Power in Wholesale Pharmaceuticals	article-journal	The Journal of Industrial Economics	2010	both	Optional
+"[{:family=>""Lucking-Reiley"", :given=>""David""}]"	Auctions on the Internet: What’s Being Auctioned	article-journal	The Journal of Industrial Economics	2000	both	Optional
+	Vickrey Auctions in Practice: From Nineteenth Century Philately to Twenty-first Century E-commerce	article-journal	Journal of Economic Perspectives	2000	left_only	Optional
+"[{:family=>""Ellison"", :given=>""Glenn""}, {:family=>""Fudenberg"", :given=>""Drew""}, {:others=>true}]"	Competing Auctions	article-journal	Journal of the European Economic Association	2004	both	Optional
+"[{:family=>""Byers"", :given=>""John W.""}, {:family=>""Mitzenmacher"", :given=>""Michael""}, {:others=>true}]"	Daily Deals: Prediction	article-journal	September	2011	both	Optional
+	The Groupon Effect on Yelp Ratings: A Root Cause Analysis	article-journal	Association for Computing Machinery	2012	left_only	Optional
+"[{:family=>""Bajari"", :given=>""Patrick""}, {:family=>""Hortaçsu"", :given=>""Ali""}]"	Economic Insights from Internet Auctions	article-journal	Journal of Economic Literature	2004	both	Optional
+"[{:family=>""Enos"", :given=>""Lori""}]"	Fees Cause Yahoo! Auctions to Drop More Than 80 Percent	article-journal	E-commerce Times	2001-02-13	both	Optional
+"[{:family=>""Goolsbee"", :given=>""Austan""}]"	In a World Without Borders: The Impact of Taxes on Internet Commerce	article-journal	The Quarterly Journal of Economics	2000	both	Optional
+"[{:family=>""Edelman"", :given=>""Benjamin""}, {:family=>""Ostrovsky"", :given=>""Michael""}, {:others=>true}]"	Internet Advertising and the Generalized Second-Price Auction: Selling Billions of Dollars Worth of Keywords	article-journal	NBER Working Paper	2005	both	Optional
+"[{:family=>""Stahl"", :given=>""Dale"", :suffix=>""II""}, {:given=>""O.""}]"	Oligopolistic Pricing with Sequential Consumer Search	article-journal	The American Economic Review	1989	both	Optional
+"[{:family=>""Golder"", :given=>""Peter N.""}, {:family=>""Tellis"", :given=>""Gerard J.""}]"	Pioneer Advantage: Marketing Logic or Marketing Legend?	article-journal	Journal of Marketing Research	1993	both	Optional
+"[{:family=>""Hossain"", :given=>""Tanjim""}, {:family=>""Morgan"", :given=>""John""}]"	Plus Shipping and Handling: Revenue (Non) Equivalence in Field Experiments on eBay	article-journal	Advances in Economic Analysis & Policy	2006	both	Optional
+"[{:family=>""Athey"", :given=>""Susan""}, {:family=>""Ellison"", :given=>""Glenn""}]"	Position Auctions with Consumer Search	article-journal	The Quarterly Journal of Economics	2011	both	Optional
+"[{:family=>""Einav"", :given=>""Liran""}, {:family=>""Farronato"", :given=>""Chiara""}, {:family=>""al"", :particle=>""et.""}]"	Sales Mechanisms in Online Markets: What Happened to Internet Auctions?	article-journal	NBER Working Paper	2013	both	Optional
+"[{:family=>""Einav"", :given=>""Liran""}, {:family=>""Knoepfle"", :given=>""Dan""}, {:family=>""al"", :particle=>""et.""}]"	Sales Taxes and Internet Commerce	article-journal	American Economic Review	2014	both	Optional
+"[{:family=>""Levy"", :given=>""Steven""}]"	Secret of Googlenomics: Data-Fueled Recipe Brews Profitability	article-journal	Wired. May	2009	both	Optional
+"[{:family=>""Ellison"", :given=>""Glenn""}, {:family=>""Ellison"", :given=>""Sara Fisher""}]"	Tax Sensitivity and Home State Preferences in Internet Purchasing	article-journal	American Economic Journal: Economic Policy	2009	both	Optional
+"[{:family=>""Barney"", :given=>""Lee""}]"	Amazon.com: Forget Being Earth’s Superstore. Can It Turn a Profit?	article-journal	The Street	2000-12-18	both	Optional
+"[{:family=>""Acohido"", :given=>""Byron""}]"	Amazon: We’ll Be Profitable by Year’s End	article-journal	USA Today	2002	both	Optional
+"[{:family=>""Thomas"", :given=>""Owen""}]"	Amazon.com Tests the Notion of Fixed Prices	article-journal	Business	2000	both	Optional
+"[{:family=>""Angwin"", :given=>""Julia""}, {:family=>""Mattioli"", :given=>""Dana""}]"	Don’t Like This Price? Wait a Minute	article-journal	The Wall Street Journal	2012-09-05	both	Optional
+"[{:family=>""Gannett"", :given=>""Allen""}]"	Behavioral Pricing: A Consumer’s Worst Nightmare	article-journal	The Next Web	2012-01-21	both	Optional
+"[{:family=>""Luhby"", :given=>""Tami""}]"	Get Ready to Pay Sales Tax on Amazon	article-journal	CNN Money	2012-07-18	both	Optional
+"[{:family=>""Streitfeld"", :given=>""David""}]"	Amazon	article-journal	New York Times	2012-09-11	both	Optional
+"[{:family=>""Manjoo"", :given=>""Farhard""}]"	I Want it Today: How Amazon’s Ambitious New Push for Same-day Delivery will Destroy Local Retail	article-journal	Slate.com	2012-07-11	both	Optional
+"[{:family=>""Goldfarb"", :given=>""Avi""}, {:family=>""Tucker"", :given=>""Catherine""}]"	Privacy Regulation and Online Advertising	article-journal	Management Science	2010	right_only	Optional
+"[{:family=>""Lucking-Reiley"", :given=>""David""}]"	Vickrey Auctions in Practice: From Nineteenth Century Philately to Twenty-first Century E-commerce	article-journal	Journal of Economic Perspectives	2000	right_only	Optional
+"[{:family=>""Byers"", :given=>""John W.""}, {:family=>""Mitzenmacher"", :given=>""Michael""}, {:others=>true}]"	The Groupon Effect on Yelp Ratings: A Root Cause Analysis	article-journal	Association for Computing Machinery	2012	right_only	Optional

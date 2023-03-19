@@ -1,0 +1,73 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""book"", :given=>""The"", :particle=>""draft of the""}, {:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	System and Project Management	chapter	MIT/Prentice Hall Textbook Series on Civil		left_only	Required
+"[{:family=>""Hendrickson"", :given=>""Chris""}]"	Project Management for Construction				left_only	Required
+"[{:family=>""O’Leary""}, {:given=>""Acret""}]"	Construction Nightmares	book		2001	left_only	Required
+"[{:family=>""Hendrickson"", :given=>""Chris""}]"	Chapter 1 in Project Management for Construction				left_only	Required
+"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	Engineering Economy with Uncertainity	chapter	System and Project Management. MIT/Prentice Hall Textbook Series on Civil		left_only	Required
+"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	Project Participants	chapter	System and Project Management. MIT/Prentice Hall Textbook Series on Civil		left_only	Required
+"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	Estimating	chapter	System and Project Management. MIT/Prentice Hall Textbook Series on Civil		left_only	Required
+"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	Project Planning	chapter	System and Project Management. MIT/Prentice Hall Textbook Series on Civil		left_only	Required
+"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	Performance Analysis	chapter	System and Project Management. MIT/Prentice Hall Textbook Series on Civil		left_only	Required
+"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	Control Actions	chapter	System and Project Management. MIT/Prentice Hall Textbook Series on Civil		left_only	Required
+"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	Project Dynamics	chapter	System and Project Management. MIT/Prentice Hall Textbook Series on Civil		left_only	Required
+"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	Project Reviews	chapter	System and Project Management. MIT/Prentice Hall Textbook Series on Civil		left_only	Required
+"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	Project Closeout	chapter	System and Project Management. MIT/Prentice Hall Textbook Series on Civil		left_only	Required
+"[{:family=>""Schtub"", :given=>""A.""}, {:family=>""Bard"", :given=>""J.""}, {:family=>""Globerson"", :given=>""S.""}]"	Project Management: Engineering Technology			1994	both	Optional
+"[{:family=>""Iansiti"", :given=>""M.""}, {:family=>""MacCormack"", :given=>""A.""}]"	Developing Products on Internet Time			1997	both	Optional
+"[{:family=>""al"", :given=>""Ward"", :particle=>""et.""}]"	The Second Toyota Paradox: How Delaying Decisions Can Make Better Cars Faster	article-journal	Sloan Management Review	1995	both	Optional
+"[{:family=>""Henderson"", :given=>""R.""}]"	Managing Innovation in the Information Age	article-journal	Harvard Business Review	1994	both	Optional
+"[{:family=>""Hameri"", :given=>""A.P.""}, {:family=>""Nihtila"", :given=>""J.""}]"	Distributed New Product Development Project Based on Internet and World-Wide Web	article-journal	Journal of Production Innovation & Management	1997	both	Optional
+"[{:family=>""Chambers"", :given=>""C.A.""}]"	Transforming New Product Development	article-journal	Research-Technology Management	1996-11	left_only	Optional
+"[{:family=>""McCord"", :given=>""K.R.""}, {:family=>""Eppinger"", :given=>""S.D.""}]"	Managing the Integration Problem in Engineering	article-journal	MIT Sloan School of Management Working Paper	1993-08	both	Optional
+"[{:family=>""Thamhain"", :given=>""H.""}]"	Engineering Management			1992	left_only	Optional
+"[{:family=>""Schtub"", :given=>""A.""}, {:family=>""Bard"", :given=>""J.""}, {:family=>""Globerson"", :given=>""S.""}]"	Chapter 10 in Project Management: Engineering Technology			1994	both	Optional
+"[{:family=>""Suh"", :given=>""N.""}]"	Chapters 4 and 6 in Principles of Design			1990	both	Optional
+"[{:family=>""Naylor"", :given=>""H.F.""}]"	Chapter 2 in Construction Project Management			1995	both	Optional
+"[{:family=>""Schtub"", :given=>""A.""}, {:family=>""Bard"", :given=>""J.""}, {:family=>""Globerson"", :given=>""S.""}]"	Project Management: Engineering Technology	book		1994	left_only	Optional
+"[{:family=>""Callahan"", :given=>""M.""}, {:family=>""Quackenbush"", :given=>""D.""}, {:family=>""Rowings"", :given=>""G.""}]"	Construction Project Scheduling			1992	left_only	Optional
+"[{:family=>""Meredith"", :given=>""J.""}, {:family=>""Mantel"", :given=>""S.""}]"	Chapter 8 in Project Management: A Managerial Approach			2000	both	Optional
+"[{:family=>""Taylor"", :given=>""B.W.""}, {:family=>""Moore"", :given=>""L.J.""}]"	R&D Project Planning with Q-GERT Network Modeling and Simulation	article-journal	Management Science	1980	both	Optional
+"[{:family=>""Moder"", :given=>""Philips""}, {:given=>""Davis""}]"	Project Management with CPM			1983	left_only	Optional
+"[{:family=>""Pritsker"", :given=>""A.""}, {:family=>""Alan"", :given=>""B.""}]"	Management Decision Making			1983	left_only	Optional
+"[{:family=>""Badiru"", :given=>""A.B.""}]"	Chapter 4 in Project Management in Manufacturing and High Technology Operations			1996	both	Optional
+"[{:family=>""Meredith"", :given=>""J.""}, {:family=>""Mantel"", :given=>""S.""}]"	Chapter 9 in Project Management: A Managerial Approach			2000	left_only	Optional
+"[{:family=>""Moder"", :given=>""Philips""}, {:given=>""Davis""}]"	Chapter 7 in Project Management with CPM			1983	both	Optional
+"[{:given=>""Elton""}, {:given=>""Roe""}]"	Bringing Discipline to Project Management				both	Optional
+"[{:family=>""Goldratt"", :given=>""E.M.""}]"	Critical Chain			1997	both	Optional
+"[{:family=>""Stump"", :given=>""E.J.""}, {:family=>""Ferguson"", :given=>""K.""}]"	The Value of Integrated Project Risk Management	article-journal	INCOSE Symposium	1998	both	Optional
+"[{:family=>""Paté-Cornell"", :given=>""M.E.""}, {:family=>""Dillon"", :given=>""R.L.""}]"	Analytical Tools for the Management of Faster-Better-Cheaper Space Missions	paper-conference	Proceedings of the 1998 IEEE Aerospace Conference	1998-03	both	Optional
+"[{:family=>""Kenley""}, {:given=>""Creque""}]"	Predicting Technology Operational Availability Using Technical Maturity Models				left_only	Optional
+"[{:family=>""Hall"", :given=>""E.M.""}]"	Risks to Riches: Risk Management Return on Investment	book		1998	left_only	Optional
+"[{:family=>""Duncan"", :given=>""W.R.""}]"	Chapter 11 in A Guide to the Project Management Body of Knowledge	chapter	Project Management World Today		both	Optional
+"[{:family=>""Callahan"", :given=>""M.""}, {:family=>""Quackenbush"", :given=>""D.""}, {:family=>""Rowings"", :given=>""G.""}]"	Chapter 12 in Construction Project Scheduling			1992	both	Optional
+"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Cosa"", :given=>""C.""}, {:family=>""McCone"", :given=>""D.S.""}]"	Introduction to Construction Dispute Resolution	book		2002	both	Optional
+"[{:family=>""Thamhain"", :given=>""H.""}]"	Chapter 6 in Engineering Management			1992	left_only	Optional
+"[{:family=>""Kaplan""}, {:given=>""Norton""}]"	Systems Engineering Measurement Primer	book			left_only	Optional
+	Application and Management of the Systems Engineering Process	article-journal	IEEE	1220	both	Optional
+"[{:family=>""Meredith"", :given=>""J.""}, {:family=>""Mantel"", :given=>""S.""}]"	Chapter 12 in Project Management: A Managerial Approach			2000	both	Optional
+"[{:family=>""Gulliver"", :given=>""F.R.""}]"	Post Project Appraisals Pay	article-journal	Harvard Business Review	1987-03	both	Optional
+"[{:family=>""Meredith"", :given=>""J.""}, {:family=>""Mantel"", :given=>""S.""}]"	Chapter 13 in Project Management: A Managerial Approach			2000	both	Optional
+"[{:family=>""Sterman"", :given=>""J.""}]"	System Dynamics Modeling for Project Management			2000	both	Optional
+"[{:family=>""Sterman"", :given=>""J.""}]"	Business Dynamics			2000	both	Optional
+"[{:family=>""Peña-Mora"", :given=>""F.""}, {:family=>""Anumba"", :given=>""C.""}, {:family=>""Lyneis"", :given=>""J.""}, {:family=>""Soibelman"", :given=>""L.""}, {:family=>""Park"", :given=>""M.""}, {:family=>""Samii"", :given=>""M.""}, {:family=>""Kalligeros"", :given=>""K.""}]"	System and Project Management. MIT/Prentice Hall Textbook Series on Civil				right_only	Required
+"[{:family=>""Hendrickson"", :given=>""Chris""}]"	Project Management for Construction. The book is available for viewing online at no charge				right_only	Required
+"[{:family=>""O’Leary""}, {:given=>""Acret""}]"	Construction Nightmares			2001	right_only	Required
+"[{:family=>""Chambers"", :given=>""C.A.""}]"	Transforming New Product Development	article-journal	Research-Technology Management		right_only	Optional
+"[{:family=>""Thamhain"", :given=>""H.""}]"	Chapter 11 in Engineering Management			1992	right_only	Optional
+"[{:family=>""Thamhain"", :given=>""H.""}]"	Chapter 12 in Engineering Management	book		1992	right_only	Optional
+"[{:family=>""Schtub"", :given=>""A.""}, {:family=>""Bard"", :given=>""J.""}, {:family=>""Globerson"", :given=>""S.""}]"	Chapter 5 in Project Management: Engineering Technology	chapter	Developing the WBS and mapping this to the OBS is also described	1994	right_only	Optional
+"[{:family=>""Schtub"", :given=>""A.""}, {:family=>""Bard"", :given=>""J.""}, {:family=>""Globerson"", :given=>""S.""}]"	Chapter 8 in Project Management: Engineering Technology	article-journal	Furthermore	1994	right_only	Optional
+"[{:family=>""Schtub"", :given=>""A.""}, {:family=>""Bard"", :given=>""J.""}, {:family=>""Globerson"", :given=>""S.""}]"	Project Management: Engineering Technology	chapter	An example of a WBS is presented	1994	right_only	Optional
+"[{:family=>""Callahan"", :given=>""M.""}, {:family=>""Quackenbush"", :given=>""D.""}, {:family=>""Rowings"", :given=>""G.""}]"	Chapter 5 in Construction Project Scheduling			1992	right_only	Optional
+"[{:family=>""Schtub"", :given=>""A.""}, {:family=>""Bard"", :given=>""J.""}, {:family=>""Globerson"", :given=>""S.""}]"	Chapter 7 in Project Management: Engineering Technology			1994	right_only	Optional
+"[{:family=>""Moder"", :given=>""Philips""}, {:given=>""Davis""}]"	Chapter 9 in Project Management with CPM			1983	right_only	Optional
+"[{:family=>""Moder"", :given=>""Philips""}, {:given=>""Davis""}]"	Chapter 10 in Project Management with CPM			1983	right_only	Optional
+"[{:family=>""Pritsker"", :given=>""A.""}, {:family=>""Alan"", :given=>""B.""}]"	Chapters 16 through 19 in Management Decision Making	book		1983	right_only	Optional
+"[{:family=>""Schtub"", :given=>""A.""}, {:family=>""Bard"", :given=>""J.""}, {:family=>""Globerson"", :given=>""S.""}]"	Chapter 9 in Project Management: Engineering Technology			1994	right_only	Optional
+"[{:family=>""Meredith"", :given=>""J.""}, {:family=>""Mantel"", :given=>""S.""}]"	Chapter 9 in Project Management: A Managerial Approach	article-journal	Additionally	2000	right_only	Optional
+"[{:family=>""Kenley""}, {:given=>""Creque""}]"	Predicting Technology Operational Availability Using Technical Maturity Models. Kenley and Creque present and evaluate the Technical Maturity Assessment methodology for predicting availability of programs with high schedule risk due to technology				right_only	Optional
+"[{:family=>""Hall"", :given=>""E.M.""}]"	Risks to Riches: Risk Management Return on Investment	article-journal	INCOSE Symposium	1998	right_only	Optional
+"[{:family=>""Schtub"", :given=>""A.""}, {:family=>""Bard"", :given=>""J.""}, {:family=>""Globerson"", :given=>""S.""}]"	Chapter 11 in Project Management: Engineering Technology			1994	right_only	Optional
+"[{:family=>""Schtub"", :given=>""A.""}, {:family=>""Bard"", :given=>""J.""}, {:family=>""Globerson"", :given=>""S.""}]"	Chapter 12 in Project Management: Engineering Technology	book		1994	right_only	Optional
+"[{:family=>""Thamhain"", :given=>""H.""}]"	Chapter 6 in Engineering Management	book		1992	right_only	Optional
+"[{:family=>""Kaplan""}, {:given=>""Norton""}]"	Systems Engineering Measurement Primer. INCOSE				right_only	Optional

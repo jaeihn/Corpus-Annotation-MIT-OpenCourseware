@@ -1,0 +1,8 @@
+Optional	[{:family=>"Stockman", :given=>"Steve"}]	["How to Shoot Video That Doesn’t Suck: Advice to Make Any Amateur Look Like a Pro"]			["2011"]
+Optional	[{:family=>"Murch", :given=>"Walter"}]	["In the Blink of an Eye: A Perspective on Film Editing"]			["2001"]
+Optional	[{:family=>"Voltz", :given=>"Stephen"}, {:family=>"Grobe", :given=>"Fritz"}]	["The Viral Video Manifesto: Why Everything You Know is Wrong and How to Do What Really Works"]			["2012"]
+Required	[{:family=>"Murch", :given=>"Walter"}]	["In the Blink of an Eye: A Perspective on Film Editing"]			["2001"]
+Optional	[{:family=>"Wiggins", :given=>"Grant J."}, {:family=>"McTighe", :given=>"Jay"}]	["Understanding by Design"]			["2005"]
+Optional	[{:family=>"Wade", :given=>"Nicholas"}]	["Ice Age Ancestry May Keep Body Warmer and Healthier"]	article-journal	["New York Times"]	["2004-01-09"]
+Optional		["Mind Over Matter? Core Body Temperature Controlled by the Brain"]	book		["2013-04-08"]
+Optional	[{:family=>"Koxa", :given=>"Matthijs"}, {:others=>true}]	["Voluntary Activation of the Sympathetic Nervous System and Attenuation of the Innate Immune Response in Humans"]	article-journal	["Proceedings of the National Academy of Sciences of the United States of America 111"]	["2014"]

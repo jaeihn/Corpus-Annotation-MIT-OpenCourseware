@@ -1,0 +1,14 @@
+author	title	type	collection	year	_merge	category
+		chapter	Principles of Naval Architecture	1988	both	Required
+"[{:family=>""Löhner"", :given=>""Rainald""}]"	Principles of Naval Architecture Vol. II: Resistance			1988	left_only	Required
+"[{:family=>""Gillmer"", :given=>""Thomas C.""}, {:family=>""Johnson"", :given=>""Bruce""}]"	Introduction to Naval Architecture			1982	both	Required
+"[{:family=>""Kerwin"", :given=>""Justin E.""}, {:family=>""Hadler"", :given=>""Jacques B.""}]"	Principles of Naval Architecture Series: Propulsion	article-journal	The Society of Naval Architects and Marine Engineers	2010	both	Required
+"[{:family=>""Larsson"", :given=>""Lars""}, {:family=>""Raven"", :given=>""H.C.""}]"	The Principles of Naval Architecture Series: Ship Resistance and Flow	article-journal	The Society of Naval Architects and Marine Engineers	2010	both	Required
+"[{:family=>""Moore"", :given=>""Colin S.""}]"	The Principles of Naval Architecture Series-Intact Stability	article-journal	The Society of Naval Architects and Marine Engineers	2010	both	Required
+"[{:family=>""Letcher"", :given=>""John""}]"	Principles of Naval Architecture Series: The Geometry of Ships			2010	both	Required
+"[{:family=>""Tupper"", :given=>""Eric C.""}]"	Introduction to Naval Architecture			2013	both	Required
+"[{:family=>""Zubaly"", :given=>""Robert B.""}]"	Applied Naval Architecture			1996	both	Required
+"[{:family=>""Burcher"", :given=>""Roy""}, {:family=>""Rydill"", :given=>""Louis J.""}]"	Concepts in Submarine Design			1994	both	Required
+"[{:family=>""Durbin"", :given=>""Paul A.""}, {:family=>""Medic"", :given=>""Gorazd""}]"	Principles of Naval Architecture Vol. II: Resistance			1988	right_only	Required
+"[{:family=>""Letcher"", :given=>""John""}]"	Principles of Naval Architecture Series: The Geometry of Ships	article-journal	The Society of Naval Architects and Marine Engineers	2010	right_only	Required
+		chapter	Principles of Naval Architecture	1941	right_only	Required

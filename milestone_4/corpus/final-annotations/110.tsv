@@ -1,0 +1,5 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Ljung"", :given=>""Lennart""}]"	System Identification: Theory for the User			1999	both	Optional
+"[{:family=>""Goodwin"", :given=>""Graham""}, {:family=>""Sin"", :given=>""Kwai Sang""}]"	Adaptive Filtering			1984	both	Optional
+"[{:family=>""Burnham"", :given=>""Kenneth""}, {:family=>""Anderson"", :given=>""David""}]"	Model Selection and Multimodel Inference: A Practical Information-Theoretic Approach			2003	both	Optional
+"[{:family=>""Brown"", :given=>""Robert""}, {:family=>""Hwang"", :given=>""Patrick""}]"	Introduction to Random Signals and Applied Kalman Filtering			1996	both	Optional

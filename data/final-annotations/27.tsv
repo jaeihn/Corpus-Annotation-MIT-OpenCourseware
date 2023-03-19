@@ -1,0 +1,10 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Horowitz"", :given=>""Ellis""}, {:family=>""Sahni"", :given=>""Sartaj""}, {:family=>""Rajasekaran"", :given=>""Sanguthevar""}]"	Computer Algorithms / C++			2007	both	Required
+"[{:family=>""Cormen"", :given=>""Thomas""}, {:family=>""Leiserson"", :given=>""Charles""}, {:family=>""Rivest"", :given=>""Ronald""}, {:family=>""Stein"", :given=>""Clifford""}]"	Introduction to Algorithms			2001	both	Required
+"[{:family=>""Horstmann"", :given=>""Cay""}]"	Big Java			2009	both	Required
+"[{:family=>""Syverson"", :given=>""Bryan""}, {:family=>""Murach"", :given=>""Joel""}]"	Murach’s SQL Server 2005 for Developers	book		2006	both	Required
+"[{:family=>""Fisher"", :given=>""Maydene""}, {:family=>""Ellis"", :given=>""Jon""}, {:family=>""Bruce"", :given=>""Jonathan""}]"	JDBC API Tutorial and Reference			2003	both	Required
+"[{:family=>""Newell"", :given=>""C.""}]"	Application of Queuing Theory			1982	both	Required
+"[{:family=>""Press"", :given=>""William""}, {:family=>""Teukolsky"", :given=>""Saul""}, {:family=>""Vetterling"", :given=>""William""}, {:family=>""Flannery"", :given=>""Brian""}]"	Numerical Recipes: The Art of Scientific Computing			2007	both	Required
+"[{:family=>""Sheffi"", :given=>""Yosef""}]"	Urban Transportation Networks: Equilibrium Analysis with Mathematical Programming Methods			1985	both	Required
+"[{:family=>""Kocur"", :given=>""George""}, {:family=>""Hendrickson"", :given=>""Chris""}]"	Design of Local Bus Service with Demand Equilibration	article-journal	Transportation Science	1982	both	Required

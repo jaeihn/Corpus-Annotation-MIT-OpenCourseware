@@ -1,0 +1,128 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Nevo"", :given=>""A.""}, {:family=>""Hendel"", :given=>""Igal""}]"	Measuring the Implications of Sales and Consumer Stockpiling Behavior			2003-06	both	Required
+"[{:family=>""Shepard"", :given=>""A.""}]"	Price Discrimination and Retail Configuration	article-journal	Journal of Political Economy	1991-02	both	Required
+"[{:family=>""Tirole"", :given=>""Jean""}]"	The Theory of Industrial Organization			1988	both	Required
+"[{:family=>""Fisher"", :given=>""F.""}]"	Games Economists Play: A Noncooperative View	article-journal	Rand Journal of Economics	1989	both	Required
+"[{:family=>""Stole"", :given=>""L.""}]"	Price Discrimination in Competitive Environments	chapter	Handbook of Industrial Organization		both	Required
+"[{:family=>""Ellison"", :given=>""G.""}]"	A Model of Add-on Pricing	chapter	NBER Working Paper 9721	2003-05	both	Required
+"[{:family=>""Stahl"", :given=>""D.""}]"	Oligopolistic Pricing with Heterogeneous Consumer Search	article-journal	International Journal of Industrial Organization	1996-04	both	Required
+"[{:family=>""E."", :given=>""Maskin""}, {:family=>""Tirole"", :given=>""J.""}]"	A Theory of Dynamic Oligopoly II: Price Competition	article-journal	Econometrica	1988-05	both	Required
+"[{:family=>""Bresnahan"", :given=>""T.""}]"	Empirical Studies of Industries with Market Power	chapter	Handbook of Industrial Organization	1989	both	Required
+"[{:family=>""Fudenberg"", :given=>""D.""}, {:family=>""Tirole"", :given=>""J.""}]"	A ‘Signal-Jamming’ Theory of Predation	article-journal	Rand Journal of Economics	1986	both	Required
+"[{:family=>""Genesove"", :given=>""D.""}]"	Adverse Selection in the Wholesale Used Car Market	article-journal	Journal of Political Economy	1993-08	both	Required
+"[{:family=>""Klemperer"", :given=>""P.""}]"	Auction Theory: A Guide to the Literature	article-journal	Journal of Economic Surveys	1999-07	both	Required
+"[{:family=>""S."", :given=>""Athey""}, {:family=>""Haile"", :given=>""P.""}]"	Empirical Models of Auctions	chapter	NBER Working Paper 12126	2006-03	both	Required
+"[{:family=>""Bresnahan"", :given=>""T.""}]"	Network Effects and Microsoft	book		2001	both	Required
+"[{:family=>""Kremer"", :given=>""M.""}]"	Patent Buy-outs: A Mechanism for Encouraging Innovation	article-journal	Quarterly Journal of Economics	1998-11	both	Required
+"[{:family=>""Ellison"", :given=>""G.""}, {:family=>""Fudenberg"", :given=>""D.""}]"	Rules of Thumb for Social Learning	article-journal	Journal of Political Economy	1993	both	Required
+"[{:family=>""Ellison"", :given=>""G.""}]"	Bounded Rationality in Industrial Organization	chapter	Advances in Economics and Econometrics: Theory and Applications		both	Required
+"[{:family=>""Vigna"", :given=>""S.Della""}, {:family=>""Malmendier"", :given=>""U.""}]"	Contract Design and Self-Control: Theory and Evidence	article-journal	Quarterly Journal of Economics	2004	both	Required
+"[{:family=>""Baye"", :given=>""M.""}, {:family=>""Morgan"", :given=>""J.""}]"	Price Dispersion in the Lab and on the Internet: Theory and Evidence	article-journal	Rand Journal of Economics		both	Required
+"[{:family=>""Berry"", :given=>""S.""}]"	Estimating Discrete-Choice Models of Product Differentiation	article-journal	Rand Journal of Economics	1994	both	Required
+"[{:family=>""Bresnahan"", :given=>""T.""}]"	Competition and Collusion in the American Automobile Industry: The 1955 Price War	article-journal	Journal of Industrial Economics	1987-06	both	Required
+"[{:family=>""Ellison"", :given=>""G.""}, {:family=>""Ellison"", :given=>""S.F.""}]"	Search	article-journal	NBER Working Paper	2004	both	Required
+"[{:family=>""Porter"", :given=>""R.""}]"	A Study of Cartel Stability: The Joint Economic Committee	article-journal	Bell Journal of Economics	1983	both	Required
+"[{:family=>""Noel"", :given=>""M.""}]"	Price Cycles in Retail Gasoline Markets: A Microstudy of Firm Behavior	thesis		2002	both	Required
+"[{:family=>""Genesove"", :given=>""D.""}, {:family=>""Mullin"", :given=>""W.""}]"	Testing Static Oligopoly Models: Conduct and Cost in the Sugar Industry	article-journal	Rand Journal of Economics	1998	both	Required
+"[{:family=>""Berry"", :given=>""S.""}, {:family=>""Levinsohn"", :given=>""J.""}, {:family=>""Pakes"", :given=>""A.""}]"	Automobile Prices in Market Equilibrium	article-journal	Econometrica	1995-07	both	Required
+"[{:family=>""Bresnahan"", :given=>""T.""}, {:family=>""Reiss"", :given=>""P.""}]"	Entry and Competition in Concentrated Markets	article-journal	Journal of Political Economy	1991-10	both	Required
+"[{:family=>""Ellickson"", :given=>""P.""}]"	Supermarkets as a Natural Oligopoly	chapter	Duke University Department of Economics Working Paper 05-04	2004	both	Required
+"[{:family=>""Guerre"", :given=>""E.""}, {:family=>""Perrigne"", :given=>""I.""}, {:family=>""Vuong"", :given=>""Q.""}]"	Optimal Nonparametric Estimation of First-Price Auctions	article-journal	Econometrica		both	Required
+"[{:family=>""Bajarai"", :given=>""P.""}, {:family=>""Benkard"", :given=>""L.""}, {:family=>""Levin"", :given=>""J.""}]"	Estimating Dynamic Models of Imperfect Competition	article-journal	NBER Working Paper	2005-07	both	Required
+"[{:family=>""Gul"", :given=>""F.""}, {:family=>""Sonnenschein"", :given=>""H.""}, {:family=>""Wilson"", :given=>""R.""}]"	Foundations of Dynamic Monopoly and the Coase Conjecture	article-journal	Journal of Economic Theory	1986	both	Required
+"[{:family=>""Chevalier"", :given=>""J.""}, {:family=>""Kashyap"", :given=>""A.""}, {:family=>""Rossi"", :given=>""P.""}]"	Why Don’t Prices Rise During Periods of Peak Demand? Evidence from Scanner Data	article-journal	American Economic Review	2003-03-15	both	Required
+"[{:family=>""Deneckere"", :given=>""R.""}, {:family=>""McAfee"", :given=>""R.P.""}]"	Damaged Goods	article-journal	Journal of Economics and Management Strategy	1996	both	Required
+"[{:family=>""Maskin"", :given=>""E.""}, {:family=>""Riley"", :given=>""J.""}]"	Monopoly with Incomplete Information	article-journal	Rand Journal of Economics	1984	both	Required
+"[{:family=>""McAfee"", :given=>""R.P.""}, {:family=>""McMillan"", :given=>""J.""}, {:family=>""Whinston"", :given=>""M.""}]"	Multiproduct Monopoly	article-journal	Quarterly Journal of Economics	1989-05	both	Required
+"[{:family=>""Fudenberg"", :given=>""D.""}, {:family=>""Tirole"", :given=>""J.""}]"	Upgrades	article-journal	Rand Journal of Economics	1998	both	Required
+"[{:family=>""Armstrong"", :given=>""M.""}]"	Recent Developments in the Economics of Price Discrimination	chapter	Econ Working Paper Archive	2006	both	Required
+"[{:family=>""Borenstein"", :given=>""S.""}, {:family=>""Rose"", :given=>""N.""}]"	Competition and Price Dispersion in the U.S	article-journal	Airline Industry.” Journal of Political Economy	1994-08	both	Required
+"[{:family=>""Graddy"", :given=>""K.""}]"	Testing for Imperfect Competition at the Fulton Fish Market	article-journal	Rand Journal of Economics	1995	both	Required
+"[{:family=>""Leslie"", :given=>""P.""}]"	Price Discrimination in Broadway Theater	article-journal	Rand Journal of Economics	2004	both	Required
+"[{:family=>""Deaton"", :given=>""A.""}, {:family=>""Muellbauer"", :given=>""J.""}]"	Economics and Consumer Behavior			1980	both	Required
+"[{:family=>""Anderson"", :given=>""S.""}, {:family=>""Palma"", :given=>""A."", :particle=>""De""}, {:family=>""Thisse"", :given=>""J.""}]"	Discrete Choice Theory of Product Differentiation			1992	both	Required
+"[{:family=>""Epple"", :given=>""D.""}]"	Hedonic Prices and Implicit Markets: Estimating Demand and Supply Functions for Differentiated Products	article-journal	Journal of Political Economy	1987-02	both	Required
+"[{:family=>""Palmquist"", :given=>""R.""}]"	Estimating Demand for the Characteristics of Housing	article-journal	Review of Economics and Statistics	1994-08	both	Required
+"[{:family=>""Nevo"", :given=>""A.""}]"	A Practitioner’s Guide to Estimation of Random Coefficients Logit Models of Demand	article-journal	Journal of Economics and Management Strategy	2000	both	Required
+"[{:family=>""Goldberg"", :given=>""P.""}]"	Product Differentiation and Oligopoly in International Markets: The Case of the U.S. Automobile Industry	article-journal	Econometrica	1995-07	both	Required
+"[{:family=>""Ellison"", :given=>""S.""}, {:family=>""Cockburn"", :given=>""I.""}, {:family=>""Griliches"", :given=>""Z.""}, {:family=>""Hausman"", :given=>""J.""}]"	Characteristics of Demand for Pharmaceutical Products: An Examination of Four Cephalosporins	article-journal	Rand Journal of Economics	1997	both	Required
+"[{:family=>""Klemperer"", :given=>""P.""}]"	The Competitiveness of Markets with Switching Costs	article-journal	Rand Journal of Economics	1987	both	Required
+"[{:family=>""Shaked"", :given=>""A.""}, {:family=>""Sutton"", :given=>""J.""}]"	Relaxing Price Competition through Product Differentiation	article-journal	Review of Economic Studies	1982-01	both	Required
+"[{:family=>""Holmes"", :given=>""T.""}]"	The Effects of Third-Degree Discrimination in Oligopoly	article-journal	American Economic Review	1989	both	Required
+"[{:family=>""Corts"", :given=>""K.""}]"	Third Degree Price Discrimination in Oligopoly: All-Out Competition and Strategic Commitment	article-journal	Rand Journal of Economics	1998	both	Required
+"[{:family=>""Fudenberg"", :given=>""D.""}, {:family=>""Tirole"", :given=>""J.""}]"	Customer Poaching and Brand Switching	article-journal	Rand Journal of Economics	2000	both	Required
+"[{:family=>""Spector"", :given=>""D.""}]"	The Noisy Duopolist	article-journal	Contributions to Theoretical Economics	2002	both	Required
+"[{:family=>""Diamond"", :given=>""P.""}]"	A Model of Price Adjustment	article-journal	Journal of Economic Theory	1971-06	both	Required
+"[{:family=>""Varian"", :given=>""H.""}]"	A Model of Sales	article-journal	American Economic Review	1980	both	Required
+"[{:family=>""McAfee"", :given=>""R.P.""}]"	Multiproduct Equilibrium Price Dispersion	article-journal	Journal of Economic Theory	1995-10	both	Required
+"[{:family=>""Baye"", :given=>""M.""}, {:family=>""Morgan"", :given=>""J.""}]"	Information Gatekeepers on the Internet and the Competitiveness of Homogeneous Product Markets	article-journal	American Economic Review	2001-06	both	Required
+"[{:family=>""Sorensen"", :given=>""A.""}]"	Equilibrium Price Dispersion in Retail Markets for Prescription Drugs	article-journal	Journal of Political Economy	2000-08	both	Required
+	An Empirical Model of Heterogeneous Consumer Search for Retail Prescription Drugs	book		2001-09-14	left_only	Required
+"[{:family=>""J."", :given=>""Rotemberg""}, {:family=>""Saloner"", :given=>""G.""}]"	A Supergame-Theoretic Model of Price Wars During Booms	article-journal	American Economic Review	1986-06	both	Required
+"[{:family=>""Green"", :given=>""E.""}, {:family=>""Porter"", :given=>""R.""}]"	Non-cooperative Collusion Under Imperfect Price Information	article-journal	Econometrica	1984-01	both	Required
+"[{:family=>""Maskin"", :given=>""E.""}, {:family=>""Tirole"", :given=>""J.""}]"	A Theory of Dynamic Oligopoly II: Price Competition	article-journal	Econometrica	1988-05	both	Required
+"[{:family=>""Stigler"", :given=>""G.""}]"	A Theory of Oligopoly	article-journal	Journal of Political Economy	1964-02	both	Required
+"[{:family=>""Fershtman"", :given=>""C.""}, {:family=>""Pakes"", :given=>""A.""}]"	A Dynamic Oligopoly with Collusion and Price Wars	article-journal	Rand Journal of Economics	2000	both	Required
+"[{:family=>""Ellison"", :given=>""G.""}]"	Theories of Cartel Stability and the Joint Executive Committee	article-journal	Rand Journal of Economics	1994	both	Required
+"[{:family=>""Noel"", :given=>""M.""}]"	Edgeworth Price Cycles in Retail Gasoline Markets	thesis		2002	both	Required
+"[{:family=>""Genesove"", :given=>""D.""}, {:family=>""Mullin"", :given=>""W.""}]"	Rules	article-journal	American Economic Review	2001-06	both	Required
+"[{:family=>""Firm ConductSchmalensee"", :given=>""R.""}]"	Interindustry Studies of Structure and Performance	chapter	Handbook of Industrial Organization	1989	left_only	Required
+"[{:family=>""Domowitz"", :given=>""I.""}, {:family=>""Hubbard"", :given=>""R.""}, {:family=>""Petersen"", :given=>""B.""}]"	Business Cycles and the Relationship Between Concentration and Price-Cost Margins	article-journal	Rand Journal of Economics	1986	both	Required
+"[{:family=>""Bresnahan"", :given=>""T.""}]"	The Oligopoly Solution Concept is Identified	article-journal	Economics Letters	1982	both	Required
+"[{:family=>""Lau"", :given=>""L.""}]"	On Identifying the Degree of Competitiveness from Industry Price and Output Data	article-journal	Economics Letters	1982	both	Required
+"[{:family=>""Corts"", :given=>""K.""}]"	Conduct Parameters and the Measurement of Market Power	article-journal	Journal of Econometrics	1998-11	both	Required
+"[{:family=>""Coterill"", :given=>""R.""}]"	Market Power in the Retail Food Industry: Evidence from Vermont	article-journal	Review of Economics and Statistics	1986-08	both	Required
+"[{:family=>""Nevo"", :given=>""A.""}]"	Measuring Market Power in the Ready-to-Eat Cereal Industry	article-journal	Econometrica	2001	both	Required
+"[{:family=>""Wolfram"", :given=>""C.""}]"	Measuring Duopoly Power in the British Electricity Spot Market	article-journal	American Economic Review	1999-09	both	Required
+"[{:family=>""Hausman"", :given=>""J.""}, {:family=>""Leonard"", :given=>""G.""}]"	The Competitive Effects of a New Product Introduction: A Case Study	article-journal	Journal of Industrial Economics	2002	both	Required
+"[{:family=>""Sutton"", :given=>""J.""}]"	Sunk Costs and Market Structure	book		1991	both	Required
+"[{:family=>""Jovanovic"", :given=>""B.""}]"	Selection and the Evolution of Industry	article-journal	Econometrica	1982-05	both	Required
+"[{:family=>""Bresnahan"", :given=>""Comments"", :particle=>""on""}, {:given=>""Reiss""}]"	Brookings Papers on Economic Activity			1987	both	Required
+"[{:family=>""Seim"", :given=>""K.""}]"	Spatial Differentiation and Firm Entry: The Video Retail Industry	book		2001	both	Required
+"[{:family=>""Tamer"", :given=>""E.""}]"	Empirical Strategies for Estimating Discrete Games with Multiple Equilibria	book		2002	both	Required
+"[{:family=>""Berry"", :given=>""S.""}, {:family=>""Waldfogel"", :given=>""J.""}]"	Free Entry and Social Inefficiency in Radio Broadcasting	article-journal	Rand Journal of Economics	1999	both	Required
+"[{:family=>""Golder"", :given=>""P.""}, {:family=>""Tellis"", :given=>""G.""}]"	Pioneer Advantage: Marketing Logic or Marketing Legend	article-journal	Journal of Marketing Research	1993-05	both	Required
+"[{:family=>""Bronnenberg"", :given=>""B.""}, {:family=>""Dhar"", :given=>""S.""}, {:family=>""Dube"", :given=>""J.P.""}]"	Endogenous Sunk Costs and the Geographic Distribution of Brand Shares in Consumer Package Goods Industries			2005	both	Required
+"[{:family=>""Dunne"", :given=>""T.""}, {:family=>""Roberts"", :given=>""M.""}, {:family=>""Samuelson"", :given=>""L.""}]"	Patterns of Firm Entry and Exit in U.S	article-journal	Manufacturing.” Rand Journal of Economics	1988	both	Required
+"[{:family=>""Schmalensee"", :given=>""R.""}]"	Entry Deterrence in the Ready-to-Eat Breakfast Cereal Industry	article-journal	Bell Journal of Economics	1978	both	Required
+"[{:family=>""Judd"", :given=>""K.""}]"	Credible Spatial Preemption	article-journal	Rand Journal of Economics	1985	both	Required
+"[{:family=>""Aghion"", :given=>""P.""}, {:family=>""Bolton"", :given=>""P.""}]"	Entry Prevention Through Contracts with Customers	article-journal	American Economic Review	1987-06	both	Required
+"[{:family=>""Chevalier"", :given=>""J.""}]"	Capital Structure and Product Market Competition: Empirical Evidence from the Supermarket Industry	article-journal	American Economic Review	1995-06	both	Required
+"[{:family=>""Ellison"", :given=>""G.""}, {:family=>""Ellison"", :given=>""S.""}]"	Strategic Entry Deterrence and the Behavior of Pharmaceutical Incumbents Prior to Patent Expiration	book		2000	both	Required
+"[{:family=>""Kadiyali"", :given=>""V.""}]"	Entry	article-journal	The Rand Journal of Economics	1996	both	Required
+"[{:family=>""Lieberman"", :given=>""M.""}]"	Post Entry Investment and Market Structure in the Chemical Processing Industry	article-journal	Rand Journal of Economics	1987	both	Required
+"[{:family=>""Smiley"", :given=>""R.""}]"	Empirical Evidence on Strategic Entry Deterrence	article-journal	International Journal of Industrial Organization	1988-06	both	Required
+"[{:family=>""Ordover"", :given=>""J.""}, {:family=>""Saloner"", :given=>""G.""}]"	Predation	chapter	Handbook of Industrial Organization	1989	both	Required
+"[{:family=>""Milgrom"", :given=>""P.""}, {:family=>""Roberts"", :given=>""J.""}]"	Limit Pricing and Entry Under Incomplete Information: An Equilibrium Analysis	article-journal	Econometrica	1982-03	both	Required
+	Predation	article-journal	Journal of Economic Theory	1982-08	left_only	Required
+"[{:family=>""Hubbard"", :given=>""T.""}]"	An Empirical Examination of Moral Hazard in the Vehicle Inspection Market	article-journal	The Rand Journal of Economics	1998	both	Required
+"[{:family=>""Hendel"", :given=>""I.""}, {:family=>""Lizzeri"", :given=>""A.""}]"	The Role of Commitment in Dynamic Contracts: Evidence from Life Insurance	article-journal	Quarterly Journal of Economics	2003-02	both	Required
+"[{:family=>""Doyle"", :given=>""M.""}, {:family=>""Snyder"", :given=>""C.""}]"	Information Sharing and Competition in the Motor Vehicle Industry	article-journal	Journal of Political Economy	1999-12	both	Required
+"[{:family=>""McAfee"", :given=>""P.""}, {:family=>""McMillan"", :given=>""J.""}]"	Auctions and Bidding	article-journal	Journal of Economic Literature	1987-06	both	Required
+"[{:family=>""Milgrom"", :given=>""P.""}]"	Auctions and Bidding: A Primer	article-journal	Journal of Economic Perspectives	1989	both	Required
+"[{:family=>""Hendricks"", :given=>""K.""}, {:family=>""Porter"", :given=>""R.""}]"	An Empirical Study of an Auction with Asymmetric Information	article-journal	American Economic Review	1988-12	both	Required
+"[{:family=>""Bajari"", :given=>""P.""}]"	Econometrics of the First Price Auction with Asymmetric Bidders	book		1998-02-06	both	Required
+"[{:family=>""Kagel"", :given=>""J.""}, {:family=>""Harstad"", :given=>""R.""}, {:family=>""Levin"", :given=>""D.""}]"	Information Impact and Allocation Rules in Auctions with Affiliated Private Values: A Laboratory Study	article-journal	Econometrica	1987	both	Required
+"[{:family=>""Lucking-Reiley"", :given=>""D.""}]"	Using Field Experiments to Test Equivalence Between Auction Formats: Magic on the Internet	article-journal	American Economic Review	1999-12	both	Required
+"[{:literal=>""Laffont, J. -J., H. Ossard, and Q. Vuong.""}]"	Econometrics of First Price Auctions	article-journal	Econometrica	1995-07	both	Required
+"[{:family=>""Athey"", :given=>""S.""}, {:family=>""Haile"", :given=>""P.""}]"	Empirical Models of Auctions	book		2006-03-13	both	Required
+"[{:family=>""Farrell"", :given=>""J.""}, {:family=>""Saloner"", :given=>""G.""}]"	Standardization	article-journal	Rand Journal of Economics	1985	both	Required
+"[{:family=>""Katz"", :given=>""M.""}, {:family=>""Shapiro"", :given=>""C.""}]"	Technology Adoption in the Presence of Network Externalities	article-journal	Journal of Political Economy	1986	both	Required
+"[{:family=>""Fudenberg"", :given=>""D.""}, {:family=>""Tirole"", :given=>""J.""}]"	Pricing Under the Threat of Entry by the Sole Supplier of a Network Good	article-journal	Journal of Industrial Economics	2000	both	Required
+"[{:family=>""Ellison"", :given=>""G.""}, {:family=>""Fudenberg"", :given=>""D.""}]"	The Neo-Luddite’s Lament: Excessive Upgrades in the Software Industry	article-journal	Rand Journal of Economics	2000	both	Required
+"[{:family=>""Gandal"", :given=>""N.""}, {:family=>""Kende"", :given=>""M.""}, {:family=>""Rob"", :given=>""R.""}]"	The Dynamics of Technological Adoption in Hardware/Software Systems: The Case of Compact Disc Players	article-journal	Rand Journal of Economics	2000	both	Required
+"[{:family=>""Ryan"", :given=>""S.""}]"	The Costs of Environmental Regulation in a Concentrated Industry	chapter	MIT Center for Energy and Environmental Policy Research Working Paper 05010		both	Required
+"[{:family=>""Bessen"", :given=>""J.""}, {:family=>""Maskin"", :given=>""E.""}]"	Sequential Innovation	chapter	MIT Department of Economics Working Paper No. 00-01	2000	both	Required
+"[{:family=>""Green"", :given=>""J.""}, {:family=>""Scotchmer"", :given=>""S.""}]"	On the Division of Profit in Sequential Innovation	article-journal	Rand Journal of Economics	1995	both	Required
+"[{:family=>""Hopenhayn"", :given=>""H.""}, {:family=>""Mitchell"", :given=>""M.""}]"	Innovation	article-journal	Rand Journal of Economics	2001	both	Required
+"[{:family=>""Pakes"", :given=>""A.""}]"	Patents as Options: Some Estimates of the Value of Holding European Patent Stocks	article-journal	Econometrica	1986-07	both	Required
+"[{:family=>""Jaffe"", :given=>""A.""}, {:family=>""Trajtenberg"", :given=>""M.""}, {:family=>""Henderson"", :given=>""R.""}]"	Geographic Localization of Knowledge Spillovers as Evidenced by Patent Citations	article-journal	Quarterly Journal of Economics	1993-08	both	Required
+"[{:family=>""Lerner"", :given=>""J.""}]"	Where Does State Street Lead? A First Look at Finance Patents	article-journal	Journal of Finance	2002-04	both	Required
+"[{:family=>""Rogers""}, {:given=>""Shoemaker""}]"	The Diffusion of Innovations: A Cross-Cultural Approach			1995	both	Required
+"[{:family=>""Griliches"", :given=>""Z.""}]"	Hybrid Corn: An Exploration in the Economics of Technological Change	article-journal	Econometrica	1957-10	both	Required
+"[{:family=>""Saloner"", :given=>""G.""}, {:family=>""Shepard"", :given=>""A.""}]"	Adoption of Technologies with Network Effects: An Empirical Examination of the Adoption of Automated Teller Machines	article-journal	Rand Journal of Economics	1995	both	Required
+"[{:family=>""Vigna"", :given=>""S.Della""}, {:family=>""Stefano""}, {:family=>""Malmendier"", :given=>""U.""}]"	Paying Not to Go to the Gym	article-journal	American Economic Review		both	Required
+"[{:family=>""Gabaix"", :given=>""X.""}, {:family=>""Laibson"", :given=>""D.""}]"	Shrouded Attributes	chapter	NBER Working Paper 11755	2005-11	both	Required
+"[{:family=>""Sorensen"", :given=>""A.""}]"	An Empirical Model of Heterogeneous Consumer Search for Retail Prescription Drugs	book		2001-09-14	right_only	Required
+"[{:family=>""Schmalensee"", :given=>""R.""}]"	Interindustry Studies of Structure and Performance	chapter	Handbook of Industrial Organization	1989	right_only	Required
+"[{:family=>""Milgrom"", :given=>""P.""}, {:family=>""Roberts"", :given=>""J.""}]"	Predation	article-journal	Journal of Economic Theory	1982-08	right_only	Required

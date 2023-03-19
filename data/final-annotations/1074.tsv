@@ -1,0 +1,316 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Feldstein"", :given=>""M.""}]"	Handbook of Public Economics			1985	both	Optional
+"[{:family=>""Atkinson"", :given=>""A.""}, {:family=>""Stiglitz"", :given=>""J.""}]"	Lectures on Public Economics			1980	both	Optional
+"[{:family=>""Laffont"", :given=>""J.""}]"	Fundamentals of Public Economics			1988	both	Optional
+	Means-Tested Transfer Programs in the United States	paper-conference	National Bureau of Economic Research Conference Report	2003	both	Optional
+"[{:family=>""Myles"", :given=>""G.""}]"	Public Economics			1995	both	Optional
+"[{:family=>""Salanie"", :given=>""B.""}]"	The Economics of Taxation			2003	both	Optional
+"[{:family=>""Tresch"", :given=>""R.""}]"	Public Finance			2002	both	Optional
+"[{:family=>""Ways"", :given=>""Committee"", :particle=>""on""}, {:family=>""Representatives"", :given=>""Means U.S.House"", :particle=>""of""}]"	The 2000 Green Book: Background Material and Data on Programs within the Jurisdicition of the Committee on Ways and Means			2000-10-06	both	Optional
+"[{:family=>""Andreoni"", :given=>""J.""}]"	Impure Altruism and Donation to Public Goods; A Theory of Warm Glow Giving	article-journal	Economic Journal	1990	both	Required
+	An Experimental Test of the Public Goods Crowding Out Hypothesis	article-journal	American Economic Review	1993-12	left_only	Required
+"[{:family=>""Bergstrom"", :given=>""T.""}, {:family=>""Blume"", :given=>""L.""}, {:family=>""Varian"", :given=>""H.""}]"	On the Private Provision of Public Goods	article-journal	Journal of Public Economics	1986	both	Required
+"[{:family=>""Kingma"", :given=>""B.""}]"	An Accurate Measurement of the Crowd-Out Effect	article-journal	Journal of Political Economy	1989-10	both	Required
+"[{:family=>""Ledyard"", :given=>""J.""}]"	Public Goods: A Survey of Experimental Research	chapter	The Handbook of Experimental Economics	1995	both	Required
+"[{:family=>""Roberts"", :given=>""R.""}]"	Financing Public Goods	article-journal	Journal of Political Economy	1987	both	Required
+"[{:family=>""Atkinson"", :given=>""A.""}, {:family=>""Stern"", :given=>""N.""}]"	Pigou	article-journal	Review of Economic Studies	1974	both	Required
+"[{:family=>""Ballard"", :given=>""C.""}, {:family=>""Fullerton"", :given=>""D.""}]"	Distortionary Taxes and the Provision of Public Goods	article-journal	Journal of Economic Perspectives	1992	both	Required
+"[{:family=>""Boadway"", :given=>""R.""}, {:family=>""Keen"", :given=>""M.""}]"	Public Goods	article-journal	International Economic Review	1993-08	both	Required
+"[{:family=>""Gaube"", :given=>""T.""}]"	When do Distortionary Taxes Reduce the Optimal Supply of Public Goods?	article-journal	Journal of Public Economics	2000-05	both	Required
+"[{:family=>""Kaplow"", :given=>""L.""}]"	The Optimal Supply of Public Goods and the Distortionary Cost of Taxation	article-journal	National Tax Journal	1996-12	both	Required
+"[{:family=>""King"", :given=>""M.""}]"	A Pigouvian Rule for the Optimal Provision of Public Goods	article-journal	Journal of Public Economics	1986	both	Required
+"[{:family=>""Charitable DonationsAtkinson"", :given=>""A.B."", :particle=>""Income Tax Deduction of""}]"	The Income Tax Treatment of Charitable Contributions	chapter	Essays in the Honor of William S. Vickrey	1976	left_only	Required
+"[{:family=>""Clotfelter"", :given=>""C.""}]"	Federal Tax Policy and Charitable Giving			1985	both	Required
+	The Impact of Tax Reform on Charitable Giving: A 1989 Perspective	chapter	Do Taxes Matter?	1990	left_only	Required
+"[{:family=>""Diamond"", :given=>""P.""}]"	Optimal Tax Treatment of Private Contributions for Public Goods with and without Warm Glow Preferences	book			both	Required
+"[{:family=>""Feldstein"", :given=>""M.""}]"	A Contribution to the Theory of Tax Expenditures; The Case of Charitable Giving	chapter	The Economics of Taxation	1980	both	Required
+"[{:family=>""Reece"", :given=>""W.""}, {:family=>""Zieschung"", :given=>""K.""}]"	Consistent Estimation of the Impact of Tax Deductibility on the Level of Charitable Contributions	article-journal	Econometrica	1985	both	Required
+"[{:family=>""Saez"", :given=>""E.""}]"	The Optimal Treatment of Tax Expenditures	article-journal	NBER Working Paper	2000	both	Required
+"[{:family=>""Altonji"", :given=>""J.""}, {:family=>""Hayashi"", :given=>""F.""}, {:family=>""Kotlikoff"", :given=>""L.""}]"	Parental Altruism and Inter Vivos Transfers: Theory and Evidence	article-journal	Journal of Political Economy	1997-12	both	Required
+"[{:family=>""Bernheim"", :given=>""A.""}, {:family=>""Shleifer"", :given=>""A.""}, {:family=>""Summers"", :given=>""L.""}]"	The Strategic Bequest Motive	article-journal	Journal of Political Economy	1985-12	both	Required
+"[{:family=>""Carroll"", :given=>""Christopher D.""}]"	Why do the Rich Save so Much	chapter	Does Atlas Shrug? The Economic Consequences of Taxing the Rich	2000	both	Required
+"[{:family=>""Hurd"", :given=>""M.""}]"	Savings of the Elderly and Desired Bequests	article-journal	American Economic Review	1987	both	Required
+	Mortality Risk and Bequests	article-journal	Econometrica	1989	left_only	Required
+"[{:family=>""Wilhelm"", :given=>""M.""}]"	Bequest Behavior and the Effect of Heirs Earnings: Testing the Altruistic Model of Bequests	article-journal	American Economic Review	1996-09	both	Required
+"[{:family=>""Brown"", :given=>""J.""}]"	How Should We Insure Longevity Risk in Pensions and Social Security?			2000-08	both	Required
+"[{:family=>""Brown"", :given=>""J.""}, {:family=>""al"", :particle=>""et.""}]"	The Role of Annuity Markets in Financing Retirement			2001	both	Required
+"[{:family=>""Brown"", :given=>""J.""}]"	Private Pensions	article-journal	Journal of Public Economics	2001-10	both	Required
+"[{:family=>""Brown"", :given=>""J.""}, {:family=>""Poterba"", :given=>""J.""}]"	Joint Life Annuities and the Demand for Annuities by Married Couples	article-journal	The Journal of Risk and Insurance	2000-12	both	Required
+"[{:family=>""Brown"", :given=>""J.""}, {:family=>""Mitchell"", :given=>""O.""}, {:family=>""Poterba"", :given=>""J.""}, {:family=>""Warshawsky"", :given=>""M.""}]"	Taxing Retirement Income: Non-Qualified Annuities and Distributions from Qualified Accounts	article-journal	The National Tax Journal	1999-09	both	Required
+"[{:family=>""Brown"", :given=>""J.""}, {:family=>""Warshawsky"", :given=>""M.""}]"	Longevity-Insured Retirement Distributions from Pension Plans: Regulatory and Market Issues	chapter	Public Policies and Private Pensions		both	Required
+"[{:family=>""Brown"", :given=>""J.""}]"	Are the Elderly Really Over-Annuitized? New Evidence on Life Insurance and Bequests	chapter	Themes in the Economics of Aging	2001	both	Required
+	Redistribution and Insurance: Mandatory Annuitization with Mortality Heterogeneity	article-journal	Center for Retirement Research working paper	2001-03	left_only	Required
+"[{:family=>""Brown"", :given=>""J.""}, {:family=>""Mitchell"", :given=>""O.""}, {:family=>""Poterba"", :given=>""J.""}]"	The Role of Real Annuities and Indexed Bonds in an Individual Accounts Retirement Program	chapter	Risk Aspects of Investment-Based Social Security Reform	2001	both	Required
+"[{:family=>""Brown"", :given=>""J.""}]"	Mortality Risk	chapter	NBER Working Paper No. 7812 and forthcoming in Financial Innovations in Retirement Income	2000	both	Required
+	Differential Mortality and the Value of Individual Account Retirement Annuities	chapter	NBER Working Paper No. 7560		left_only	Required
+"[{:family=>""Brugiavini"", :given=>""A.""}]"	Uncertainty Resolution and the Timing of Annuity Purchases	article-journal	Journal of Public Economics	1993	both	Required
+"[{:family=>""Davidoff"", :given=>""T.""}, {:family=>""Brown"", :given=>""J.""}, {:family=>""Diamond"", :given=>""P.""}]"	Annuities and Individual Welfare	article-journal	NBER Working Paper	2003	both	Required
+"[{:family=>""B."", :given=>""Friedman""}, {:family=>""Warshawsky"", :given=>""M.""}]"	The Cost of Annuities: Implications for Saving Behavior and Bequests	article-journal	Quarterly Journal of Economics	1990	both	Required
+"[{:family=>""Kotlikoff"", :given=>""L.""}, {:family=>""Spivak"", :given=>""A.""}]"	The Family as an Incomplete Annuities Market	article-journal	Journal of Political Economy	1981	both	Required
+"[{:family=>""Mitchell"", :given=>""O.""}, {:family=>""Poterba"", :given=>""J.""}, {:family=>""Warshawsky"", :given=>""M.""}, {:family=>""Brown"", :given=>""J.""}]"	New Evidence on the Money’s Worth of Individual Annuities	article-journal	American Economic Review	1999-12	both	Required
+"[{:family=>""Sheshinski"", :given=>""E.""}]"	Optimum and Risk-Class Pricing of Annuities	manuscript			both	Required
+"[{:family=>""Kaplow"", :given=>""Louis""}]"	A Note on Subsidizing Gifts	article-journal	Journal of Public Economics	1995	both	Required
+"[{:family=>""Aaron"", :given=>""H.""}, {:family=>""Munnell"", :given=>""A.""}]"	Reassessing the Role for Wealth Transfer Taxes	article-journal	National Tax Journal	1992-06	both	Required
+"[{:family=>""Arrondel"", :given=>""L.""}, {:family=>""Laferrere"", :given=>""A.""}]"	Taxation and Wealth Transmission in France	article-journal	Journal of Public Economics	2001-01	both	Required
+"[{:family=>""Bernheim"", :given=>""B.""}]"	Does the Estate Tax Raise Revenue?	chapter	Tax Policy and the Economy	1986	both	Required
+"[{:family=>""Bernheim"", :given=>""B.""}, {:family=>""Lemke"", :given=>""R.""}, {:family=>""Scholz"", :given=>""J.""}]"	Do Estate and Gift Taxes Affect the Timing of Private Transfers	article-journal	NBER Working Paper	2001-06	both	Required
+"[{:family=>""Cremer"", :given=>""H.""}, {:family=>""Pestieau"", :given=>""P.""}]"	Non-linear Taxation of Bequests	article-journal	Journal of Public Economics	2001-01	both	Required
+"[{:literal=>""Gale, William G., James R. Hines, Jr., and Joel Slemrod.""}]"	Rethinking Estate and Gift Taxation				both	Required
+"[{:family=>""Gale"", :given=>""W.G.""}, {:family=>""Slemrod"", :given=>""J.B.""}]"	Overview	chapter	Gale		both	Required
+"[{:family=>""Gokhale"", :given=>""J.""}, {:family=>""Kotlikoff"", :given=>""L.J.""}, {:family=>""Sefton"", :given=>""J.""}, {:family=>""Weale"", :given=>""M.""}]"	Simulating the Transmission of Wealth Inequality via Bequests	article-journal	Journal of Public Economics	2001-01	both	Required
+"[{:family=>""Hochguertel"", :given=>""Stefan""}, {:family=>""Ohlsson"", :given=>""Henry""}]"	_Compensatory Inter Vivos Gifts	manuscript			both	Required
+"[{:family=>""Joulfaian"", :given=>""D.""}]"	Estate Taxes and Charitable Bequests by the Wealthy	article-journal	National Tax Journal	2000	both	Required
+"[{:family=>""Jousten"", :given=>""A.""}]"	Life-cycle Modeling of Bequests and their Impact on Annuity Valuation	article-journal	Journal of Public Economics	2001-01	both	Required
+"[{:family=>""Kaplow"", :given=>""L.""}]"	A Framework for Assessing Estate and Gift Taxation				both	Required
+"[{:family=>""Kopczuk"", :given=>""W.""}]"	The Trick is to Live: Is the Estate Tax Social Security for the Rich?	chapter	NBER Working Paper 9188		both	Required
+	Optimal Estate Taxation in the Steady State?	manuscript			left_only	Required
+"[{:family=>""Laitner"", :given=>""J.""}, {:family=>""Ohlsson"", :given=>""H.""}]"	Bequest Motives: A Comparison of Sweden and the United States	article-journal	Journal of Public Economics	2001-01	both	Required
+"[{:family=>""McGarry"", :given=>""K.""}]"	The Cost of Equality: Unequal Bequests and Tax Avoidance	article-journal	Journal of Public Economics	2001-01	both	Required
+	Inter Vivos Transfers or Bequests? Estate Taxes and the Timing of Parental Giving	article-journal	Tax Policy and the Economy	2000	left_only	Required
+"[{:family=>""Munnell"", :given=>""A.""}, {:family=>""Sunden"", :given=>""A.""}]"	Death and Dollars			2003	both	Required
+"[{:family=>""Poterba"", :given=>""J.""}]"	The Estate Tax and After-Tax Investment Returns	article-journal	NBER Working Paper	1997-12	both	Required
+	The Estate and Gift Tax and Inter Vivos Giving in the United States	article-journal	Journal of Public Economics	2001-01	left_only	Required
+"[{:family=>""Saez"", :given=>""E.""}]"	The Desirability of Commodity Taxation under Non-Linear Income Taxation and Heterogeneous Tastes	article-journal	NBER Working Paper	2000	both	Required
+"[{:family=>""Atkinson"", :given=>""A.B.""}]"	Income Maintenance and Social Insurance	chapter	Handbook of Public Economics	1987	both	Required
+"[{:family=>""Diamond"", :given=>""P.""}]"	A Framework for Social Security Analysis	article-journal	Journal of Public Economics	1977	both	Required
+	Government Provision and Regulation of Economic Support in Old Age	paper-conference	Proceedings of the Seventh Annual World Bank Conference on Development Economics	1995	left_only	Required
+"[{:family=>""Feldstein"", :given=>""M.""}]"	Social Insurance	article-journal	Public Policy	1977	both	Required
+	Seven Principles of Social Insurance	article-journal	Challenge	1976-11	left_only	Required
+"[{:family=>""Weizsaecker"", :given=>""J.von""}]"	Hayek’s Obvious Corollary	chapter	CESifo Working Paper	2003	both	Required
+"[{:family=>""Diamond"", :given=>""P.Taxation""}, {:family=>""Markets"", :given=>""Incomplete""}, {:family=>""Security"", :given=>""Social""}]"	The 2000 Munich Lectures			2002	both	Required
+"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Mirrlees"", :given=>""J.""}]"	A Model of Social Insurance with Variable Retirement	article-journal	Journal of Public Economics	1978	both	Required
+	Social Insurance with Variable Retirement and Private Saving	article-journal	Journal of Public Economics		left_only	Required
+	Payroll-Tax Financed Social Security with Variable Retirement	article-journal	Scandinavian Journal of Economics	1986	left_only	Required
+"[{:family=>""Eckstein"", :given=>""Z.""}, {:family=>""Eichenbaum"", :given=>""M.""}, {:family=>""Peled"", :given=>""D.""}]"	Uncertain Lifetimes and the Welfare Enhancing Properties of Annuity Markets and Social Security	article-journal	Journal of Public Economics	1985	both	Required
+"[{:family=>""Feldstein"", :given=>""M.""}]"	Should Social Security Be Means Tested?	article-journal	Journal of Political Economy	1987	both	Required
+	Should Social Security Benefits Increase with Age?	chapter	NBER Working Paper 2200	1987-03	left_only	Required
+"[{:family=>""Hubbard"", :given=>""R.G.""}, {:family=>""Judd"", :given=>""K.""}]"	Social Security and Individual Welfare: Precautionary Saving	article-journal	American Economic Review	1987-09	both	Required
+"[{:family=>""Banks"", :given=>""J.""}, {:family=>""Blundell"", :given=>""R.""}, {:family=>""Tanner"", :given=>""S.""}]"	Is There a Retirement-Savings Puzzle?	article-journal	The American Economic Review	1998-09	both	Required
+"[{:family=>""Bernheim"", :given=>""D.""}, {:family=>""Skinner"", :given=>""J.""}, {:family=>""Weinberg"", :given=>""S.""}]"	What Accounts for the Variation in Retirement Wealth Among U.S	article-journal	Households?” American Economic Review	2001	both	Required
+"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Hausman"", :given=>""J.""}]"	Individual Retirement and Savings Behavior	article-journal	Journal of Public Economics	1984	both	Required
+"[{:family=>""Edwards"", :given=>""S.""}]"	Why are Latin America’s Savings Rates So Low? An International Comparative Analysis	article-journal	Journal of Development Economics	1996-10	both	Required
+"[{:family=>""Hurd"", :given=>""M.""}, {:family=>""Rohwedder"", :given=>""S.""}]"	The Retirement-Consumption Puzzle: Anticipated and Actual Declines in Spending at Retirement	article-journal	NBER Working Paper	2003-03	both	Required
+"[{:family=>""Chan"", :given=>""S.""}, {:family=>""Stevens"", :given=>""A.H.""}]"	What You Don’t Know Can’t Help You. Pension Knowledge and Retirement Decision Making	article-journal	NBER Working Paper	2003-12	both	Required
+"[{:family=>""Coile"", :given=>""C.""}, {:family=>""Gruber"", :given=>""J.""}]"	Social Security and Retirement	chapter	NBER Working Paper 7830	2000-08-01	both	Required
+"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Gruber"", :given=>""J.""}]"	Social Security and Retirement in the United States	chapter	Social Security and Retirement Around the World	1999	both	Required
+"[{:given=>""Friedberg""}]"	The Labor Supply Effects of the Social Security Earnings Test	article-journal	Review of Economics and Statistics	2000-02	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Wise"", :given=>""D.""}]"	Social Security Programs and Retirement Around the World: Introduction and Summary	chapter	Social Security and Retirement Around the World	1999	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Orszag"", :given=>""P.""}]"	Does the Social Security Earnings Test Affect Labor Supply and Benefits Receipt?	article-journal	NBER Working Paper	2000-09	both	Required
+"[{:family=>""Kahn"", :given=>""J.""}]"	Social Security	article-journal	Journal of Public Economics	1988	both	Required
+"[{:family=>""Krueger"", :given=>""A.""}, {:family=>""Pischke"", :given=>""J.""}]"	The Effect of Social Security on Labor Supply: A Cohort Analysis of the Notch Generation	article-journal	Journal of Labor Economics	1992-10	both	Required
+"[{:family=>""Samwick"", :given=>""A.""}]"	New Evidence on Pensions	article-journal	Journal of Public Economics	1998-11	both	Required
+"[{:family=>""Stock"", :given=>""J.""}, {:family=>""Wise"", :given=>""D.""}]"	Pensions	article-journal	Econometrica	1990-09	both	Required
+"[{:family=>""Stewart"", :given=>""J.""}]"	Do Older Workers Respond to Changes in Social Security Benefits? A Look at the Time Series Evidence				both	Required
+"[{:family=>""Abel"", :given=>""A.B.""}]"	Precautionary savings and accidental bequests	article-journal	American Economic Review	1985-09	both	Required
+	Capital Accumulation and Uncertain Lifetimes with Adverse Selection	article-journal	Econometrica	1986-09	left_only	Required
+	The Social Security Trust Fund	article-journal	NBER Working paper	1999	left_only	Required
+"[{:family=>""Abel"", :given=>""Andrew B.""}]"	‘The Effects of Investing Social Security Funds	article-journal	American Economic Review	2001-03	both	Required
+"[{:family=>""Ball"", :given=>""Lawrence""}, {:family=>""Mankiw"", :given=>""N.Gregory""}]"	Intergenerational risk Sharing in the Spirit of Arrow	manuscript			both	Required
+"[{:family=>""Bohn"", :given=>""H.""}]"	Will Social Security and Medicare Remain Viable as the U.S. Population is Aging?	article-journal	Carnegie-Rochester Conference Series on Public Policy 50	1999-06	both	Required
+	Risk Sharing in a Stochastic Overlapping Generations Economy	manuscript			left_only	Required
+	Should the Social Security Trust Fund Hold Equities? An Intergenerational Welfare Analysis	article-journal	Review of Economic Dynamics	1999	left_only	Required
+"[{:family=>""Boldrin"", :given=>""M.""}, {:family=>""Rustichini"", :given=>""A.""}]"	Equilibria with Social Security			1995	both	Required
+"[{:family=>""Breyer"", :given=>""F.""}]"	On the Intergenerational Pareto Efficiency of Pay-as-you-go Financed Pension Systems	article-journal	Journal of Institutional and Theoretical Economics	1989	both	Required
+"[{:family=>""Breyer"", :given=>""F.""}, {:family=>""Straub"", :given=>""M.""}]"	Welfare Effects of Unfunded Pension Systems When Labor Supply is Endogenous	article-journal	Journal of Public Economics	1993	both	Required
+"[{:family=>""Breyer"", :given=>""F.""}]"	Why Funding is not a Solution to the ‘Social Security Crisis’	article-journal	IZA DP	2001	both	Required
+"[{:family=>""Brunner"", :given=>""J.K.""}]"	Redistribution and Efficiency of a Pay-as-you-go Pension System	article-journal	Journal of Institutional and Theoretical Economics	1994	both	Required
+	Transition from a Pay-as-you-go to a Fully Funded Pension System: the Case of Differing Individuals and Intragenerational Fairness	article-journal	Journal of Public Economics	1996	left_only	Required
+"[{:family=>""Constantinides"", :given=>""G.""}, {:family=>""Donaldosn"", :given=>""J.""}, {:family=>""Mehra"", :given=>""R.""}]"	Junior Must Pay: Pricing the Implicit Put in Privatizing Social Security	manuscript			both	Required
+"[{:family=>""Demange"", :given=>""G.""}, {:family=>""Laroque"", :given=>""G.""}]"	Social Security and Demographic Shocks	article-journal	Econometrica	1999	both	Required
+"[{:family=>""Diamond"", :given=>""P.""}]"	Macroeconomic Aspects of Social Security Reform	article-journal	Brookings Papers on Economic Activity	1997	both	Required
+"[{:family=>""Diamond"", :given=>""P.""}, {:given=>""J.""}]"	Geanakoplos.“Social Security Investment in Equities	article-journal	American Economic Review	2003	both	Required
+"[{:family=>""Dutta"", :given=>""J.""}, {:family=>""Kapur"", :given=>""S.""}, {:family=>""Orszag"", :given=>""M.""}]"	How to Fund Pensions: Income Uncertainty and Risk-aversion	book			both	Required
+	A Portfolio Approach to the Optimal Funding of Pensions	chapter	Birkbeck Economics WP		left_only	Required
+"[{:family=>""Enders"", :given=>""W.""}, {:family=>""Lapan"", :given=>""H.""}]"	Social Security Taxation and Intergenerational Risk Sharing	article-journal	International Economic Review	1982	both	Required
+"[{:family=>""Feldstein"", :given=>""M.""}]"	The Optimal Level of Social Security Benefits	article-journal	Quarterly Journal of Economics	1985-05	both	Required
+	Imperfect Annuity Markets	article-journal	Journal of Public Economics	1990-02	left_only	Required
+"[{:family=>""Fenge"", :given=>""R.""}]"	Pareto-efficiency of the pay-as-you-go Pension System with Intrageneratinal Fairness	article-journal	Finanz Archiv	1995	both	Required
+"[{:family=>""Gale"", :given=>""D.""}]"	The Efficient Design of Public Debt	chapter	Public Debt Management: Theory and History	1990	both	Required
+"[{:family=>""Green"", :given=>""J.""}]"	Demographics			1988	both	Required
+"[{:family=>""Hassler"", :given=>""J.""}, {:family=>""and"", :given=>""A.Lindbeck""}]"	Intergenerational Risk Sharing	article-journal	Centre for Economic Policy Research Discussion Paper	1997	both	Required
+"[{:family=>""Jones"", :given=>""L.""}, {:family=>""Manuelli"", :given=>""R.""}, {:family=>""Rossi"", :given=>""P.""}]"	Optimal Taxation in Models of Endogenous Growth	article-journal	Journal of Political Economy	1993-06	both	Required
+"[{:family=>""Karni"", :given=>""E.""}, {:family=>""Zilcha"", :given=>""I.""}]"	Aggregate and Distributional Effects of Fair Social Security	article-journal	Journal of Public Economics	1989	both	Required
+	Welfare and Comparative Stastics Implications of Fair Social Security: A Steady-State Analysis	article-journal	Journal of Public Economics	1986	left_only	Required
+"[{:family=>""Merton"", :given=>""R.C.""}]"	On the Role of Social Security as a Means for Efficient Risk Sharing in an Economy where Human Capital is not Tradable_._	chapter	Financial Aspects of the US Pension System		both	Required
+"[{:family=>""Miles"", :given=>""D.""}]"	Funded and Unfunded Pension Schemes: Risk Return and Welfare	chapter	CESifo WP	2000	both	Required
+"[{:family=>""Palmer"", :given=>""E.""}]"	Individual Decisions and Aggregate Stability in the NDC System	manuscript			both	Required
+"[{:family=>""Sinn"", :given=>""Hans-Werner""}]"	Why a Funded Pension System is Needed and Why it is not Needed	article-journal	International Tax and Public Finance	2000	both	Required
+"[{:family=>""Smetters"", :given=>""K.""}]"	Investing the Social Security Trust Fund in Equity: An Option Pricing Approach.” Congressional Budget Office Macroeconomic Analysis and Tax Analysis Divisions			1997	both	Required
+"[{:family=>""Valdes-Prieto"", :given=>""Salvador""}]"	The Financial Stability of Notional Account Pensions	article-journal	Scandinavian Journal of Economics	2000	both	Required
+"[{:family=>""Arnold"", :given=>""D.""}, {:family=>""Douglas"", :given=>""R.""}, {:family=>""Graetz"", :given=>""M.J.""}, {:family=>""Munnell"", :given=>""A.H.""}]"	Framing the Social Security Debate				both	Required
+"[{:family=>""Baily"", :given=>""M.""}]"	Public Policy Implications of Declining Old Age Mortality	chapter	Work	1987	both	Required
+"[{:family=>""Burkhauser"", :given=>""R.""}, {:family=>""Smeeding"", :given=>""T.""}]"	Social Security Reform: A Budget Neutral Approach to Reducing Older Women’s Disproportionate Risk of Poverty	book			both	Required
+"[{:family=>""Coronado"", :given=>""J.""}, {:family=>""Fullerton"", :given=>""D.""}, {:family=>""Glass"", :given=>""T.""}]"	Distributional Impacts of Proposed Changes to the Social Security System	article-journal	Tax Policy and the Economy	1999	both	Required
+"[{:family=>""Cutler"", :given=>""D.""}, {:family=>""Poterba"", :given=>""J.""}, {:family=>""Sheiner"", :given=>""L.""}, {:family=>""Summers"", :given=>""L.""}]"	An Aging Society: Challenge or Opportunity?	article-journal	Brookings Papers on Economic Activity	1990	both	Required
+"[{:family=>""Nardi"", :given=>""M."", :particle=>""De""}, {:family=>""Imrohoroglu"", :given=>""S.""}, {:family=>""Sargent"", :given=>""T.J.""}]"	Projected US Demographics and Social Security	manuscript			both	Required
+"[{:family=>""Diamond"", :given=>""P.""}]"	Privatization of Social Security: Lessons from Chile	article-journal	Revista de Analisis Economico	1994	both	Required
+	Insulation of Pensions from Political Risk	chapter	Forthcoming in The Economics of Pensions: Principles		left_only	Required
+"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Orszag"", :given=>""P.""}]"	An Assessment of the Proposals of the President’s Commission to Strengthen Social Security	article-journal	Contributions to Economic Analysis & Policy	2002	both	Required
+	Saving Social Security			2004	left_only	Required
+"[{:family=>""Disney"", :given=>""R.""}]"	Notional Accounts as a Pension Reform Strategy: An Evaluation	manuscript			both	Required
+"[{:family=>""Feldstein"", :given=>""M.""}]"	Would Privatizing Social Security Raise Economic Welfare?	article-journal	NBER Working Paper	1995-09	both	Required
+	The Missing Piece in Policy Analysis: Social Security Reform	article-journal	American Economic Review	1996-05	left_only	Required
+	Privatizing Social Security			1998	both	Required
+"[{:family=>""Gustman"", :given=>""A.""}, {:family=>""Steinmeier"", :given=>""T.""}]"	Privatizing Social Security: First Round Effects of a Generic	article-journal	NBER Working Paper	1995	both	Required
+	The New Social Security Commission Personal Accounts: Where is the Investment Principal?	article-journal	NBER Working Paper	2002	left_only	Required
+"[{:family=>""Holden"", :given=>""K.""}, {:family=>""Zick"", :given=>""C.""}]"	The Economic Impact of Widowhood in the United States in the 1990s: The Role of Social Insurance and Private Pensions	book		1997-06	both	Required
+"[{:family=>""Liebman"", :given=>""J.""}]"	Redistribution in the Current Social Security System	chapter	NBER Working Paper 8625		both	Required
+"[{:family=>""Lindbeck"", :given=>""Assar""}, {:family=>""Persson"", :given=>""Mats""}]"	The Gains from Pension Reform	article-journal	Journal of Economic Literature	2003-03	both	Required
+	Prospects for Social Security Reform				both	Required
+"[{:family=>""Leimer"", :given=>""D.""}]"	Cohort Specific Measures of Lifetime Net Social Security Transfers	chapter	Working Paper 59	1994	both	Required
+"[{:family=>""Light"", :given=>""P.""}]"	Artful Work: The Politics of Social Security Reform	book			both	Required
+	National Academy on Social Insurance			1998	both	Required
+"[{:family=>""Valdes-Prieto"", :given=>""S.""}]"	Can the State Engage in Self-Control? A Survey of Old-Age Security	paper-conference	International Economic Association Meetings	1995-12	both	Required
+"[{:family=>""Bank"", :given=>""World""}]"	Averting the Old Age Crisis: Policies to Protect the Old and Promote Growth	book		1994	both	Required
+"[{:family=>""Acemoglu"", :given=>""D.""}, {:family=>""Shimer"", :given=>""R.""}]"	Efficient Unemployment Insurance	chapter	Mimeo	1997-10	both	Required
+"[{:family=>""Atkeson"", :given=>""A.""}, {:family=>""Lucas"", :given=>""R.""}]"	Efficiency and Equality in a Simple Model of Efficient Unemployment Insurance	article-journal	Journal of Economic Theory	1995	both	Required
+"[{:family=>""Atkinson"", :given=>""A.B.""}]"	The Economic Consequences of Rolling Back the Welfare State			1999	both	Required
+"[{:family=>""Baily"", :given=>""M.""}]"	Some Aspects of Optimal Unemployment Insurance	article-journal	Journal of Public Economics	1978	both	Required
+"[{:family=>""Burdett"", :given=>""K.""}, {:family=>""Wright"", :given=>""R.""}]"	Unemployment Insurance and Short Time Compensation: The Effects of Layoffs	article-journal	Journal of Political Economy	1989	both	Required
+"[{:family=>""Cahuc"", :given=>""Pierre""}, {:family=>""Lehmann"", :given=>""Etienne""}]"	Should Unemployment Benefits Decrease with the Unemployment Spell?	article-journal	Journal of Public Economics	2000	both	Required
+"[{:family=>""Chiu"", :given=>""W.""}, {:family=>""Karni"", :given=>""E.""}]"	Endogenous Adverse Selection and Unemployment Insurance	article-journal	Journal of Political Economy	1998	both	Required
+"[{:family=>""Conerly"", :given=>""W.B.""}]"	Chile Leads the Way with Individual Unemployment Accounts	article-journal	National Center For Policy Analysis	2002	both	Required
+"[{:family=>""Davidson"", :given=>""C.""}, {:family=>""Woodbury"", :given=>""S.""}]"	The Optimal Dole with Risk Aversion and Job Destruction	article-journal	U.S. Department of Labor	1998-02	both	Required
+	Further Aspects of Optimal Unemployment Insurance	chapter	Advisory Council on Unemployment Compensation: Background Papers	1996	left_only	Required
+"[{:family=>""Feldstein"", :given=>""M.""}]"	Temporary Layoffs in the Theory of Unemployment	article-journal	Journal of Political Economy	1976-10	both	Required
+"[{:family=>""Feldstein"", :given=>""M.""}, {:family=>""Altman"", :given=>""D.""}]"	Unemployment Insurance Savings Accounts	article-journal	NBER Working Paper	1998-12	both	Required
+"[{:family=>""Hansen"", :given=>""Gary""}, {:family=>""Imrohoroglu"", :given=>""Ayse""}]"	The Role of Unemployment Insurance in an Economy with Liquidity Constraints and Moral Hazard	article-journal	Journal of Political Economy	1992	both	Required
+"[{:family=>""Hopenhayn"", :given=>""Hugo A.""}, {:family=>""Nicolini"", :given=>""Juan Pablo""}]"	Optimal Unemployment Insurance	article-journal	Journal of Political Economy	1997-04	both	Required
+"[{:family=>""Michael"", :given=>""J.""}, {:given=>""Orszag""}, {:family=>""Snower"", :given=>""Dennis""}]"	From Unemployment Benefits to Unemployment Accounts	manuscript			both	Required
+"[{:family=>""Shavell"", :given=>""S.""}, {:family=>""Weiss"", :given=>""L.""}]"	The Optimal Payment of Unemployment Insurance Benefits over Time	article-journal	Journal of Political Economy	1979	both	Required
+"[{:family=>""Iván"", :given=>""Werning""}]"	Optimal Unemployment Insurance with Unobservable Savings	manuscript			both	Required
+"[{:family=>""Anderson"", :given=>""P.""}, {:family=>""Meyer"", :given=>""B.""}]"	Unemployment Insurance Takeup Rates and the After-Tax Value of Benefits	article-journal	Quarterly Journal of Economics	1997-08	both	Required
+"[{:family=>""Blau"", :given=>""D.""}, {:family=>""Robins"", :given=>""P.""}]"	Job Search	article-journal	Journal of Public Economics	1986-03	both	Required
+"[{:family=>""Card"", :given=>""D.""}, {:family=>""Levine"", :given=>""P.""}]"	Extended Benefits and the Duration of UI Spells: Evidence from the New Jersey Extended Benefits Program	article-journal	NBER Working Paper	1998-08	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}]"	The Consumption Smoothing Benefits of Unemployment Insurance	article-journal	American Economic Review	1997-03	both	Required
+"[{:family=>""Jones"", :given=>""S.""}, {:family=>""Kuhn"", :given=>""P.""}]"	Is Employed Job Search Really More Effective?				both	Required
+"[{:family=>""Katz"", :given=>""L.""}, {:family=>""Meyer"", :given=>""B.""}]"	The Impact of the Potential Duration of Unemployment Benefits on the Duration of Unemployment	article-journal	Journal of Public Economics	1990-02	both	Required
+"[{:family=>""Meyer"", :given=>""B.""}]"	Unemployment Insurance and Unemployment Spells	article-journal	Econometrica	1990-07	both	Required
+	A Quasi-Experimental Approach to the Effects of Unemployment Insurance	article-journal	NBER Working Paper	1989-11	left_only	Required
+	Lessons from the U.S. Unemployment Insurance Experiments	article-journal	Journal of Economic Literature	1995-03	left_only	Required
+"[{:family=>""Anderson"", :given=>""P.""}, {:family=>""Meyer"", :given=>""B.""}]"	The Unemployment Insurance Payroll Tax and Interindustry and Interfirm Subsidies	chapter	Tax Policy and the Economy	1993	both	Required
+	The Effects of Unemployment Insurance Taxes and Benefits on Layoffs Using Firm and Individual Data	article-journal	NBER Working Paper	1994	left_only	Required
+"[{:family=>""Topel"", :given=>""R.""}]"	On Layoffs and Unemployment Insurance	article-journal	American Economic Review	1983-09	both	Required
+"[{:family=>""Fishback"", :given=>""P.""}, {:family=>""Kantor"", :given=>""S.""}]"	Did Workers Pay for the Passage of Workers’ Compensation Laws?	article-journal	Quarterly Journal of Economics	1995-08	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Krueger"", :given=>""A.""}]"	The Incidence of Mandated Employer-Provided Insurance: Lessons from the Workers’ Compensation Insurance	chapter	Tax Policy and the Economy	1991	both	Required
+"[{:family=>""Krueger"", :given=>""A.""}]"	Incentive Effects of Workers Compensation Insurance	article-journal	Journal of Public Economics	1990-02	both	Required
+	Workers’ Compensation Insurance and the Duration of Workplace Injuries	article-journal	NBER Working Paper	1990	left_only	Required
+"[{:family=>""Meyer"", :given=>""B.""}, {:family=>""Viscusi"", :given=>""K.""}, {:family=>""Durbin"", :given=>""D.""}]"	Workers’ Compensation and Injury Duration: Evidence from a Natural Experiment	article-journal	American Economic Review	1995-06	both	Required
+"[{:family=>""Autor"", :given=>""D.""}, {:family=>""Duggan"", :given=>""M.""}]"	The Rise in Disability Recipiency and the Decline in Unemployment	chapter	NBER Working Paper 8336		both	Required
+"[{:family=>""Bound"", :given=>""J.""}]"	The Health and Earnings of Rejected Disability Insurance Applicants	article-journal	American Economic Review	1989-06	both	Required
+"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Sheshinski"", :given=>""E.""}]"	Economic Aspects of Optimal Disability Benefits	article-journal	Journal of Public Economics	1995	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}]"	Disability Insurance Benefits and Labor Supply	article-journal	Journal of Political Economy	2000	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Kubik"", :given=>""J.""}]"	Disability Insurance Rejection Rates and the Labor Supply of Older Workers	article-journal	NBER Working Paper	1994-11	both	Required
+"[{:family=>""Kubik"", :given=>""J.""}]"	Incentives for the Identification and Treatment of Children with Disabilities: The Supplemental Security Income Program	article-journal	Journal of Public Economics	1999	both	Required
+"[{:family=>""Parsons"", :given=>""D.""}]"	The Health and Earnings of Rejected Disability Insurance Applicants: Comment	article-journal	American Economic Review	1991-12	both	Required
+	Self-Screening in Targeted Public Transfer Programs	article-journal	Journal of Political Economy	1991-08	left_only	Required
+"[{:family=>""Blank"", :given=>""R.""}, {:family=>""Card"", :given=>""D.""}, {:family=>""Robins"", :given=>""P.""}]"	Financial Incentives for Increasing Work Among Low-Income Families	chapter	Finding Jobs: Work and Welfare Reform	2000	both	Required
+"[{:family=>""Blank"", :given=>""R.""}, {:family=>""Ruggles"", :given=>""P.""}]"	When Do Women Use Aid to Families with Dependent Children and Food and Food Stamps? The Dynamics of Eligibility versus Participation	article-journal	Journal of Human Resources	1996	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}]"	Cash Welfare as a Consumption Smoothing Device for Single Mothers	article-journal	Journal of Public Economics	2000-02	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Yelowitz"", :given=>""A.""}]"	Public Health Insurance and Private Savings	article-journal	Journal of Political Economy	1999	both	Required
+"[{:family=>""Gueron"", :given=>""J.""}]"	Work and Welfare: Lessons on Employment Programs	article-journal	Journal of Economic Perspectives	1990	both	Required
+"[{:family=>""Hotz"", :given=>""V.J.""}, {:family=>""Mullin"", :given=>""C.""}, {:family=>""Scholz"", :given=>""J.K.""}]"	Welfare	article-journal	American Economic Review	2002-05	both	Required
+"[{:family=>""Hoynes"", :given=>""H.""}, {:family=>""MaCurdy"", :given=>""T.""}]"	Has the Decline in Benefits Shortened Welfare Spells?	article-journal	American Economic Review	1994-05	both	Required
+"[{:family=>""Michalopoulos"", :given=>""C.et al""}]"	Making Work Pay: Final Report on the Self-Sufficiency Project for Long-Term Welfare Recipients. Human Resources Development	article-journal	Social Research and Demonstration Corporation	2002-07	both	Required
+"[{:family=>""Meyer"", :given=>""B.""}]"	Do the Poor Move to Receive Higher Welfare Benefits?	article-journal	Mimeo	1999-10	both	Required
+"[{:family=>""Moffitt"", :given=>""R.""}]"	Incentive Effects of the U.S. Welfare System: A Review	article-journal	Journal of Economic Literature	1992-03	both	Required
+"[{:family=>""Powers"", :given=>""E.""}]"	Does Means Testing Welfare Discourage Saving? Evidence from the National Longitudinal Survey of Women	article-journal	Journal of Public Economics	1998-04	both	Required
+"[{:family=>""Nichols"", :given=>""A.""}, {:family=>""Zeckhauser"", :given=>""R.""}]"	Targeting Transfers Through Restrictions on Recipients	article-journal	American Economic Review	1982-05	both	Required
+"[{:family=>""Blank"", :given=>""R.""}]"	Evaluating Welfare Reform in the United States	article-journal	Journal of Economic Literature	2002-12	both	Required
+"[{:family=>""Borjas"", :given=>""G.""}]"	Food Insecurity and Public Assistance	article-journal	NBER Working Paper	2002-09	both	Required
+"[{:family=>""Kearney"", :given=>""M.S.""}]"	Is There an Effect of Incremental welfare Benefits on Fertility Behavior? A Look at the Family Cap	article-journal	NBER Working Paper	2002-08	both	Required
+"[{:family=>""Meyer"", :given=>""B.""}, {:family=>""Sullivan"", :given=>""J.""}]"	The Effects of Welfare and Tax Reform: The Material Well-Being of Single Mothers in the 1980s and 1990s	article-journal	NBER Working Paper	2001-05	both	Required
+"[{:family=>""Baker"", :given=>""L.""}, {:family=>""Brown"", :given=>""M.""}]"	Managed Care	article-journal	Rand Journal of Economics	1999	both	Required
+"[{:family=>""Baker"", :given=>""L.""}, {:family=>""Phibbs"", :given=>""C.""}]"	Managed Care	article-journal	NBER Working Paper	2000-09	both	Required
+"[{:family=>""Cutler"", :given=>""D.""}, {:family=>""McClellan"", :given=>""M.""}]"	The Determinant of Technological Change in Heart Attack Treatments	article-journal	NBER Working Paper	1996-09	both	Required
+"[{:family=>""Cutler"", :given=>""D.""}, {:family=>""McClellan"", :given=>""M.""}, {:family=>""Newhouse"", :given=>""J.""}]"	How Does Managed Care Do It?	article-journal	RAND Journal of Economics	2000	both	Required
+"[{:family=>""Cutler"", :given=>""D.""}, {:family=>""Reber"", :given=>""S.""}]"	Paying for Health Insurance: The Trade-off Between Competition and Adverse Selection	article-journal	Quarterly Journal of Economics	1998-05	both	Required
+"[{:family=>""Eichner"", :given=>""M.""}]"	Incentives	article-journal	Chapter	1997	both	Required
+"[{:family=>""Feldstein"", :given=>""M.""}, {:family=>""Gruber"", :given=>""J.""}]"	A Major Risk Approach to Health Insurance Reform	chapter	Tax Policy and the Economy	1995	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}]"	Taxes and Health Insurance	chapter	NBER Working Paper 8657		both	Required
+"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Lettau"", :given=>""M.""}]"	How Elastic is the Firm’s Demand for Health Insurance	article-journal	forthcoming		both	Required
+"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Washington"", :given=>""E.""}]"	Subsidies to Employee Health Insurance Premiums and the Health Insurance Market	article-journal	NBER Working Paper	2003-03	both	Required
+"[{:family=>""Manning"", :given=>""W.""}, {:family=>""al"", :particle=>""et.""}]"	Health Insurance and the Demand for Medical Care: Evidence from a Randomized Experiment	article-journal	American Economic Review	1987-06	both	Required
+"[{:family=>""Nyman"", :given=>""J.""}]"	Health Insurance Theory: The Case of the Vanishing Welfare Gain	book		2003-01	both	Required
+"[{:family=>""Newhouse"", :given=>""J.""}]"	Medical Care Costs: How Much Welfare Loss?	article-journal	Journal of Economic Perspectives	1992	both	Required
+"[{:family=>""Pauly"", :given=>""M.""}]"	Taxation	article-journal	Journal of Economic Literature	1986-06	both	Required
+"[{:family=>""Simon"", :given=>""K.""}]"	Adverse Selection in Health Insurance Markets? Evidence from State Small Group Health Insurance Reforms				both	Required
+"[{:family=>""Christine"", :given=>""Bishop""}]"	Where are the Missing Elders? The Decline in Nursing Home Use	article-journal	Health Affairs		both	Required
+"[{:family=>""Blumberg"", :given=>""L.""}, {:family=>""Dubay"", :given=>""L.""}, {:family=>""Norton"", :given=>""S.""}]"	Did the Medicaid Expansions for Children Displace Private Insurance? An Analysis Using the SIPP	article-journal	Journal of Health Economics	2000-01	both	Required
+"[{:family=>""Currie"", :given=>""J.""}, {:family=>""Gruber"", :given=>""J.""}]"	Saving Babies: The Efficacy and Cost of Recent Changes in the Medicaid Eligibility of Pregnant Women	article-journal	Journal of Political Economy	1996-12	both	Required
+	Health Insurance Eligibility	article-journal	Quarterly Journal of Economics	1996-05	left_only	Required
+"[{:family=>""Currie"", :given=>""J.""}, {:family=>""Gruber"", :given=>""J.""}, {:family=>""Fischer"", :given=>""M.""}]"	Physician Payments and Infant Mortality: Evidence from Medicaid Fee Policy	article-journal	American Economic Review	1995-05	both	Required
+"[{:family=>""Cutler"", :given=>""D.""}, {:family=>""Gruber"", :given=>""J.""}]"	Does Public Insurance Crowd Out Private Insurance?	article-journal	Quarterly Journal of Economics	1996-05	both	Required
+"[{:family=>""Duggan"", :given=>""M.""}]"	Hospital Ownership and Public Medical Spending	article-journal	Quarterly Journal of Economics	2000-11	both	Required
+"[{:family=>""Fronstin"", :given=>""P.""}]"	Sources of Health Insurance and Characteristics of the Uninsured: Analysis of the March 2002 Current Population Survey	article-journal	Employee Benefit Research		both	Required
+"[{:family=>""Grabowski"", :given=>""D.""}]"	Medicaid Reimbursement and the Quality of Nursing Home Care	article-journal	Journal of Health Economics	2001-07	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}]"	Medicaid	article-journal	NBER Working Paper	2000-08	both	Required
+"[{:family=>""Hadley"", :given=>""J.""}, {:family=>""al"", :particle=>""et.""}]"	Comparison of Uninsured and Privately Insured Hospital Patients: Condition on Admission	article-journal	Journal of the American Medical Association	1991-01-16	both	Required
+"[{:family=>""Hanratty"", :given=>""M.""}]"	Canadian National Health Insurance and Infant Health	article-journal	American Economic Review	1996-05	both	Required
+"[{:family=>""Kemper"", :given=>""Peter""}]"	The Evaluation of the National Long Term Care Demonstration: Overview of the Findings	article-journal	Health Services Research	1988	both	Required
+"[{:family=>""Lurie"", :given=>""N.""}, {:family=>""al"", :particle=>""et.""}]"	Termination from Medi-Cal: Does it Affect Health?	article-journal	New England Journal of Medicine	1984-08-16	both	Required
+"[{:family=>""McKnight"", :given=>""R.""}]"	Home Care Reimbursement				both	Required
+"[{:family=>""Batata"", :given=>""A.""}]"	The Costs of Selection in Competitive Insurance Markets: The Example of Medicare	book		1998-10	both	Required
+"[{:family=>""Coulam"", :given=>""R.""}, {:family=>""Gaumer"", :given=>""G.""}]"	Medicare’s Prospective Payment System: A Critical Appraisal	article-journal	Health Care Financing Review	1991	both	Required
+"[{:family=>""Cutler"", :given=>""D.""}]"	The Incidence of Adverse Medical Outcomes Under Prospective Payment	article-journal	Econometrica	1995-01	both	Required
+"[{:family=>""Escarce"", :given=>""J.""}]"	Effects of Lower Surgical Fees on the Use of Physician Services Under Medicare	article-journal	Journal of the American Medical Association	1993	both	Required
+"[{:family=>""Ettner"", :given=>""S.""}]"	Adverse Selection and the Purchase of Medigap Insurance by the Elderly	article-journal	Journal of Health Economics	1997-10	both	Required
+"[{:family=>""Finkelstein"", :given=>""A.""}]"	Minimum Standards and Insurance Regulation: Evidence from the Medigap Market	article-journal	NBER Working Paper	2002-05	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Owings"", :given=>""M.""}]"	Physician Financial Incentives and the Diffusion of Cesarean Section Delivery	article-journal	RAND Journal of Economics	1996	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Mayzlin"", :given=>""D.""}, {:family=>""Kim"", :given=>""J.""}]"	Physician Fees and Procedure Intensity: The Case of Cesarean Delivery	article-journal	Journal of Health Economics	1999-08	both	Required
+"[{:family=>""Newhouse"", :given=>""J.""}]"	Reimbursing Health Plans and Health Providers: Selection versus Efficiency in Production	article-journal	Journal of Economic Literature	1996-09	both	Required
+	Medicare Policy in the 1990s	chapter	American Economic Policy During the 1990s		left_only	Required
+"[{:family=>""Newhouse"", :given=>""J.""}, {:family=>""Byrne"", :given=>""D.""}]"	Did Medicare’s Prospective Payment System Cause Length of Stay to Fall?	article-journal	Journal of Health Economics	1988-12	both	Required
+"[{:family=>""Institute"", :given=>""Urban""}]"	Can Competition Improve Medicare? A Look at Premium Support			1999-09	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}]"	The Incidence of Mandated Maternity Benefits	article-journal	American Economic Review	1994-06	both	Required
+	Health Insurance and the Labor Market	chapter	Handbook of Health Economics. ISBN		left_only	Required
+"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Madrian"", :given=>""B.""}]"	Health Insurance	article-journal	NBER Working Paper	2002-03	both	Required
+"[{:family=>""Madrian"", :given=>""B.""}]"	Employment-Based Health Insurance and Job Mobility: Is There Evidence of Job Lock?	article-journal	Quarterly Journal of Economics	1994-02	both	Required
+"[{:family=>""Sheiner"", :given=>""L.""}]"	Health Costs	chapter	Mimeo	1999	both	Required
+"[{:family=>""Summers"", :given=>""L.""}]"	Some Simple Economics of Mandated Benefits	article-journal	American Economic Review	1989-05	both	Required
+"[{:family=>""Yelowitz"", :given=>""A.""}]"	The Medicaid Notch	article-journal	Quarterly Journal of Economics	1995	both	Required
+"[{:family=>""Becker"", :given=>""G.""}, {:family=>""Murphy"", :given=>""K.""}]"	A Theory of Rational Addiction	article-journal	Journal of Political Economy		both	Required
+"[{:family=>""Bulow"", :given=>""Jeremy""}, {:family=>""Klemperer"", :given=>""Peter""}]"	The Tobacco Deal	article-journal	Brookings Papers on Economic Activity: Microeconomics	1998	both	Required
+"[{:family=>""Chaloupka"", :given=>""Frank J.""}, {:family=>""Warner"", :given=>""Kenneth""}]"	The Economics of Smoking	chapter	The Handbook of Health Economics	2000	both	Required
+"[{:family=>""Evans"", :given=>""William""}, {:family=>""Ringel"", :given=>""Jeanne""}, {:family=>""Stech"", :given=>""Diana""}]"	Tobacco Taxes and Public Policy to Discourage Smoking	chapter	Tax Policy and the Economy	1999	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}]"	Tobacco at the Crossroads: The Past and Future of Smoking Regulation in the United States	article-journal	Journal of Economic Perspectives	2001	both	Required
+"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Koszegi"", :given=>""B.""}]"	Is Addiction ‘Rational’? Theory and Evidence	article-journal	Quarterly Journal of Economics	2001-11	both	Required
+	A Theory of Government Regulation of Addictive Bads: Optimal Tax Levels and Tax Incidence for Cigarette Taxation	article-journal	NBER Working Paper	2002-02	left_only	Required
+"[{:family=>""Manning"", :given=>""Willard""}, {:family=>""al"", :particle=>""et.""}]"	The Taxes of Sin: Do Smokers and Drinkers Pay Their Way?	article-journal	Journal of the American Medical Association	1989	both	Required
+"[{:family=>""Andreoni"", :given=>""J.""}]"	An Experimental Test of the Public Goods Crowding Out Hypothesis	article-journal	American Economic Review	1993-12	right_only	Required
+"[{:family=>""Atkinson"", :given=>""A.B.""}]"	The Income Tax Treatment of Charitable Contributions	chapter	Essays in the Honor of William S. Vickrey	1976	right_only	Required
+"[{:family=>""Clotfelter"", :given=>""C.""}]"	The Impact of Tax Reform on Charitable Giving: A 1989 Perspective	chapter	Do Taxes Matter?	1990	right_only	Required
+"[{:family=>""Hurd"", :given=>""M.""}]"	Mortality Risk and Bequests	article-journal	Econometrica	1989	right_only	Required
+"[{:family=>""Brown"", :given=>""J.""}]"	Redistribution and Insurance: Mandatory Annuitization with Mortality Heterogeneity	article-journal	Center for Retirement Research working paper	2001-03	right_only	Required
+"[{:family=>""Brown"", :given=>""J.""}]"	Differential Mortality and the Value of Individual Account Retirement Annuities	chapter	NBER Working Paper No. 7560		right_only	Required
+"[{:family=>""Kopczuk"", :given=>""W.""}]"	Optimal Estate Taxation in the Steady State?	manuscript			right_only	Required
+"[{:family=>""McGarry"", :given=>""K.""}]"	Inter Vivos Transfers or Bequests? Estate Taxes and the Timing of Parental Giving	article-journal	Tax Policy and the Economy	2000	right_only	Required
+"[{:family=>""Poterba"", :given=>""J.""}]"	The Estate and Gift Tax and Inter Vivos Giving in the United States	article-journal	Journal of Public Economics	2001-01	right_only	Required
+"[{:family=>""Diamond"", :given=>""P.""}]"	Government Provision and Regulation of Economic Support in Old Age	paper-conference	Proceedings of the Seventh Annual World Bank Conference on Development Economics	1995	right_only	Required
+"[{:family=>""Feldstein"", :given=>""M.""}]"	Seven Principles of Social Insurance	article-journal	Challenge	1976-11	right_only	Required
+"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Mirrlees"", :given=>""J.""}]"	Social Insurance with Variable Retirement and Private Saving	article-journal	Journal of Public Economics		right_only	Required
+"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Mirrlees"", :given=>""J.""}]"	Payroll-Tax Financed Social Security with Variable Retirement	article-journal	Scandinavian Journal of Economics	1986	right_only	Required
+"[{:family=>""Feldstein"", :given=>""M.""}]"	Should Social Security Benefits Increase with Age?	chapter	NBER Working Paper 2200	1987-03	right_only	Required
+"[{:family=>""Abel"", :given=>""A.B.""}]"	Capital Accumulation and Uncertain Lifetimes with Adverse Selection	article-journal	Econometrica	1986-09	right_only	Required
+"[{:family=>""Abel"", :given=>""A.B.""}]"	The Social Security Trust Fund	article-journal	NBER Working paper	1999	right_only	Required
+"[{:family=>""Bohn"", :given=>""H.""}]"	Risk Sharing in a Stochastic Overlapping Generations Economy	manuscript			right_only	Required
+"[{:literal=>""———""}]"	Should the Social Security Trust Fund Hold Equities? An Intergenerational Welfare Analysis	article-journal	Review of Economic Dynamics	1999	right_only	Required
+"[{:family=>""Brunner"", :given=>""J.K.""}]"	Transition from a Pay-as-you-go to a Fully Funded Pension System: the Case of Differing Individuals and Intragenerational Fairness	article-journal	Journal of Public Economics	1996	right_only	Required
+"[{:family=>""Dutta"", :given=>""J.""}, {:family=>""Kapur"", :given=>""S.""}, {:family=>""Orszag"", :given=>""M.""}]"	A Portfolio Approach to the Optimal Funding of Pensions	chapter	Birkbeck Economics WP		right_only	Required
+"[{:family=>""Feldstein"", :given=>""M.""}]"	Imperfect Annuity Markets	article-journal	Journal of Public Economics	1990-02	right_only	Required
+"[{:family=>""Karni"", :given=>""E.""}, {:family=>""Zilcha"", :given=>""I.""}]"	Welfare and Comparative Stastics Implications of Fair Social Security: A Steady-State Analysis	article-journal	Journal of Public Economics	1986	right_only	Required
+"[{:family=>""Diamond"", :given=>""P.""}]"	Insulation of Pensions from Political Risk	chapter	Forthcoming in The Economics of Pensions: Principles		right_only	Required
+"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Orszag"", :given=>""P.""}]"	Saving Social Security			2004	right_only	Required
+	———.“The Missing Piece in Policy Analysis: Social Security Reform	article-journal	American Economic Review	1996-05	right_only	Required
+"[{:family=>""Gustman"", :given=>""A.""}, {:family=>""Steinmeier"", :given=>""T.""}]"	The New Social Security Commission Personal Accounts: Where is the Investment Principal?	article-journal	NBER Working Paper	2002	right_only	Required
+	President’s Commission to Strengthen Social Security	report			right_only	Required
+"[{:family=>""Davidson"", :given=>""C.""}, {:family=>""Woodbury"", :given=>""S.""}]"	Further Aspects of Optimal Unemployment Insurance	chapter	Advisory Council on Unemployment Compensation: Background Papers	1996	right_only	Required
+"[{:family=>""Meyer"", :given=>""B.""}]"	A Quasi-Experimental Approach to the Effects of Unemployment Insurance	article-journal	NBER Working Paper	1989-11	right_only	Required
+"[{:family=>""Meyer"", :given=>""B.""}]"	Lessons from the U.S. Unemployment Insurance Experiments	article-journal	Journal of Economic Literature	1995-03	right_only	Required
+"[{:family=>""Anderson"", :given=>""P.""}, {:family=>""Meyer"", :given=>""B.""}]"	The Effects of Unemployment Insurance Taxes and Benefits on Layoffs Using Firm and Individual Data	article-journal	NBER Working Paper	1994	right_only	Required
+"[{:family=>""Krueger"", :given=>""A.""}]"	Workers’ Compensation Insurance and the Duration of Workplace Injuries	article-journal	NBER Working Paper	1990	right_only	Required
+"[{:family=>""Parsons"", :given=>""D.""}]"	Self-Screening in Targeted Public Transfer Programs	article-journal	Journal of Political Economy	1991-08	right_only	Required
+"[{:family=>""Currie"", :given=>""J.""}, {:family=>""Gruber"", :given=>""J.""}]"	Health Insurance Eligibility	article-journal	Quarterly Journal of Economics	1996-05	right_only	Required
+"[{:family=>""Newhouse"", :given=>""J.""}]"	Medicare Policy in the 1990s	chapter	American Economic Policy During the 1990s		right_only	Required
+"[{:family=>""Gruber"", :given=>""J.""}]"	Health Insurance and the Labor Market	chapter	Handbook of Health Economics. ISBN		right_only	Required
+"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Koszegi"", :given=>""B.""}]"	A Theory of Government Regulation of Addictive Bads: Optimal Tax Levels and Tax Incidence for Cigarette Taxation	article-journal	NBER Working Paper	2002-02	right_only	Required

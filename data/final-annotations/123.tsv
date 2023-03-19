@@ -1,0 +1,31 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Bird"", :given=>""R.B.""}, {:family=>""Armstrong"", :given=>""R.C.""}, {:family=>""Hassager"", :given=>""O.""}]"	Dynamics of Polymeric Liquids			1987	both	Required
+"[{:family=>""Reiner"", :given=>""M.""}]"	The Deborah Number	article-journal	Physics Today	1964	both	Optional
+"[{:family=>""Dealy"", :given=>""John M.""}]"	Weissenberg and Deborah Numbers Their Definition and Use	article-journal	Rheology Bulletin	2010	both	Optional
+"[{:family=>""Bilmes"", :given=>""L.""}]"	The Rheological Chart	article-journal	Nature	1942	both	Optional
+"[{:family=>""Sella"", :given=>""Andrea""}]"	Classic Kit: Weissenberg’s Camera	book		2011-11	both	Optional
+"[{:family=>""Denn"", :given=>""Morton""}]"	50 Years of Non-Newtonian Fluid Dynamics	article-journal	AIChE Journal	2004	both	Optional
+"[{:family=>""Wagner"", :given=>""N.J.""}, {:family=>""Brady"", :given=>""J.F.""}]"	Shear-Thickening in Colloidal Dispersions	article-journal	Physics Today	2009	both	Optional
+"[{:family=>""Balmforth"", :given=>""Frigaard""}, {:others=>true}]"	Yielding to Stress: Recent Developments in Viscoplastic Fluid Mechanics	article-journal	Annual Review of Fluid Mechanics	2014	both	Optional
+"[{:family=>""Ward"", :given=>""Ian M.""}]"	Chapter 5 in Mechanical Properties of Solid Polymers			1983	both	Optional
+"[{:family=>""Markovitz"", :given=>""H.""}]"	Boltzmann & the Beginnings of Linear Viscoelasticity	article-journal	Transactionas of the Society of Rheology	1977	both	Optional
+"[{:family=>""Rubinstein"", :given=>""M.""}, {:family=>""Colby"", :given=>""R.H.""}]"	Chapter 8 in Polymer Physics			2003	both	Optional
+"[{:family=>""Chandrasekhar"", :given=>""S.""}]"	Stochastic Processes in Physics and Astronomy	article-journal	Reviews of Modern Physics	1943	both	Optional
+"[{:family=>""Gennes"", :given=>""Pierre-Gilles de""}]"	Entangled Polymers	article-journal	Physics Today	1983	both	Optional
+"[{:family=>""Lodge"", :given=>""T.P.""}, {:family=>""Muthukumar"", :given=>""M.""}]"	Physical Chemistry of Polymers: Entropy	article-journal	The Journal of Physical Chemistry	1996	both	Optional
+"[{:family=>""Rubinstein""}, {:given=>""Colby""}]"	Chapter 9 in Polymer Physics (Chemistry			2003	both	Optional
+"[{:family=>""Malkin"", :given=>""A.Ya""}]"	The State of the Art in the Rheology of Polymers: Achievements and Challenges	article-journal	Polymer Science Series A	2009	both	Optional
+"[{:family=>""Prakash"", :given=>""J.Ravi""}]"	Micro and Macro in the Dynamics of Dilute Polymer Solution	article-journal	Korea-Australia Rheology Journal	2009	both	Optional
+"[{:family=>""Larson"", :given=>""R.G.""}]"	Constitutive Equations for Polymer Melts and Solutions: Butterworths Series in Chemical Engineering			2013	both	Optional
+"[{:family=>""Larson"", :given=>""R.G.""}]"	The Structure and Rheology of Complex Fluids	book		1999	both	Optional
+"[{:family=>""Morrison"", :given=>""F.""}]"	Understanding Rheology			2001	both	Optional
+"[{:family=>""Doi"", :given=>""M.""}, {:family=>""Edwards"", :given=>""S.F.""}]"	The Theory of Polymer Dynamics			1986	both	Optional
+"[{:family=>""Graessley"", :given=>""W.W.""}]"	Polymeric Liquids & Networks: Dynamics and Rheology			2008	both	Optional
+"[{:family=>""Tanner"", :given=>""R.I.""}]"	Engineering Rheology (Oxford Engineering Science Series			2000	both	Optional
+"[{:family=>""Walters"", :given=>""K.""}]"	Rheometry			1975	both	Optional
+"[{:family=>""Probstein"", :given=>""R.F.""}]"	Physicochemical Hydrodynamics: An Introduction			1994	both	Optional
+"[{:family=>""Ferry"", :given=>""J.D.""}]"	Viscoelastic Properties of Polymers			1980	both	Optional
+"[{:family=>""Bingham"", :given=>""E.C.""}]"	An Investigation of the Laws of Plastic Flow				right_only	Optional
+"[{:family=>""Rubinstein"", :given=>""M.""}, {:family=>""Colby"", :given=>""R.""}]"	Polymer Physics			2003	right_only	Optional
+"[{:family=>""Macosko"", :given=>""C.W.""}]"	Rheology: Principles			1994	right_only	Optional
+"[{:family=>""Bird"", :given=>""R.B.""}, {:family=>""Armstrong"", :given=>""R.C.""}, {:family=>""Hassager"", :given=>""O.""}]"	Dynamics of Polymeric Liquids	book		1987	right_only	Optional

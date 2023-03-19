@@ -1,0 +1,104 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Kolstad"", :given=>""Charles""}]"	Environmental Economics			2010	both	Required
+"[{:family=>""Tietenberg"", :given=>""Tom""}]"	Environmental and Natural Resource Economics			2000	both	Optional
+"[{:family=>""Chapman"", :given=>""Duane""}]"	Environmental Economics: Theory			1999	both	Optional
+"[{:family=>""Portney"", :given=>""Paul""}, {:family=>""Stavins"", :given=>""Robert""}]"	Public Policies for Environmental Protection			2000	both	Optional
+	Economics of the Environment: Selected Readings			2000	both	Required
+	The RFF Reader in Environmental and Resource Management	article-journal	Resources for the Future	1999	both	Required
+"[{:family=>""Cropper"", :given=>""Maureen L.""}, {:family=>""Oates"", :given=>""Wallace E.""}]"	Environmental Economics: A Survey	article-journal	Journal of Economic Literature	1992	both	Required
+"[{:family=>""Arrow"", :given=>""Kenneth""}, {:others=>true}]"	Is there a Role for Benefit-Cost Analysis in Environmental Health	article-journal	Science	1996	both	Required
+"[{:family=>""Farrow"", :given=>""Scott""}, {:family=>""Toman"", :given=>""Michael""}]"	Using Benefit-Cost Analysis to Improve Environmental Regulation	article-journal	Environment	1999	both	Required
+"[{:family=>""Greenstone"", :given=>""Michael""}]"	Effective Regulation through Credible Cost-Benefit Analysis			2008	both	Required
+"[{:family=>""Kelman"", :given=>""Steven""}]"	Cost-Benefit Analysis: An Ethical Critique	chapter	Chapter 15 in EESR		left_only	Required
+"[{:family=>""Revesz"", :given=>""Richard""}, {:family=>""Livermore"", :given=>""Michael""}]"	Retaking Rationality: How Cost Benefit Analysis Can Better Protect the Environment and Our Health			2008	both	Required
+"[{:family=>""Viscusi"", :given=>""W.Kip""}]"	Regulating the Regulators	article-journal	University of Chicago Law Review	1996	both	Required
+"[{:family=>""Ackerman"", :given=>""Frank""}, {:family=>""Heinzerling"", :given=>""Lisa""}]"	Priceless: On Knowing the Price of Everything and the Value of Nothing	article-journal	The New Press	2005	both	Required
+"[{:family=>""Sunstein"", :given=>""Cass""}]"	Your Money or Your Life	article-journal	The New Republic	2004	both	Required
+	What Price Posterity	article-journal	Economist	1991-03-23	both	Required
+	Creating Incentives	article-journal	Economist	1993-05-29	both	Required
+"[{:family=>""Arrow"", :given=>""Kenneth""}, {:family=>""Dasgupta"", :given=>""Partha""}, {:others=>true}]"	Are We Consuming Too Much?	article-journal	Journal of Economic Perspectives	2004	both	Required
+"[{:family=>""Solow"", :given=>""Robert M.""}]"	Sustainability: An Economist’s Perspective	chapter	Chapter 5 in EESR		left_only	Required
+"[{:family=>""Coase"", :given=>""Ronald H.""}]"	The Problem of Social Cost	article-journal	The Journal of Law and Economics	1960	both	Required
+"[{:family=>""Barthold"", :given=>""Thomas A.""}]"	Issues in the Design of Environmental Excise Taxes	article-journal	Journal of Economic Perspectives	1994	both	Required
+"[{:family=>""Cohen"", :given=>""Mark A.""}]"	Monitoring and Enforcement of Environmental Policy	book		1998	both	Required
+"[{:family=>""Fullerton"", :given=>""Don""}, {:family=>""Kinnaman"", :given=>""Thomas C.""}]"	Household Response to Pricing Garbage by the Bag	article-journal	American Economic Review	1996	both	Required
+"[{:family=>""Fullerton"", :given=>""Don""}, {:family=>""West"", :given=>""Sarah""}]"	Tax and Subsidy Combinations for the Control of Car Pollution	article-journal	NBER Working Paper	2000-07	both	Required
+"[{:family=>""Wiener"", :given=>""Jonathan""}]"	Global Trade in Greenhouse Gas Control: Market Merits and Critics’ Concerns	article-journal	Resources	1997	both	Required
+	Clean and Green	article-journal	The Economist	1992-12-12	both	Required
+	Taxes for a Greener Environment	article-journal	The Economist	1997-06-28	both	Required
+"[{:family=>""Goulder"", :given=>""Lawrence H.""}]"	Environmental Policy Making in a Second-Best Setting	article-journal	Journal of Applied Economics	1998	both	Required
+"[{:family=>""Morgenstern"", :given=>""Richard D.""}]"	Environmental Taxes: Is There a Double Dividend?	article-journal	Environment	1996	both	Required
+"[{:family=>""Passell"", :given=>""Peter""}]"	When the Benefits are Mostly Modest	article-journal	New York Times	1997-04-03	both	Required
+"[{:given=>""Schmalensee""}, {:others=>true}]"	An Interim Evaluation of Sulfur Dioxide Emissions Trading	article-journal	Journal of Economic Perspectives	1998	both	Required
+"[{:family=>""Stavins"", :given=>""Robert N.""}]"	What Can We Learn from the Grand Policy Experiment? Lessons from SO2 Allowance Trading	article-journal	Journal of Economic Perspectives	1998	both	Required
+"[{:family=>""Oates"", :given=>""Wallace E.""}, {:family=>""Schwab"", :given=>""Robert M.""}]"	Economic Competition Among Jurisdictions: Efficiency Enhancing or Distortion Inducing?	article-journal	Journal of Public Economics	1998	both	Required
+"[{:family=>""Greenstone"", :given=>""Michael""}]"	The Impacts of Environmental Regulations on Industrial Activity: Evidence from the 1970 and 1977 Clean Air Act Amendments and the Census of Manufactures	article-journal	Journal of Political Economy	2002	both	Required
+"[{:family=>""Henderson"", :given=>""J.Vernon""}]"	Effects of Air Quality Regulation	article-journal	American Economic Review	1996	both	Required
+"[{:family=>""Bhagwati"", :given=>""Jagdish""}, {:family=>""Daly"", :given=>""Herman""}]"	Debate: Does Free Trade Harm the Environment?	article-journal	Scientific American	1993	both	Required
+"[{:family=>""Sanger"", :given=>""David E.""}]"	Trade Group Orders U.S. to Alter Law for First Time	article-journal	New York Times	1996-01-18	both	Required
+"[{:family=>""Copeland"", :given=>""Brian""}, {:family=>""Taylor"", :given=>""M.Scott""}]"	Trade	article-journal	Journal of Economic Literature	2004	both	Required
+"[{:family=>""Antweiler"", :given=>""Werner""}, {:family=>""Copeland"", :given=>""Brian""}, {:family=>""Taylor"", :given=>""Scott""}]"	Is Free Trade Good for the Environment?	article-journal	American Economic Review	2001	both	Required
+"[{:family=>""Grossman"", :given=>""Gene""}, {:family=>""Krueger"", :given=>""Alan""}]"	Economic Growth and the Environment	article-journal	Quarterly Journal of Economics	1995	both	Required
+"[{:family=>""Levinson"", :given=>""Arik""}]"	The Ups and Downs of the Environmental Kuznets Curve	book		2000	both	Required
+"[{:family=>""Jorgenson"", :given=>""Dale W.""}, {:family=>""Wilcoxen"", :given=>""Peter J.""}]"	Environmental Regulation and U.S. Economic Growth	article-journal	Rand Journal of Economics	1990	both	Required
+"[{:family=>""Stavins"", :given=>""Robert""}, {:family=>""Jaffe"", :given=>""Judson""}, {:family=>""Schatzki"", :given=>""Todd""}]"	Too Good to be True? An Examination of Three Economic Assessments of California Climate Change Policy	article-journal	NBER Working Paper	2007-11	both	Required
+"[{:family=>""Jaffe"", :given=>""Adam B.""}, {:family=>""Newell"", :given=>""Richard G.""}, {:family=>""Stavins"", :given=>""Robert N.""}]"	Technology Policy for Energy and the Environment	chapter	Innovation Policy and the Economy	2004	both	Required
+"[{:family=>""Porter"", :given=>""Michael E.""}, {:family=>""Linde"", :given=>""Class"", :particle=>""Van der""}]"	Toward a New Conception of the Environment-Competitiveness Relationship	article-journal	Journal of Economic Perspectives	1995	both	Required
+"[{:family=>""Palmer"", :given=>""Karen""}, {:family=>""Oates"", :given=>""Wallace E.""}, {:family=>""Portney"", :given=>""Paul R.""}]"	Tightening Environmental Standards: The Benefit-Cost or the No-Cost Paradigm?	article-journal	Journal of Economic Perspectives	1995	both	Required
+	An Invaluable Environment			1998-04-18	both	Required
+"[{:family=>""Hecht"", :given=>""Joy""}]"	Environmental Accounting: Where We Are Now	article-journal	Resources	1999	both	Required
+"[{:family=>""Oliva"", :given=>""Paulina""}]"	Environmental Regulations and Corruption: Automobile Emissions in Mexico City			2010	both	Required
+"[{:family=>""Olken"", :given=>""Ben""}]"	Monitoring Corruption: Evidence from a Field Experiment in Indonesia	article-journal	Journal of Political Economy	2007	both	Required
+"[{:family=>""Ahuja"", :given=>""Amrita""}, {:family=>""Kremer"", :given=>""Michael""}, {:family=>""Zwane"", :given=>""Alix Peterson""}]"	Providing Safe Water: Evidence from Randomized Evaluations	book		2010-04	both	Required
+"[{:family=>""Kremer"", :given=>""Michael""}, {:family=>""Leino"", :given=>""Jessica""}, {:family=>""Miguel"", :given=>""Edward""}, {:family=>""Zwane"", :given=>""Alix Peterson""}]"	Spring Cleaning: Rural Water Impacts	chapter	Working Paper	2010	both	Required
+"[{:family=>""Davis"", :given=>""Lucas""}]"	The Effects of Driving Restrictions on Air Quality in Mexico City	article-journal	Journal of Political Economy	2008	both	Required
+"[{:family=>""Braden"", :given=>""John B.""}, {:family=>""Kolstad"", :given=>""Charles D.""}, {:family=>""Miltz"", :given=>""David""}]"	Introduction.” Chapter 1 in Measuring the Demand for Environmental Quality			1998	both	Required
+"[{:family=>""Smith"", :given=>""V.Kerry""}]"	Nonmarket Valuation of Environmental Resources: An Interpretive Appraisal	article-journal	Land Economics	1993	both	Required
+	Are You Being Served?			2005-04-23	both	Required
+	Treasuring the Environment	article-journal	Economist	1990-03-03	both	Required
+	A Price on the Priceless?			1991-08-17	both	Required
+"[{:family=>""Ashenfelter"", :given=>""Orley""}, {:family=>""Greenstone"", :given=>""Michael""}]"	Using Mandated Speed Limits to Measure the Value of a Statistical Life: Evidence from the Introduction of the 65-mph Speed Limit on Rural Interstates	article-journal	NBER Working Paper	2002-08	both	Required
+"[{:family=>""Chay"", :given=>""Kenneth""}, {:family=>""Greenstone"", :given=>""Michael""}]"	Does Air Quality Matter? Evidence from the Housing Market	book		2004	both	Required
+"[{:literal=>""Freeman III., A Myrick.""}]"	Property Value Models.” Chapter 11 in The Measurement of Environmental and Resource Values			1993	both	Required
+"[{:family=>""Greenstone"", :given=>""Michael""}, {:family=>""Gallagher"", :given=>""Justin""}]"	Does Hazardous Waste Matter? Evidence from the Housing Market and the Superfund Program	article-journal	Quarterly Journal of Economics	2008	both	Required
+"[{:family=>""Viscusi"", :given=>""W.Kip""}]"	The Value of Risks to Life and Health	article-journal	Journal of Economic Literature	1993	both	Required
+"[{:family=>""Dickie"", :given=>""Mark""}, {:family=>""Gerking"", :given=>""Shelby""}]"	Willingness to Pay for Ozone Control: Inferences from the Demand for Medical Care	article-journal	Journal of Environmental Economics and Management	1991	both	Required
+"[{:family=>""Johanneson"", :given=>""Magnus""}, {:family=>""Johansson"", :given=>""Per-Olov""}, {:family=>""Kristom"", :given=>""Bengt""}, {:family=>""Soderqvist"", :given=>""Tore""}]"	Valuing Changes in Health: Theoretical and Empirical Issues	chapter	Current Issues in Environmental Economics	1995	both	Required
+"[{:family=>""Smith"", :given=>""V.Kerry""}]"	Household Production Functions and Environmental Benefit Estimation.” Chapter 3 in Measuring the Demand for Environmental Quality			1998	both	Required
+"[{:family=>""Portney"", :given=>""Paul R.""}]"	The Contingent Valuation Debate: Why Economists Should Care	article-journal	Journal of Economic Perspectives	1994	both	Required
+"[{:family=>""Hanemann"", :given=>""Michael W.""}]"	Valuing the Environment Through Contingent Valuation	article-journal	Journal of Economic Perspectives	1994	both	Required
+"[{:family=>""Diamond"", :given=>""Peter A.""}, {:family=>""Hausman"", :given=>""Jerry A.""}]"	Contingent Valuation	article-journal	Journal of Economic Perspectives	1994	both	Required
+	The Price of Imagining Arden			1994-12-03	both	Required
+"[{:family=>""Sweeney"", :given=>""James""}]"	Economic Theory of Depletable Resources: An Introduction	chapter	Chapter 17 in Handbook of Natural Resource and Energy Economics	1993	both	Required
+"[{:family=>""Heal"", :given=>""Geoffrey""}]"	The Optimal Use of Exhaustible Resources.” Chapter 18 in Handbook of Natural Resource and Energy Economics			1993	both	Required
+"[{:family=>""Munro"", :given=>""Gordon""}, {:family=>""Scott"", :given=>""Anthony""}]"	The Economics of Fisheries Management	chapter	Chapter 14 in Handbook of Natural Resource and Energy Economics	1993	both	Required
+"[{:family=>""Slade"", :given=>""Margaret E.""}, {:family=>""Thille"", :given=>""Henry""}]"	Whither Hotelling: Tests of the Theory of Exhaustible Resources			2009	both	Required
+"[{:family=>""Arrow"", :given=>""Kenneth""}, {:others=>true}]"	Brief Amici Curiae” to the U.S. Supreme Court	book		2000-07	both	Required
+"[{:family=>""Chay"", :given=>""Kenneth""}, {:family=>""Dobkin"", :given=>""Carlos""}, {:family=>""Greenstone"", :given=>""Michael""}]"	The Clean Air Act of 1970 and Adult Mortality	article-journal	Journal of Risk and Uncertainty	2003	both	Required
+"[{:family=>""Chay"", :given=>""Kenneth""}, {:family=>""Greenstone"", :given=>""Michael""}]"	The Impact of Air Pollution on Infant Mortality: Evidence from Geographic Variation in Pollution Shocks Induced by a Recession	article-journal	Quarterly Journal of Economics	2003	both	Required
+	Air Quality	article-journal	NBER Working Paper	2003-10	left_only	Required
+"[{:family=>""Dockery"", :given=>""Douglas W.""}, {:others=>true}]"	An Association Between Air Pollution and Mortality in Six U.S. Cities	article-journal	The New England Journal of Medicine	1993	both	Required
+"[{:family=>""Lippmann"", :given=>""Morton""}, {:family=>""Ito"", :given=>""Kazuhiko""}, {:family=>""Nádas"", :given=>""Arthur""}, {:family=>""Burnett"", :given=>""Richard T.""}]"	Association of Particulate Matter Components with Daily Mortality and Morbidity in Urban Populations	article-journal	Health Effects Institute	2000	both	Required
+"[{:family=>""Reinhardt"", :given=>""Forest""}, {:family=>""Trumbull"", :given=>""Gunnar""}, {:family=>""Hyman"", :given=>""Mikell""}, {:family=>""McGrath"", :given=>""Patia""}, {:family=>""Uludere"", :given=>""Nazli Zeynep""}]"	The Political Economy of Carbon Trading	article-journal	Harvard Business School Case. Harvard Business School Publishing. Case	2011-04-27	both	Required
+"[{:family=>""Mendelsohn"", :given=>""Robert""}, {:family=>""Nordhaus"", :given=>""William D.""}, {:family=>""Shaw"", :given=>""Daigee""}]"	The Impact of Global Warming on Agriculture: A Ricardian Approach	article-journal	American Economic Review	1994	both	Required
+"[{:family=>""Deschenes"", :given=>""Olivier""}, {:family=>""Greenstone"", :given=>""Michael""}]"	The Economic Impacts of Climate Change: Evidence from Agricultural Output and Random Fluctuations in Weather	article-journal	American Economic Review	2007	both	Required
+	Climate Change	chapter	Working Paper	2007	left_only	Required
+"[{:family=>""Guiteras"", :given=>""Raymond""}]"	The Impact of Climate Change on Indian Agriculture			2009	both	Required
+"[{:family=>""Stern"", :given=>""Nicholas""}]"	The Economics of Climate Change	article-journal	American Economic Review	2008	both	Required
+"[{:family=>""Nordhaus"", :given=>""William D.""}]"	A Review of the Stern Review on the Economics of Climate Change	article-journal	Journal of Economic Literature	2007	both	Required
+"[{:family=>""Weitzman"", :given=>""Martin M.""}]"	A Review of the Stern Review on the Economics of Climate Change	article-journal	Journal of Economic Literature	2007	both	Required
+"[{:family=>""Metcalf"", :given=>""Gilbert""}]"	Market-Based Policy Options to Control U.S. Greenhouse Gas Emissions	article-journal	Journal of Economic Perspectives	2009	both	Required
+"[{:family=>""Tol"", :given=>""Richard S.J.""}]"	The Economic Effects of Climate Change	article-journal	Journal of Economic Perspectives	2009	both	Required
+"[{:family=>""Barrett"", :given=>""Scott""}]"	The Coming Global Climate-Technology-Revolution	article-journal	Journal of Economic Perspectives	2009	both	Required
+"[{:family=>""Reinhardt"", :given=>""Forest""}, {:family=>""Hamschmidt"", :given=>""Jost""}, {:family=>""Hyman"", :given=>""Mikell""}]"	South Pole Carbon Asset Management-Going for Gold?” Harvard Business School Case	article-journal	Harvard Business School Publishing. Case	2009-03-31	both	Required
+"[{:family=>""Cuddy"", :given=>""Amy""}]"	OPOWER: Increasing Energy Efficiency through Normative Influence	book		2011-05-22	both	Required
+"[{:family=>""Allcott"", :given=>""Hunt""}, {:family=>""Greenstone"", :given=>""Michael""}]"	The Economics of the Energy Efficiency Gap	article-journal	Working Paper. MIT	2011	both	Required
+"[{:family=>""Gillingham"", :given=>""Kenneth""}, {:family=>""Newell"", :given=>""Richard G.""}, {:family=>""Palmer"", :given=>""Karen""}]"	Energy Efficiency Economics and Policy	chapter	Discussion Paper No. 09-13. Resources for the Future	2009	both	Required
+"[{:family=>""Allcott"", :given=>""Hunt""}, {:family=>""Wozny"", :given=>""Nathan""}]"	Gasoline Prices	article-journal	Working Paper. MIT	2010	both	Required
+"[{:family=>""Allcott"", :given=>""Hunt""}]"	Social Norms and Energy Conservation	book		2011	both	Required
+"[{:family=>""Holdren"", :given=>""John P.""}]"	The Energy Innovation Imperative: Addressing Oil Dependence	article-journal	Innovations	2006	both	Required
+"[{:family=>""Wald"", :given=>""Matthew L.""}]"	The Carbon Calculus	article-journal	The New York Times	2007-11-07	both	Required
+	Introduction.” Chapter 1 in Public Policies for Environmental Protection	article-journal	Resources for the Future	2000	right_only	Required
+"[{:family=>""Portney"", :given=>""Paul R.""}]"	EPA and the Evolution of Federal Regulation	article-journal	Chapter 2 in Public Policies for Environmental Protection	2000	right_only	Required
+"[{:family=>""Chay"", :given=>""Kenneth""}, {:family=>""Greenstone"", :given=>""Michael""}]"	Air Quality	article-journal	NBER Working Paper	2003-10	right_only	Required
+"[{:family=>""Deschenes"", :given=>""Olivier""}, {:family=>""Greenstone"", :given=>""Michael""}]"	Climate Change	chapter	Working Paper	2007	right_only	Required

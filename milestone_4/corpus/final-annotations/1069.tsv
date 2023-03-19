@@ -1,0 +1,39 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Caballero"", :given=>""Ricardo J.""}]"	Macroeconomics After the Crisis: Time to Deal with the Pretense-of-Knowledge Syndrome	article-journal	Journal of Economic Perspectives	2010	both	Required
+	A Caricature (Model) of the World Economy	article-journal	MIT Working Paper No. 10-17; NBER Working Paper	2010	left_only	Required
+"[{:family=>""B."", :given=>""Bernanke""}, {:family=>""Gertler"", :given=>""M.""}]"	Agency Costs	article-journal	American Economic Review	1989	both	Required
+"[{:family=>""Kiyotaki"", :given=>""Nobuhiro""}, {:family=>""Moore"", :given=>""John""}]"	Credit Cycles	article-journal	Journal of Political Economy	1997	both	Required
+"[{:family=>""Brunnermeier"", :given=>""Markus""}, {:family=>""Sannikov"", :given=>""Yuliy""}]"	A Macroeconomics Model with a Financial Sector			2011	both	Required
+"[{:family=>""Greenwald"", :given=>""Bruce""}, {:family=>""Stiglitz"", :given=>""Joseph""}]"	Financial Market Imperfections and Business Cycles	article-journal	Quarterly Journal of Economics	1993	both	Required
+"[{:family=>""Dixit"", :given=>""A.""}]"	Whither Greenwald-Stiglitz?	paper-conference	Presentation at Joseph Stiglitz’s 60th birthday conference	2003-10-24	both	Required
+"[{:family=>""Bernanke"", :given=>""B.""}, {:family=>""Blinder"", :given=>""A.""}]"	Credit	article-journal	American Economic Review	1988	both	Required
+"[{:family=>""Holmstrom"", :given=>""Bengt""}, {:family=>""Tirole"", :given=>""Jean""}]"	Financial Intermediation	article-journal	Quarterly Journal of Economics	1997	both	Required
+"[{:family=>""Diamond"", :given=>""Douglas W.""}, {:family=>""Dybvig"", :given=>""Philip H.""}]"	Bank Runs	article-journal	Journal of Political Economy	1983	both	Required
+"[{:family=>""Tirole"", :given=>""Jean""}]"	Consumer Liquidity Demand.” Chapter 12 in The Theory of Corporate Finance			2005	both	Required
+"[{:family=>""Caballero"", :given=>""Ricardo J.""}]"	Sudden Financial Arrest	article-journal	IMF Economic Review	2010-07-20	both	Required
+"[{:family=>""Caballero"", :given=>""Ricardo""}, {:family=>""Krishnamurthy"", :given=>""A.""}]"	Collective Risk Management in a Flight to Quality Episode	article-journal	Journal of Finance	2008	both	Required
+"[{:family=>""Allen"", :given=>""Franklin""}, {:family=>""Gale"", :given=>""Douglas""}]"	Financial Contagion	article-journal	Journal of Political Economy	2000	both	Required
+"[{:family=>""Adrian"", :given=>""Tobias""}, {:family=>""Shin"", :given=>""Hyun Song""}]"	Liquidity and Financial Contagion	article-journal	Banque de France Financial Stability Review	2008	both	Required
+"[{:family=>""Caballero"", :given=>""Ricardo""}, {:family=>""Simsek"", :given=>""Alp""}]"	Fire Sales in a Model of Complexity	article-journal	NBER Working Paper	2009	both	Required
+"[{:family=>""Brunnermeir"", :given=>""Markus""}, {:family=>""Pedersen"", :given=>""Lasse Heje""}]"	Market Liquidity and Funding Liquidity	article-journal	NBER Working Paper	2007	both	Required
+"[{:family=>""Martin"", :given=>""Alberto""}, {:family=>""Ventura"", :given=>""Jaume""}]"	Theoretical Notes on Bubbles and the Current Crisis	article-journal	IMF Economic Review	2011	both	Required
+"[{:family=>""Kocherlakota"", :given=>""Naranaya""}]"	Bursting Bubbles: Consequences and Cures	paper-conference	Macroeconomic and Policy Challenges following Financial Meltdowns Conference	2009-04-03	both	Required
+"[{:family=>""Farhi"", :given=>""Emmanuel""}, {:family=>""Tirole"", :given=>""Jean""}]"	Bubbly Liquidity			2010	both	Required
+"[{:family=>""Allen"", :given=>""Franklin""}, {:family=>""Gale"", :given=>""Douglas""}]"	Bubbles and Crises	article-journal	Economic Journal	2000	both	Required
+"[{:family=>""Abreu"", :given=>""Dilip""}, {:family=>""Brunnermeier"", :given=>""Markus""}]"	Bubbles and Crashes	article-journal	Econometrica	2003	both	Required
+"[{:family=>""Obstfeld"", :given=>""Maurice""}, {:family=>""Rogoff"", :given=>""Kenneth""}]"	Imperfections in International Capital Markets	chapter	Chapter 6 in Foundations of International Macroeconomics	1996	both	Required
+"[{:family=>""Caballero"", :given=>""Ricardo J.""}, {:family=>""Krishnamurthy"", :given=>""Arvind""}]"	Bubbles and Capital Flow Volatility: Causes and Risk Management	article-journal	Journal of Monetary Economics	2006	both	Required
+"[{:family=>""Blanchard"", :given=>""Olivier""}, {:family=>""Giavazzi"", :given=>""Francesco""}, {:family=>""Sa"", :given=>""Filipa""}]"	International Investors	article-journal	Brookings Papers on Economic Activity	2005	both	Required
+"[{:family=>""Caballero"", :given=>""Ricardo J.""}, {:family=>""Farhi"", :given=>""Emmanuel""}, {:family=>""Gourinchas"", :given=>""Pierre-Olivier""}]"	An Equilibrium Model of Global Imbalances and Low Interest Rates	article-journal	American Economic Review	2007	both	Required
+"[{:family=>""Caballero"", :given=>""Ricardo J.""}, {:family=>""Krishnamurthy"", :given=>""Arvind""}]"	Global Imbalances and Financial Fragility	article-journal	American Economic Review Papers and Proceedings	2009	both	Required
+"[{:family=>""Caballero"", :given=>""Ricardo J.""}]"	The Other Imbalance and the Financial Crisis	article-journal	Paolo Baffi Lecture	2009-12-10	both	Required
+"[{:family=>""Bernanke"", :given=>""Benjamin""}, {:family=>""Bertaut"", :given=>""Carol""}, {:family=>""DeMarco"", :given=>""Laurie Pounder""}, {:family=>""Kamin"", :given=>""Steven""}]"	International Capital Flows and the Returns to Safe Assets in the United States	chapter	Board of Governors of the Federal Reserve System	2011-02	both	Required
+"[{:family=>""Martin"", :given=>""Alberto""}, {:family=>""Taddei"", :given=>""Filippo""}]"	International Capital Flows and Credit Market Imperfections: a Tale of Two Frictions	article-journal	Centre for Economic Policy Research	2010-11	both	Required
+"[{:family=>""Kiyotaki"", :given=>""Nobuhiro""}, {:family=>""Moore"", :given=>""John""}]"	Balance-Sheet Contagion	article-journal	The American Economic Review	2002	both	Required
+"[{:family=>""Tirole"", :given=>""Jean""}]"	On the Possibility of Speculation under Rational Expectations	article-journal	Econometrica	1982	both	Required
+"[{:family=>""Krugman"", :given=>""Paul""}]"	Thinking About the Liquidity Trap	article-journal	Journal of the Japanese and International Economies	2000	both	Required
+"[{:family=>""Svensson"", :given=>""Lars E.O.""}]"	Escaping from a Liquidity Trap and Deflation: The Foolproof Way and Others	article-journal	NBER Working Paper	2003-12	both	Required
+"[{:family=>""Jeanne"", :given=>""O.""}, {:family=>""Svensson"", :given=>""Lars E.O.""}]"	Credible Commitment to Optimal Escape from a Liquidity Trap: The Role of the Balance Sheet of an Independent Central Bank	article-journal	AER	2007-03	both	Required
+"[{:family=>""Caballero"", :given=>""Ricardo J.""}]"	A Caricature (Model) of the World Economy	article-journal	MIT Working Paper No. 10-17; NBER Working Paper	2010	right_only	Required
+"[{:family=>""Kashyap"", :given=>""Anil""}, {:family=>""Stein"", :given=>""Jeremy""}]"	Monetary Policy and Bank Lending	article-journal	NBER Working Paper	1994	right_only	Required
+"[{:family=>""Tirole"", :given=>""Jean""}]"	Asset Bubbles and Overlapping Generations	article-journal	Econometrica	1985	right_only	Required

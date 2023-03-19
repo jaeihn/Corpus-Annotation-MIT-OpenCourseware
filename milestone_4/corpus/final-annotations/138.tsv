@@ -1,0 +1,8 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Hecht"", :given=>""Eugene""}]"	Optics			2001	both	Required
+"[{:family=>""Goodman"", :given=>""Joseph W.""}]"	Introduction to Fourier Optics			2004	both	Required
+"[{:family=>""Haus"", :given=>""Hermann A.""}]"	Waves and Fields in Optoelectronics			1983	both	Optional
+"[{:family=>""Klein"", :given=>""Miles V.""}, {:family=>""Furtak"", :given=>""Thomas""}]"	Optics			1986	both	Optional
+"[{:family=>""Saleh"", :given=>""Bahaa E.A.""}, {:family=>""Teich"", :given=>""Malvin Carl""}]"	Fundamentals of Photonics			2007	both	Optional
+"[{:family=>""Jenkins"", :given=>""Francis A.""}, {:family=>""White"", :given=>""Harvey E.""}]"	Fundamentals of Optics			1976	both	Optional
+"[{:family=>""Smith"", :given=>""Warren J.""}]"	Modern Optical Engineering			2007	both	Optional

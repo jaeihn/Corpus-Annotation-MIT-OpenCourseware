@@ -1,0 +1,30 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Small"", :given=>""Kenneth""}, {:family=>""Verhoef"", :given=>""Erik T.""}]"	The Economics of Urban Transportation			2007	both	Required
+	Essays in Transportation Economics and Policy: A Handbook in Honor of John R			1999	both	Required
+"[{:family=>""Cascetta"", :given=>""Ennio""}]"	Transportation Systems Analysis: Models and Applications			2009	both	Required
+"[{:family=>""Meyer"", :given=>""Michael""}, {:family=>""Miller"", :given=>""Eric""}]"	Urban Transportation Planning			2000	both	Required
+"[{:family=>""Rye"", :given=>""T.""}, {:family=>""Wilson"", :given=>""Nigel H.M.""}]"	The Urban Bus Situation in the UK: Recent Developments and a Case Study of Edinburgh	chapter	TRAIL Seminar on Competition	2002-03	both	Required
+"[{:family=>""Guo"", :given=>""Zhan""}, {:family=>""Wilson"", :given=>""Nigel H.M.""}]"	Assessment of the Transfer Penalty for Transit Trips: A GIS-Based Disaggregate Modeling Approach	article-journal	Transportation Research Record	2004	both	Required
+"[{:family=>""Meersman"", :given=>""Hilde""}, {:family=>""Voorde"", :given=>""Eddy"", :particle=>""Van de""}]"	Dynamic Ports Within a Globalised World	paper-conference	17th International ITF/OECD Symposium on Transport Economics and Policy: Benefitting from Globalisation: Transport Sector Contribution and Policy Challenges	2008	both	Required
+"[{:family=>""Voorde"", :particle=>""Van de""}, {:given=>""Eddy""}]"	What Future the Maritime Sector?	article-journal	Research in Transportation Economics	2005	both	Required
+"[{:family=>""Bowman"", :given=>""J.L.""}, {:family=>""Gopinath"", :given=>""D.""}, {:family=>""Ben-Akiva"", :given=>""Moshe""}]"	Estimating the Probability Distribution of a Travel Demand Forecast			2002	both	Required
+"[{:family=>""Lam"", :given=>""T.C.""}, {:family=>""Small"", :given=>""Kenneth""}]"	The Value of Time and Reliability: Measurement from a Value Pricing Experiment	article-journal	Transportation Research Part E	2001	both	Required
+"[{:family=>""Smith"", :given=>""Barry""}, {:others=>true}]"	Yield Management at American Airlines	article-journal	Interfaces	1992	both	Required
+"[{:family=>""Barnhart"", :given=>""Cynthia""}, {:others=>true}]"	Applications of Operations Research in the Air Transport Industry	article-journal	Transportation Science	2003	both	Required
+"[{:family=>""Boyd"", :given=>""E.Andrew""}, {:family=>""Kallesen"", :given=>""Royce""}]"	The Science of Revenue Management when Passengers Purchase the Lowest Available Fare	article-journal	Journal of Revenue and Pricing Management	2004	both	Required
+"[{:family=>""Wachs"", :given=>""Martin""}]"	Improving Efficiency and Equity in Transportation Finance	book		2003	both	Required
+	Surface Transportation: Many Factors Affect Investment Decisions	book		2004	both	Required
+	Cities on the Move: A World Bank Urban Transport Strategy Review			2002	both	Required
+"[{:family=>""Srinivasan"", :given=>""Karthik K.""}, {:family=>""Bhargav"", :given=>""P.V.Lakshmi""}, {:family=>""Ramadurai"", :given=>""Gitakrishnan""}, {:family=>""Muthuram"", :given=>""Vidhya""}, {:family=>""Srinivasan"", :given=>""Sumeeta""}]"	Determinants of Changes in Mobility and Travel Patterns in Developing Countries: Case Study of Chennai	article-journal	Transportation Research Record	2008	both	Required
+"[{:family=>""Murphy"", :given=>""Sean""}]"	Big Dig Pushes Bottlenecks Outward	article-journal	Boston Globe	2008-11-16	both	Required
+"[{:family=>""Heaver"", :given=>""T.""}, {:family=>""Meersman"", :given=>""Hilde""}, {:family=>""Voorde"", :given=>""Eddy"", :particle=>""Van de""}]"	Co-operation and Competition in Internal Container Transport	article-journal	Maritime Policy and Management	2001	both	Optional
+"[{:family=>""Meersman"", :given=>""Hilde""}]"	Port Investments in an Uncertain Environment	article-journal	Research in Transportation Economics	2005	both	Optional
+"[{:family=>""Meersman"", :given=>""Hilde""}, {:family=>""Voorde"", :given=>""Eddy"", :particle=>""Van de""}]"	Competition and Ownership: Transferability of Experiences from Maritime Transport to Land-Based Modes	paper-conference	Chapter 15 in Competition and Ownership in Land Passenger Transport: Selected papers from the 9th International Conference	2007	both	Optional
+"[{:family=>""Ben-Akiva"", :given=>""M.""}, {:family=>""Bolduc"", :given=>""D.""}, {:family=>""Bradley"", :given=>""M.""}]"	Estimation of Travel Choice Models with Randomly Distributed Value of Time	article-journal	Transportation Research Record	1993	both	Optional
+"[{:family=>""Gopinath"", :given=>""D.A.""}, {:family=>""Ben-Akiva"", :given=>""Moshe""}]"	Estimation of Randomly Distributed Value of Time			1997	both	Optional
+"[{:family=>""Kriger"", :given=>""David""}, {:family=>""Shiu"", :given=>""Suzette""}, {:family=>""Naylor"", :given=>""Sasha""}]"	National Cooperative Highway Research Program Synthesis 364: Estimating Toll Road Demand and Revenue	book		2006	both	Optional
+"[{:family=>""Nicholson"", :given=>""Walter""}, {:family=>""Snyder"", :given=>""Christopher""}]"	Microeconomic Theory: Basic Principles and Extensions			2007	both	Optional
+"[{:family=>""Larsen"", :given=>""Richard""}, {:family=>""Marx"", :given=>""Morris""}]"	An Introduction to Mathematical Statistics and its Applications			2005	both	Optional
+"[{:family=>""DeGroot"", :given=>""Morris""}, {:family=>""Schervish"", :given=>""Mark""}]"	Probability and Statistics			2006	both	Optional
+"[{:family=>""Pindyck"", :given=>""Robert""}, {:family=>""Rubinfeld"", :given=>""Daniel""}]"	Econometric Models and Economic Forecasts			1997	both	Optional
+"[{:family=>""Greene"", :given=>""William""}]"	Econometric Analysis			2002	both	Optional

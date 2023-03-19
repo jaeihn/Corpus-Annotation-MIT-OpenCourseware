@@ -1,0 +1,5 @@
+Optional	[{:family=>"Schlick", :given=>"T."}]	["Molecular Modeling and Simulation: An Interdisciplinary Guide"]			["2002"]
+Optional	[{:family=>"Allen", :given=>"M.P."}, {:family=>"Tildesley", :given=>"D.J."}]	["Computer Simulation of Liquids"]			["1989"]
+Optional	[{:family=>"Trefethen", :given=>"L.N."}, {:family=>"Bau", :given=>"D.", :suffix=>"III"}]	["Numerical Linear Algebra"]			["1997"]
+Optional	[{:family=>"Branden", :given=>"C.-I."}, {:family=>"Tooze", :given=>"J."}]	["Introduction to Protein Structure"]			["1999"]
+Optional	[{:family=>"Bertero", :given=>"M."}, {:family=>"Boccacci", :given=>"P."}]	["Introduction to Inverse Problems in Imaging"]			["1998"]

@@ -1,0 +1,14 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Thompson"", :given=>""P.A.""}]"	Compressible Fluid Dynamics			1972	both	Required
+"[{:family=>""Landau"", :given=>""L.D.""}, {:family=>""Lifshitz"", :given=>""E.M.""}]"	Fluid Mechanics	book		1995	both	Optional
+"[{:family=>""Liepmann"", :given=>""H.W.""}, {:family=>""Roshko"", :given=>""A.""}]"	Elements of Gas Dynamics	book		2001	both	Optional
+"[{:family=>""Oosthuizen"", :given=>""P.H.""}, {:family=>""Carscallen"", :given=>""W.E.""}]"	Compressible Fluid Flow	book		1997	both	Optional
+"[{:family=>""Saad"", :given=>""M.A.""}]"	Compressible Fluid Flow	book		1993	both	Optional
+"[{:family=>""White"", :given=>""F.M.""}]"	Viscous Fluid Flow	book		1991	both	Optional
+"[{:family=>""Zel’dovich"", :given=>""Ya B.""}, {:family=>""Raizer"", :given=>""Yu P.""}]"	Physics of Shock Waves and High-Temperature Hydrodynamics Phenomena	book		2002	both	Optional
+"[{:family=>""Courant"", :given=>""R.""}, {:family=>""Friedrichs"", :given=>""K.O.""}]"	Supersonic Flow and Shock Waves	book		1976	both	Optional
+"[{:family=>""Shapiro"", :given=>""A.H.""}]"	Compressible Fluid Flow 1 and 2	book		1953	both	Optional
+"[{:family=>""Anderson"", :given=>""J.D.""}]"	Modern Compressible Flow with Historical Perspective	book		1990	both	Optional
+"[{:family=>""Vincenti"", :given=>""W.G.""}, {:family=>""Kruger"", :given=>""C.H.""}]"	Introduction to Physical Gas Dynamics	book		1975	both	Optional
+"[{:family=>""Vincenti"", :given=>""W.B.""}, {:family=>""Kruger"", :given=>""C.H.""}]"	Introduction to Physical Gas Dynamics	book		1975	left_only	Required
+"[{:family=>""Taylor"", :given=>""Geoffrey""}]"	The Formation of a Blast Wave by a Very Intense Explosion. I. Theoretical Discussion_._	article-journal	Proceedings of the Royal Society of London. Series A	1950	left_only	Required

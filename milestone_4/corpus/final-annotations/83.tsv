@@ -1,0 +1,10 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Techet"", :given=>""A.H.""}, {:family=>""Truscott"", :given=>""T.T.""}, {:family=>""Thompson"", :given=>""M.K.""}]"	Integration of hands-on laboratory modules to enhance the introduction of ocean science and engineering to undergraduates	paper-conference	Proceedings of IEEE/MTS Oceans/Boston 2006 Conference	2006-09	left_only	Optional
+"[{:family=>""Stewart"", :given=>""Robert""}]"	Introduction to Physical Oceanography			2005-08~	both	Required
+"[{:family=>""Denny"", :given=>""Mark W.""}]"	Air and Water: The Biology and Physics of Life’s Media			1993	both	Optional
+"[{:family=>""Dorn"", :given=>""W.G."", :particle=>""Van""}]"	Oceanography and Seamanship			1993	both	Optional
+"[{:family=>""H."", :given=>""Medwin""}, {:family=>""Clay"", :given=>""C.S.""}]"	Fundamentals of Acoustical Oceanography	book		1998	both	Optional
+"[{:family=>""Littlefield"", :given=>""B.""}, {:family=>""Hanselman"", :given=>""D.""}]"	Mastering MATLAB® 6	book		2001	both	Optional
+"[{:family=>""Urick"", :given=>""R.J.""}]"	Principles of Underwater Sound	book		1983	both	Optional
+"[{:family=>""Knauss"", :given=>""J.A.""}]"	Introduction to Physical Oceanography	book		1997	both	Optional
+"[{:family=>""University"", :given=>""Open""}]"	Ocean Circulation	book		1989	both	Optional

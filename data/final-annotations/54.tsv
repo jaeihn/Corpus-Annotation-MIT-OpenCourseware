@@ -1,0 +1,13 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Fischer"", :given=>""Hugo B.""}, {:family=>""List"", :given=>""John E.""}, {:family=>""Koh"", :given=>""C.Robert""}, {:family=>""Imberger"", :given=>""Jorg""}, {:family=>""Brooks"", :given=>""Norman H.""}]"	Mixing in Inland and Coastal Waters			1979	both	Required
+"[{:family=>""ischer"", :given=>""Hugo B.""}, {:family=>""List"", :given=>""John E.""}, {:family=>""Koh"", :given=>""C.Robert""}, {:family=>""Imberger"", :given=>""Jorg""}, {:family=>""Brooks"", :given=>""Norman H.""}]"	Mixing in Inland and Coastal Waters			1979	left_only	Optional
+"[{:family=>""Chapra"", :given=>""Steven C.""}]"	Surface Water Quality Modeling			1996	both	Optional
+"[{:family=>""Clark"", :given=>""Mark M.""}]"	Transport Modeling for Environmental Engineers and Scientists			1996	both	Optional
+"[{:family=>""DiToro"", :given=>""Dominic M.""}]"	Sediment Flux Modeling			2000	both	Optional
+"[{:family=>""Agency"", :given=>""Environmental Protection""}]"	Water Quality Assessment: A Screening Procedure for Toxic and Conventional Pollutants in Surface and Ground Water: Parts I and II			1985	both	Optional
+"[{:family=>""Holley"", :given=>""Edward R.""}, {:family=>""Jirka"", :given=>""Gerhard H.""}]"	Mixing in Rivers	chapter	Environmental and Water Quality Operational Studies	1986	both	Optional
+"[{:family=>""Martin"", :given=>""James L.""}, {:family=>""McCutcheon"", :given=>""Steven C.""}]"	Hydrodynamics and Transport for Water Quality Modeling			1999	both	Optional
+	Mathematical Modeling of Water Quality: Streams			1983	both	Optional
+"[{:family=>""Rutherford"", :given=>""J.C.""}]"	River Mixing			1994	both	Optional
+"[{:family=>""Schnoor"", :given=>""Jerald L.""}]"	Environmental Modeling: Fate and Transport of Pollutants in Water			1996	both	Optional
+"[{:family=>""Thomann"", :given=>""Robert V.""}, {:family=>""Mueller"", :given=>""John A.""}]"	Principles of Surface Water Quality Modeling and Control			1997	both	Optional

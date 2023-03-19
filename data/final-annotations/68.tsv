@@ -1,0 +1,4 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Williams"", :given=>""James H."", :suffix=>""Jr""}]"	Fundamentals of Applied Dynamics	book		1996	both	Required
+"[{:family=>""Rao"", :given=>""S.S.""}]"	Mechanical Vibrations	book		1995	both	Optional
+"[{:family=>""Beer"", :given=>""Ferdinand Pierre""}]"	Vector Mechanics for Engineers	book		1988	both	Optional

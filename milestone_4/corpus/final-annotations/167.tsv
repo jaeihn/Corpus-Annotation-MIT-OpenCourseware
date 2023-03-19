@@ -1,0 +1,11 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Bent"", :given=>""Henry A.""}]"	The Second Law: An Introduction to Classical and Statistical Thermodynamics	book		1965	both	Optional
+"[{:family=>""Chandrasekhar"", :given=>""S.""}]"	An Introduction to the Study of Stellar Structure	book		1939	both	Optional
+"[{:family=>""Denbigh"", :given=>""K.""}]"	The Principles of Chemical Equilibrium	book		1971	both	Optional
+"[{:family=>""Devereux"", :given=>""Owen F.""}]"	Topics in Metallurgical Thermodynamics	book		1983	both	Optional
+"[{:family=>""Fermi"", :given=>""Enrico""}]"	Thermodynamics	book		1936	both	Optional
+"[{:family=>""Gaskell"", :given=>""David R.""}]"	Introduction to Metallurgical Thermodynamics	book		1981	both	Optional
+"[{:family=>""Gibbs"", :given=>""J.Willard""}]"	On the equilibrium of heterogeneous substances	book		1876	both	Optional
+"[{:family=>""Lifshitz"", :given=>""E.M.""}, {:family=>""Pitaevskii"", :given=>""L.P.""}]"	Statistical Physics			1980	both	Optional
+"[{:family=>""Planck"", :given=>""Max""}]"	Treatise on Thermodynamics	book		1926	both	Optional
+"[{:family=>""Shrodinger"", :given=>""Edwin""}]"	Statistical Thermodynamics			1989	both	Optional

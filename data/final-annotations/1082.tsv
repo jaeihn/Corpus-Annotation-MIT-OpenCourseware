@@ -1,0 +1,21 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Banerjee"", :given=>""Abhijit""}, {:family=>""Duflo"", :given=>""Esther""}]"	Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty	article-journal	PublicAffairs	2011	left_only	Required
+"[{:family=>""Rodrik"", :given=>""Dani""}]"	Jeff Sachs Vindicated	article-journal	Dani Rodrik’s weblog	2008-01-15	both	Required
+"[{:family=>""Over"", :given=>""Mead""}]"	Jeff Sachs Not Vindicated	chapter	Global Health Policy Blog	2008-01-18	both	Required
+"[{:family=>""Sen"", :given=>""Amartya""}]"	The Great Bengal Famine	chapter	Poverty and Famines: An Essay on Entitlement and Deprivation	1983	both	Required
+"[{:family=>""Levitt"", :given=>""Steven D.""}]"	The Indiana Jones of Economics	article-journal	Freakonomics.com. May	2008	both	Required
+"[{:family=>""Banerjee"", :given=>""Abhijit""}, {:family=>""Duflo"", :given=>""Esther""}]"	Improving Health Care Delivery in India: Udaipur Case Study				both	Required
+"[{:family=>""Easterly"", :given=>""William""}]"	Educated for What?” In The Elusive Quest for Growth: Economists’ Adventures and Misadventures in the Tropics			2002	both	Required
+"[{:family=>""Case"", :given=>""Anne""}]"	The Primacy of Education	chapter	Understanding Poverty	2006	both	Required
+"[{:family=>""Banerjee"", :given=>""Abhijit""}, {:family=>""Cole"", :given=>""Shawn""}, {:others=>true}]"	Remedying Education: Evidence from Two Randomized Experiments in India	article-journal	. The Quarterly Journal of Economics	2007	both	Required
+"[{:family=>""Sen"", :given=>""Amartya""}]"	More Than 100 Million Women Are Missing	article-journal	The New York Review of Books	1990	both	Required
+"[{:family=>""Besley"", :given=>""Timothy""}]"	Nonmarket Institutions for Credit and Risk Sharing in Low Income Countries	article-journal	Journal of Economic Perspectives	1995	both	Required
+"[{:family=>""Rutherford"", :given=>""Stuart""}, {:family=>""Arora"", :given=>""Sukhwinder Singh""}]"	Chapters 1 and 2 in The Poor and Their Money: Microfinance From a Twenty-First Century Consumer’s Perspective			2010	both	Required
+"[{:family=>""Acemoglu"", :given=>""Daron""}, {:family=>""Johnson"", :given=>""Simon""}, {:family=>""Robinson"", :given=>""James""}]"	Understanding Prosperity and Poverty: Geography	chapter	Understanding Poverty	2006	both	Required
+"[{:family=>""Kristof"", :given=>""Nicholas""}]"	George Clooney Answers Your Questions about Malaria	article-journal	The New York Times	2011-02-08	both	Optional
+"[{:family=>""Krugman"", :given=>""Paul""}]"	Droughts	article-journal	The New York Times	2011-02-06	both	Optional
+"[{:family=>""Banerjee"", :given=>""Abhijit""}, {:family=>""al"", :particle=>""et.""}]"	Microcredit Is Not the Enemy	article-journal	Financial Times. December	2010	both	Optional
+"[{:family=>""D"", :given=>""S.""}]"	Big Trouble for Microfinance	article-journal	The Economist	2010-12-02	both	Optional
+"[{:family=>""Yunus"", :given=>""Muhammad""}]"	Sacrificing Microcredit for Megaprofits	article-journal	The New York Times	2011-01-14	both	Optional
+"[{:family=>""Banjerjee"", :given=>""Abhijit""}, {:family=>""Duflo"", :given=>""Esther""}, {:family=>""Glennerster"", :given=>""Rachel""}, {:family=>""Kinnan"", :given=>""Cynthia""}]"	The Miracle of Microfinance? Evidence from a Randomized Evaluation			2009	both	Optional
+"[{:family=>""Engerman"", :given=>""Stanley L.""}, {:family=>""Sokoloff"", :given=>""Kenneth""}]"	Colonialism	chapter	Understanding Poverty	2006	both	Optional

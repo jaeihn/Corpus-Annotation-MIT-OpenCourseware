@@ -1,0 +1,4 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Seinfeld"", :given=>""John H.""}, {:family=>""Pandis"", :given=>""Spyros N.""}]"	Atmospheric Chemistry and Physics: From Air Pollution to Climate Change			2006	both	Required
+"[{:family=>""Jacob"", :given=>""Daniel""}]"	Introduction to Atmospheric Chemistry			1999	both	Optional
+"[{:family=>""Finlayson-Pitts"", :given=>""Barbara J.""}, {:family=>""Pitts"", :given=>""James N.""}]"	Chemistry of the Upper and Lower Atmosphere: Theory			1999	both	Optional

@@ -1,0 +1,13 @@
+author	title	type	collection	year	_merge	category
+	Guide for Building and Classing Floating Production Installations	book		2010	left_only	Optional
+	Guide for ‘Dynamic Loading Approach’ for Floating Production	book		2010	left_only	Optional
+	Sections 5.1 to 5.4 of “Common Structural Rules for Double Hull Oil Tankers	book		2010	left_only	Optional
+"[{:family=>""Organization"", :given=>""International Maritime""}]"	Regulation 22 from MARPOL Consolidated Edition	article-journal	International Maritime Organization	2006	left_only	Optional
+"[{:given=>""Offshore-Technologycom""}]"	Elf exploration field – Girassol			2011	left_only	Optional
+"[{:family=>""Doumont"", :given=>""Jean-Luc""}]"	Part Four	article-journal	Trees	2009	left_only	Optional
+	Principles of Naval Architecture			1988	both	Optional
+"[{:family=>""Paik"", :given=>""Jeom Kee""}, {:family=>""Kumar"", :given=>""Anil""}]"	Ship-shaped Offshore Installations: Design			2007	both	Optional
+"[{:family=>""Faltinsen"", :given=>""O.M.""}]"	Sea Loads on Ships and Offshore Structures			1993	both	Optional
+"[{:family=>""Gillmer"", :given=>""T.C.""}, {:family=>""Johnson"", :given=>""Bruce""}]"	Introduction to Naval Architecture			1982	both	Optional
+"[{:family=>""Lamb"", :given=>""Thomas""}]"	Chapter 30 in Ship Design and Construction			2003	both	Optional
+"[{:family=>""Terpstra"", :given=>""T.""}, {:family=>""d’Hautefeuille"", :given=>""B.B.""}, {:family=>""MacMillan"", :given=>""A.A.""}]"	FPSO Design and Conversion: A Designer’s Approach	paper-conference	Offshore Technology Conference	2001	both	Optional

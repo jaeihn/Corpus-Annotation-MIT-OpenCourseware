@@ -1,0 +1,9 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Suh"", :given=>""N.P.""}]"	Axiomatic Design: Advances and Applications			2001	both	Required
+"[{:family=>""Suh"", :given=>""N.P.""}]"	Complexity: Theory and Applications			2005	both	Required
+"[{:family=>""Stachel"", :given=>""J.""}]"	1905 and all that	article-journal	Nature	2005-01-20	both	Optional
+"[{:family=>""Barrow"", :given=>""J.D.""}]"	Einstein as an Icon	article-journal	Nature	2005-01-20	both	Optional
+"[{:family=>""Parisi"", :given=>""G.""}]"	Brownian Motion	article-journal	Nature	2005-01-20	both	Optional
+"[{:family=>""authors"", :given=>""Various""}]"	A theory of everything	article-journal	Nature	2005-01-20	both	Optional
+"[{:family=>""Lipson"", :given=>""H.""}, {:family=>""Pollack"", :given=>""J.B.""}, {:family=>""Suh"", :given=>""N.P.""}]"	On the Origin of Modular Variation	article-journal	Evolution	2002-08	both	Optional
+"[{:family=>""Sohlenius"", :given=>""Gunnar""}]"	Systemic Nature of the Industrial Innovation Process: Contribution to a Philosophy of Industrial Engineering	thesis		2005	both	Optional

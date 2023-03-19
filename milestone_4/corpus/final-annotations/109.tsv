@@ -1,0 +1,23 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Patrikalakis"", :given=>""N.M.""}, {:family=>""Maekawa"", :given=>""T.""}, {:family=>""Cho"", :given=>""W.""}]"	Shape Interrogation for Computer Aided Design and Manufacturing	book		2010	both	Required
+"[{:family=>""Beach"", :given=>""R.C.""}]"	An Introduction to Curves and Surfaces of Computer Aided Design	book		1991	both	Required
+"[{:family=>""Ding"", :given=>""Q.""}]"	Surface Engineering Geometry for Computer Aided Design and Manufacture	book		1987	both	Required
+"[{:family=>""Farin"", :given=>""G.E.""}]"	Curves and Surfaces for Computer Aided Geometric Design	book		1993	both	Required
+"[{:family=>""Faux"", :given=>""I.D.""}, {:family=>""Pratt"", :given=>""M.""}]"	Computational Geometry for Design and Manufacture				both	Required
+"[{:family=>""Hoschek"", :given=>""J.""}, {:family=>""Lasser"", :given=>""D.""}]"	Fundamentals of Computer Aided Geometric Design	book		1993	both	Required
+"[{:family=>""Lawrence"", :given=>""J.D.""}]"	A Catalog of Special Plane Curves	book		1972	both	Required
+"[{:family=>""Mortensen"", :given=>""M.E.Geometric Modeling J.Wiley""}]"				1985	both	Required
+"[{:family=>""Piegl"", :given=>""L.""}, {:family=>""Tiller"", :given=>""W.""}]"	The NURBS Book	book		1995	both	Required
+"[{:family=>""Rogers"", :given=>""D.F.""}]"	An Introduction to NURBS: With Historical Perspective	book		2000	both	Required
+"[{:family=>""Yamaguchi"", :given=>""F.""}]"	Curves and Surfaces in Computer Aided Geometric Design	book		1988	both	Required
+"[{:family=>""Yamaguchi"", :given=>""F.""}]"	Computer-Aided Geometric Design	book		2002	left_only	Required
+"[{:family=>""Hoffmann"", :given=>""C.""}]"	Geometric and Solid Modeling	book		1989	both	Required
+"[{:family=>""Mantyla"", :given=>""M.""}]"	An Introduction to Solid Modeling	book		1988	both	Required
+"[{:family=>""Foley"", :given=>""J.D.""}]"	Computer Graphics	book		1990	both	Required
+"[{:family=>""Rogers"", :given=>""D.F.""}]"	Mathematical Elements for Computer Graphics	book		1990	both	Required
+"[{:family=>""Do Carmo"", :given=>""M.P.""}]"	Differential Geometry of Curves and Surfaces	book		1976	both	Required
+"[{:family=>""Gray"", :given=>""A.""}]"	Modern Differential Geometry of Curves and Surfaces	book		1993	both	Required
+"[{:family=>""Struik"", :given=>""D.J.""}]"	Lectures on Classical Differential Geometry	book		1950	both	Required
+"[{:family=>""Dahlquist"", :given=>""G.""}, {:family=>""Bjorck"", :given=>""A.""}]"	Numerical Methods	book		1974	both	Required
+"[{:family=>""Press"", :given=>""W.H.""}, {:others=>true}]"	Numerical Recipes in C: The Art of Scientific Computing	book		1988	both	Required
+"[{:literal=>""-—–.""}]"	Computer-Aided Geometric Design	book		2002	right_only	Required

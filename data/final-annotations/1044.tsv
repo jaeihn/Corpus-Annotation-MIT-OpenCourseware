@@ -1,0 +1,73 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Rubinstein"", :given=>""A.""}]"	Perfect Equilibrium in a Bargaining Model	article-journal	Econometrica	1982	both	Required
+"[{:family=>""Binmore"", :given=>""Ken""}]"	Perfect Equilibria in Bargaining Models	chapter	The Economics of Bargaining	1987	both	Required
+"[{:family=>""Merlo"", :given=>""A.""}, {:family=>""Wilson"", :given=>""C.""}]"	A Stochastic Model of Sequential Bargaining with Complete Information	article-journal	Econometrica	1995	both	Required
+"[{:family=>""Bulow"", :given=>""J.""}, {:family=>""Rogoff"", :given=>""K.""}]"	A constant recontracting model of sovereign debt	article-journal	Journal of Political Economy	1989	both	Required
+"[{:family=>""Baron"", :given=>""D.""}, {:family=>""Ferejohn"", :given=>""J.""}]"	Bargaining in legislatures	article-journal	American Political Science Review	1989	both	Required
+"[{:family=>""Merlo"", :given=>""A.""}]"	Bargaining over Governments in a Stochastic Environment	article-journal	Journal of Political Economy	1997-02	both	Required
+"[{:family=>""Diermeier"", :given=>""D.""}, {:family=>""Eraslan"", :given=>""H.""}, {:family=>""Merlo"", :given=>""A.""}]"	A Structural Model of Government Formation	article-journal	Econometrica	2003	both	Required
+"[{:family=>""Perry"", :given=>""M.""}, {:family=>""Samuelson"", :given=>""L.""}]"	Open vs. Closed Door Negotiations	article-journal	RAND Journal of Economics	1994	both	Required
+"[{:family=>""Cai"", :given=>""H.""}]"	Bargaining on behalf of a constituency	article-journal	Journal of Economic Theory	2000	both	Required
+"[{:family=>""Stole"", :given=>""L.""}, {:family=>""Zwiebel"", :given=>""J.""}]"	Intra-Firm Bargaining under Non-Binding Contracts	article-journal	The Review of Economic Studies	1996	both	Required
+"[{:family=>""Yildiz"", :given=>""M.""}]"	Walrasian bargaining	article-journal	Games and Economic Behavior	2003	both	Required
+"[{:family=>""Davila"", :given=>""J.""}, {:family=>""Eeckhout"", :given=>""J.""}]"	Competitive Bargaining Equilibrium			2004	both	Required
+"[{:family=>""Li"", :given=>""D.""}]"	Bargaining with History-Dependent Preferences	paper-conference	Econometric Society 2004 North American Summer Meetings 516		both	Required
+"[{:family=>""Tyson"", :given=>""C.""}]"	Iterative Dominance and Sequential Bargaining			2004	both	Required
+"[{:family=>""Hart"", :given=>""O.""}, {:family=>""Moore"", :given=>""J.H.""}]"	Agreeing Now to Agree Later: Contracts that Rule Out but do not Rule In	chapter	STICERD - Theoretical Economics Paper Series /2004/472	2004	both	Required
+"[{:family=>""Bernheim"", :given=>""B.""}, {:family=>""Rangel"", :given=>""A.""}, {:family=>""Rayo"", :given=>""L.""}]"	The Power of the Last Word in Legislative Policy Making	article-journal	Econometrica	2004	both	Required
+"[{:family=>""on"", :given=>""Based""}, {:family=>""Kennan"", :given=>""J.""}, {:family=>""Wilson"", :given=>""R.""}]"	Bargaining with private information	article-journal	Journal of Economic Literature	1993	both	Required
+"[{:family=>""Admati"", :given=>""A.""}, {:family=>""Perry"", :given=>""M.""}]"	Strategic delay in bargaining	article-journal	Review of Economic Studies	1987	both	Required
+"[{:family=>""Gul"", :given=>""F.""}, {:family=>""Sonnenchein"", :given=>""H.""}, {:family=>""Wilson"", :given=>""R.""}]"	Foundations of dynamic monopoly and the Coase conjecture	article-journal	Journal of Economic Theory	1986	both	Required
+"[{:family=>""Cramton"", :given=>""P.""}]"	Bargaining with incomplete information: an infinite horizon model with two sided asymmetric information	article-journal	Review of Economic Studies	1984	both	Required
+	Strategic delay in bargaining with two-sided uncertainty	article-journal	Review of Economic Studies	1992	left_only	Required
+"[{:family=>""Abreu"", :given=>""D.""}, {:family=>""Gul"", :given=>""F.""}]"	Bargaining and Reputation	article-journal	Econometrica	2000	both	Required
+"[{:family=>""Feinberg"", :given=>""Y.""}, {:family=>""Skrzypacz"", :given=>""A.""}]"	Uncertainty about uncertainty and delay in bargaining	article-journal	Econometrica	2005	both	Required
+"[{:family=>""Spier"", :given=>""K.""}]"	The Dynamics of Pretrial Negotiation	article-journal	Review of Economic Studies	1992	both	Required
+"[{:family=>""Gul"", :given=>""F.""}]"	Unobservable Investment and the Hold-Up Problem	article-journal	Econometrica	2001	both	Required
+"[{:family=>""Heifetz"", :given=>""A.""}, {:family=>""Segev"", :given=>""E.""}]"	Escalation and delay in long international conflicts	book		2002	both	Required
+"[{:family=>""Cramton"", :given=>""P.""}, {:family=>""Tracy"", :given=>""J.""}]"	Strikes and holdouts in wage bargaining: Theory and data	article-journal	American Economic Review	1992-03	both	Required
+"[{:family=>""Roth"", :given=>""A.""}, {:family=>""Murnighan"", :given=>""J.""}, {:family=>""Schoumaker"", :given=>""F.""}]"	The Deadline Effect in Bargaining: Some Experimental Evidence	article-journal	American Economic Review	1988	both	Required
+"[{:family=>""Yildiz"", :given=>""M.""}]"	Bargaining without a common prior - An immediate agreement theorem	article-journal	Econometrica	2003	both	Required
+	Waiting to persuade	article-journal	Quarterly Journal of Economics	2004	left_only	Required
+"[{:family=>""Ali"", :given=>""S.Nageeb""}]"	Multilateral Bargaining with Subjective Biases: Waiting To Settle	article-journal	Journal of Economic Theory	2005-04-04	both	Required
+"[{:family=>""Watanabe"", :given=>""Yasutora""}]"	Learning and bargaining in dispute resolution: Theory and evidence from medical malpractice litigation			2005	both	Required
+"[{:family=>""Carlsson"", :given=>""Hans""}, {:family=>""Damme"", :given=>""Eric"", :particle=>""van""}]"	Global Games and Equilibrium Selection	article-journal	Econometrica	1993	both	Required
+"[{:family=>""Frankel"", :given=>""D.""}, {:family=>""Morris"", :given=>""S.""}, {:family=>""Pauzner"", :given=>""A.""}]"	Equilibrium selection in global games with strategic complementarities	article-journal	Journal of Economic Theory	2003	both	Required
+"[{:family=>""Battigalli"", :given=>""P.""}, {:family=>""Siniscalchi"", :given=>""M.""}]"	Rationalization and Incomplete Information	article-journal	Advances in Theoretical Economics	2003	both	Required
+"[{:family=>""Dekel"", :given=>""E.""}, {:family=>""Fudenberg"", :given=>""D.""}, {:family=>""Morris"", :given=>""S.""}]"	Interim Rationalizability	chapter	Harvard Institute of Economic Research Discussion Paper No. 2064	2003	both	Required
+	Dense Types			2004	left_only	Required
+"[{:family=>""Ely"", :given=>""J.""}, {:family=>""Peski"", :given=>""M.""}]"	Hierarchies of beliefs and interim rationalizability	book		1388	both	Required
+"[{:family=>""Weinstein"", :given=>""J.""}, {:family=>""Yildiz"", :given=>""M.""}]"	Finite-order implications of any equilibrium	chapter	Levine’s Working Paper Archive 122247000000000065	2004	both	Required
+"[{:family=>""Yildiz"", :given=>""M.""}]"	Rationalizability on universal type space			2004	both	Required
+"[{:family=>""Angeletos"", :given=>""G.""}, {:family=>""Hellwig"", :given=>""C.""}, {:family=>""Pavan"", :given=>""A.""}]"	Information Dynamics and Equilibrium Multiplicity in Global Games of Regime Change			2004	both	Required
+"[{:family=>""Morris"", :given=>""S.""}, {:family=>""Shin"", :given=>""H.S.""}]"	Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks	article-journal	American Economic Review	1998	both	Required
+	Global Games - Theory and Applications	chapter	Advances in Economics and Econometrics	2003	left_only	Required
+	Rethinking Multiple Equilibria in Macroeconomics	chapter	NBER Macroeconomics Annual	2000	left_only	Required
+	Coordination Risk and the Price of Debt	article-journal	European Economic Review	2004	left_only	Required
+	Liquidity Black Holes	article-journal	Review of Finance	2004	left_only	Required
+"[{:family=>""Frankel"", :given=>""D.""}, {:family=>""Pauzner"", :given=>""A.""}]"	Resolving Indeterminacy in Dynamic Settings: The Role of Shocks	article-journal	Quarterly Journal of Economics	2000	both	Required
+"[{:family=>""Goldstein"", :given=>""I.""}, {:family=>""Pauzner"", :given=>""A.""}]"	Contagion of Self-Fulfilling Financial Crises due to Diversification of Investment Portfolios	article-journal	Journal of Economic Theory	2004	both	Required
+"[{:family=>""Angeletos"", :given=>""G.""}, {:family=>""Hellwig"", :given=>""C.""}, {:family=>""Pavan"", :given=>""A.""}]"	Coordination and Policy Traps (Signaling in a Global Coordination Game			2003	both	Required
+"[{:family=>""Angeletos"", :given=>""G.""}, {:family=>""Werning"", :given=>""I.""}]"	Crises and Prices			2004	both	Required
+"[{:family=>""Corsetti"", :given=>""G.""}, {:family=>""Guimaraes"", :given=>""B.""}, {:family=>""Roubini"", :given=>""N.""}]"	International Lending of Last Resort and Moral Hazard: A Model of IMF’s Catalytic Finance			2004	both	Required
+"[{:family=>""Dasgupta"", :given=>""A.""}]"	Coordination			2002	both	Required
+"[{:family=>""Neeman"", :given=>""Z.""}]"	The Relevance of Private Information in Mechanism Design	article-journal	Journal of Economic Theory	2004	both	Required
+"[{:family=>""Heifetz"", :given=>""A.""}, {:family=>""Neeman"", :given=>""Z.""}]"	On the Generic Infeasibility of Full Surplus Extraction in Mechanism Design			2003	both	Required
+"[{:family=>""Edmond"", :given=>""C.""}]"	Information and the Limits to Autocracy			2003	both	Required
+"[{:family=>""Dekel"", :given=>""E.""}, {:family=>""Lipman"", :given=>""B.L.""}, {:family=>""Rustichini"", :given=>""A.""}]"	Standard State-Space Models Preclude Unawareness	article-journal	Econometrica	1998	both	Required
+	Recent Developments in Modelling Unforseen Contingencies	article-journal	European Economic Review	1998	left_only	Required
+"[{:family=>""Li"", :given=>""J.""}]"	Unawareness			2004-08	both	Required
+"[{:family=>""Modica"", :given=>""S.""}, {:family=>""Rustichini"", :given=>""A.""}]"	Unawareness and partitional information structures	article-journal	Games and Economic Behavior	1999	both	Required
+"[{:family=>""Feinberg"", :given=>""Y.""}]"	Subjective Reasoning - Games with Unawareness	book		2004-11	both	Required
+"[{:family=>""Fagin"", :given=>""R.""}, {:family=>""Halpern"", :given=>""J.Y.""}]"	Belief	article-journal	Artificial Intelligence	1987	both	Required
+"[{:family=>""Halpern"", :given=>""J.Y.""}]"	Alternative Semantics for Unawareness	article-journal	Games and Economic Behavior	2001	both	Required
+"[{:family=>""Heifetz"", :given=>""A.""}, {:family=>""Meier"", :given=>""M.""}, {:family=>""Schipper"", :given=>""B.C.""}]"	Interactive Unawareness	chapter	Discussion Papers 52	2004	both	Required
+"[{:family=>""Modica"", :given=>""S.""}, {:family=>""Rustichini"", :given=>""A.""}]"	Awareness and partitional information structures	article-journal	Theory and Decision	1994	both	Required
+"[{:family=>""Cramton"", :given=>""P.""}]"	Strategic delay in bargaining with two-sided uncertainty	article-journal	Review of Economic Studies	1992	right_only	Required
+"[{:family=>""Yildiz"", :given=>""M.""}]"	Waiting to persuade	article-journal	Quarterly Journal of Economics	2004	right_only	Required
+"[{:family=>""Dekel"", :given=>""E.""}, {:family=>""Fudenberg"", :given=>""D.""}, {:family=>""Morris"", :given=>""S.""}]"	Dense Types			2004	right_only	Required
+"[{:family=>""Morris"", :given=>""S.""}, {:family=>""Shin"", :given=>""H.S.""}]"	Global Games - Theory and Applications	chapter	Advances in Economics and Econometrics	2003	right_only	Required
+"[{:family=>""Morris"", :given=>""S.""}, {:family=>""Shin"", :given=>""H.S.""}]"	Rethinking Multiple Equilibria in Macroeconomics	chapter	NBER Macroeconomics Annual	2000	right_only	Required
+"[{:family=>""Morris"", :given=>""S.""}, {:family=>""Shin"", :given=>""H.S.""}]"	Coordination Risk and the Price of Debt	article-journal	European Economic Review	2004	right_only	Required
+"[{:family=>""Morris"", :given=>""S.""}, {:family=>""Shin"", :given=>""H.S.""}]"	Liquidity Black Holes	article-journal	Review of Finance	2004	right_only	Required
+"[{:family=>""Dekel"", :given=>""E.""}, {:family=>""Lipman"", :given=>""B.L.""}, {:family=>""Rustichini"", :given=>""A.""}]"	Recent Developments in Modelling Unforseen Contingencies	article-journal	European Economic Review	1998	right_only	Required

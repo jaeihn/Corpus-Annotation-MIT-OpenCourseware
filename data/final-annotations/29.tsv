@@ -1,0 +1,47 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Sussman"", :given=>""Joseph""}]"	Perspectives on Intelligent Transportation Systems (ITS			2005	both	Required
+"[{:family=>""Francois"", :given=>""Francis B.""}]"	Introduction	chapter	Chapter 1 in Intelligent Transportation Primer	2000	both	Optional
+"[{:family=>""Nelson"", :given=>""Donna""}]"	ITS Systems	article-journal	Intelligent Transportation Primer	2000	both	Optional
+"[{:family=>""Sussman"", :given=>""Joseph M.""}]"	Intelligent Transportation Systems.” Chapter 24 in Introduction to Transportation Systems	book		2000	both	Optional
+"[{:family=>""Shladover"", :given=>""Steven E.""}]"	Introducing Intelligent Transportation Systems: Paradigm for 21st Century Transportation	article-journal	TR News	2002-01	both	Optional
+"[{:family=>""McQueen"", :given=>""Bob""}, {:family=>""Schuman"", :given=>""Rick""}, {:family=>""Chen"", :given=>""Kan""}]"	Advanced Traveler Information Systems	book		2002	left_only	Optional
+"[{:family=>""Zimmerman"", :given=>""Carol""}]"	Advanced Traveler Information Systems			2000	left_only	Optional
+"[{:family=>""Lappin"", :given=>""Jane""}, {:family=>""Peirce"", :given=>""Sean""}]"	A Qualitative Assessment of Customer Response to Online Traffic Information Services in Greater Los Angeles: Part I of a Two-Part Customer Satisfaction Evaluation	report		2001-12-15	both	Optional
+"[{:family=>""Lappin"", :given=>""Jane""}, {:family=>""Peirce"", :given=>""Sean""}]"	Why don’t more people use advanced traveler information? Evidence from the Seattle area	report		2004-01	both	Optional
+"[{:family=>""Lieu"", :given=>""Henry""}]"	A Roadmap for the Research	book		2003	both	Optional
+"[{:family=>""Ben-Akiva"", :given=>""Moshe""}, {:family=>""Bierlaire"", :given=>""Michel""}, {:family=>""Bottom"", :given=>""Jon""}, {:family=>""Koutsopoulos"", :given=>""Haris""}, {:family=>""Mishalani"", :given=>""Rabi""}]"	Development of a Route Guidance Generation System for Real-Time Application				both	Optional
+"[{:family=>""Al-Deek"", :given=>""Haitham""}, {:family=>""Kanafani"", :given=>""Adib""}]"	Modeling the Benefits of Advanced Traveler Information Systems in Corridors with Incidents	article-journal	Transportation Research C	1993	both	Optional
+"[{:family=>""Kalidas"", :given=>""Ashok""}, {:family=>""Ben-Akiva"", :given=>""Moshe""}]"	Dynamic Origin-Destination Matrix Estimation and Prediction for Real-Time Traffic Management Systems	paper-conference	Proceedings of the 12th International Symposium on Transportation and Traffic Theory	1993	both	Optional
+"[{:family=>""Emmerink"", :given=>""Richard M.""}, {:family=>""Axhausen"", :given=>""Kay W.""}, {:family=>""Nijkamp"", :given=>""Peter""}, {:family=>""Rietveld"", :given=>""Piet""}]"	The Potential of Information Provision in a Simulated Road Transport Network with Non-Recurrent Congestion	article-journal	Transportation Research C	1995	both	Optional
+"[{:family=>""Hall"", :given=>""Randolph W.""}]"	Route Choice and Advanced Traveler Information Systems on a Capacitated and Dynamic Network	article-journal	Transportation Research C	1996	both	Optional
+"[{:family=>""Watling"", :given=>""David""}, {:family=>""Vuren"", :given=>""Tom"", :particle=>""van""}]"	The Modeling of Dynamic Route Guidance Systems	article-journal	Transportation Research C	1993	both	Optional
+"[{:family=>""Richeson"", :given=>""Kim""}, {:family=>""Barnes"", :given=>""Valerie B.""}]"	Commercial Vehicle Operations and Freight Movement	chapter	Chapter 9 in Intelligent Transportation Primer	2000	both	Optional
+"[{:family=>""Orban"", :given=>""John E.""}]"	What Have We Learned About ITS for Commercial Vehicle Operations?	chapter	Chapter 6 in What Have We Learned About Intelligent Transportation Systems?	2000	both	Optional
+"[{:family=>""Horan"", :given=>""Thomas""}]"	Integrating the End User into Infrastructure Systems: A Customer Centric Approach to the Design and Function of Intelligent Transportation Systems	manuscript			both	Optional
+"[{:family=>""Miller"", :given=>""Charles""}]"	A Discussion of Intelligent Transportation Systems Environmental Impacts	article-journal	ITE Journal on the Web	1999-02	both	Optional
+"[{:family=>""Jordan"", :given=>""Daniel""}, {:family=>""Horan"", :given=>""Thomas""}]"	Intelligent Transportation Systems and Sustainable Communities: Findings of a National Study	article-journal	Transportation Research Record		both	Optional
+"[{:family=>""Dodder"", :given=>""Rebecca S.""}]"	A Systems Framework for Assessing Air Quality Impacts of ITS: Application to Mexico City			2004	both	Optional
+"[{:family=>""Kayssi"", :given=>""Issam A.""}]"	Guidelines on Integrating Environmental Impact Evaluation in Future ITS Deployment Studies			2004-03-04	both	Optional
+"[{:family=>""Gifford"", :given=>""Jonathan""}]"	Congestion and Its Discontents	paper-conference	Paper prepared for Access to Destinations: Rethinking the Transportation Future of Our Region President’s 21st Century Interdisciplinary Conference Series	2004-11-05	both	Optional
+"[{:family=>""Schulman"", :given=>""Larry""}]"	Public Transit and ITS	chapter	Chapter 7 in Intelligent Transportation Primer	2000	both	Optional
+"[{:family=>""Casey"", :given=>""Robert F.""}]"	What Have We Learned About Advanced Public Transportation Systems?	chapter	Chapter 5 in What Have We Learned About Intelligent Transportation Systems?	2000	both	Optional
+"[{:family=>""Hickman"", :given=>""Mark""}]"	Bus Automatic Vehicle Location (AVL) Systems.” Chapter 5 in Assessing the Benefits and Costs of ITS: Making the Business Case for ITS Investments	book		2004	both	Optional
+"[{:family=>""Giuliano"", :given=>""Genevieve""}, {:family=>""O’Brien"", :given=>""Thomas""}]"	Beyond Benefits and Costs: Understanding Outcomes of ITS Deployments in Public Transit	chapter	Chapter 7 in Assessing the Benefits and Costs of ITS: Making the Business Case for ITS Investments	2004	both	Optional
+"[{:family=>""Massachusetts"", :given=>""Commonwealth"", :particle=>""of""}]"	Regional ITS Architecture for Metropolitan Boston			2005-01	both	Optional
+"[{:family=>""Transportation"", :given=>""M.A.Executive Office"", :particle=>""of""}]"	A Framework for Thinking – A Plan for Action: Transportation in the Commonwealth of Massachusetts				both	Optional
+"[{:family=>""Group"", :given=>""I.B.I.""}]"	Puget Sound Regional ITS Architecture			2001-06	both	Optional
+"[{:family=>""Group"", :given=>""I.B.I.""}]"	Puget Sound Regional Council Intelligent Transportation Systems Regional Architecture			2008-12-18	both	Optional
+"[{:family=>""Council"", :given=>""Puget Sound Regional""}]"	Destination 2030,” “Long Range Transportation Plan	article-journal	Updated	2001-05	both	Optional
+"[{:family=>""Gilat"", :given=>""Michael""}, {:family=>""Sussman"", :given=>""Joseph""}]"	Coordinated Transportation and Land Use Planning in the Developing World - The Case of Mexico City				both	Optional
+"[{:family=>""Dodder"", :given=>""R.S.""}]"	ITS and Air Quality in the Mexico City Metropolitan Area	chapter	Unpublished Working Paper for the Integrated Program on Urban	2004	both	Optional
+"[{:family=>""Gakenheimer"", :given=>""R.""}, {:family=>""al"", :particle=>""et.""}]"	Travel Demand Drivers: Mexico City	manuscript		2003-06	both	Optional
+"[{:family=>""Ortiz Mantilla"", :given=>""B.""}]"	Chapters 2 and 3 in Regional Planning and Operations Architecture as means to Foster Transportation Integration in the Mexico City Metropolitan Area	book			both	Optional
+"[{:family=>""Gakenheimer"", :given=>""R.L.T.Molina""}, {:family=>""al"", :particle=>""et.""}]"	The MCMA Transportation System: Mobility and Air Pollution	chapter	Chapter 2 in Air Quality in the Mexico Megacity: An Integrated Assessment	2002	both	Optional
+"[{:family=>""Team"", :given=>""Architecture Development""}]"	National ITS Architecture Executive Summary	article-journal	Federal Highway Administration	2003-10	both	Optional
+"[{:family=>""Team"", :given=>""Architecture Development""}]"	National ITS Architecture ITS Vision Statement	article-journal	Federal Highway Administration	2003-10	both	Optional
+"[{:family=>""Transportation"", :given=>""Department"", :particle=>""of""}]"	FHWA Rule on ITS Architecture and Standards			2001-01	both	Optional
+"[{:family=>""Transportation"", :given=>""Department"", :particle=>""of""}]"	FTA National ITS Architecture Policy on Transit Projects			2001-01	both	Optional
+"[{:family=>""McQueen"", :given=>""Bob""}, {:family=>""Schuman"", :given=>""Rick""}, {:family=>""Chen"", :given=>""Kan""}]"	Chapters 2 and 3 in Advanced Traveler Information Systems	book		2002	right_only	Optional
+"[{:family=>""Zimmerman"", :given=>""Carol""}]"	Advanced Traveler Information Systems	chapter	Chapter 5 in Intelligent Transportation Primer	2000	right_only	Optional
+"[{:family=>""McQueen"", :given=>""Bob""}, {:family=>""Schuman"", :given=>""Rick""}, {:family=>""Chen"", :given=>""Kan""}]"	Chapters 4 and 5 in Advanced Traveler Information Systems	book		2002	right_only	Optional
+	A letter from Thomas Horan	manuscript			right_only	Optional

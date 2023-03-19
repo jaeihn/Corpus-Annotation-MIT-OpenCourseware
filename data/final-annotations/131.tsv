@@ -1,0 +1,23 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Honsberg"", :given=>""C.""}, {:family=>""Bowden"", :given=>""S.""}]"	Photovoltaics: Devices				both	Required
+"[{:family=>""Green"", :given=>""M.A.""}]"	Solar Cells: Operating Principles			1981	both	Required
+"[{:family=>""Schroder"", :given=>""D.K.""}]"	Solar Cell Contact Resistance–A Review	article-journal	IEEE Transactions Electron Devices	1984	both	Required
+	Solar Cells: Materials			2012	both	Optional
+	Chapters in Handbook of Photovoltaic Science and Engineering			2011	both	Optional
+"[{:family=>""Initiative"", :given=>""M.I.T.Energy""}]"	Student Project Identifies Improvements for Campus PVs	article-journal	MIT News	2011-11-30	both	Required
+"[{:family=>""Powell"", :given=>""D.M.""}, {:family=>""Winkler"", :given=>""M.T.""}, {:others=>true}]"	Crystalline Silicon Photovoltaics: A Cost Analysis Framework for Determining Technology Pathways to Reach Baseload Electricity Costs	article-journal	Energy & Environmental Science	2012	both	Required
+"[{:family=>""Powell"", :given=>""D.M.""}, {:family=>""Winkler"", :given=>""M.T.""}, {:others=>true}]"	Modeling the Cost and Minimum Sustainable Price of Crystalline Silicon Photovoltaic Manufacturing in the United States	article-journal	IEEE Journal of Photovoltaics	2013	both	Required
+"[{:family=>""Goodrich"", :given=>""A.C.""}, {:family=>""Powell"", :given=>""D.M.""}, {:others=>true}]"	Assessing the Drivers of Regional Trends in Solar Photovoltaic Manufacturing	article-journal	Energy & Environmental Science	2013	both	Required
+	Applied Photovoltaics			2006	both	Optional
+"[{:family=>""Yu"", :given=>""P.""}, {:family=>""Cardona"", :given=>""M.""}]"	Fundamentals of Semiconductors: Physics and Materials Properties			2004	both	Optional
+"[{:family=>""Kazmerski"", :given=>""L.""}]"	Solar Photovoltaics R&D at the Tipping Point: A 2005 Technology Overview	article-journal	J_ournal of Electron Spectroscopy and Related Phenomena_	2006	both	Optional
+"[{:family=>""Nelson"", :given=>""J.""}]"	The Physics of Solar Cells			2003	both	Optional
+"[{:family=>""Bube"", :given=>""R.""}]"	Photovoltaic Materials			1998	both	Optional
+"[{:family=>""Green"", :given=>""M.""}]"	Silicon Solar Cells: Advanced Principles and Practice	article-journal	Centre Photovoltaic Devices & Systems	1995	both	Optional
+"[{:family=>""Poortmans"", :given=>""J.""}, {:family=>""Arkhipov"", :given=>""V.""}]"	Thin Film Solar Cells: Fabrication			2006	both	Optional
+"[{:family=>""Schroder"", :given=>""D.""}]"	Semiconductor Material and Device Characterization			1998	both	Optional
+"[{:family=>""Kittel"", :given=>""Charles""}]"	Introduction to Solid State Physics			2004	both	Optional
+"[{:family=>""Ashcroft"", :given=>""N.""}, {:family=>""Mermin"", :given=>""D.""}]"	Solid State Physics			1976	both	Optional
+"[{:family=>""Aberle"", :given=>""A.""}]"	Crystalline Silicon Solar Cells: Advanced Surface Passivation and Analysis			1999	both	Optional
+"[{:family=>""Honsberg"", :given=>""C.""}, {:family=>""Bowden"", :given=>""S.""}]"	Photovoltaics: Devices	webpage			right_only	Required
+	Handbook of Photovoltaic Science and Engineering			2003	right_only	Optional
