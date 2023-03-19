@@ -3,18 +3,22 @@
 ## Running our Web Application
 
 After downloading the image file, please open your terminal and navigate to the directory containing the file. In the terminal, execute
-
-    docker load < team1.tar
-
+```
+docker load < team1.tar
+```
 Then execute
-
-    docker run -p 9999:9999 team1 
-
+```
+docker run -p 9999:9999 team1 
+```
 Lastly, execute
 
-    open http://localhost:9999/
+```
+open http://localhost:9999/
+```
 
 Now you should be able to access the application in your web browser.
+
+<br>
 
 ## Don't forget to check out the following in our website!
 
