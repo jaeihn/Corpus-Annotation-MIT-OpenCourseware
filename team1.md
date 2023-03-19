@@ -1,6 +1,6 @@
-# Instructions
+# Peer Review Instructions
 
-## Running our Web Application
+## Setup
 
 After downloading the image file, please open your terminal and navigate to the directory containing the file. In the terminal, execute
 ```
