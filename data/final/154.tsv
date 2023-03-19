@@ -1,0 +1,10 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Samuelson"", :given=>""P.A.""}, {:family=>""Nordhaus"", :given=>""W.D.""}]"	Economics			2004	both	Required
+"[{:family=>""Tietenberg"", :given=>""T.H.""}]"	Economics of the Environment - An Overview” and “Property Rights	article-journal	Environmental and Natural Resource Economics	1992	both	Required
+"[{:family=>""Schleifer"", :given=>""Arthur"", :suffix=>""Jr""}]"	Calculating Net Present Values and Accumulations of Cash-Flow Streams	article-journal	Harvard Business School Note	1979	both	Required
+"[{:family=>""Daly"", :given=>""H.E.""}]"	Beyond Growth			1997	both	Required
+"[{:family=>""Economic Analysis"", :given=>""U.S.Department of Commerce"", :particle=>""Bureau of""}]"	Integrated Economic and Environmental Satellite Accounts			1994-04	left_only	Required
+"[{:family=>""Kite-Powell"", :given=>""H.L.""}]"	Marine policy: shipping and ports	chapter	Encyclopedia of Ocean Sciences	2001	both	Required
+"[{:family=>""Jin"", :given=>""D.""}]"	Supply and Demand of New Oil Tankers	article-journal	Marit Pol Mgmt	2003	both	Required
+	Committee on Oil Pollution Act of 1990 (Section 4115) Implementation Review	chapter	Double-Hull Tanker Legislation: An Assessment of the Oil Pollution Act of 1990	1997	both	Required
+"[{:family=>""Marcus"", :given=>""H.S.""}]"	Interrelationship Between Strategy and Technology in the International Liner Market	article-journal	Mar Pol Rep	1989	both	Required

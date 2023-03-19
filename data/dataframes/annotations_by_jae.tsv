@@ -131,7 +131,7 @@ Optional	"[{:family=>""Royer"", :given=>""D.L.""}, {:family=>""Wing"", :given=>"
 Optional	"[{:family=>""Tarner"", :given=>""L.H.""}, {:family=>""Hubert"", :given=>""J.F.""}, {:family=>""Coffey"", :given=>""B.P.""}, {:family=>""McInerney"", :given=>""D.P.""}]"	Stability of Atmospheric CO2 Levels Across the Triassic/Jurassic Boundary	article-journal	Nature	2001	1018
 Optional	"[{:family=>""Pagani"", :given=>""M.""}, {:family=>""Arthur"", :given=>""M.A.""}, {:family=>""Freeman"", :given=>""K.H.""}]"	Miocene Evolution of Atmospheric Carbon Dioxide	article-journal	Paleoceanography	1999	1018
 Optional	"[{:family=>""Berner"", :given=>""R.A.""}]"	Atmospheric Carbon Dioxide Levels over Phanerozoic Time	article-journal	Science	1990	1018
-Optional	"[{:literal=>""———.""}]"	Paleo-CO2 and Climate	article-journal	Nature	1992	1018
+Optional	"[{:family=>""Berner"", :given=>""R.A.""}]"	Paleo-CO2 and Climate	article-journal	Nature	1992	1018
 Optional	"[{:family=>""Freeman"", :given=>""K.H.""}, {:family=>""Hayes"", :given=>""J.M.""}]"	Fractionation of Carbon Isotopes by Ancient Phytoplankton and Estimates of Ancient CO2 Levels	article-journal	Glob Biogeochem Cycles	1992	1018
 Optional	"[{:family=>""Hayes"", :given=>""J.M.""}, {:family=>""Strauss"", :given=>""H.""}, {:family=>""Kaufman"", :given=>""A.J.""}]"	The Abundance of 13 C in Marine Organic Matter and Isotopic Fractionation in the Global Biogeochemical Cycle of Carbon during the Past 800 Ma	article-journal	Chem Geol	1999	1018
 Optional	"[{:family=>""Popp"", :given=>""B.N.""}, {:family=>""Takigiku"", :given=>""R.""}, {:family=>""Hayes"", :given=>""J.M.""}, {:family=>""Louda"", :given=>""J.W.""}, {:family=>""Baker"", :given=>""E.W.""}]"	The Post-Paleozoic Chronology and Mechanisms of 13C Depletion in Primary Marine Organic Matter	article-journal	Am J Sci	1989	1018
@@ -145,7 +145,7 @@ Required	"[{:family=>""Do"", :given=>""Chuong B.""}, {:family=>""Batzoglou"", :g
 Required	"[{:family=>""Elsner"", :given=>""James B.""}, {:family=>""Niu"", :given=>""Xufeng""}, {:others=>true}]"	Detecting Shifts in Hurricane Rates Using a Markov Chain Monte Carlo Approach	article-journal	Journal of Climate	2004	1024
 Required	"[{:family=>""Emanuel"", :given=>""K.""}, {:family=>""Ravela"", :given=>""S.""}, {:others=>true}]"	A Statistical Deterministic Approach to Hurricane Risk Assessment	article-journal	Bulletin of the American Meteorological Society	2006	1024
 Required	"[{:family=>""Evensen"", :given=>""G.""}]"	The Ensemble Kalman Filter: Theoretical Formulation and Practical Implementation	article-journal	Ocean Dynamics	2003	1024
-Required	"[{:literal=>""———.""}]"	Sampling Strategies and Square Root Analysis Schemes for the EnKF	article-journal	Ocean Dynamics	2004	1024
+Required	"[{:family=>""Evensen"", :given=>""G.""}]"	Sampling Strategies and Square Root Analysis Schemes for the EnKF	article-journal	Ocean Dynamics	2004	1024
 Required	"[{:family=>""Evensen"", :given=>""G.""}, {:family=>""Leeuwen"", :given=>""P.J."", :particle=>""van""}]"	An Ensemble Kalman Smoother for Nonlinear Dynamics	article-journal	Monthly Weather Review	2000	1024
 Required	"[{:family=>""Ferdosi"", :given=>""B.J.""}, {:family=>""Buddelmeijer"", :given=>""H.""}, {:others=>true}]"	Comparison of Density Estimation Methods for Astronomical Datasets	article-journal	Astronomy & Astrophysics	2011	1024
 Required	"[{:family=>""Figueiredo"", :given=>""Mario A.T.""}, {:family=>""Jain"", :given=>""Anil K.""}]"	Unsupervised Learning of Finite Mixture Models	article-journal	IEEE Transactions on Pattern Analysis and Machine Intelligence	2002	1024
@@ -153,7 +153,7 @@ Required	"[{:family=>""Fletcher"", :given=>""Benjamin J.""}, {:family=>""Brentna
 Required	"[{:family=>""Geman"", :given=>""S.""}, {:family=>""Geman"", :given=>""D.""}]"	Stochastic Relaxation	article-journal	IEEE Transactions on Pattern Analysis and Machine Intelligence	1984	1024
 Required	"[{:family=>""Geman"", :given=>""S.""}, {:given=>""Bienenstock""}, {:others=>true}]"	Neural Networks and the Bias/Variance Dilemma	article-journal	Neural Computation	1992	1024
 Required	"[{:family=>""Gregory"", :given=>""Philip C.""}]"	Bayesian Exoplanet Tests of a New Method for MCMC Sampling in Highly Correlated Model Parameter Spaces	article-journal	Monthly Notices of the Royal Astronomical Society	2011	1024
-Required	"[{:literal=>""———.""}]"	Extra-solar Planets via Bayesian Fusion MCMC	chapter	Astrostatistical Challenges for the New Astronomy	2012	1024
+Required	"[{:family=>""Gregory"", :given=>""Philip C.""}]"	Extra-solar Planets via Bayesian Fusion MCMC	chapter	Astrostatistical Challenges for the New Astronomy	2012	1024
 Required	"[{:family=>""Hannachi"", :given=>""A.""}]"	Tropospheric Planetary Wave Dynamics and Mixture Modeling: Two Preferred Regimes and a Regime Shift	article-journal	Journal of the Atmospheric Sciences	2007	1024
 Required	"[{:family=>""Hansen"", :given=>""Mark H.""}, {:family=>""Yu"", :given=>""Bin""}]"	Model Selection and the Principle of Minimum Description Length	article-journal	Journal of the American Statistical Association	2001	1024
 Required	"[{:family=>""Hwang"", :given=>""Jenq-Neng""}, {:family=>""Lay"", :given=>""Shyh-Rong""}, {:others=>true}]"	Nonparametric Multivariate Density Estimation: A Comparative Study	article-journal	IEEE Transactions on Signal Processing	1994	1024
@@ -314,7 +314,7 @@ Required	"[{:family=>""Ashenfelter"", :given=>""O.""}, {:family=>""Krueger"", :g
 Required	"[{:family=>""Angrist"", :given=>""J.""}, {:family=>""Lavy"", :given=>""V.""}]"	Using Maimonides Rule to estimate the Effects of Class Size on Scholastic Achievement	article-journal	Quarterly Journal of Economics	1999-05	1055
 Required	"[{:family=>""Angrist"", :given=>""J.""}, {:family=>""Imbens"", :given=>""G.""}, {:family=>""Graddy"", :given=>""K.""}]"	The Interpretation of Instrumental Variables Estimators in Simultaneous Equations Models with an Application to the Demand for Fish	article-journal	Review of Economic Studies	2000-07	1055
 Required	"[{:family=>""Caballero"", :given=>""Ricardo J.""}]"	Macroeconomics After the Crisis: Time to Deal with the Pretense-of-Knowledge Syndrome	article-journal	Journal of Economic Perspectives	2010	1069
-Required	"[{:literal=>""———.""}]"	A Caricature (Model) of the World Economy	article-journal	MIT Working Paper No. 10-17; NBER Working Paper	2010	1069
+Required	"[{:family=>""Caballero"", :given=>""Ricardo J.""}]"	A Caricature (Model) of the World Economy	article-journal	MIT Working Paper No. 10-17; NBER Working Paper	2010	1069
 Required	"[{:family=>""B."", :given=>""Bernanke""}, {:family=>""Gertler"", :given=>""M.""}]"	Agency Costs	article-journal	American Economic Review	1989	1069
 Required	"[{:family=>""Kiyotaki"", :given=>""Nobuhiro""}, {:family=>""Moore"", :given=>""John""}]"	Credit Cycles	article-journal	Journal of Political Economy	1997	1069
 Required	"[{:family=>""Brunnermeier"", :given=>""Markus""}, {:family=>""Sannikov"", :given=>""Yuliy""}]"	A Macroeconomics Model with a Financial Sector			2011	1069
@@ -418,7 +418,7 @@ Required	"[{:family=>""Chandler"", :given=>""Alfred Dupont""}, {:family=>""Hikin
 Required	"[{:family=>""Granitz"", :given=>""Elizabeth""}, {:family=>""Klein"", :given=>""Benjamin""}]"	Monopolization by ‘Raising Rivals’ Costs’: The Standard Oil Case	article-journal	Journal of Law and Economics	1996-04	1083
 Required	"[{:family=>""Temin"", :given=>""Peter""}]"	Lessons from the Great Depression			1989	1083
 Required	"[{:family=>""Bernanke"", :given=>""Ben""}]"	Nonmonetary Effects of the Financial Crisis in the Propagation of the Great Depression	article-journal	American Economic Review	1983-06	1083
-Required	"[{:literal=>""———.""}]"	The Macroeconomics of the Great Depression: A Comparative Approach	article-journal	Journal of Money	1995	1083
+Required	"[{:family=>""Bernanke"", :given=>""Ben""}]"	The Macroeconomics of the Great Depression: A Comparative Approach	article-journal	Journal of Money	1995	1083
 Required	"[{:family=>""Obstfeld"", :given=>""Maurice""}, {:family=>""Taylor"", :given=>""Alan M.""}]"	The Great Depression as a Watershed: International Capital Mobility over the Long Run	chapter	The Defining Moment: The Great Depression and the American Economy in the Twentieth Century	1998	1083
 Required	"[{:family=>""Gordon"", :given=>""Robert J.""}]"	Interpreting the ‘One Big Wave’ in U.S. Long-term Productivity Growth	chapter	Productivity	2000	1083
 Required	"[{:family=>""Costa"", :given=>""Dora L.""}, {:family=>""Kahn"", :given=>""Matthew E.""}]"	Cowards and Heroes: Group Loyalty in the American Civil War	article-journal	Quarterly Journal of Economics	2003-05	1083
@@ -430,7 +430,7 @@ Required	"[{:family=>""Goldin"", :given=>""Claudia""}, {:family=>""Katz"", :give
 Required	"[{:family=>""Costa"", :given=>""Dora L.""}]"	The Wage and the Length of the Work Day: From the 1890s to 1991	article-journal	Journal of Labor Economics	2000-01	1083
 Optional	"[{:family=>""Census"", :given=>""U.S.Bureau"", :particle=>""of the""}]"	Historical Statistics of the United States	article-journal	Colonial Times to	1970	1083
 Optional	"[{:family=>""Mitchell"", :given=>""B.R.""}]"	British Historical Statistics			1988	1083
-Optional	"[{:literal=>""———.""}]"	European Historical Statistics			1975	1083
+Optional	"[{:family=>""Mitchell"", :given=>""B.R.""}]"	European Historical Statistics			1975	1083
 Optional		Board of Governors of the Federal Reserve System. Banking and Monetary Statistics	book		1943	1083
 Optional	"[{:family=>""Capie"", :given=>""Forrest""}, {:family=>""Collins"", :given=>""Michael""}]"	The Inter-war British Economy: A Statistical Abstract			1983	1083
 Optional	"[{:family=>""Capie"", :given=>""F.""}, {:family=>""Weber"", :given=>""A.""}, {:given=>""Data""}]"	A Monetary History of the United Kingdom			1985	1083
@@ -460,7 +460,7 @@ Required	"[{:family=>""Aiyagari"", :given=>""S.Rao""}]"	Uninsured Idiosyncratic 
 Required	"[{:family=>""Attanasio"", :given=>""Orazio P.""}]"	Consumption	chapter	Handbook of Macroeconomics	1998	1068
 Required	"[{:family=>""Kocherlakota"", :given=>""Narayana R.""}]"	Implications of Efficient Risk Sharing without Commitment	article-journal	Review of Economic Studies	1996	1068
 Required	"[{:family=>""Townsend"", :given=>""Robert M.""}]"	The Medieval Village Economy: A Study of the Pareto Mapping in General Equilibrium Models			1993	1068
-Required	"[{:literal=>""———.""}]"	Risk and Insurance in Village India	article-journal	Econometrica	1994	1068
+Required	"[{:family=>""Townsend"", :given=>""Robert M.""}]"	Risk and Insurance in Village India	article-journal	Econometrica	1994	1068
 Required	"[{:family=>""Lucas"", :given=>""Robert E."", :suffix=>""Jr""}]"	On Efficiency and Distribution	article-journal	Economic Journal	1992	1068
 Required	"[{:family=>""Abel"", :given=>""Andrew""}]"	Consumption and Investment	chapter	Handbook of Monetary Economics	1990	1068
 Required	"[{:family=>""Hayashi"", :given=>""Fumio""}]"	Tobin’s Marginal q and Average q: A Neoclassical Interpretation	article-journal	Econometrica	1982	1068
@@ -474,7 +474,7 @@ Optional	"[{:family=>""Weil"", :given=>""Philippe""}]"	Non-expected Utility in M
 Optional	"[{:family=>""Cochrane"", :given=>""John""}]"	Where is the Market Going? Uncertain Facts and Novel Theories	chapter	Economic Perspectives XXI	1997	1068
 Optional	"[{:family=>""Alvarez"", :given=>""Fernando""}, {:family=>""Jermann"", :given=>""Urban""}]"	Using Asset Returns to Estimate the Costs of Business Cycle Fluctuations	article-journal	Journal of Political Economy	2004	1068
 Optional	"[{:family=>""Barro"", :given=>""Robert J.""}]"	On the Welfare Costs of Consumption Uncertainty	article-journal	NBER Working Paper	2006-12	1068
-Optional	"[{:literal=>""———.""}]"	Rare Disasters and Asset Markets in the Twentieth Century	article-journal	Quarterly Journal of Economics	2006	1068
+Optional	"[{:family=>""Barro"", :given=>""Robert J.""}]"	Rare Disasters and Asset Markets in the Twentieth Century	article-journal	Quarterly Journal of Economics	2006	1068
 Optional	"[{:family=>""Mehra"", :given=>""Rajnish""}, {:family=>""Prescott"", :given=>""Edward C.""}]"	The Equity Premium: A Puzzle	article-journal	Journal of Monetary Economics	1985	1068
 Optional	"[{:family=>""Caballero"", :given=>""Ricardo J.""}]"	Earnings Uncertainty and Aggregate Wealth Accumulation	article-journal	American Economic Review	1991	1068
 Optional	"[{:family=>""Castañeda"", :given=>""Ana""}, {:family=>""Díaz-Giménez"", :given=>""Javier""}, {:family=>""Ríos-Rull"", :given=>""José-Victor""}]"	Accounting for the U.S	article-journal	Earnings and Wealth Inequality.” Journal of Political Economy	2004	1068
@@ -550,59 +550,59 @@ Required	"[{:family=>""Scharmer"", :given=>""C.Otto""}]"	Conversational Actions.
 Required	"[{:family=>""Scharmer"", :given=>""C.Otto""}]"	Epilogue	chapter	Theory U: Leading From the Future As It Emerges	2009	1242
 Required	"[{:family=>""Scharmer"", :given=>""C.Otto""}]"	Presencing.” Chapter 17 in Theory U: Leading From the Future As It Emerges			2009	1242
 Required	"[{:family=>""Scharmer"", :given=>""C.Otto""}]"	Seven Acupuncture Points for Shifting Capitalism to Create a Regenerative Ecosystem Economy	article-journal	_Oxford Leadership Journa_l	2010	1242
-Required	"[{:literal=>""———.""}]"	Individual Actions.” Chapter 16 in Theory U: Leading From the Future As It Emerges			2009	1242
-Required	"[{:literal=>""———.""}]"	China	article-journal	Otto’s Blog	2010-09-29	1242
+Required	"[{:family=>""Scharmer"", :given=>""C.Otto""}]"	Individual Actions.” Chapter 16 in Theory U: Leading From the Future As It Emerges			2009	1242
+Required	"[{:family=>""Scharmer"", :given=>""C.Otto""}]"	China	article-journal	Otto’s Blog	2010-09-29	1242
 Required	"[{:family=>""Bird"", :given=>""Kelvy""}]"	Simon Johnson Interview	article-journal	Transforming Capitalism. Presencing Institute	2010-01-15	1242
 Required	"[{:family=>""Johnson"", :given=>""Simon""}]"	The Quiet Coup	article-journal	Atlantic Magazine	2009-05	1242
 Required	"[{:family=>""Scharmer"", :given=>""C.Otto""}]"	The Blind Spot of Institutional Leadership: How to Create Deep Innovation Through Moving From Egosystem to Ecosystem Awareness	paper-conference	Paper prepared for World Economic Forum	2010-09	1242
-Required	"[{:literal=>""———.""}]"	Introduction	chapter	Theory U: Leading From the Future As It Emerges	2009	1242
-Required	"[{:literal=>""———.""}]"	Facing the Fire.” Chapter 1 in Theory U: Leading From the Future As It Emerges			2009	1242
-Required	"[{:literal=>""———.""}]"	The Journey to U.” Chapter 2 in Theory U: Leading From the Future As It Emerges			2009	1242
+Required	"[{:family=>""Scharmer"", :given=>""C.Otto""}]"	Introduction	chapter	Theory U: Leading From the Future As It Emerges	2009	1242
+Required	"[{:family=>""Scharmer"", :given=>""C.Otto""}]"	Facing the Fire.” Chapter 1 in Theory U: Leading From the Future As It Emerges			2009	1242
+Required	"[{:family=>""Scharmer"", :given=>""C.Otto""}]"	The Journey to U.” Chapter 2 in Theory U: Leading From the Future As It Emerges			2009	1242
 Required	"[{:family=>""Casella"", :given=>""George""}, {:family=>""Berger"", :given=>""Roger""}]"	Statistical Inference			2001	1056
 Required	"[{:family=>""Rand"", :given=>""Ayn""}]"	The Fountainhead	article-journal	Plume	1994	1081
 Required	"[{:family=>""Watson"", :given=>""James D.""}]"	The Double Helix: A Personal Account of the Discovery of the Structure of DNA	article-journal	Touchstone	2001	1081
 Required	"[{:family=>""Kidder"", :given=>""Tracy""}]"	The Soul of a New Machine			2000	1081
 Required	"[{:family=>""Kuhn"", :given=>""Thomas S.""}]"	The Route to Normal Science	chapter	Chapter 2 in The Structure of Scientific Revolutions	2012	1081
-Required	"[{:literal=>""———.""}]"	The Nature of Normal Science	article-journal	The Structure of Scientific Revolutions	2012	1081
-Required	"[{:literal=>""———.""}]"	The Nature and Necessity of Scientific Revolutions	chapter	Chapter 9 in The Structure of Scientific Revolutions	2012	1081
-Required	"[{:literal=>""———.""}]"	Revolutions as Changes of World View	chapter	Chapter 10 in The Structure of Scientific Revolutions	2012	1081
+Required	"[{:family=>""Kuhn"", :given=>""Thomas S.""}]"	The Nature of Normal Science	article-journal	The Structure of Scientific Revolutions	2012	1081
+Required	"[{:family=>""Kuhn"", :given=>""Thomas S.""}]"	The Nature and Necessity of Scientific Revolutions	chapter	Chapter 9 in The Structure of Scientific Revolutions	2012	1081
+Required	"[{:family=>""Kuhn"", :given=>""Thomas S.""}]"	Revolutions as Changes of World View	chapter	Chapter 10 in The Structure of Scientific Revolutions	2012	1081
 Required	"[{:family=>""Friedman"", :given=>""Milton""}]"	Methodology of Positive Economics	chapter	Essays in Positive Economics	1966	1081
 Required	"[{:family=>""Friedman"", :given=>""Milton""}]"	Chapters 1–3			2002	1081
 Required	"[{:family=>""Becker"", :given=>""Gary S.""}]"	The Economic Approach to Human Behavior	chapter	Chapter 1 in The Economic Approach to Human Behavior	1978	1081
-Required	"[{:literal=>""———.""}]"	Altruism	chapter	Chapter 13 in The Economic Approach to Human Behavior	1978	1081
+Required	"[{:family=>""Becker"", :given=>""Gary S.""}]"	Altruism	chapter	Chapter 13 in The Economic Approach to Human Behavior	1978	1081
 Required	"[{:family=>""Gilder"", :given=>""George""}]"	The Mandate for Capitalism.” Part One in Wealth and Poverty: A New Edition for the Twenty-First Century			2012	1081
 Required	"[{:family=>""Marx"", :given=>""Karl""}, {:family=>""Engels"", :given=>""Frederick""}]"	Manifesto of the Communist Party			1848	1081
 Required	"[{:family=>""Marx"", :given=>""Karl""}]"	Capital: A Critique of Political Economy	article-journal	Chapters		1081
 Required	"[{:family=>""Elster"", :given=>""Jon""}]"	Marxist Methodology.” Chapter 2 in An Introduction to Karl Marx			1986	1081
-Required	"[{:literal=>""———.""}]"	Marxian Economics.” Chapter 4 in An Introduction to Karl Marx			1986	1081
-Required	"[{:literal=>""———.""}]"	Historical Materialism.” Chapter 6 in An Introduction to Karl Marx			1986	1081
-Required	"[{:literal=>""———.""}]"	Class Consciousness and Class Struggle	chapter	Chapter 7 in An Introduction to Karl Marx	1986	1081
-Required	"[{:literal=>""———.""}]"	Marx’s Theory of Politics	chapter	Chapter 8 in An Introduction to Karl Marx	1986	1081
+Required	"[{:family=>""Elster"", :given=>""Jon""}]"	Marxian Economics.” Chapter 4 in An Introduction to Karl Marx			1986	1081
+Required	"[{:family=>""Elster"", :given=>""Jon""}]"	Historical Materialism.” Chapter 6 in An Introduction to Karl Marx			1986	1081
+Required	"[{:family=>""Elster"", :given=>""Jon""}]"	Class Consciousness and Class Struggle	chapter	Chapter 7 in An Introduction to Karl Marx	1986	1081
+Required	"[{:family=>""Elster"", :given=>""Jon""}]"	Marx’s Theory of Politics	chapter	Chapter 8 in An Introduction to Karl Marx	1986	1081
 Required	"[{:family=>""Bowles"", :given=>""Samuel""}, {:family=>""Gintis"", :given=>""Herbert""}]"	The Crisis of Liberal Democratic Capitalism: The Case of the United States	article-journal	Politics & Society	1982	1081
 Required	"[{:family=>""Foley"", :given=>""Duncan K.""}]"	The Severest Critic.” Chapter 3 in Adam’s Fallacy: A Guide to Economic Theology			2008	1081
 Required	"[{:family=>""Weber"", :given=>""Max""}]"	The Spirit of Capitalism	chapter	Chapter 2 in The Protestant Ethic and the Spirit of Capitalism. marxists.org		1081
-Required	"[{:literal=>""———.""}]"	Asceticism and the Spirit of Capitalism	chapter	Chapter 5 in The Protestant Ethic and the Spirit of Capitalism. marxists.org		1081
+Required	"[{:family=>""Weber"", :given=>""Max""}]"	Asceticism and the Spirit of Capitalism	chapter	Chapter 5 in The Protestant Ethic and the Spirit of Capitalism. marxists.org		1081
 Required	"[{:family=>""Polanyi"", :given=>""Karl""}]"	The Great Transformation: The Political and Economic Origins of Our Time			2001	1081
 Required	"[{:family=>""Schumpeter"", :given=>""Joseph A.""}]"	Can Capitalism Survive?” Part II (especially pages 121–63) in Capitalism			2008	1081
 Required	"[{:family=>""Keynes"", :given=>""John Maynard""}]"	The General Theory of Employment			1965	1081
 Required	"[{:family=>""Galbraith"", :given=>""John Kenneth""}]"	The Corporation.” Chapter 7 in The New Industrial State			2007	1081
 Required	"[{:family=>""Solow"", :given=>""Robert M.""}]"	The New Industrial State or Son of Affluence	article-journal	The Public Interest	1967	1081
 Required	"[{:family=>""Piore"", :given=>""Michael J.""}, {:family=>""Sabel"", :given=>""Charles F.""}]"	Mass Production as Destiny and Blind Decision	chapter	Chapter 2 in The Second Industrial Divide: Possibilities for Prosperity	1986	1081
-Required	"[{:literal=>""———.""}]"	The Corporation.” Chapter 3 in The Second Industrial Divide: Possibilities for Prosperity			1986	1081
-Required	"[{:literal=>""———.""}]"	Possibilities for Prosperity: International Keynesianism and Flexible Specialization.” Chapter 10 in The Second Industrial Divide: Possibilities for Prosperity			1986	1081
+Required	"[{:family=>""Piore"", :given=>""Michael J.""}, {:family=>""Sabel"", :given=>""Charles F.""}]"	The Corporation.” Chapter 3 in The Second Industrial Divide: Possibilities for Prosperity			1986	1081
+Required	"[{:family=>""Piore"", :given=>""Michael J.""}, {:family=>""Sabel"", :given=>""Charles F.""}]"	Possibilities for Prosperity: International Keynesianism and Flexible Specialization.” Chapter 10 in The Second Industrial Divide: Possibilities for Prosperity			1986	1081
 Required	"[{:family=>""Davis"", :given=>""Gerald F.""}]"	Managed by the Markets: How Finance Re-Shaped America			2009	1081
 Required	"[{:family=>""Dubner"", :given=>""Stephen J.""}]"	This is Your Brain on Prosperity: Andrew Lo on Fear			2009-01-09	1081
 Required	"[{:family=>""Thaler"", :given=>""Richard H.""}, {:family=>""Sunstein"", :given=>""Cass R.""}]"	Introduction	chapter	Nudge: Improving Decisions About Health	2009	1081
-Required	"[{:literal=>""———.""}]"	Biases and Blunders.” Chapter 1 in Nudge: Improving Decisions About Health			2009	1081
+Required	"[{:family=>""Thaler"", :given=>""Richard H.""}, {:family=>""Sunstein"", :given=>""Cass R.""}]"	Biases and Blunders.” Chapter 1 in Nudge: Improving Decisions About Health			2009	1081
 Required	"[{:family=>""DellaVigna"", :given=>""Stefano""}]"	Psychology and Economics: Evidence from the Field	article-journal	Journal of Economic Literature	2009	1081
 Required	"[{:family=>""Arendt"", :given=>""Hannah""}]"	Vita Activa and the Human Condition	chapter	Chapter 1 in The Human Condition	1998	1081
-Required	"[{:literal=>""———.""}]"	The Term Vita Activa	chapter	Chapter 2 in The Human Condition	1998	1081
-Required	"[{:literal=>""———.""}]"	Eternity Versus Immortality	chapter	Chapter 5 in The Human Condition	1998	1081
+Required	"[{:family=>""Arendt"", :given=>""Hannah""}]"	The Term Vita Activa	chapter	Chapter 2 in The Human Condition	1998	1081
+Required	"[{:family=>""Arendt"", :given=>""Hannah""}]"	Eternity Versus Immortality	chapter	Chapter 5 in The Human Condition	1998	1081
 Required	"[{:family=>""Sacks"", :given=>""Oliver""}]"	Seeing Voices: A Journey into the World of the Deaf			2000	1081
 Required	"[{:family=>""Lester"", :given=>""Richard K.""}, {:family=>""Piore"", :given=>""Michael J.""}]"	Innovation—The Missing Dimension			2004	1081
 Optional	"[{:family=>""Rawls"", :given=>""John""}]"	Some Reasons for the Maximin Criterion	article-journal	American Economic Review	1974	1081
 Optional	"[{:family=>""Foley"", :given=>""Duncan K.""}]"	Adam’s Vision.” Chapter 1 in Adam’s Fallacy: A Guide to Economic Theology			2008	1081
-Optional	"[{:literal=>""———.""}]"	Grand Illusions.” Chapter 6 in Adam’s Fallacy: A Guide to Economic Theology			2008	1081
+Optional	"[{:family=>""Foley"", :given=>""Duncan K.""}]"	Grand Illusions.” Chapter 6 in Adam’s Fallacy: A Guide to Economic Theology			2008	1081
 Optional	"[{:family=>""Althusser"", :given=>""Louis""}]"	For Marx (Part 1				1081
 Optional	"[{:family=>""Althusser"", :given=>""Louis""}, {:family=>""Balibar"", :given=>""Étienne""}]"	The Errors of Classical Economics: Outline of a Concept of Historical Time	chapter	Chapter 4 in Reading Capital		1081
 Optional	"[{:family=>""Krugman"", :given=>""Paul""}]"	How Did Economists Get It So Wrong?	article-journal	New York Times Magazine	2009-09-02	1081
@@ -687,7 +687,7 @@ Optional	"[{:family=>""Krishna"", :given=>""Vijay""}]"	Auction Theory			2009	104
 Optional	"[{:family=>""Moulin"", :given=>""Hervé""}]"	Axioms of Cooperative Decision Making			1991	1043
 Optional	"[{:family=>""Shiller"", :given=>""Robert""}]"	Macro Markets: Creating Institutions for Managing Society’s Largest Economic Risks			1998	1043
 Optional	"[{:family=>""Coase"", :given=>""Ronald""}]"	The Federal Communications Commission	article-journal	Journal of Law and Economics	1959-10	1043
-Optional	"[{:literal=>""———.""}]"	The Problem of Social Cost	article-journal	Journal of Law and Economics	1960-10	1043
+Optional	"[{:family=>""Coase"", :given=>""Ronald""}]"	The Problem of Social Cost	article-journal	Journal of Law and Economics	1960-10	1043
 Optional	"[{:family=>""McMillan"", :given=>""John""}]"	Selling Spectrum Rights	article-journal	Journal of Economic Perspectives	1994	1043
 Optional	"[{:family=>""Montgomery"", :given=>""W.David""}]"	Markets in Licenses and Efficient Pollution Control Programs	article-journal	Journal of Economic Theory	1972-12	1043
 Optional	"[{:family=>""Hahn"", :given=>""Robert""}]"	Market Power and Transferable Property Rights	article-journal	Quarterly Journal of Economics	1984-11	1043
@@ -726,7 +726,7 @@ Optional	"[{:family=>""Segal"", :given=>""Ilya""}, {:family=>""Whinston"", :give
 Optional	"[{:family=>""Hafalir"", :given=>""Isa""}, {:family=>""Krishna"", :given=>""Vijay""}]"	Asymmetric Auctions with Resale	book		2006-01	1043
 Optional	"[{:family=>""Cheng"", :given=>""Harrison""}, {:family=>""Tan"", :given=>""Guofu""}]"	Auctions with Resale and Bargaining Power	book		2009-01	1043
 Optional	"[{:family=>""Sönmez"", :given=>""Tayfun""}]"	Manipulation via Capacities in Two-Sided Matching Markets	article-journal	Journal of Economic Theory	1997-11	1043
-Optional	"[{:literal=>""———.""}]"	Can Pre-Arranged Matches by Avoided in Two-Sided Matching Markets?	article-journal	Journal of Economic Theory	1999-05	1043
+Optional	"[{:family=>""Sönmez"", :given=>""Tayfun""}]"	Can Pre-Arranged Matches by Avoided in Two-Sided Matching Markets?	article-journal	Journal of Economic Theory	1999-05	1043
 Optional	"[{:family=>""Kelso"", :given=>""Alexander S."", :suffix=>""Jr.""}, {:family=>""Crawford"", :given=>""Vincent P.""}]"	Job Matching	article-journal	Econometrica	1982-11	1043
 Optional	"[{:family=>""Gul"", :given=>""Faruk""}, {:family=>""Stachetti"", :given=>""Ennio""}]"	Walrasian Equilibrium with Gross Substitutes	article-journal	Journal of Economic Theory	1999-07	1043
 Optional	"[{:family=>""Hatfield"", :given=>""John""}, {:family=>""Milgrom"", :given=>""Paul""}]"	Matching with Contracts	article-journal	American Economic Review	2005-09	1043
@@ -764,7 +764,7 @@ Required	"[{:family=>""Lindgren"", :given=>""B.""}]"	Statistical Theory			1993	1
 Optional	"[{:family=>""Ekeland"", :given=>""I.""}]"	The Broken Dice and Other Mathematical Tales of Chance			1996	1053
 Optional	"[{:family=>""Huff"", :given=>""D.""}, {:family=>""Geis"", :given=>""I.""}]"	How to Lie With Statistics			1993	1053
 Optional	"[{:family=>""Stigler"", :given=>""S.""}]"	The History of Statistics: The Measurement of Uncertainty before 1900			1990	1053
-Optional	"[{:literal=>""———.""}]"	Statistics on the Table: The History of Statistical Concepts and Methods			2002	1053
+Optional	"[{:family=>""Stigler"", :given=>""S.""}]"	Statistics on the Table: The History of Statistical Concepts and Methods			2002	1053
 Optional	"[{:family=>""Taleb"", :given=>""N.""}]"	Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets			2008	1053
 Optional	"[{:family=>""Fudenberg"", :given=>""Drew""}, {:family=>""Tirole"", :given=>""Jean""}]"	Game Theory			1991	1047
 Optional	"[{:family=>""Osborne"", :given=>""Martin J.""}, {:family=>""Rubinstein"", :given=>""Ariel""}]"	A Course in Game Theory			1994	1047
@@ -776,7 +776,7 @@ Required	"[{:family=>""Romer"", :given=>""Paul""}]"	Why	article-journal	American
 Required	"[{:family=>""Ashton"", :given=>""T.S.""}]"	The Industrial Revolution			1948	1084
 Required	"[{:family=>""Allen"", :given=>""Robert C.""}]"	The British Industrial Revolution in Global Perspective	paper-conference	National Bureau of Economic Research conference on Starting Economic Growth	June 1-2	1084
 Required	"[{:family=>""Goldin"", :given=>""Claudia""}, {:family=>""Sokoloff"", :given=>""Kenneth""}]"	Women	article-journal	Journal of Economic History	1982-12	1084
-Required	"[{:literal=>""———.""}]"	The Relative Productivity Hypothesis of Industrialization: The American Case	article-journal	Quarterly Journal of Economics	1984-08	1084
+Required	"[{:family=>""Goldin"", :given=>""Claudia""}, {:family=>""Sokoloff"", :given=>""Kenneth""}]"	The Relative Productivity Hypothesis of Industrialization: The American Case	article-journal	Quarterly Journal of Economics	1984-08	1084
 Required	"[{:family=>""Gerschenkron"", :given=>""Alexander""}]"	Economic Backwardness in Historical Perspective			1962	1084
 Required	"[{:family=>""Murphy"", :given=>""Kevin""}, {:family=>""Sheilfer"", :given=>""Andrei""}, {:family=>""Vishny"", :given=>""Robert""}]"	Industrialization and the Big Push	article-journal	Journal of Political Economy	1989	1084
 Required	"[{:family=>""Ray"", :given=>""Debraj""}]"	Development Economics			1998	1084
@@ -802,7 +802,7 @@ Required	"[{:family=>""Neal"", :given=>""Larry""}, {:family=>""Quinn"", :given=>
 Required	"[{:family=>""Greenstone"", :given=>""Michael""}, {:family=>""Oyer"", :given=>""Paul""}, {:family=>""Vissing-Jorgensen"", :given=>""Annette""}]"	Mandated Disclosure	article-journal	Quarterly Journal of Economics	2006-05	1084
 Required	"[{:family=>""Benston"", :given=>""George""}]"	Required Disclosure and the Stock Market: An Evaluation of the Securities Exchange Act of 1934	article-journal	American Economic Review	1973-03	1084
 Required	"[{:family=>""Calomiris"", :given=>""Charles W.""}, {:family=>""Mason"", :given=>""Joseph R.""}]"	Consequences of Bank Distress during the Great Depression	article-journal	American Economic Review	2003-06	1084
-Required	"[{:literal=>""———.""}]"	Fundamentals	article-journal	American Economic Review	2003-12	1084
+Required	"[{:family=>""Calomiris"", :given=>""Charles W.""}, {:family=>""Mason"", :given=>""Joseph R.""}]"	Fundamentals	article-journal	American Economic Review	2003-12	1084
 Required	"[{:family=>""Bernanke"", :given=>""Ben S.""}]"	Nonmonetary Effects of the Financial Crisis in the Propagation of the Great Depression	article-journal	American Economic Review	1983-06	1084
 Required	"[{:family=>""Acemolgu"", :given=>""D.""}, {:family=>""Autor"", :given=>""D.""}, {:family=>""Lyle"", :given=>""D.""}]"	Women	article-journal	Journal of Political Economy	2004-06	1084
 Required	"[{:family=>""Angrist"", :given=>""J.""}]"	How Do Sex Ratios Affect Marriage and Labor Markets? Evidence from America’s Second Generation	article-journal	Quarterly Journal of Economics	2002-08	1084
@@ -872,7 +872,7 @@ Optional	"[{:family=>""Townsend"", :given=>""R.""}]"	Financial Systems in Northe
 Optional	"[{:family=>""Morduch"", :given=>""J.""}]"	The Microfinance Promise	article-journal	Journal of Economic Literature	1999	1085
 Optional	"[{:family=>""Banerjee"", :given=>""A.""}, {:family=>""Iyer"", :given=>""L.""}, {:family=>""Somanathan"", :given=>""R.""}]"	Public Action for Public Goods	article-journal	National Bureau of Economic Research Working Paper	2007-02	1085
 Optional	"[{:family=>""Greif"", :given=>""A.""}]"	Contract Enforceability and Economic Institution in Early Trade: The Maghribi Traders Coalition	article-journal	American Economic Review	1993	1085
-Optional	"[{:literal=>""———.""}]"	Cultural Beliefs and the Organization of Society: A Historical and Theoretical Reflection on Collectivist and Individualist Societies	article-journal	Journal of Political Economy	1994	1085
+Optional	"[{:family=>""Greif"", :given=>""A.""}]"	Cultural Beliefs and the Organization of Society: A Historical and Theoretical Reflection on Collectivist and Individualist Societies	article-journal	Journal of Political Economy	1994	1085
 Optional	"[{:family=>""Munshi"", :given=>""K.""}]"	Social Norms and Individual Decisions During a Period of Change: An Application to the Demographic Transition	book		2000	1085
 Optional	"[{:family=>""Porta"", :given=>""R."", :particle=>""La""}, {:family=>""Silanes"", :given=>""F.L."", :particle=>""de""}, {:family=>""Shleifer"", :given=>""A.""}, {:family=>""Vishny"", :given=>""R.""}]"	Law and Finance	article-journal	Journal of Political Economy	1998	1085
 Optional	"[{:family=>""Banerjee"", :given=>""A.V.""}, {:family=>""Iyer"", :given=>""L.""}]"	History	article-journal	American Economic Review	2005	1085
@@ -961,7 +961,7 @@ Required	"[{:family=>""Prendergast"", :given=>""Canice""}]"	The Role of Promotio
 Required	"[{:family=>""Podolny"", :given=>""Joel""}, {:family=>""Baron"", :given=>""James""}]"	Resources and Relationships: Social Networks and Mobility in the Workplace	article-journal	American Sociological Review	1997	1052
 Required	"[{:family=>""Wiggenhorn"", :given=>""William""}]"	Motorola U: When Training Becomes an Education	article-journal	Harvard Business Review (July-August		1052
 Required	"[{:family=>""Baker"", :given=>""George""}, {:family=>""Gibbs"", :given=>""Michael""}, {:family=>""Holmstrom"", :given=>""Bengt""}]"	The Internal Economics of the Firm: Evidence from Personnel Data	article-journal	Quarterly Journal of Economics	1994	1052
-Required	"[{:literal=>""———.""}]"	The Wage Policy of a Firm	article-journal	Quarterly Journal of Economics	1994	1052
+Required	"[{:family=>""Baker"", :given=>""George""}, {:family=>""Gibbs"", :given=>""Michael""}, {:family=>""Holmstrom"", :given=>""Bengt""}]"	The Wage Policy of a Firm	article-journal	Quarterly Journal of Economics	1994	1052
 Required	"[{:family=>""Gibbons"", :given=>""Robert""}, {:family=>""Waldman"", :given=>""Michael""}]"	A Theory of Wage and Promotion Dynamics Inside a Firm	article-journal	Quarterly Journal of Economics	1999	1052
 Required	"[{:family=>""Sonnenfeld"", :given=>""Jeffrey""}, {:family=>""Lazo"", :given=>""Meredith""}]"	United Parcel Service (A) and (B	book		1992	1052
 Required	"[{:family=>""Ichniowski"", :given=>""Casey""}, {:family=>""Shaw"", :given=>""Kathryn""}, {:family=>""Prennushi"", :given=>""Giovanna""}]"	The Effects of Human Resource Management Practices on Productivity: A Study of Steel Finishing Lines	article-journal	American Economic Review	1997	1052
@@ -1005,7 +1005,7 @@ Required	"[{:family=>""Kaplan"", :given=>""Steven N.""}]"	The Effects of Managem
 Required	"[{:family=>""Alonso"", :given=>""Ricardo""}, {:family=>""Dessein"", :given=>""Wouter""}, {:family=>""Matouschek"", :given=>""Niko""}]"	When Does Coordination Require Centralization?	article-journal	American Economic Review	2008	1052
 Required	"[{:family=>""Rantakari"", :given=>""Heikki""}]"	Governing Adaptation	article-journal	Review of Economic Studies	2008	1052
 Optional	"[{:family=>""Gibbons"", :given=>""Robert""}]"	Incentives Between Firms (and Within	article-journal	Management Science	2005	1052
-Optional	"[{:literal=>""———.""}]"	Four Formal(izable) Theories of the Firm?	article-journal	Journal of Economic Behavior and Organization	2005	1052
+Optional	"[{:family=>""Gibbons"", :given=>""Robert""}]"	Four Formal(izable) Theories of the Firm?	article-journal	Journal of Economic Behavior and Organization	2005	1052
 Optional	"[{:family=>""Chandler"", :given=>""Alfred""}]"	Strategy and Structure			1969	1052
 Optional	"[{:family=>""Miles"", :given=>""Raymond""}, {:family=>""Snow"", :given=>""Charles""}]"	Causes of Failure in Network Organizations	article-journal	California Management Review	1992	1052
 Optional	"[{:family=>""Bartlett"", :given=>""Christopher""}, {:family=>""Ghoshal"", :given=>""Sumantra""}]"	Beyond the M-Form: Toward a Managerial Theory of the Firm	article-journal	Strategic Management Journal	1993	1052
@@ -1030,10 +1030,10 @@ Optional	"[{:family=>""Schoar"", :given=>""Antoinette""}]"	Effects of Corporate 
 Optional	"[{:family=>""Marino"", :given=>""Anthony""}, {:family=>""Matsusaka"", :given=>""John""}, {:family=>""Zábojnik"", :given=>""Ján""}]"	Disobedience and Authority	manuscript		2008	1052
 Optional	"[{:family=>""Garicano"", :given=>""Luis""}, {:family=>""Zandt"", :given=>""Timothy"", :particle=>""Van""}]"	Hierarchies and the Division of Labor	chapter	The Handbook of Organizational Economics		1052
 Optional	"[{:family=>""Radner"", :given=>""Roy""}]"	Hierarchy: The Economics of Managing	article-journal	Journal of Economic Literature	1992	1052
-Optional	"[{:literal=>""———.""}]"	The Organization of Decentralized Information Processing	article-journal	Econometrica	1993	1052
+Optional	"[{:family=>""Radner"", :given=>""Roy""}]"	The Organization of Decentralized Information Processing	article-journal	Econometrica	1993	1052
 Optional	"[{:family=>""Zandt"", :particle=>""Van""}, {:given=>""Timothy""}]"	Real-Time Hierarchical Resource Allocation	manuscript		2003	1052
 Optional	"[{:family=>""Calvo"", :given=>""Guillermo""}, {:family=>""Wellisz"", :given=>""Stanislaw""}]"	Supervision	article-journal	Journal of Political Economy	1978	1052
-Optional	"[{:literal=>""———.""}]"	Hierarchy	article-journal	Journal of Political Economy	1979	1052
+Optional	"[{:family=>""Calvo"", :given=>""Guillermo""}, {:family=>""Wellisz"", :given=>""Stanislaw""}]"	Hierarchy	article-journal	Journal of Political Economy	1979	1052
 Optional	"[{:family=>""Brocas"", :given=>""Isabelle""}, {:family=>""Carrillo"", :given=>""Juan""}]"	Influence Through Ignorance	article-journal	RAND Journal of Economics	2007	1052
 Optional	"[{:family=>""Rotemberg"", :given=>""Julio""}, {:family=>""Saloner"", :given=>""Garth""}]"	Leadership Style and Incentives	article-journal	Management Science	1993	1052
 Optional	"[{:family=>""Steen"", :particle=>""Van den""}, {:given=>""Eric""}]"	Organizational Beliefs and Managerial Vision	article-journal	Journal of Law	2005	1052
@@ -1059,7 +1059,7 @@ Optional	"[{:family=>""March"", :given=>""James""}, {:family=>""Simon"", :given=
 Optional	"[{:family=>""Cyert"", :given=>""Richard""}, {:family=>""March"", :given=>""James""}]"	A Behavioral Theory of the Firm			1992	1052
 Optional	"[{:family=>""Cohen"", :given=>""Michael""}, {:family=>""March"", :given=>""James""}, {:family=>""Olsen"", :given=>""Johan""}]"	A Garbage Can Model of Organizational Choice	article-journal	Administrative Science Quarterly	1972	1052
 Optional	"[{:family=>""Csaszar"", :given=>""Felipe""}]"	An Efficient Frontier in Organization Design	manuscript		2008	1052
-Optional	"[{:literal=>""———.""}]"	Organizational Structure as a Determinant of Performance: Evidence from Mutual Funds	manuscript		2008	1052
+Optional	"[{:family=>""Csaszar"", :given=>""Felipe""}]"	Organizational Structure as a Determinant of Performance: Evidence from Mutual Funds	manuscript		2008	1052
 Optional	"[{:family=>""Marschak"", :given=>""Jacob""}, {:family=>""Radner"", :given=>""Roy""}]"	Economic Theory of Teams			1972	1052
 Optional	"[{:family=>""Milgrom"", :given=>""Paul""}, {:family=>""Roberts"", :given=>""John""}]"	The Economics of Modern Manufacturing: Technology	article-journal	American Economic Review	1990	1052
 Optional	"[{:family=>""Ichniowski"", :given=>""Casey""}, {:family=>""Shaw"", :given=>""Kathryn""}]"	Insider Econometrics: A Roadmap to Estimating Empirical Models of Organizational Performance	chapter	The Handbook of Organizational Economics		1052
@@ -1077,7 +1077,7 @@ Optional	"[{:family=>""Lazear"", :given=>""Edward""}, {:family=>""Oyer"", :given
 Optional	"[{:family=>""Hayes"", :given=>""Rachel""}, {:family=>""Schaefer"", :given=>""Scott""}]"	Implicit Contracts and the Explanatory Power of Top Executive Compensation for Future Performance	article-journal	RAND Journal of Economics	2000	1052
 Optional	"[{:family=>""Larkin"", :given=>""Ian""}]"	The Cost of High-Powered Incentives: Employee Gaming in Enterprise Software Sales	manuscript		2007	1052
 Optional	"[{:family=>""Baker"", :given=>""George""}]"	Incentive Contracts and Performance Measurement	article-journal	Journal of Political Economy	1992	1052
-Optional	"[{:literal=>""———.""}]"	Distortion and Risk in Optimal Incentive Contracts	article-journal	Journal of Human Resources	2002	1052
+Optional	"[{:family=>""Baker"", :given=>""George""}]"	Distortion and Risk in Optimal Incentive Contracts	article-journal	Journal of Human Resources	2002	1052
 Optional	"[{:family=>""Lazear"", :given=>""Edward""}]"	Performance Pay and Productivity	article-journal	American Economic Review	2000	1052
 Optional	"[{:family=>""Baron"", :given=>""James""}, {:family=>""Kreps"", :given=>""David""}]"	Employment as an Economic and a Social Relationship	chapter	The Handbook of Organizational Economics		1052
 Optional	"[{:family=>""Gil"", :given=>""Ricard""}, {:family=>""Marion"", :given=>""Justin""}]"	The Role of Repeated Interactions	manuscript		2009	1052
@@ -1088,15 +1088,14 @@ Optional	"[{:family=>""Malcomson"", :given=>""James""}]"	Relational Incentive Co
 Optional	"[{:family=>""Macaulay"", :given=>""Stewart""}]"	Non Contractual Relations in Business: A Preliminary Study	article-journal	American Sociological Review	1963	1052
 Optional	"[{:family=>""Macneil"", :given=>""Ian""}]"	Contracts: Adjustments of Long-term Economic Relations Under Classical	article-journal	Northwestern University Law Review	1978	1052
 Optional	"[{:family=>""Klein"", :given=>""Benjamin""}, {:family=>""Murphy"", :given=>""Kevin M.""}]"	Vertical Restraints as Contract Enforcement Mechanisms	article-journal	Journal of Law and Economics	1988	1052
-Optional	"[{:literal=>""———.""}]"	Vertical Integration as a Self-Enforcing Contractual Arrangement	article-journal	American Economic Review	1997	1052
+Optional	"[{:family=>""Klein"", :given=>""Benjamin""}, {:family=>""Murphy"", :given=>""Kevin M.""}]"	Vertical Integration as a Self-Enforcing Contractual Arrangement	article-journal	American Economic Review	1997	1052
 Optional	"[{:family=>""Klein"", :given=>""Benjamin""}]"	The Role of Incomplete Contracts in Self-Enforcing Relationships	article-journal	Revue D’Économie Industrielle	2000	1052
 Optional	"[{:family=>""Azoulay"", :given=>""Pierre""}]"	Capturing Knowledge Within and Across Firm Boundaries: Evidence from Clinical Development	article-journal	American Economic Review	2004	1052
 Optional	"[{:family=>""Forbes"", :given=>""Silke""}, {:family=>""Lederman"", :given=>""Mara""}]"	Adaptation and Vertical Integration in the Airline Industry	manuscript		2008	1052
-Optional	"[{:literal=>""———.""}]"	Does Vertical Integration Affect Firm Performance? Evidence from the Airline Industry	manuscript		2008	1052
+Optional	"[{:family=>""Forbes"", :given=>""Silke""}, {:family=>""Lederman"", :given=>""Mara""}]"	Does Vertical Integration Affect Firm Performance? Evidence from the Airline Industry	manuscript		2008	1052
 Optional	"[{:family=>""Bresnahan"", :given=>""Timothy""}, {:family=>""Levin"", :given=>""Jonathan""}]"	Vertical Integration and Market Structure	chapter	The Handbook of Organizational Economics	2009	1052
 Optional	"[{:family=>""Aghion"", :given=>""Philippe""}, {:family=>""Tirole"", :given=>""Jean""}]"	On the Management of Innovation	article-journal	Quarterly Journal of Economics	1994	1052
 Optional	"[{:family=>""Baker"", :given=>""George""}, {:family=>""Hubbard"", :given=>""Thomas""}]"	Make Versus Buy in Trucking: Asset Ownership	article-journal	American Economic Review	2003	1052
-Optional	"[{:family=>""Gibbons"", :given=>""Robert""}]"	Four Formal(izable) Theories of the Firm?	article-journal	Journal of Economic Behavior and Organization	2005	1052
 Optional	"[{:family=>""Tadelis"", :given=>""Steven""}, {:family=>""Williamson"", :given=>""Oliver""}]"	Transaction Cost Economics	chapter	The Handbook of Organizational Economics		1052
 Optional	"[{:family=>""Segal"", :given=>""Ilya""}, {:family=>""Whinston"", :given=>""Michael""}]"	Property Rights	chapter	The Handbook of Organizational Economics		1052
 Optional	"[{:family=>""Williamson"", :given=>""Oliver""}]"	Markets and Hierarchies: Analysis and Antitrust Implications			1983	1052
@@ -1144,7 +1143,7 @@ Required	"[{:family=>""on"", :given=>""Based""}, {:family=>""Kennan"", :given=>"
 Required	"[{:family=>""Admati"", :given=>""A.""}, {:family=>""Perry"", :given=>""M.""}]"	Strategic delay in bargaining	article-journal	Review of Economic Studies	1987	1044
 Required	"[{:family=>""Gul"", :given=>""F.""}, {:family=>""Sonnenchein"", :given=>""H.""}, {:family=>""Wilson"", :given=>""R.""}]"	Foundations of dynamic monopoly and the Coase conjecture	article-journal	Journal of Economic Theory	1986	1044
 Required	"[{:family=>""Cramton"", :given=>""P.""}]"	Bargaining with incomplete information: an infinite horizon model with two sided asymmetric information	article-journal	Review of Economic Studies	1984	1044
-Required	"[{:literal=>""———.""}]"	Strategic delay in bargaining with two-sided uncertainty	article-journal	Review of Economic Studies	1992	1044
+Required	"[{:family=>""Cramton"", :given=>""P.""}]"	Strategic delay in bargaining with two-sided uncertainty	article-journal	Review of Economic Studies	1992	1044
 Required	"[{:family=>""Abreu"", :given=>""D.""}, {:family=>""Gul"", :given=>""F.""}]"	Bargaining and Reputation	article-journal	Econometrica	2000	1044
 Required	"[{:family=>""Feinberg"", :given=>""Y.""}, {:family=>""Skrzypacz"", :given=>""A.""}]"	Uncertainty about uncertainty and delay in bargaining	article-journal	Econometrica	2005	1044
 Required	"[{:family=>""Spier"", :given=>""K.""}]"	The Dynamics of Pretrial Negotiation	article-journal	Review of Economic Studies	1992	1044
@@ -1153,23 +1152,23 @@ Required	"[{:family=>""Heifetz"", :given=>""A.""}, {:family=>""Segev"", :given=>
 Required	"[{:family=>""Cramton"", :given=>""P.""}, {:family=>""Tracy"", :given=>""J.""}]"	Strikes and holdouts in wage bargaining: Theory and data	article-journal	American Economic Review	1992-03	1044
 Required	"[{:family=>""Roth"", :given=>""A.""}, {:family=>""Murnighan"", :given=>""J.""}, {:family=>""Schoumaker"", :given=>""F.""}]"	The Deadline Effect in Bargaining: Some Experimental Evidence	article-journal	American Economic Review	1988	1044
 Required	"[{:family=>""Yildiz"", :given=>""M.""}]"	Bargaining without a common prior - An immediate agreement theorem	article-journal	Econometrica	2003	1044
-Required	"[{:literal=>""———.""}]"	Waiting to persuade	article-journal	Quarterly Journal of Economics	2004	1044
+Required	"[{:family=>""Yildiz"", :given=>""M.""}]"	Waiting to persuade	article-journal	Quarterly Journal of Economics	2004	1044
 Required	"[{:family=>""Ali"", :given=>""S.Nageeb""}]"	Multilateral Bargaining with Subjective Biases: Waiting To Settle	article-journal	Journal of Economic Theory	2005-04-04	1044
 Required	"[{:family=>""Watanabe"", :given=>""Yasutora""}]"	Learning and bargaining in dispute resolution: Theory and evidence from medical malpractice litigation			2005	1044
 Required	"[{:family=>""Carlsson"", :given=>""Hans""}, {:family=>""Damme"", :given=>""Eric"", :particle=>""van""}]"	Global Games and Equilibrium Selection	article-journal	Econometrica	1993	1044
 Required	"[{:family=>""Frankel"", :given=>""D.""}, {:family=>""Morris"", :given=>""S.""}, {:family=>""Pauzner"", :given=>""A.""}]"	Equilibrium selection in global games with strategic complementarities	article-journal	Journal of Economic Theory	2003	1044
 Required	"[{:family=>""Battigalli"", :given=>""P.""}, {:family=>""Siniscalchi"", :given=>""M.""}]"	Rationalization and Incomplete Information	article-journal	Advances in Theoretical Economics	2003	1044
 Required	"[{:family=>""Dekel"", :given=>""E.""}, {:family=>""Fudenberg"", :given=>""D.""}, {:family=>""Morris"", :given=>""S.""}]"	Interim Rationalizability	chapter	Harvard Institute of Economic Research Discussion Paper No. 2064	2003	1044
-Required	"[{:literal=>""———.""}]"	Dense Types			2004	1044
+Required	"[{:family=>""Dekel"", :given=>""E.""}, {:family=>""Fudenberg"", :given=>""D.""}, {:family=>""Morris"", :given=>""S.""}]"	Dense Types			2004	1044
 Required	"[{:family=>""Ely"", :given=>""J.""}, {:family=>""Peski"", :given=>""M.""}]"	Hierarchies of beliefs and interim rationalizability	book		1388	1044
 Required	"[{:family=>""Weinstein"", :given=>""J.""}, {:family=>""Yildiz"", :given=>""M.""}]"	Finite-order implications of any equilibrium	chapter	Levine’s Working Paper Archive 122247000000000065	2004	1044
 Required	"[{:family=>""Yildiz"", :given=>""M.""}]"	Rationalizability on universal type space			2004	1044
 Required	"[{:family=>""Angeletos"", :given=>""G.""}, {:family=>""Hellwig"", :given=>""C.""}, {:family=>""Pavan"", :given=>""A.""}]"	Information Dynamics and Equilibrium Multiplicity in Global Games of Regime Change			2004	1044
 Required	"[{:family=>""Morris"", :given=>""S.""}, {:family=>""Shin"", :given=>""H.S.""}]"	Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks	article-journal	American Economic Review	1998	1044
-Required	"[{:literal=>""———.""}]"	Global Games - Theory and Applications	chapter	Advances in Economics and Econometrics	2003	1044
-Required	"[{:literal=>""———.""}]"	Rethinking Multiple Equilibria in Macroeconomics	chapter	NBER Macroeconomics Annual	2000	1044
-Required	"[{:literal=>""———.""}]"	Coordination Risk and the Price of Debt	article-journal	European Economic Review	2004	1044
-Required	"[{:literal=>""———.""}]"	Liquidity Black Holes	article-journal	Review of Finance	2004	1044
+Required	"[{:family=>""Morris"", :given=>""S.""}, {:family=>""Shin"", :given=>""H.S.""}]"	Global Games - Theory and Applications	chapter	Advances in Economics and Econometrics	2003	1044
+Required	"[{:family=>""Morris"", :given=>""S.""}, {:family=>""Shin"", :given=>""H.S.""}]"	Rethinking Multiple Equilibria in Macroeconomics	chapter	NBER Macroeconomics Annual	2000	1044
+Required	"[{:family=>""Morris"", :given=>""S.""}, {:family=>""Shin"", :given=>""H.S.""}]"	Coordination Risk and the Price of Debt	article-journal	European Economic Review	2004	1044
+Required	"[{:family=>""Morris"", :given=>""S.""}, {:family=>""Shin"", :given=>""H.S.""}]"	Liquidity Black Holes	article-journal	Review of Finance	2004	1044
 Required	"[{:family=>""Frankel"", :given=>""D.""}, {:family=>""Pauzner"", :given=>""A.""}]"	Resolving Indeterminacy in Dynamic Settings: The Role of Shocks	article-journal	Quarterly Journal of Economics	2000	1044
 Required	"[{:family=>""Goldstein"", :given=>""I.""}, {:family=>""Pauzner"", :given=>""A.""}]"	Contagion of Self-Fulfilling Financial Crises due to Diversification of Investment Portfolios	article-journal	Journal of Economic Theory	2004	1044
 Required	"[{:family=>""Angeletos"", :given=>""G.""}, {:family=>""Hellwig"", :given=>""C.""}, {:family=>""Pavan"", :given=>""A.""}]"	Coordination and Policy Traps (Signaling in a Global Coordination Game			2003	1044
@@ -1180,7 +1179,7 @@ Required	"[{:family=>""Neeman"", :given=>""Z.""}]"	The Relevance of Private Info
 Required	"[{:family=>""Heifetz"", :given=>""A.""}, {:family=>""Neeman"", :given=>""Z.""}]"	On the Generic Infeasibility of Full Surplus Extraction in Mechanism Design			2003	1044
 Required	"[{:family=>""Edmond"", :given=>""C.""}]"	Information and the Limits to Autocracy			2003	1044
 Required	"[{:family=>""Dekel"", :given=>""E.""}, {:family=>""Lipman"", :given=>""B.L.""}, {:family=>""Rustichini"", :given=>""A.""}]"	Standard State-Space Models Preclude Unawareness	article-journal	Econometrica	1998	1044
-Required	"[{:literal=>""———.""}]"	Recent Developments in Modelling Unforseen Contingencies	article-journal	European Economic Review	1998	1044
+Required	"[{:family=>""Dekel"", :given=>""E.""}, {:family=>""Lipman"", :given=>""B.L.""}, {:family=>""Rustichini"", :given=>""A.""}]"	Recent Developments in Modelling Unforseen Contingencies	article-journal	European Economic Review	1998	1044
 Required	"[{:family=>""Li"", :given=>""J.""}]"	Unawareness			2004-08	1044
 Required	"[{:family=>""Modica"", :given=>""S.""}, {:family=>""Rustichini"", :given=>""A.""}]"	Unawareness and partitional information structures	article-journal	Games and Economic Behavior	1999	1044
 Required	"[{:family=>""Feinberg"", :given=>""Y.""}]"	Subjective Reasoning - Games with Unawareness	book		2004-11	1044
@@ -1193,7 +1192,7 @@ Required	"[{:family=>""Krugman"", :given=>""Paul""}, {:family=>""Obstfeld"", :gi
 Required	"[{:family=>""King"", :given=>""Philip""}, {:family=>""King"", :given=>""Sharmila""}]"	International Economics and International Economics Policy: A Reader			2004	1093
 Required	"[{:family=>""Kennedy"", :given=>""Robert E.""}]"	National Income Accounting	article-journal	Harvard Business School Case. Harvard Business School Publishing. Case	1996-11-15	1093
 Required	"[{:family=>""Economic Analysis"", :given=>""Bureau"", :particle=>""of""}]"	GDP Growth Accelerates in Fourth Quarter	book			1093
-Required	"[{:literal=>""———.""}]"	GDP and the Economy: Third Estimates for the First Quarter of 2011	article-journal	U.S. Department of Commerce	2011-07	1093
+Required	"[{:family=>""Economic Analysis"", :given=>""Bureau"", :particle=>""of""}]"	GDP and the Economy: Third Estimates for the First Quarter of 2011	article-journal	U.S. Department of Commerce	2011-07	1093
 Required		World Economic Outlook Update	article-journal	International Monetary Fund	2011-06-17	1093
 Required	"[{:family=>""Alfaro"", :given=>""Laura""}, {:family=>""Tella"", :given=>""Rafael"", :particle=>""Di""}, {:others=>true}]"	China: To Float or Not to Float?	book		2006-03-02	1093
 Required	"[{:family=>""Johnson"", :given=>""Simon""}]"	Brace for a Long Recovery From Global Credit Glut: Simon Johnson	article-journal	Bloomberg	2011-09-11	1093
@@ -1247,7 +1246,7 @@ Required	"[{:family=>""Riordan"", :given=>""William L.""}]"	Honest Graft and Dis
 Optional	"[{:family=>""Banerjee"", :given=>""Abhijit V.""}, {:family=>""Duflo"", :given=>""Esther""}]"	Poor Economics: Rethinking Poverty and the Ways to End it			2013	1086
 Optional	"[{:family=>""Easterly"", :given=>""William""}]"	The Elusive Quest for Growth: Economists’ Adventures and Misadventures in the Tropics			2002	1086
 Optional	"[{:family=>""Klitgaard"", :given=>""Robert""}]"	Tropical Gangsters: One Man’s Experience With Development and Decadence in Deepest Africa	article-journal	Basic	2000	1086
-Optional	"[{:literal=>""———.""}]"	Controlling Corruption			1991	1086
+Optional	"[{:family=>""Klitgaard"", :given=>""Robert""}]"	Controlling Corruption			1991	1086
 Optional	"[{:family=>""Fisman"", :given=>""Raymond""}, {:family=>""Miguel"", :given=>""Edward""}]"	Economic Gangsters: Corruption			2010	1086
 Optional	"[{:family=>""Jones"", :given=>""Benjamin F.""}, {:family=>""Olken"", :given=>""Benjamin A.""}]"	Do Leaders Matter? National Leadership and Growth Since World War II](http://dx.doi.org/ 10.1093/qje/120.3.835	article-journal	Quarterly Journal of Economics	2005	1086
 Optional	"[{:family=>""Nunn"", :given=>""Nathan""}]"	Long Term Effects of Africa’s Slave Trades	article-journal	The Quarterly Journal of Economics	2008	1086
@@ -1340,7 +1339,7 @@ Required	"[{:family=>""Varian"", :given=>""H.""}]"	A Model of Sales	article-jour
 Required	"[{:family=>""McAfee"", :given=>""R.P.""}]"	Multiproduct Equilibrium Price Dispersion	article-journal	Journal of Economic Theory	1995-10	1051
 Required	"[{:family=>""Baye"", :given=>""M.""}, {:family=>""Morgan"", :given=>""J.""}]"	Information Gatekeepers on the Internet and the Competitiveness of Homogeneous Product Markets	article-journal	American Economic Review	2001-06	1051
 Required	"[{:family=>""Sorensen"", :given=>""A.""}]"	Equilibrium Price Dispersion in Retail Markets for Prescription Drugs	article-journal	Journal of Political Economy	2000-08	1051
-Required	"[{:literal=>""———.""}]"	An Empirical Model of Heterogeneous Consumer Search for Retail Prescription Drugs	book		2001-09-14	1051
+Required	"[{:family=>""Sorensen"", :given=>""A.""}]"	An Empirical Model of Heterogeneous Consumer Search for Retail Prescription Drugs	book		2001-09-14	1051
 Required	"[{:family=>""J."", :given=>""Rotemberg""}, {:family=>""Saloner"", :given=>""G.""}]"	A Supergame-Theoretic Model of Price Wars During Booms	article-journal	American Economic Review	1986-06	1051
 Required	"[{:family=>""Green"", :given=>""E.""}, {:family=>""Porter"", :given=>""R.""}]"	Non-cooperative Collusion Under Imperfect Price Information	article-journal	Econometrica	1984-01	1051
 Required	"[{:family=>""Maskin"", :given=>""E.""}, {:family=>""Tirole"", :given=>""J.""}]"	A Theory of Dynamic Oligopoly II: Price Competition	article-journal	Econometrica	1988-05	1051
@@ -1377,7 +1376,7 @@ Required	"[{:family=>""Lieberman"", :given=>""M.""}]"	Post Entry Investment and 
 Required	"[{:family=>""Smiley"", :given=>""R.""}]"	Empirical Evidence on Strategic Entry Deterrence	article-journal	International Journal of Industrial Organization	1988-06	1051
 Required	"[{:family=>""Ordover"", :given=>""J.""}, {:family=>""Saloner"", :given=>""G.""}]"	Predation	chapter	Handbook of Industrial Organization	1989	1051
 Required	"[{:family=>""Milgrom"", :given=>""P.""}, {:family=>""Roberts"", :given=>""J.""}]"	Limit Pricing and Entry Under Incomplete Information: An Equilibrium Analysis	article-journal	Econometrica	1982-03	1051
-Required	"[{:literal=>""———.""}]"	Predation	article-journal	Journal of Economic Theory	1982-08	1051
+Required	"[{:family=>""Milgrom"", :given=>""P.""}, {:family=>""Roberts"", :given=>""J.""}]"	Predation	article-journal	Journal of Economic Theory	1982-08	1051
 Required	"[{:family=>""Hubbard"", :given=>""T.""}]"	An Empirical Examination of Moral Hazard in the Vehicle Inspection Market	article-journal	The Rand Journal of Economics	1998	1051
 Required	"[{:family=>""Hendel"", :given=>""I.""}, {:family=>""Lizzeri"", :given=>""A.""}]"	The Role of Commitment in Dynamic Contracts: Evidence from Life Insurance	article-journal	Quarterly Journal of Economics	2003-02	1051
 Required	"[{:family=>""Doyle"", :given=>""M.""}, {:family=>""Snyder"", :given=>""C.""}]"	Information Sharing and Competition in the Motor Vehicle Industry	article-journal	Journal of Political Economy	1999-12	1051
@@ -1412,7 +1411,7 @@ Required		An Economist’s Guide to Epidemiology Models of Infectious Disease	ar
 Optional		Production Networks: A Primer	article-journal	Carvalho and Tahbaz-Salehi	2019	1045
 Required	"[{:family=>""Angrist"", :given=>""J.D.""}, {:family=>""Pischke"", :given=>""J.S.""}]"	Mostly Harmless Econometrics: An Empiricist’s Companion			2009	1060
 Required	"[{:family=>""Dale"", :given=>""S.""}, {:family=>""Krueger"", :given=>""A.""}]"	Estimating the Payoff to Attending a More Selective College: An Application of Selection on Observables and Unobservables	article-journal	The Quaterly Journal of Economics	2002	1060
-Required	"[{:literal=>""———.""}]"	Estimating the Return to College Selectivity Over the Career using Administrative Earnings Data	article-journal	The Journal of Human Resources	2014	1060
+Required	"[{:family=>""Dale"", :given=>""S.""}, {:family=>""Krueger"", :given=>""A.""}]"	Estimating the Return to College Selectivity Over the Career using Administrative Earnings Data	article-journal	The Journal of Human Resources	2014	1060
 Required	"[{:family=>""Angrist"", :given=>""J.""}]"	Estimating the Labor Market Impact of Voluntary Military Service Using Social Security Data on Military Applicants	article-journal	Econometrica	1998	1060
 Required	"[{:family=>""Abadie"", :given=>""A.""}, {:family=>""Imbens"", :given=>""G.""}]"	Large Sample Properties of Matching Estimators for Average Treatment Effects	article-journal	Econometrica	2006	1060
 Required	"[{:family=>""Imbens"", :given=>""G.""}]"	Nonparametric Estimation of Average Treatment Effects under Exogeneity: A Review	article-journal	The Review of Economics and Statistics	2004	1060
@@ -1430,9 +1429,9 @@ Required	"[{:family=>""Hirano"", :given=>""K.""}, {:family=>""Imbens"", :given=>
 Required	"[{:family=>""Abadie"", :given=>""A.""}, {:family=>""Imbens"", :given=>""G.""}]"	Matching on the Estimated Propensity Score	article-journal	Mimeo	2012	1060
 Required	"[{:family=>""Angrist"", :given=>""J.""}, {:family=>""Krueger"", :given=>""A.""}]"	Instrumental Variables and the Search for Identification: From Supply and Demand to Natural Experiments	article-journal	Journal of Economic Perspectives	2001	1060
 Required	"[{:family=>""Angrist."", :given=>""J.""}]"	Grouped Data Estimation and Testing in Simple Labor Supply Models	article-journal	Journal of Econometrics	1991	1060
-Required	"[{:literal=>""———.""}]"	Lifetime Earnings and the Vietnam Era Draft Lottery: Evidence from Social Security Administrative Records	article-journal	The American Economic Review	1990	1060
+Required	"[{:family=>""Angrist."", :given=>""J.""}]"	Lifetime Earnings and the Vietnam Era Draft Lottery: Evidence from Social Security Administrative Records	article-journal	The American Economic Review	1990	1060
 Required	"[{:family=>""Angrist"", :given=>""J.""}, {:family=>""Krueger"", :given=>""A.""}]"	The Effect of Age at School Entry on Educational Attainment: An Application of Instrumental Variables with Moments from Two Samples	article-journal	Journal of the American Statistical Association	1992	1060
-Required	"[{:literal=>""———.""}]"	Split-sample Instrumental Variables Estimates of the Returns to Schooling	article-journal	Journal of Business and Economic Statistics	1995	1060
+Required	"[{:family=>""Angrist"", :given=>""J.""}, {:family=>""Krueger"", :given=>""A.""}]"	Split-sample Instrumental Variables Estimates of the Returns to Schooling	article-journal	Journal of Business and Economic Statistics	1995	1060
 Required	"[{:family=>""Inoue"", :given=>""Atsushi""}, {:family=>""Solon"", :given=>""G.""}]"	Two-sample Instrumental Variables Estimators	article-journal	The Review of Economics and Statistics	2010	1060
 Required	"[{:family=>""Angrist"", :given=>""J.""}, {:family=>""Imbens"", :given=>""G.""}, {:others=>true}]"	Jackknife Instrumental Variables Estimation	article-journal	Journal of Applied Econometrics	1999	1060
 Required	"[{:family=>""Flores-lagunes"", :given=>""Alfonso""}]"	Finite-sample Evidence of IV Estimators under Weak Instruments	article-journal	Journal of Applied Econometrics	2007	1060
@@ -1440,7 +1439,7 @@ Required	"[{:family=>""Kolesar"", :given=>""M.""}]"	Estimation in an Instrumenta
 Required	"[{:family=>""Imbens"", :given=>""G.""}, {:family=>""Angrist"", :given=>""J.""}]"	Identification and Estimation of Local Average Treatment Effects	article-journal	Econometrica	1994	1060
 Required	"[{:family=>""Angrist"", :given=>""J.""}, {:family=>""Imbens"", :given=>""G.""}, {:others=>true}]"	Identification of Causal Effects Using Instrumental Variables	article-journal	Journal of the American Statistical Association		1060
 Required	"[{:family=>""Abadie"", :given=>""A.""}]"	Bootstrap Tests for Distributional Treatment Effects in Instrumental Variables Models	article-journal	Journal of the American Statistical Association	2002	1060
-Required	"[{:literal=>""———.""}]"	Semiparametric Instrumental Variable Estimation of Treatment Response Models	article-journal	Journal of Econometrics	2003	1060
+Required	"[{:family=>""Abadie"", :given=>""A.""}]"	Semiparametric Instrumental Variable Estimation of Treatment Response Models	article-journal	Journal of Econometrics	2003	1060
 Required	"[{:family=>""Abadie"", :given=>""A.""}, {:family=>""Angrist"", :given=>""J.""}, {:others=>true}]"	Instrumental Variables Estimates of the Effect of Subsidized Training on the Quantiles of Trainee Earnings	article-journal	Econometrica	2002	1060
 Required	"[{:family=>""Angrist"", :given=>""J.""}]"	Instrumental Variables Methods in Experimental Criminological Research: What	article-journal	Journal of Experimental Criminological	2005	1060
 Required	"[{:family=>""Angrist"", :given=>""J.""}, {:family=>""Cohodes"", :given=>""S.""}, {:others=>true}]"	Stand and Deliver: Effects of Boston’s Charter High Schools on College Preparation	article-journal	The Journal of Labor Economics	2015	1060
@@ -1496,7 +1495,7 @@ Required	"[{:family=>""Chesher"", :given=>""A.""}, {:family=>""Jewitt"", :given=
 Required	"[{:family=>""Moulton"", :given=>""Brent""}]"	Random Group Effects and the Precision of Regression Estimates	article-journal	Journal of Econometrics	1986	1060
 Required	"[{:family=>""Bertrand"", :given=>""Marianne""}, {:family=>""Duflo"", :given=>""Esther""}, {:others=>true}]"	How Much Should We Trust Differences-in-Differences Estimates?	article-journal	The Quarterly Journal of Economics	2004	1060
 Required	"[{:family=>""Hansen"", :given=>""C.""}]"	Asymptotic Properties of a Robust Variance Estimator for Panel Data When T is Large	article-journal	Journal of Econometrics	2007	1060
-Required	"[{:literal=>""———.""}]"	Generalized Least Squares Inference in Panel and Multilevel Models with Serial Correlation and Fixed Effects	article-journal	Journal of Econometrics	2007	1060
+Required	"[{:family=>""Hansen"", :given=>""C.""}]"	Generalized Least Squares Inference in Panel and Multilevel Models with Serial Correlation and Fixed Effects	article-journal	Journal of Econometrics	2007	1060
 Required	"[{:family=>""Cameron"", :given=>""C.""}, {:family=>""Gelbach"", :given=>""J.""}, {:others=>true}]"	Bootstrap-based Improvements for Inference with Clustered Errors	article-journal	The Review of Economics and Statistics	2008	1060
 Required	"[{:family=>""Imbens"", :given=>""G.""}, {:family=>""Kolesar"", :given=>""M.""}]"	Robust Standard Errors in Small Samples: Some Practical Advice	article-journal	NBER Working Paper	2012	1060
 Required	"[{:family=>""Abadie"", :given=>""A.""}, {:family=>""Imbens"", :given=>""G.""}, {:others=>true}]"	Inference for Misspecified Models with Fixed Regressors	article-journal	Journal of the American Statistical Association	2014	1060
@@ -1522,7 +1521,7 @@ Optional	"[{:family=>""Kozbur"", :given=>""D.""}]"	Inference in Additively Separ
 Optional	"[{:family=>""Belloni"", :given=>""A.""}, {:family=>""Chernozhukov"", :given=>""V.""}, {:others=>true}]"	Uniform Post Selection Inference for Least Absolute Deviation Regression and other Z-estimation Problems	article-journal	Biometrika	2012	1060
 Optional	"[{:family=>""Belloni"", :given=>""A.""}, {:family=>""Chernozhukov"", :given=>""V.""}, {:others=>true}]"	Program Evaluation with High-dimensional Data			2013	1060
 Required	"[{:family=>""Andreoni"", :given=>""J.""}]"	Impure Altruism and Donation to Public Goods; A Theory of Warm Glow Giving	article-journal	Economic Journal	1990	1074
-Required	"[{:literal=>""———.""}]"	An Experimental Test of the Public Goods Crowding Out Hypothesis	article-journal	American Economic Review	1993-12	1074
+Required	"[{:family=>""Andreoni"", :given=>""J.""}]"	An Experimental Test of the Public Goods Crowding Out Hypothesis	article-journal	American Economic Review	1993-12	1074
 Required	"[{:family=>""Bergstrom"", :given=>""T.""}, {:family=>""Blume"", :given=>""L.""}, {:family=>""Varian"", :given=>""H.""}]"	On the Private Provision of Public Goods	article-journal	Journal of Public Economics	1986	1074
 Required	"[{:family=>""Kingma"", :given=>""B.""}]"	An Accurate Measurement of the Crowd-Out Effect	article-journal	Journal of Political Economy	1989-10	1074
 Required	"[{:family=>""Ledyard"", :given=>""J.""}]"	Public Goods: A Survey of Experimental Research	chapter	The Handbook of Experimental Economics	1995	1074
@@ -1535,7 +1534,7 @@ Required	"[{:family=>""Kaplow"", :given=>""L.""}]"	The Optimal Supply of Public 
 Required	"[{:family=>""King"", :given=>""M.""}]"	A Pigouvian Rule for the Optimal Provision of Public Goods	article-journal	Journal of Public Economics	1986	1074
 Required	"[{:family=>""Atkinson"", :given=>""A.B.""}]"	The Income Tax Treatment of Charitable Contributions	chapter	Essays in the Honor of William S. Vickrey	1976	1074
 Required	"[{:family=>""Clotfelter"", :given=>""C.""}]"	Federal Tax Policy and Charitable Giving			1985	1074
-Required	"[{:literal=>""———.""}]"	The Impact of Tax Reform on Charitable Giving: A 1989 Perspective	chapter	Do Taxes Matter?	1990	1074
+Required	"[{:family=>""Clotfelter"", :given=>""C.""}]"	The Impact of Tax Reform on Charitable Giving: A 1989 Perspective	chapter	Do Taxes Matter?	1990	1074
 Required	"[{:family=>""Diamond"", :given=>""P.""}]"	Optimal Tax Treatment of Private Contributions for Public Goods with and without Warm Glow Preferences	book			1074
 Required	"[{:family=>""Feldstein"", :given=>""M.""}]"	A Contribution to the Theory of Tax Expenditures; The Case of Charitable Giving	chapter	The Economics of Taxation	1980	1074
 Required	"[{:family=>""Reece"", :given=>""W.""}, {:family=>""Zieschung"", :given=>""K.""}]"	Consistent Estimation of the Impact of Tax Deductibility on the Level of Charitable Contributions	article-journal	Econometrica	1985	1074
@@ -1544,7 +1543,7 @@ Required	"[{:family=>""Altonji"", :given=>""J.""}, {:family=>""Hayashi"", :given
 Required	"[{:family=>""Bernheim"", :given=>""A.""}, {:family=>""Shleifer"", :given=>""A.""}, {:family=>""Summers"", :given=>""L.""}]"	The Strategic Bequest Motive	article-journal	Journal of Political Economy	1985-12	1074
 Required	"[{:family=>""Carroll"", :given=>""Christopher D.""}]"	Why do the Rich Save so Much	chapter	Does Atlas Shrug? The Economic Consequences of Taxing the Rich	2000	1074
 Required	"[{:family=>""Hurd"", :given=>""M.""}]"	Savings of the Elderly and Desired Bequests	article-journal	American Economic Review	1987	1074
-Required	"[{:literal=>""———.""}]"	Mortality Risk and Bequests	article-journal	Econometrica	1989	1074
+Required	"[{:family=>""Hurd"", :given=>""M.""}]"	Mortality Risk and Bequests	article-journal	Econometrica	1989	1074
 Required	"[{:family=>""Wilhelm"", :given=>""M.""}]"	Bequest Behavior and the Effect of Heirs Earnings: Testing the Altruistic Model of Bequests	article-journal	American Economic Review	1996-09	1074
 Required	"[{:family=>""Brown"", :given=>""J.""}]"	How Should We Insure Longevity Risk in Pensions and Social Security?			2000-08	1074
 Required	"[{:family=>""Brown"", :given=>""J.""}, {:family=>""al"", :particle=>""et.""}]"	The Role of Annuity Markets in Financing Retirement			2001	1074
@@ -1553,10 +1552,10 @@ Required	"[{:family=>""Brown"", :given=>""J.""}, {:family=>""Poterba"", :given=>
 Required	"[{:family=>""Brown"", :given=>""J.""}, {:family=>""Mitchell"", :given=>""O.""}, {:family=>""Poterba"", :given=>""J.""}, {:family=>""Warshawsky"", :given=>""M.""}]"	Taxing Retirement Income: Non-Qualified Annuities and Distributions from Qualified Accounts	article-journal	The National Tax Journal	1999-09	1074
 Required	"[{:family=>""Brown"", :given=>""J.""}, {:family=>""Warshawsky"", :given=>""M.""}]"	Longevity-Insured Retirement Distributions from Pension Plans: Regulatory and Market Issues	chapter	Public Policies and Private Pensions		1074
 Required	"[{:family=>""Brown"", :given=>""J.""}]"	Are the Elderly Really Over-Annuitized? New Evidence on Life Insurance and Bequests	chapter	Themes in the Economics of Aging	2001	1074
-Required	"[{:literal=>""———.""}]"	Redistribution and Insurance: Mandatory Annuitization with Mortality Heterogeneity	article-journal	Center for Retirement Research working paper	2001-03	1074
+Required	"[{:family=>""Brown"", :given=>""J.""}]"	Redistribution and Insurance: Mandatory Annuitization with Mortality Heterogeneity	article-journal	Center for Retirement Research working paper	2001-03	1074
 Required	"[{:family=>""Brown"", :given=>""J.""}, {:family=>""Mitchell"", :given=>""O.""}, {:family=>""Poterba"", :given=>""J.""}]"	The Role of Real Annuities and Indexed Bonds in an Individual Accounts Retirement Program	chapter	Risk Aspects of Investment-Based Social Security Reform	2001	1074
 Required	"[{:family=>""Brown"", :given=>""J.""}]"	Mortality Risk	chapter	NBER Working Paper No. 7812 and forthcoming in Financial Innovations in Retirement Income	2000	1074
-Required	"[{:literal=>""———.""}]"	Differential Mortality and the Value of Individual Account Retirement Annuities	chapter	NBER Working Paper No. 7560		1074
+Required	"[{:family=>""Brown"", :given=>""J.""}]"	Differential Mortality and the Value of Individual Account Retirement Annuities	chapter	NBER Working Paper No. 7560		1074
 Required	"[{:family=>""Brugiavini"", :given=>""A.""}]"	Uncertainty Resolution and the Timing of Annuity Purchases	article-journal	Journal of Public Economics	1993	1074
 Required	"[{:family=>""Davidoff"", :given=>""T.""}, {:family=>""Brown"", :given=>""J.""}, {:family=>""Diamond"", :given=>""P.""}]"	Annuities and Individual Welfare	article-journal	NBER Working Paper	2003	1074
 Required	"[{:family=>""B."", :given=>""Friedman""}, {:family=>""Warshawsky"", :given=>""M.""}]"	The Cost of Annuities: Implications for Saving Behavior and Bequests	article-journal	Quarterly Journal of Economics	1990	1074
@@ -1577,27 +1576,27 @@ Required	"[{:family=>""Joulfaian"", :given=>""D.""}]"	Estate Taxes and Charitabl
 Required	"[{:family=>""Jousten"", :given=>""A.""}]"	Life-cycle Modeling of Bequests and their Impact on Annuity Valuation	article-journal	Journal of Public Economics	2001-01	1074
 Required	"[{:family=>""Kaplow"", :given=>""L.""}]"	A Framework for Assessing Estate and Gift Taxation				1074
 Required	"[{:family=>""Kopczuk"", :given=>""W.""}]"	The Trick is to Live: Is the Estate Tax Social Security for the Rich?	chapter	NBER Working Paper 9188		1074
-Required	"[{:literal=>""———.""}]"	Optimal Estate Taxation in the Steady State?	manuscript			1074
+Required	"[{:family=>""Kopczuk"", :given=>""W.""}]"	Optimal Estate Taxation in the Steady State?	manuscript			1074
 Required	"[{:family=>""Laitner"", :given=>""J.""}, {:family=>""Ohlsson"", :given=>""H.""}]"	Bequest Motives: A Comparison of Sweden and the United States	article-journal	Journal of Public Economics	2001-01	1074
 Required	"[{:family=>""McGarry"", :given=>""K.""}]"	The Cost of Equality: Unequal Bequests and Tax Avoidance	article-journal	Journal of Public Economics	2001-01	1074
-Required	"[{:literal=>""———.""}]"	Inter Vivos Transfers or Bequests? Estate Taxes and the Timing of Parental Giving	article-journal	Tax Policy and the Economy	2000	1074
+Required	"[{:family=>""McGarry"", :given=>""K.""}]"	Inter Vivos Transfers or Bequests? Estate Taxes and the Timing of Parental Giving	article-journal	Tax Policy and the Economy	2000	1074
 Required	"[{:family=>""Munnell"", :given=>""A.""}, {:family=>""Sunden"", :given=>""A.""}]"	Death and Dollars			2003	1074
 Required	"[{:family=>""Poterba"", :given=>""J.""}]"	The Estate Tax and After-Tax Investment Returns	article-journal	NBER Working Paper	1997-12	1074
-Required	"[{:literal=>""———.""}]"	The Estate and Gift Tax and Inter Vivos Giving in the United States	article-journal	Journal of Public Economics	2001-01	1074
+Required	"[{:family=>""Poterba"", :given=>""J.""}]"	The Estate and Gift Tax and Inter Vivos Giving in the United States	article-journal	Journal of Public Economics	2001-01	1074
 Required	"[{:family=>""Saez"", :given=>""E.""}]"	The Desirability of Commodity Taxation under Non-Linear Income Taxation and Heterogeneous Tastes	article-journal	NBER Working Paper	2000	1074
 Required	"[{:family=>""Atkinson"", :given=>""A.B.""}]"	Income Maintenance and Social Insurance	chapter	Handbook of Public Economics	1987	1074
 Required	"[{:family=>""Diamond"", :given=>""P.""}]"	A Framework for Social Security Analysis	article-journal	Journal of Public Economics	1977	1074
-Required	"[{:literal=>""———.""}]"	Government Provision and Regulation of Economic Support in Old Age	paper-conference	Proceedings of the Seventh Annual World Bank Conference on Development Economics	1995	1074
+Required	"[{:family=>""Diamond"", :given=>""P.""}]"	Government Provision and Regulation of Economic Support in Old Age	paper-conference	Proceedings of the Seventh Annual World Bank Conference on Development Economics	1995	1074
 Required	"[{:family=>""Feldstein"", :given=>""M.""}]"	Social Insurance	article-journal	Public Policy	1977	1074
-Required	"[{:literal=>""———.""}]"	Seven Principles of Social Insurance	article-journal	Challenge	1976-11	1074
+Required	"[{:family=>""Feldstein"", :given=>""M.""}]"	Seven Principles of Social Insurance	article-journal	Challenge	1976-11	1074
 Required	"[{:family=>""Weizsaecker"", :given=>""J.von""}]"	Hayek’s Obvious Corollary	chapter	CESifo Working Paper	2003	1074
 Required	"[{:family=>""Diamond"", :given=>""P.Taxation""}, {:family=>""Markets"", :given=>""Incomplete""}, {:family=>""Security"", :given=>""Social""}]"	The 2000 Munich Lectures			2002	1074
 Required	"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Mirrlees"", :given=>""J.""}]"	A Model of Social Insurance with Variable Retirement	article-journal	Journal of Public Economics	1978	1074
-Required	"[{:literal=>""———.""}]"	Social Insurance with Variable Retirement and Private Saving	article-journal	Journal of Public Economics		1074
-Required	"[{:literal=>""———.""}]"	Payroll-Tax Financed Social Security with Variable Retirement	article-journal	Scandinavian Journal of Economics	1986	1074
+Required	"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Mirrlees"", :given=>""J.""}]"	Social Insurance with Variable Retirement and Private Saving	article-journal	Journal of Public Economics		1074
+Required	"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Mirrlees"", :given=>""J.""}]"	Payroll-Tax Financed Social Security with Variable Retirement	article-journal	Scandinavian Journal of Economics	1986	1074
 Required	"[{:family=>""Eckstein"", :given=>""Z.""}, {:family=>""Eichenbaum"", :given=>""M.""}, {:family=>""Peled"", :given=>""D.""}]"	Uncertain Lifetimes and the Welfare Enhancing Properties of Annuity Markets and Social Security	article-journal	Journal of Public Economics	1985	1074
 Required	"[{:family=>""Feldstein"", :given=>""M.""}]"	Should Social Security Be Means Tested?	article-journal	Journal of Political Economy	1987	1074
-Required	"[{:literal=>""———.""}]"	Should Social Security Benefits Increase with Age?	chapter	NBER Working Paper 2200	1987-03	1074
+Required	"[{:family=>""Feldstein"", :given=>""M.""}]"	Should Social Security Benefits Increase with Age?	chapter	NBER Working Paper 2200	1987-03	1074
 Required	"[{:family=>""Hubbard"", :given=>""R.G.""}, {:family=>""Judd"", :given=>""K.""}]"	Social Security and Individual Welfare: Precautionary Saving	article-journal	American Economic Review	1987-09	1074
 Required	"[{:family=>""Banks"", :given=>""J.""}, {:family=>""Blundell"", :given=>""R.""}, {:family=>""Tanner"", :given=>""S.""}]"	Is There a Retirement-Savings Puzzle?	article-journal	The American Economic Review	1998-09	1074
 Required	"[{:family=>""Bernheim"", :given=>""D.""}, {:family=>""Skinner"", :given=>""J.""}, {:family=>""Weinberg"", :given=>""S.""}]"	What Accounts for the Variation in Retirement Wealth Among U.S	article-journal	Households?” American Economic Review	2001	1074
@@ -1616,35 +1615,35 @@ Required	"[{:family=>""Samwick"", :given=>""A.""}]"	New Evidence on Pensions	art
 Required	"[{:family=>""Stock"", :given=>""J.""}, {:family=>""Wise"", :given=>""D.""}]"	Pensions	article-journal	Econometrica	1990-09	1074
 Required	"[{:family=>""Stewart"", :given=>""J.""}]"	Do Older Workers Respond to Changes in Social Security Benefits? A Look at the Time Series Evidence				1074
 Required	"[{:family=>""Abel"", :given=>""A.B.""}]"	Precautionary savings and accidental bequests	article-journal	American Economic Review	1985-09	1074
-Required	"[{:literal=>""———.""}]"	Capital Accumulation and Uncertain Lifetimes with Adverse Selection	article-journal	Econometrica	1986-09	1074
-Required	"[{:literal=>""———.""}]"	The Social Security Trust Fund	article-journal	NBER Working paper	1999	1074
+Required	"[{:family=>""Abel"", :given=>""A.B.""}]"	Capital Accumulation and Uncertain Lifetimes with Adverse Selection	article-journal	Econometrica	1986-09	1074
+Required	"[{:family=>""Abel"", :given=>""A.B.""}]"	The Social Security Trust Fund	article-journal	NBER Working paper	1999	1074
 Required	"[{:family=>""Abel"", :given=>""Andrew B.""}]"	‘The Effects of Investing Social Security Funds	article-journal	American Economic Review	2001-03	1074
 Required	"[{:family=>""Ball"", :given=>""Lawrence""}, {:family=>""Mankiw"", :given=>""N.Gregory""}]"	Intergenerational risk Sharing in the Spirit of Arrow	manuscript			1074
 Required	"[{:family=>""Bohn"", :given=>""H.""}]"	Will Social Security and Medicare Remain Viable as the U.S. Population is Aging?	article-journal	Carnegie-Rochester Conference Series on Public Policy 50	1999-06	1074
-Required	"[{:literal=>""———.""}]"	Risk Sharing in a Stochastic Overlapping Generations Economy	manuscript			1074
+Required	"[{:family=>""Bohn"", :given=>""H.""}]"	Risk Sharing in a Stochastic Overlapping Generations Economy	manuscript			1074
 Required	"[{:literal=>""———""}]"	Should the Social Security Trust Fund Hold Equities? An Intergenerational Welfare Analysis	article-journal	Review of Economic Dynamics	1999	1074
 Required	"[{:family=>""Boldrin"", :given=>""M.""}, {:family=>""Rustichini"", :given=>""A.""}]"	Equilibria with Social Security			1995	1074
 Required	"[{:family=>""Breyer"", :given=>""F.""}]"	On the Intergenerational Pareto Efficiency of Pay-as-you-go Financed Pension Systems	article-journal	Journal of Institutional and Theoretical Economics	1989	1074
 Required	"[{:family=>""Breyer"", :given=>""F.""}, {:family=>""Straub"", :given=>""M.""}]"	Welfare Effects of Unfunded Pension Systems When Labor Supply is Endogenous	article-journal	Journal of Public Economics	1993	1074
 Required	"[{:family=>""Breyer"", :given=>""F.""}]"	Why Funding is not a Solution to the ‘Social Security Crisis’	article-journal	IZA DP	2001	1074
 Required	"[{:family=>""Brunner"", :given=>""J.K.""}]"	Redistribution and Efficiency of a Pay-as-you-go Pension System	article-journal	Journal of Institutional and Theoretical Economics	1994	1074
-Required	"[{:literal=>""———.""}]"	Transition from a Pay-as-you-go to a Fully Funded Pension System: the Case of Differing Individuals and Intragenerational Fairness	article-journal	Journal of Public Economics	1996	1074
+Required	"[{:family=>""Brunner"", :given=>""J.K.""}]"	Transition from a Pay-as-you-go to a Fully Funded Pension System: the Case of Differing Individuals and Intragenerational Fairness	article-journal	Journal of Public Economics	1996	1074
 Required	"[{:family=>""Constantinides"", :given=>""G.""}, {:family=>""Donaldosn"", :given=>""J.""}, {:family=>""Mehra"", :given=>""R.""}]"	Junior Must Pay: Pricing the Implicit Put in Privatizing Social Security	manuscript			1074
 Required	"[{:family=>""Demange"", :given=>""G.""}, {:family=>""Laroque"", :given=>""G.""}]"	Social Security and Demographic Shocks	article-journal	Econometrica	1999	1074
 Required	"[{:family=>""Diamond"", :given=>""P.""}]"	Macroeconomic Aspects of Social Security Reform	article-journal	Brookings Papers on Economic Activity	1997	1074
 Required	"[{:family=>""Diamond"", :given=>""P.""}, {:given=>""J.""}]"	Geanakoplos.“Social Security Investment in Equities	article-journal	American Economic Review	2003	1074
 Required	"[{:family=>""Dutta"", :given=>""J.""}, {:family=>""Kapur"", :given=>""S.""}, {:family=>""Orszag"", :given=>""M.""}]"	How to Fund Pensions: Income Uncertainty and Risk-aversion	book			1074
-Required	"[{:literal=>""———.""}]"	A Portfolio Approach to the Optimal Funding of Pensions	chapter	Birkbeck Economics WP		1074
+Required	"[{:family=>""Dutta"", :given=>""J.""}, {:family=>""Kapur"", :given=>""S.""}, {:family=>""Orszag"", :given=>""M.""}]"	A Portfolio Approach to the Optimal Funding of Pensions	chapter	Birkbeck Economics WP		1074
 Required	"[{:family=>""Enders"", :given=>""W.""}, {:family=>""Lapan"", :given=>""H.""}]"	Social Security Taxation and Intergenerational Risk Sharing	article-journal	International Economic Review	1982	1074
 Required	"[{:family=>""Feldstein"", :given=>""M.""}]"	The Optimal Level of Social Security Benefits	article-journal	Quarterly Journal of Economics	1985-05	1074
-Required	"[{:literal=>""———.""}]"	Imperfect Annuity Markets	article-journal	Journal of Public Economics	1990-02	1074
+Required	"[{:family=>""Feldstein"", :given=>""M.""}]"	Imperfect Annuity Markets	article-journal	Journal of Public Economics	1990-02	1074
 Required	"[{:family=>""Fenge"", :given=>""R.""}]"	Pareto-efficiency of the pay-as-you-go Pension System with Intrageneratinal Fairness	article-journal	Finanz Archiv	1995	1074
 Required	"[{:family=>""Gale"", :given=>""D.""}]"	The Efficient Design of Public Debt	chapter	Public Debt Management: Theory and History	1990	1074
 Required	"[{:family=>""Green"", :given=>""J.""}]"	Demographics			1988	1074
 Required	"[{:family=>""Hassler"", :given=>""J.""}, {:family=>""and"", :given=>""A.Lindbeck""}]"	Intergenerational Risk Sharing	article-journal	Centre for Economic Policy Research Discussion Paper	1997	1074
 Required	"[{:family=>""Jones"", :given=>""L.""}, {:family=>""Manuelli"", :given=>""R.""}, {:family=>""Rossi"", :given=>""P.""}]"	Optimal Taxation in Models of Endogenous Growth	article-journal	Journal of Political Economy	1993-06	1074
 Required	"[{:family=>""Karni"", :given=>""E.""}, {:family=>""Zilcha"", :given=>""I.""}]"	Aggregate and Distributional Effects of Fair Social Security	article-journal	Journal of Public Economics	1989	1074
-Required	"[{:literal=>""———.""}]"	Welfare and Comparative Stastics Implications of Fair Social Security: A Steady-State Analysis	article-journal	Journal of Public Economics	1986	1074
+Required	"[{:family=>""Karni"", :given=>""E.""}, {:family=>""Zilcha"", :given=>""I.""}]"	Welfare and Comparative Stastics Implications of Fair Social Security: A Steady-State Analysis	article-journal	Journal of Public Economics	1986	1074
 Required	"[{:family=>""Merton"", :given=>""R.C.""}]"	On the Role of Social Security as a Means for Efficient Risk Sharing in an Economy where Human Capital is not Tradable_._	chapter	Financial Aspects of the US Pension System		1074
 Required	"[{:family=>""Miles"", :given=>""D.""}]"	Funded and Unfunded Pension Schemes: Risk Return and Welfare	chapter	CESifo WP	2000	1074
 Required	"[{:family=>""Palmer"", :given=>""E.""}]"	Individual Decisions and Aggregate Stability in the NDC System	manuscript			1074
@@ -1658,15 +1657,15 @@ Required	"[{:family=>""Coronado"", :given=>""J.""}, {:family=>""Fullerton"", :gi
 Required	"[{:family=>""Cutler"", :given=>""D.""}, {:family=>""Poterba"", :given=>""J.""}, {:family=>""Sheiner"", :given=>""L.""}, {:family=>""Summers"", :given=>""L.""}]"	An Aging Society: Challenge or Opportunity?	article-journal	Brookings Papers on Economic Activity	1990	1074
 Required	"[{:family=>""Nardi"", :given=>""M."", :particle=>""De""}, {:family=>""Imrohoroglu"", :given=>""S.""}, {:family=>""Sargent"", :given=>""T.J.""}]"	Projected US Demographics and Social Security	manuscript			1074
 Required	"[{:family=>""Diamond"", :given=>""P.""}]"	Privatization of Social Security: Lessons from Chile	article-journal	Revista de Analisis Economico	1994	1074
-Required	"[{:literal=>""———.""}]"	Insulation of Pensions from Political Risk	chapter	Forthcoming in The Economics of Pensions: Principles		1074
+Required	"[{:family=>""Diamond"", :given=>""P.""}]"	Insulation of Pensions from Political Risk	chapter	Forthcoming in The Economics of Pensions: Principles		1074
 Required	"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Orszag"", :given=>""P.""}]"	An Assessment of the Proposals of the President’s Commission to Strengthen Social Security	article-journal	Contributions to Economic Analysis & Policy	2002	1074
-Required	"[{:literal=>""———.""}]"	Saving Social Security			2004	1074
+Required	"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Orszag"", :given=>""P.""}]"	Saving Social Security			2004	1074
 Required	"[{:family=>""Disney"", :given=>""R.""}]"	Notional Accounts as a Pension Reform Strategy: An Evaluation	manuscript			1074
 Required	"[{:family=>""Feldstein"", :given=>""M.""}]"	Would Privatizing Social Security Raise Economic Welfare?	article-journal	NBER Working Paper	1995-09	1074
 Required		———.“The Missing Piece in Policy Analysis: Social Security Reform	article-journal	American Economic Review	1996-05	1074
 Required		Privatizing Social Security			1998	1074
 Required	"[{:family=>""Gustman"", :given=>""A.""}, {:family=>""Steinmeier"", :given=>""T.""}]"	Privatizing Social Security: First Round Effects of a Generic	article-journal	NBER Working Paper	1995	1074
-Required	"[{:literal=>""———.""}]"	The New Social Security Commission Personal Accounts: Where is the Investment Principal?	article-journal	NBER Working Paper	2002	1074
+Required	"[{:family=>""Gustman"", :given=>""A.""}, {:family=>""Steinmeier"", :given=>""T.""}]"	The New Social Security Commission Personal Accounts: Where is the Investment Principal?	article-journal	NBER Working Paper	2002	1074
 Required	"[{:family=>""Holden"", :given=>""K.""}, {:family=>""Zick"", :given=>""C.""}]"	The Economic Impact of Widowhood in the United States in the 1990s: The Role of Social Insurance and Private Pensions	book		1997-06	1074
 Required	"[{:family=>""Liebman"", :given=>""J.""}]"	Redistribution in the Current Social Security System	chapter	NBER Working Paper 8625		1074
 Required	"[{:family=>""Lindbeck"", :given=>""Assar""}, {:family=>""Persson"", :given=>""Mats""}]"	The Gains from Pension Reform	article-journal	Journal of Economic Literature	2003-03	1074
@@ -1686,7 +1685,7 @@ Required	"[{:family=>""Cahuc"", :given=>""Pierre""}, {:family=>""Lehmann"", :giv
 Required	"[{:family=>""Chiu"", :given=>""W.""}, {:family=>""Karni"", :given=>""E.""}]"	Endogenous Adverse Selection and Unemployment Insurance	article-journal	Journal of Political Economy	1998	1074
 Required	"[{:family=>""Conerly"", :given=>""W.B.""}]"	Chile Leads the Way with Individual Unemployment Accounts	article-journal	National Center For Policy Analysis	2002	1074
 Required	"[{:family=>""Davidson"", :given=>""C.""}, {:family=>""Woodbury"", :given=>""S.""}]"	The Optimal Dole with Risk Aversion and Job Destruction	article-journal	U.S. Department of Labor	1998-02	1074
-Required	"[{:literal=>""———.""}]"	Further Aspects of Optimal Unemployment Insurance	chapter	Advisory Council on Unemployment Compensation: Background Papers	1996	1074
+Required	"[{:family=>""Davidson"", :given=>""C.""}, {:family=>""Woodbury"", :given=>""S.""}]"	Further Aspects of Optimal Unemployment Insurance	chapter	Advisory Council on Unemployment Compensation: Background Papers	1996	1074
 Required	"[{:family=>""Feldstein"", :given=>""M.""}]"	Temporary Layoffs in the Theory of Unemployment	article-journal	Journal of Political Economy	1976-10	1074
 Required	"[{:family=>""Feldstein"", :given=>""M.""}, {:family=>""Altman"", :given=>""D.""}]"	Unemployment Insurance Savings Accounts	article-journal	NBER Working Paper	1998-12	1074
 Required	"[{:family=>""Hansen"", :given=>""Gary""}, {:family=>""Imrohoroglu"", :given=>""Ayse""}]"	The Role of Unemployment Insurance in an Economy with Liquidity Constraints and Moral Hazard	article-journal	Journal of Political Economy	1992	1074
@@ -1701,15 +1700,15 @@ Required	"[{:family=>""Gruber"", :given=>""J.""}]"	The Consumption Smoothing Ben
 Required	"[{:family=>""Jones"", :given=>""S.""}, {:family=>""Kuhn"", :given=>""P.""}]"	Is Employed Job Search Really More Effective?				1074
 Required	"[{:family=>""Katz"", :given=>""L.""}, {:family=>""Meyer"", :given=>""B.""}]"	The Impact of the Potential Duration of Unemployment Benefits on the Duration of Unemployment	article-journal	Journal of Public Economics	1990-02	1074
 Required	"[{:family=>""Meyer"", :given=>""B.""}]"	Unemployment Insurance and Unemployment Spells	article-journal	Econometrica	1990-07	1074
-Required	"[{:literal=>""———.""}]"	A Quasi-Experimental Approach to the Effects of Unemployment Insurance	article-journal	NBER Working Paper	1989-11	1074
-Required	"[{:literal=>""———.""}]"	Lessons from the U.S. Unemployment Insurance Experiments	article-journal	Journal of Economic Literature	1995-03	1074
+Required	"[{:family=>""Meyer"", :given=>""B.""}]"	A Quasi-Experimental Approach to the Effects of Unemployment Insurance	article-journal	NBER Working Paper	1989-11	1074
+Required	"[{:family=>""Meyer"", :given=>""B.""}]"	Lessons from the U.S. Unemployment Insurance Experiments	article-journal	Journal of Economic Literature	1995-03	1074
 Required	"[{:family=>""Anderson"", :given=>""P.""}, {:family=>""Meyer"", :given=>""B.""}]"	The Unemployment Insurance Payroll Tax and Interindustry and Interfirm Subsidies	chapter	Tax Policy and the Economy	1993	1074
-Required	"[{:literal=>""———.""}]"	The Effects of Unemployment Insurance Taxes and Benefits on Layoffs Using Firm and Individual Data	article-journal	NBER Working Paper	1994	1074
+Required	"[{:family=>""Anderson"", :given=>""P.""}, {:family=>""Meyer"", :given=>""B.""}]"	The Effects of Unemployment Insurance Taxes and Benefits on Layoffs Using Firm and Individual Data	article-journal	NBER Working Paper	1994	1074
 Required	"[{:family=>""Topel"", :given=>""R.""}]"	On Layoffs and Unemployment Insurance	article-journal	American Economic Review	1983-09	1074
 Required	"[{:family=>""Fishback"", :given=>""P.""}, {:family=>""Kantor"", :given=>""S.""}]"	Did Workers Pay for the Passage of Workers’ Compensation Laws?	article-journal	Quarterly Journal of Economics	1995-08	1074
 Required	"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Krueger"", :given=>""A.""}]"	The Incidence of Mandated Employer-Provided Insurance: Lessons from the Workers’ Compensation Insurance	chapter	Tax Policy and the Economy	1991	1074
 Required	"[{:family=>""Krueger"", :given=>""A.""}]"	Incentive Effects of Workers Compensation Insurance	article-journal	Journal of Public Economics	1990-02	1074
-Required	"[{:literal=>""———.""}]"	Workers’ Compensation Insurance and the Duration of Workplace Injuries	article-journal	NBER Working Paper	1990	1074
+Required	"[{:family=>""Krueger"", :given=>""A.""}]"	Workers’ Compensation Insurance and the Duration of Workplace Injuries	article-journal	NBER Working Paper	1990	1074
 Required	"[{:family=>""Meyer"", :given=>""B.""}, {:family=>""Viscusi"", :given=>""K.""}, {:family=>""Durbin"", :given=>""D.""}]"	Workers’ Compensation and Injury Duration: Evidence from a Natural Experiment	article-journal	American Economic Review	1995-06	1074
 Required	"[{:family=>""Autor"", :given=>""D.""}, {:family=>""Duggan"", :given=>""M.""}]"	The Rise in Disability Recipiency and the Decline in Unemployment	chapter	NBER Working Paper 8336		1074
 Required	"[{:family=>""Bound"", :given=>""J.""}]"	The Health and Earnings of Rejected Disability Insurance Applicants	article-journal	American Economic Review	1989-06	1074
@@ -1718,7 +1717,7 @@ Required	"[{:family=>""Gruber"", :given=>""J.""}]"	Disability Insurance Benefits
 Required	"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Kubik"", :given=>""J.""}]"	Disability Insurance Rejection Rates and the Labor Supply of Older Workers	article-journal	NBER Working Paper	1994-11	1074
 Required	"[{:family=>""Kubik"", :given=>""J.""}]"	Incentives for the Identification and Treatment of Children with Disabilities: The Supplemental Security Income Program	article-journal	Journal of Public Economics	1999	1074
 Required	"[{:family=>""Parsons"", :given=>""D.""}]"	The Health and Earnings of Rejected Disability Insurance Applicants: Comment	article-journal	American Economic Review	1991-12	1074
-Required	"[{:literal=>""———.""}]"	Self-Screening in Targeted Public Transfer Programs	article-journal	Journal of Political Economy	1991-08	1074
+Required	"[{:family=>""Parsons"", :given=>""D.""}]"	Self-Screening in Targeted Public Transfer Programs	article-journal	Journal of Political Economy	1991-08	1074
 Required	"[{:family=>""Blank"", :given=>""R.""}, {:family=>""Card"", :given=>""D.""}, {:family=>""Robins"", :given=>""P.""}]"	Financial Incentives for Increasing Work Among Low-Income Families	chapter	Finding Jobs: Work and Welfare Reform	2000	1074
 Required	"[{:family=>""Blank"", :given=>""R.""}, {:family=>""Ruggles"", :given=>""P.""}]"	When Do Women Use Aid to Families with Dependent Children and Food and Food Stamps? The Dynamics of Eligibility versus Participation	article-journal	Journal of Human Resources	1996	1074
 Required	"[{:family=>""Gruber"", :given=>""J.""}]"	Cash Welfare as a Consumption Smoothing Device for Single Mothers	article-journal	Journal of Public Economics	2000-02	1074
@@ -1753,7 +1752,7 @@ Required	"[{:family=>""Simon"", :given=>""K.""}]"	Adverse Selection in Health In
 Required	"[{:family=>""Christine"", :given=>""Bishop""}]"	Where are the Missing Elders? The Decline in Nursing Home Use	article-journal	Health Affairs		1074
 Required	"[{:family=>""Blumberg"", :given=>""L.""}, {:family=>""Dubay"", :given=>""L.""}, {:family=>""Norton"", :given=>""S.""}]"	Did the Medicaid Expansions for Children Displace Private Insurance? An Analysis Using the SIPP	article-journal	Journal of Health Economics	2000-01	1074
 Required	"[{:family=>""Currie"", :given=>""J.""}, {:family=>""Gruber"", :given=>""J.""}]"	Saving Babies: The Efficacy and Cost of Recent Changes in the Medicaid Eligibility of Pregnant Women	article-journal	Journal of Political Economy	1996-12	1074
-Required	"[{:literal=>""———.""}]"	Health Insurance Eligibility	article-journal	Quarterly Journal of Economics	1996-05	1074
+Required	"[{:family=>""Currie"", :given=>""J.""}, {:family=>""Gruber"", :given=>""J.""}]"	Health Insurance Eligibility	article-journal	Quarterly Journal of Economics	1996-05	1074
 Required	"[{:family=>""Currie"", :given=>""J.""}, {:family=>""Gruber"", :given=>""J.""}, {:family=>""Fischer"", :given=>""M.""}]"	Physician Payments and Infant Mortality: Evidence from Medicaid Fee Policy	article-journal	American Economic Review	1995-05	1074
 Required	"[{:family=>""Cutler"", :given=>""D.""}, {:family=>""Gruber"", :given=>""J.""}]"	Does Public Insurance Crowd Out Private Insurance?	article-journal	Quarterly Journal of Economics	1996-05	1074
 Required	"[{:family=>""Duggan"", :given=>""M.""}]"	Hospital Ownership and Public Medical Spending	article-journal	Quarterly Journal of Economics	2000-11	1074
@@ -1774,11 +1773,11 @@ Required	"[{:family=>""Finkelstein"", :given=>""A.""}]"	Minimum Standards and In
 Required	"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Owings"", :given=>""M.""}]"	Physician Financial Incentives and the Diffusion of Cesarean Section Delivery	article-journal	RAND Journal of Economics	1996	1074
 Required	"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Mayzlin"", :given=>""D.""}, {:family=>""Kim"", :given=>""J.""}]"	Physician Fees and Procedure Intensity: The Case of Cesarean Delivery	article-journal	Journal of Health Economics	1999-08	1074
 Required	"[{:family=>""Newhouse"", :given=>""J.""}]"	Reimbursing Health Plans and Health Providers: Selection versus Efficiency in Production	article-journal	Journal of Economic Literature	1996-09	1074
-Required	"[{:literal=>""———.""}]"	Medicare Policy in the 1990s	chapter	American Economic Policy During the 1990s		1074
+Required	"[{:family=>""Newhouse"", :given=>""J.""}]"	Medicare Policy in the 1990s	chapter	American Economic Policy During the 1990s		1074
 Required	"[{:family=>""Newhouse"", :given=>""J.""}, {:family=>""Byrne"", :given=>""D.""}]"	Did Medicare’s Prospective Payment System Cause Length of Stay to Fall?	article-journal	Journal of Health Economics	1988-12	1074
 Required	"[{:family=>""Institute"", :given=>""Urban""}]"	Can Competition Improve Medicare? A Look at Premium Support			1999-09	1074
 Required	"[{:family=>""Gruber"", :given=>""J.""}]"	The Incidence of Mandated Maternity Benefits	article-journal	American Economic Review	1994-06	1074
-Required	"[{:literal=>""———.""}]"	Health Insurance and the Labor Market	chapter	Handbook of Health Economics. ISBN		1074
+Required	"[{:family=>""Gruber"", :given=>""J.""}]"	Health Insurance and the Labor Market	chapter	Handbook of Health Economics. ISBN		1074
 Required	"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Madrian"", :given=>""B.""}]"	Health Insurance	article-journal	NBER Working Paper	2002-03	1074
 Required	"[{:family=>""Madrian"", :given=>""B.""}]"	Employment-Based Health Insurance and Job Mobility: Is There Evidence of Job Lock?	article-journal	Quarterly Journal of Economics	1994-02	1074
 Required	"[{:family=>""Sheiner"", :given=>""L.""}]"	Health Costs	chapter	Mimeo	1999	1074
@@ -1790,7 +1789,7 @@ Required	"[{:family=>""Chaloupka"", :given=>""Frank J.""}, {:family=>""Warner"",
 Required	"[{:family=>""Evans"", :given=>""William""}, {:family=>""Ringel"", :given=>""Jeanne""}, {:family=>""Stech"", :given=>""Diana""}]"	Tobacco Taxes and Public Policy to Discourage Smoking	chapter	Tax Policy and the Economy	1999	1074
 Required	"[{:family=>""Gruber"", :given=>""J.""}]"	Tobacco at the Crossroads: The Past and Future of Smoking Regulation in the United States	article-journal	Journal of Economic Perspectives	2001	1074
 Required	"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Koszegi"", :given=>""B.""}]"	Is Addiction ‘Rational’? Theory and Evidence	article-journal	Quarterly Journal of Economics	2001-11	1074
-Required	"[{:literal=>""———.""}]"	A Theory of Government Regulation of Addictive Bads: Optimal Tax Levels and Tax Incidence for Cigarette Taxation	article-journal	NBER Working Paper	2002-02	1074
+Required	"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Koszegi"", :given=>""B.""}]"	A Theory of Government Regulation of Addictive Bads: Optimal Tax Levels and Tax Incidence for Cigarette Taxation	article-journal	NBER Working Paper	2002-02	1074
 Required	"[{:family=>""Manning"", :given=>""Willard""}, {:family=>""al"", :particle=>""et.""}]"	The Taxes of Sin: Do Smokers and Drinkers Pay Their Way?	article-journal	Journal of the American Medical Association	1989	1074
 Optional	"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Feldstein"", :given=>""M.""}]"	Handbook of Public Economics			1985	1074
 Optional	"[{:family=>""Atkinson"", :given=>""A.""}, {:family=>""Stiglitz"", :given=>""J.""}]"	Lectures on Public Economics			1980	1074
@@ -1818,13 +1817,13 @@ Optional	"[{:family=>""Nevo"", :given=>""Aviv""}]"	Measuring Market Power in the
 Optional	"[{:family=>""Church"", :given=>""Jeffrey""}, {:family=>""Ware"", :given=>""Roger""}]"	Industrial Organization: A Strategic Approach			1999	1049
 Optional	"[{:family=>""Pepall"", :given=>""Lynne""}, {:family=>""Richards"", :given=>""Dan""}, {:family=>""Norman"", :given=>""George""}]"	Industrial Organization: Contemporary Theory and Empirical Applications			2008	1049
 Optional	"[{:family=>""Goldfarb"", :given=>""Avi""}, {:family=>""Tucker"", :given=>""Catherine""}]"	Advertising Bans and the Substitutability of Online and Offline Advertising	article-journal	May	2010	1049
-Optional	"[{:literal=>""———.""}]"	Privacy Regulation and Online Advertising	article-journal	Management Science	2010	1049
+Optional	"[{:family=>""Goldfarb"", :given=>""Avi""}, {:family=>""Tucker"", :given=>""Catherine""}]"	Privacy Regulation and Online Advertising	article-journal	Management Science	2010	1049
 Optional	"[{:family=>""Ellison"", :given=>""Sara Fisher""}, {:family=>""Snyder"", :given=>""Christopher M.""}]"	Countervailing Power in Wholesale Pharmaceuticals	article-journal	The Journal of Industrial Economics	2010	1049
 Optional	"[{:family=>""Lucking-Reiley"", :given=>""David""}]"	Auctions on the Internet: What’s Being Auctioned	article-journal	The Journal of Industrial Economics	2000	1049
-Optional	"[{:literal=>""———.""}]"	Vickrey Auctions in Practice: From Nineteenth Century Philately to Twenty-first Century E-commerce	article-journal	Journal of Economic Perspectives	2000	1049
+Optional	"[{:family=>""Lucking-Reiley"", :given=>""David""}]"	Vickrey Auctions in Practice: From Nineteenth Century Philately to Twenty-first Century E-commerce	article-journal	Journal of Economic Perspectives	2000	1049
 Optional	"[{:family=>""Ellison"", :given=>""Glenn""}, {:family=>""Fudenberg"", :given=>""Drew""}, {:others=>true}]"	Competing Auctions	article-journal	Journal of the European Economic Association	2004	1049
 Optional	"[{:family=>""Byers"", :given=>""John W.""}, {:family=>""Mitzenmacher"", :given=>""Michael""}, {:others=>true}]"	Daily Deals: Prediction	article-journal	September	2011	1049
-Optional	"[{:literal=>""———.""}]"	The Groupon Effect on Yelp Ratings: A Root Cause Analysis	article-journal	Association for Computing Machinery	2012	1049
+Optional	"[{:family=>""Byers"", :given=>""John W.""}, {:family=>""Mitzenmacher"", :given=>""Michael""}, {:others=>true}]"	The Groupon Effect on Yelp Ratings: A Root Cause Analysis	article-journal	Association for Computing Machinery	2012	1049
 Optional	"[{:family=>""Bajari"", :given=>""Patrick""}, {:family=>""Hortaçsu"", :given=>""Ali""}]"	Economic Insights from Internet Auctions	article-journal	Journal of Economic Literature	2004	1049
 Optional	"[{:family=>""Enos"", :given=>""Lori""}]"	Fees Cause Yahoo! Auctions to Drop More Than 80 Percent	article-journal	E-commerce Times	2001-02-13	1049
 Optional	"[{:family=>""Goolsbee"", :given=>""Austan""}]"	In a World Without Borders: The Impact of Taxes on Internet Commerce	article-journal	The Quarterly Journal of Economics	2000	1049
@@ -1851,9 +1850,9 @@ Required	"[{:family=>""Irwin"", :given=>""Douglas""}]"	Free Trade Under Fire			2
 Required	"[{:family=>""Deardorff"", :given=>""Alan""}, {:family=>""Stern"", :given=>""Robert""}]"	What the Public Should Know About Globalization and the World Trade Organization	article-journal	Research Seminar in International Economics	2000-07	1075
 Required	"[{:family=>""Irwin"", :given=>""Douglas""}]"	The United States in a New Global Economy? A Century’s Perspective	article-journal	The American Economic Review	1996	1075
 Required	"[{:family=>""Deardorff"", :given=>""Alan""}]"	Benefits and Costs of Following Comparative Advantage	article-journal	University of Michigan	1998	1075
-Required	"[{:literal=>""———.""}]"	In Praise of Cheap Labor	article-journal	Slate	1997-03	1075
+Required	"[{:family=>""Deardorff"", :given=>""Alan""}]"	In Praise of Cheap Labor	article-journal	Slate	1997-03	1075
 Required	"[{:family=>""Bastiat"", :given=>""Frédéric""}]"	Petition of the Candle Makers				1075
-Required	"[{:literal=>""———.""}]"	Economic Sophisms			2016	1075
+Required	"[{:family=>""Bastiat"", :given=>""Frédéric""}]"	Economic Sophisms			2016	1075
 Required	"[{:family=>""Freeman"", :given=>""Richard""}]"	Are Your Wages Set in Beijing?	article-journal	The Journal of Economic Perspectives	1995	1075
 Required	"[{:family=>""Rodrik"", :given=>""Dani""}]"	Has Globalization Gone Too Far			1997	1075
 Required	"[{:family=>""Feenstra"", :given=>""Robert C.""}]"	How Costly is Protectionism?	article-journal	The Journal of Economic Perspectives	1992	1075
@@ -1900,7 +1899,7 @@ Required	"[{:family=>""Angrist"", :given=>""Joshua""}, {:family=>""Bettinger"", 
 Required	"[{:family=>""Angrist"", :given=>""Joshua""}, {:family=>""Lang"", :given=>""Daniel""}, {:family=>""Oreopoulos"", :given=>""Philip""}]"	Incentives and Services for College Achievement: Evidence from a Randomized Trial	article-journal	American Economic Journal: Applied Economics	2009-01	1077
 Required	"[{:family=>""Card"", :given=>""David""}]"	The Causal Effect of Education on Earnings.” Chapter 30 in The Handbook of Labor Economics			1999	1077
 Required	"[{:family=>""Card"", :given=>""David""}, {:family=>""Krueger"", :given=>""Alan""}]"	Does School Quality Matter? Returns to Education and the Characteristics of Public Schools in the United States	article-journal	Journal of Political Economy	1992-02	1077
-Required	"[{:literal=>""———.""}]"	School Quality and Black-White Relative Earnings: A Direct Assessment	article-journal	Quarterly Journal of Economics	1992-02	1077
+Required	"[{:family=>""Card"", :given=>""David""}, {:family=>""Krueger"", :given=>""Alan""}]"	School Quality and Black-White Relative Earnings: A Direct Assessment	article-journal	Quarterly Journal of Economics	1992-02	1077
 Required	"[{:family=>""Welch"", :given=>""Finis""}]"	Black-White Differences in Returns to Schooling	article-journal	American Economic Review	1973-12	1077
 Required	"[{:family=>""Krueger"", :given=>""Alan""}]"	Experimental Estimates of the Education Production Functions	article-journal	Quarterly Journal of Economics	1999-05	1077
 Required	"[{:family=>""Angrist"", :given=>""Joshua""}, {:family=>""Lavy"", :given=>""Victor""}]"	New Evidence on Classroom Computers and Pupil Learning	article-journal	Economic Journal	2002-10	1077
@@ -1987,13 +1986,13 @@ Required	"[{:family=>""Slade"", :given=>""Margaret E.""}, {:family=>""Thille"", 
 Required	"[{:family=>""Arrow"", :given=>""Kenneth""}, {:others=>true}]"	Brief Amici Curiae” to the U.S. Supreme Court	book		2000-07	1062
 Required	"[{:family=>""Chay"", :given=>""Kenneth""}, {:family=>""Dobkin"", :given=>""Carlos""}, {:family=>""Greenstone"", :given=>""Michael""}]"	The Clean Air Act of 1970 and Adult Mortality	article-journal	Journal of Risk and Uncertainty	2003	1062
 Required	"[{:family=>""Chay"", :given=>""Kenneth""}, {:family=>""Greenstone"", :given=>""Michael""}]"	The Impact of Air Pollution on Infant Mortality: Evidence from Geographic Variation in Pollution Shocks Induced by a Recession	article-journal	Quarterly Journal of Economics	2003	1062
-Required	"[{:literal=>""———.""}]"	Air Quality	article-journal	NBER Working Paper	2003-10	1062
+Required	"[{:family=>""Chay"", :given=>""Kenneth""}, {:family=>""Greenstone"", :given=>""Michael""}]"	Air Quality	article-journal	NBER Working Paper	2003-10	1062
 Required	"[{:family=>""Dockery"", :given=>""Douglas W.""}, {:others=>true}]"	An Association Between Air Pollution and Mortality in Six U.S. Cities	article-journal	The New England Journal of Medicine	1993	1062
 Required	"[{:family=>""Lippmann"", :given=>""Morton""}, {:family=>""Ito"", :given=>""Kazuhiko""}, {:family=>""Nádas"", :given=>""Arthur""}, {:family=>""Burnett"", :given=>""Richard T.""}]"	Association of Particulate Matter Components with Daily Mortality and Morbidity in Urban Populations	article-journal	Health Effects Institute	2000	1062
 Required	"[{:family=>""Reinhardt"", :given=>""Forest""}, {:family=>""Trumbull"", :given=>""Gunnar""}, {:family=>""Hyman"", :given=>""Mikell""}, {:family=>""McGrath"", :given=>""Patia""}, {:family=>""Uludere"", :given=>""Nazli Zeynep""}]"	The Political Economy of Carbon Trading	article-journal	Harvard Business School Case. Harvard Business School Publishing. Case	2011-04-27	1062
 Required	"[{:family=>""Mendelsohn"", :given=>""Robert""}, {:family=>""Nordhaus"", :given=>""William D.""}, {:family=>""Shaw"", :given=>""Daigee""}]"	The Impact of Global Warming on Agriculture: A Ricardian Approach	article-journal	American Economic Review	1994	1062
 Required	"[{:family=>""Deschenes"", :given=>""Olivier""}, {:family=>""Greenstone"", :given=>""Michael""}]"	The Economic Impacts of Climate Change: Evidence from Agricultural Output and Random Fluctuations in Weather	article-journal	American Economic Review	2007	1062
-Required	"[{:literal=>""———.""}]"	Climate Change	chapter	Working Paper	2007	1062
+Required	"[{:family=>""Deschenes"", :given=>""Olivier""}, {:family=>""Greenstone"", :given=>""Michael""}]"	Climate Change	chapter	Working Paper	2007	1062
 Required	"[{:family=>""Guiteras"", :given=>""Raymond""}]"	The Impact of Climate Change on Indian Agriculture			2009	1062
 Required	"[{:family=>""Stern"", :given=>""Nicholas""}]"	The Economics of Climate Change	article-journal	American Economic Review	2008	1062
 Required	"[{:family=>""Nordhaus"", :given=>""William D.""}]"	A Review of the Stern Review on the Economics of Climate Change	article-journal	Journal of Economic Literature	2007	1062
@@ -2171,7 +2170,7 @@ Required	"[{:family=>""Bloom"", :given=>""Nicholas""}, {:family=>""Schankerman""
 Required	"[{:family=>""Jaffe"", :given=>""Adam B.""}, {:family=>""Trajtenberg"", :given=>""Manuel""}, {:family=>""Henderson"", :given=>""Rebecca""}]"	Geographic Localization of Knowledge Spillovers as Evidenced by Patent Citations	article-journal	The Quarterly Journal of Economics	1993	1066
 Required	"[{:family=>""Kerr"", :given=>""William R.""}]"	Ethnic Scientific Communities and International Technology Diffusion	article-journal	The Review of Economics and Statistics	2008	1066
 Required	"[{:family=>""Griliches"", :given=>""Zvi""}]"	Hybrid Corn: An Exploration in the Economics of Technological Change	article-journal	Econometrica	1957	1066
-Required	"[{:literal=>""———.""}]"	The Search for R&D Spillovers	article-journal	The Scandinavian Journal of Economics	1992	1066
+Required	"[{:family=>""Griliches"", :given=>""Zvi""}]"	The Search for R&D Spillovers	article-journal	The Scandinavian Journal of Economics	1992	1066
 Required	"[{:family=>""Irwin"", :given=>""Douglas A.""}, {:family=>""Klenow"", :given=>""Peter J.""}]"	Learning by Doing Spillovers in the Semiconductor Industry	article-journal	Journal of Political Economy	1994	1066
 Required	"[{:family=>""Blanchard"", :given=>""O.""}, {:family=>""Fischer"", :given=>""S.""}]"	Lectures on Macroeconomics			1989	1067
 Required	"[{:family=>""Obstfeld"", :given=>""M.""}, {:family=>""Rogoff"", :given=>""K.""}]"	Foundations of International Macroeconomics			1996	1067
@@ -2241,7 +2240,7 @@ Required	"[{:family=>""Poterba"", :given=>""J.""}]"	Tax Subsidies to Owner-Occup
 Required	"[{:family=>""Stroebel"", :given=>""J.""}, {:family=>""Floetotto"", :given=>""M.""}]"	Government Intervention in the Housing Market: Who Wins	book		2010	1073
 Required	"[{:family=>""Alesina"", :given=>""A.""}, {:family=>""Glaeser"", :given=>""E.""}, {:family=>""Sacerdote"", :given=>""B.""}]"	Work and Leisure in the U.S. and Europe: Why So Different?	chapter	NBER Macroeconomics Annual 2005	2006	1073
 Required	"[{:family=>""Blomquist"", :given=>""S.""}]"	Restrictions in Labor Supply Estimation: Is the MaCurdy Critique Correct?	article-journal	Economics Letters	1995	1073
-Required	"[{:literal=>""———.""}]"	Estimation Methods for Male Labor Supply Functions: How to Take Account of Nonlinear Taxes	article-journal	Journal of Econometrics	1996	1073
+Required	"[{:family=>""Blomquist"", :given=>""S.""}]"	Estimation Methods for Male Labor Supply Functions: How to Take Account of Nonlinear Taxes	article-journal	Journal of Econometrics	1996	1073
 Required	"[{:family=>""Blomquist"", :given=>""S.""}, {:family=>""Eklof"", :given=>""M.""}, {:others=>true}]"	Tax Reform Evaluation Using Nonparametric Methods: Sweden 1980-1991	article-journal	Journal of Public Economics	2001	1073
 Required	"[{:family=>""Blundell"", :given=>""R.""}, {:family=>""Duncan"", :given=>""A.""}, {:others=>true}]"	Estimating Labor Supply Responses Using Tax Reforms	article-journal	Econometrica	1998	1073
 Required	"[{:family=>""Blundell"", :given=>""R.""}, {:family=>""MaCurdy"", :given=>""T.""}]"	Labor Supply: A Review of Alternative Approaches	chapter	Handbook of Labor Economics	1999	1073
@@ -2260,9 +2259,9 @@ Required	"[{:family=>""Kleven"", :given=>""H.""}, {:family=>""Landais"", :given=
 Required	"[{:family=>""Kumar"", :given=>""A.""}]"	Labor Supply	article-journal	Journal of Public Economics	2008	1073
 Required	"[{:family=>""Ljunge"", :given=>""M.""}, {:family=>""Ragan"", :given=>""K.""}]"	Labor Supply and the Tax Reform of the Century			2005	1073
 Required	"[{:family=>""Ljungqvist"", :given=>""L.""}, {:family=>""Sargent"", :given=>""T.""}]"	Do Taxes Explain European Employment? Indivisible Labor	chapter	NBER Macroeconomics Annual 2006	2007	1073
-Required	"[{:literal=>""———.""}]"	Career Length: Effects of Curvature of Earnings Profiles	book		2010	1073
+Required	"[{:family=>""Ljungqvist"", :given=>""L.""}, {:family=>""Sargent"", :given=>""T.""}]"	Career Length: Effects of Curvature of Earnings Profiles	book		2010	1073
 Required	"[{:family=>""MaCurdy"", :given=>""T.""}]"	An Empirical Model of Labor Supply in a Lifecycle Setting	article-journal	Journal of Political Economy	1981	1073
-Required	"[{:literal=>""———.""}]"	Work Disincentive Effects of Taxes: A Reexamination of Some Evidence	article-journal	American Economic Review	1992	1073
+Required	"[{:family=>""MaCurdy"", :given=>""T.""}]"	Work Disincentive Effects of Taxes: A Reexamination of Some Evidence	article-journal	American Economic Review	1992	1073
 Required	"[{:family=>""Meghir"", :given=>""C.""}, {:family=>""Phillips"", :given=>""D.""}]"	Labor Supply and Taxes	article-journal	Dimensions of Tax Design: The Mirrlees Review. Edited by Institute for Fiscal Studies	2010	1073
 Required	"[{:family=>""Moffitt"", :given=>""R.""}, {:family=>""Wilhelm"", :given=>""M.""}]"	Taxes and Labor Supply Decisions of the Affluent	chapter	Does Atlas Shrug? The Economic Consequences of Taxing the Rich	2000	1073
 Required	"[{:family=>""Ohanian"", :given=>""L.""}, {:family=>""Raffo"", :given=>""A.""}, {:others=>true}]"	Long-Term Changes in Labor Supply and Taxes: Evidence from OECD Countries	article-journal	Journal of Monetary Economics	2008	1073
@@ -2288,10 +2287,10 @@ Required	"[{:family=>""Hotz"", :given=>""V.""}, {:family=>""Scholz"", :given=>""
 Required	"[{:family=>""Meyer"", :given=>""B.""}]"	Labor Supply at the Extensive and Intensive Margins: The EITC	article-journal	American Economic Review	2002	1073
 Required	"[{:family=>""Meyer"", :given=>""B.""}, {:family=>""Rosenbaum"", :given=>""D.""}]"	Making Single Mothers Work: Recent Tax and Welfare Policy and Its Effects	article-journal	National Tax Journal	2000	1073
 Required	"[{:family=>""Rothstein"", :given=>""J.""}]"	The Unintended Consequences of Encouraging Work: Tax Incidence and the EITC	article-journal	Working paper	2008-05	1073
-Required	"[{:literal=>""———.""}]"	Is the EITC as Good as an NIT? Conditional Cash Transfers and Tax Incidence	article-journal	American Economic Journal: Economic Policy	2010	1073
+Required	"[{:family=>""Rothstein"", :given=>""J.""}]"	Is the EITC as Good as an NIT? Conditional Cash Transfers and Tax Incidence	article-journal	American Economic Journal: Economic Policy	2010	1073
 Required	"[{:family=>""Bastani"", :given=>""S.""}, {:family=>""Selin"", :given=>""H.""}]"	Bunching and Non-Bunching at Kink Points of the Swedish Tax Schedule	article-journal	Working Paper		1073
 Required	"[{:family=>""Chetty"", :given=>""R.""}]"	Is the Taxable Income Elasticity Sufficient to Calculate Deadweight Loss? The Implications of Evasion and Avoidance	article-journal	American Economic Journal: Economic Policy	2009	1073
-Required	"[{:literal=>""———.""}]"	Bounds on Elasticities with Optimization Frictions: An Application to Taxation and Labor Supply	article-journal	NBER Working Paper	2009-12	1073
+Required	"[{:family=>""Chetty"", :given=>""R.""}]"	Bounds on Elasticities with Optimization Frictions: An Application to Taxation and Labor Supply	article-journal	NBER Working Paper	2009-12	1073
 Required	"[{:family=>""Feenberg"", :given=>""D.""}, {:family=>""Poterba"", :given=>""J.""}]"	Income Inequality and the Incomes of High Income Taxpayers: Evidence from Tax Returns	chapter	Tax Policy and the Economy	1993	1073
 Required	"[{:family=>""Feldstein"", :given=>""M.""}]"	The Effects of Marginal Tax Rates on Taxable Income: A Panel Study of the 1986 Tax Reform	article-journal	Journal of Political Economy	1995	1073
 Required	"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Saez"", :given=>""E.""}]"	The Elasticity of Taxable Income: Evidence and Implications	article-journal	Journal of Public Economics	2002	1073
@@ -2313,7 +2312,7 @@ Required	"[{:family=>""Dynan"", :given=>""K.""}, {:family=>""Skinner"", :given=>
 Required	"[{:family=>""Kotlikoff"", :given=>""L.""}]"	Intergenerational Transfers and Saving	article-journal	Journal of Economic Perspectives	1988	1073
 Required	"[{:family=>""Modigliani"", :given=>""F.""}]"	The Role of Intergenerational Transfers and Lifecycle Saving in the Accumulation of Wealth	article-journal	Journal of Economic Perspectives	1988	1073
 Required	"[{:family=>""Poterba"", :given=>""J.""}, {:family=>""Venti"", :given=>""S.""}, {:others=>true}]"	The Composition and Draw-Down of Wealth in Retirement	article-journal	Journal of Economic Perspectives	2011	1073
-Required	"[{:literal=>""———.""}]"	Were They Prepared for Retirement? Financial Status at Advanced Ages in the HRS and AHEAD Cohorts	chapter	Investigations in the Economics of Aging	2012	1073
+Required	"[{:family=>""Poterba"", :given=>""J.""}, {:family=>""Venti"", :given=>""S.""}, {:others=>true}]"	Were They Prepared for Retirement? Financial Status at Advanced Ages in the HRS and AHEAD Cohorts	chapter	Investigations in the Economics of Aging	2012	1073
 Required	"[{:family=>""Wilhelm"", :given=>""M.""}]"	Bequest Behavior and the Effect of Heirs Earnings: Testing the Altruistic Model of Bequests	article-journal	American Economic Review	1996	1073
 Required	"[{:literal=>""Angeletos, G. -M., D. Laibson, et al.""}]"	The Hyperbolic Consumption Model: Calibration	article-journal	Journal of Economic Perspectives	2001	1073
 Required	"[{:family=>""Atkinson"", :given=>""A.""}, {:family=>""Stiglitz"", :given=>""J.""}]"	Chapter 3 in Lectures in Public Economics			1980	1073
@@ -2346,10 +2345,10 @@ Required	"[{:family=>""Heim"", :given=>""B.""}, {:family=>""Lurie"", :given=>""I
 Required	"[{:family=>""Madrian"", :given=>""B.""}, {:family=>""Shea"", :given=>""D.""}]"	The Power of Suggestion: Inertia in 401(k) Participation and Saving Behavior	article-journal	Quarterly Journal of Economics	2001	1073
 Required	"[{:family=>""Milligan"", :given=>""K.""}]"	How Do Contribution Limits Affect Contributions to Tax-Preferred Saving Accounts?	article-journal	Journal of Public Economics	2003	1073
 Required	"[{:family=>""Poterba"", :given=>""J.""}, {:family=>""Venti"", :given=>""S.""}, {:others=>true}]"	Do 401(k) Contributions Crowd Out Other Personal Saving?	article-journal	Journal of Public Economics	1995	1073
-Required	"[{:literal=>""———.""}]"	How Retirement Saving Programs Increase Saving	article-journal	Journal of Economic Perspectives	1996	1073
+Required	"[{:family=>""Poterba"", :given=>""J.""}, {:family=>""Venti"", :given=>""S.""}, {:others=>true}]"	How Retirement Saving Programs Increase Saving	article-journal	Journal of Economic Perspectives	1996	1073
 Required	"[{:family=>""Selin"", :given=>""H.""}]"	Marginal Tax Rates and the Tax-Favoured Pension Savings of the Self-Employed: Evidence from Sweden	article-journal	Scandinavian Journal of Economics	2012	1073
 Required	"[{:family=>""Auerbach"", :given=>""A.""}]"	Taxation	article-journal	Journal of Economic Literature	1983	1073
-Required	"[{:literal=>""———.""}]"	The Tax Reform Act of 1986 and the Cost of Capital	article-journal	Journal of Economic Perspectives	1987	1073
+Required	"[{:family=>""Auerbach"", :given=>""A.""}]"	The Tax Reform Act of 1986 and the Cost of Capital	article-journal	Journal of Economic Perspectives	1987	1073
 Required	"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Devereux"", :given=>""M.""}, {:family=>""Simpson"", :given=>""H.""}]"	Taxing Corporate Income	article-journal	Dimensions of Tax Design: The Mirrlees Review. Edited by Institute for Fiscal Studies	2010	1073
 Required	"[{:family=>""Bernanke"", :given=>""B.""}, {:family=>""Bohn"", :given=>""H.""}, {:others=>true}]"	Alternative Non-nested Specification Tests of Time Series Investment Models	article-journal	Journal of Econometrics	1988	1073
 Required	"[{:family=>""Blundell"", :given=>""R.""}, {:others=>true}]"	Investment and Tobin’s Q: Evidence from Company Panel Data	article-journal	Journal of Econometrics	1992	1073
@@ -2368,7 +2367,7 @@ Required	"[{:family=>""Chen"", :given=>""Y.""}, {:family=>""He"", :given=>""Z.""
 Required	"[{:family=>""Fama"", :given=>""E.""}, {:family=>""French"", :given=>""K.""}]"	Financing Decisions: Who Issues Stock?	article-journal	Journal of Financial Economics	2005	1073
 Required	"[{:family=>""Givoly"", :given=>""D.""}, {:others=>true}]"	Taxes & Capital Structure: Evidence from Firms’ Responses to the Tax Reform Act of 1986	article-journal	Review of Financial Studies	1992	1073
 Required	"[{:family=>""Graham"", :given=>""J.""}]"	A Review of Taxes and Corporate Finance	article-journal	Foundations and Trends in Finance	2006	1073
-Required	"[{:literal=>""———.""}]"	How Big Are the Tax Benefits of Debt?	article-journal	Journal of Finance	2000	1073
+Required	"[{:family=>""Graham"", :given=>""J.""}]"	How Big Are the Tax Benefits of Debt?	article-journal	Journal of Finance	2000	1073
 Required	"[{:family=>""Mackie-Mason"", :given=>""J.""}]"	Do Taxes Affect Corporate Financing Decisions	article-journal	Journal of Finance	1990	1073
 Required	"[{:family=>""Miller"", :given=>""M.""}]"	Debt and Taxes	article-journal	Journal of Finance	1977	1073
 Required	"[{:family=>""Myers"", :given=>""S.""}]"	Financing of Corporations	chapter	Handbook of the Economics of Finance	2003	1073
@@ -2376,7 +2375,7 @@ Required	"[{:family=>""Binsbergen"", :given=>""J.van""}, {:family=>""Graham"", :
 Required	"[{:family=>""Allen"", :given=>""F.""}, {:family=>""Michaely"", :given=>""R.""}]"	Payout Policy	chapter	Handbook of the Economics of Finance	2003	1073
 Required	"[{:family=>""Auerbach"", :given=>""A.""}]"	Taxation and Corporate Financial Policy	chapter	Handbook of Public Economics	2002	1073
 Required	"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Hassett"", :given=>""K.""}]"	On the Marginal Source of Investment Funds	article-journal	Journal of Public Economics	2003	1073
-Required	"[{:literal=>""———.""}]"	The 2003 Dividend Tax Cuts and the Value of the Firm: An Event Study	chapter	Taxing Capital Income in the 21st Century	2007	1073
+Required	"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Hassett"", :given=>""K.""}]"	The 2003 Dividend Tax Cuts and the Value of the Firm: An Event Study	chapter	Taxing Capital Income in the 21st Century	2007	1073
 Required	"[{:family=>""Bagwell"", :given=>""L.""}, {:family=>""Shoven"", :given=>""J.""}]"	Cash Distributions to Shareholders	article-journal	Journal of Economic Perspectives	1989	1073
 Required	"[{:family=>""Baker"", :given=>""M.""}, {:family=>""Nagel"", :given=>""S.""}, {:others=>true}]"	The Effect of Dividends on Consumption	article-journal	Brookings Papers on Economic Activity	2007	1073
 Required	"[{:family=>""Bernheim"", :given=>""D.""}]"	Tax Policy and the Dividend Puzzle	article-journal	RAND Journal of Economics	1991	1073
@@ -2384,7 +2383,7 @@ Required	"[{:family=>""Bernheim"", :given=>""D.""}, {:family=>""Wantz"", :given=
 Required	"[{:family=>""Brav"", :given=>""A.""}, {:family=>""Graham"", :given=>""J.""}, {:others=>true}]"	The Effect of the May 2003 Dividend Tax Cut on Corporate Dividend Policy: Empirical and Survey Evdience	article-journal	National Tax Journal	2008	1073
 Required	"[{:family=>""Brown"", :given=>""J.""}, {:family=>""Liang"", :given=>""N.""}, {:others=>true}]"	Executive Financial Incentives and Payout Policy: Firm Responses to the 2003 Dividend Tax Cut	article-journal	Journal of Finance	2007	1073
 Required	"[{:family=>""Chetty"", :given=>""R.""}, {:family=>""Saez"", :given=>""E.""}]"	Dividend Taxes and Corporate Behavior: Evidence from the 2003 Dividend Tax Cut	article-journal	Quarterly Journal of Economics	2005	1073
-Required	"[{:literal=>""———.""}]"	Dividends and Corporate Taxation in an Agency Model of the Firm	article-journal	American Economic Journal: Economic Policy	2010	1073
+Required	"[{:family=>""Chetty"", :given=>""R.""}, {:family=>""Saez"", :given=>""E.""}]"	Dividends and Corporate Taxation in an Agency Model of the Firm	article-journal	American Economic Journal: Economic Policy	2010	1073
 Required	"[{:family=>""DeAngelo"", :given=>""H.""}, {:family=>""DeAngelo"", :given=>""L.""}, {:others=>true}]"	Dividend Policy and the Earned/Contributed Capital Mix: A Test of Lifecycle Theory	article-journal	Journal of Financial Economics	2006	1073
 Required	"[{:family=>""Desai"", :given=>""M.""}, {:family=>""Jin"", :given=>""L.""}]"	Institutional Tax Clienteles and Payout Policy	article-journal	Journal of Financial Economics	2011	1073
 Required	"[{:family=>""Gordon"", :given=>""R.""}, {:family=>""Dietz"", :given=>""M.""}]"	Dividends and Taxes	chapter	Institutional Foundations of Public Finance: Economic and Legal Perspectives	2009	1073
@@ -2416,7 +2415,7 @@ Required	"[{:family=>""Goulder"", :given=>""L.""}]"	Environmental Taxation and t
 Required	"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Koszegi"", :given=>""B.""}]"	Tax Incidence when Individuals are Time Inconsistent: The Case of Cigarette Excise Taxes	article-journal	Journal of Public Economics	2004	1073
 Required	"[{:family=>""Metcalf"", :given=>""G.""}]"	Designing a Carbon Tax to Reduce U.S	article-journal	Greenhouse Gas Emissions.” Review of Environmental Economics and Policy	2009	1073
 Required	"[{:family=>""Nordhaus"", :given=>""W.""}]"	To Tax or Not to Tax? Alterative Approaches to Slowing Global Warming	article-journal	Review of Environmental Economics and Policy	2007	1073
-Required	"[{:literal=>""———.""}]"	The “Stern Review” on the Economics of Climate Change	article-journal	Journal of Economic Literature	2007	1073
+Required	"[{:family=>""Nordhaus"", :given=>""W.""}]"	The “Stern Review” on the Economics of Climate Change	article-journal	Journal of Economic Literature	2007	1073
 Required	"[{:family=>""Parry"", :given=>""I.""}, {:family=>""Sigman"", :given=>""H.""}, {:others=>true}]"	The Incidence of Pollution Control Policies	chapter	The International Yearbook of Environmental and Resource Economics 1999/2000: A Survey of Current Issues	2000	1073
 Required	"[{:family=>""Rothschild"", :given=>""C.""}, {:family=>""Scheuer"", :given=>""F.""}]"	Optimal Taxation with Rent-Seeking			2012	1073
 Required	"[{:literal=>""Sinn, H. -W.""}]"	Public Policies against Global Warming: A Supply Side Approach	article-journal	International Tax and Public Finance	2008	1073
@@ -2431,10 +2430,10 @@ Required	"[{:family=>""Allen"", :given=>""F.""}]"	Optimal Linear Income Taxation
 Required	"[{:family=>""Besley"", :given=>""T.""}, {:family=>""Coate"", :given=>""S.""}]"	Workfare versus Welfare: Incentives Arguments for Work Requirements in Poverty-Alleviation Programs	article-journal	American Economic Review	1992	1073
 Required	"[{:family=>""Brewer"", :given=>""M.""}, {:family=>""Saez"", :given=>""E.""}, {:family=>""Shephard"", :given=>""A.""}]"	Means Testing and Tax Rates on Earnings	article-journal	Dimensions of Tax Design: The Mirrlees Review. Edited by Institute for Fiscal Studies	2009	1073
 Required	"[{:family=>""Choné"", :given=>""P.""}, {:family=>""Laroque"", :given=>""G.""}]"	Optimal Incentives for Labor Force Participation	article-journal	Journal of Public Economics	2005	1073
-Required	"[{:literal=>""———.""}]"	Should Low Skilled Work be Subsidized?			2006	1073
-Required	"[{:literal=>""———.""}]"	Optimal Taxation in the Extensive Model				1073
+Required	"[{:family=>""Choné"", :given=>""P.""}, {:family=>""Laroque"", :given=>""G.""}]"	Should Low Skilled Work be Subsidized?			2006	1073
+Required	"[{:family=>""Choné"", :given=>""P.""}, {:family=>""Laroque"", :given=>""G.""}]"	Optimal Taxation in the Extensive Model				1073
 Required	"[{:family=>""Diamond"", :given=>""P.""}]"	Income Taxation with Fixed Hours of Work	article-journal	Journal of Public Economics	1980	1073
-Required	"[{:literal=>""———.""}]"	Optimal Income Taxation: An Example with a U-Shaped Pattern of Optimal Marginal Tax Rates	article-journal	American Economic Review	1998	1073
+Required	"[{:family=>""Diamond"", :given=>""P.""}]"	Optimal Income Taxation: An Example with a U-Shaped Pattern of Optimal Marginal Tax Rates	article-journal	American Economic Review	1998	1073
 Required	"[{:family=>""Gaube"", :given=>""T.""}]"	Optimal Taxation of Each Year’s Income	article-journal	Journal of Public Economic Theory	2007	1073
 Required	"[{:family=>""Helpman"", :given=>""E.""}, {:family=>""Sadka"", :given=>""E.""}]"	The Optimal Income Tax: Some comparative statics results	article-journal	Journal of Public Economics	1978	1073
 Required	"[{:family=>""Immonen"", :given=>""R.""}, {:family=>""Kanbur"", :given=>""R.""}, {:others=>true}]"	Tagging and Taxing: The Optimal Use of Categorical and Income Information in Designing Tax/Transfer Schemes	article-journal	Economica	1998	1073
@@ -2445,10 +2444,10 @@ Required	"[{:family=>""Mankiw"", :given=>""N.""}, {:family=>""Weinzierl"", :give
 Required	"[{:family=>""Mirrlees"", :given=>""J.""}]"	An Exploration in the Theory of Optimal Income Taxation	article-journal	Review of Economic Studies	1971	1073
 Required	"[{:family=>""Piketty"", :given=>""T.""}, {:family=>""Saez"", :given=>""E.""}]"	Income Inequality in the United States	article-journal	Quarterly Journal of Economics	2003	1073
 Required	"[{:family=>""Saez"", :given=>""E.""}]"	Using Elasticities to Derive Optimal Income Tax Rates	article-journal	Review of Economic Studies	2001	1073
-Required	"[{:literal=>""———.""}]"	Optimal Income Transfer Programs: Intensive vs. Extensive Labor Supply Responses	article-journal	Quarterly Journal of Economics	2002	1073
+Required	"[{:family=>""Saez"", :given=>""E.""}]"	Optimal Income Transfer Programs: Intensive vs. Extensive Labor Supply Responses	article-journal	Quarterly Journal of Economics	2002	1073
 Required	"[{:family=>""Slemrod"", :given=>""J.""}, {:family=>""Yitzhaki"", :given=>""S.""}, {:others=>true}]"	The Optimal Two Bracket Linear Income Tax	article-journal	Journal of Public Economics	1994	1073
 Required	"[{:family=>""Stern"", :given=>""N.""}]"	Optimum Taxes with Errors in Administration	article-journal	Journal of Public Economics	1982	1073
-Required	"[{:literal=>""———.""}]"	On the Specification of Models of Optimum Income Taxation	article-journal	Journal of Public Economics	1976	1073
+Required	"[{:family=>""Stern"", :given=>""N.""}]"	On the Specification of Models of Optimum Income Taxation	article-journal	Journal of Public Economics	1976	1073
 Required	"[{:family=>""Stiglitz"", :given=>""J.""}]"	Pareto Efficient and Optimal Taxation and the New New Welfare Economics	chapter	Handbook of Public Economics	1990	1073
 Required	"[{:family=>""Abel"", :given=>""A.""}]"	Optimal Taxation When Consumers Have Endogenous Benchmark Levels of Consumption	article-journal	Review of Economic Studies	2005	1073
 Required	"[{:family=>""Aiyagari"", :given=>""S.""}]"	Optimal Capital Income Taxation with Incomplete Markets	article-journal	Journal of Political Economy	1995	1073
@@ -2459,7 +2458,7 @@ Required	"[{:family=>""Banks"", :given=>""J.""}, {:family=>""Diamond"", :given=>
 Required	"[{:family=>""Bernheim"", :given=>""D.""}]"	Taxation and Saving.” Chapter 18 in Handbook of Public Economics			2002	1073
 Required	"[{:family=>""Benigno"", :given=>""P.""}, {:family=>""Woodford"", :given=>""M.""}]"	Optimal Taxation in an RBC Model: A Linear Quadratic Approach	article-journal	Journal of Economic Dynamics and Control	2006	1073
 Required	"[{:family=>""Chamley"", :given=>""C.""}]"	Efficient Tax Reform in a Dynamic Model of General Equilibrium	article-journal	Quarterly Journal of Economics	1985	1073
-Required	"[{:literal=>""———.""}]"	Optimal Taxation of Capital Income in General Equilibrium with Infinite Lives	article-journal	Econometrica	1986	1073
+Required	"[{:family=>""Chamley"", :given=>""C.""}]"	Optimal Taxation of Capital Income in General Equilibrium with Infinite Lives	article-journal	Econometrica	1986	1073
 Required	"[{:family=>""Conesa"", :given=>""J.""}, {:family=>""Kitao"", :given=>""S.""}, {:others=>true}]"	Taxing Capital? Not a Bad Idea After All	article-journal	American Economic Review	2009	1073
 Required	"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Spinnewijn"", :given=>""J.""}]"	Capital Income Taxes with Heterogeneous Discount Rates	article-journal	NBER Working Paper	2009	1073
 Required	"[{:family=>""Diamond"", :given=>""P.""}]"	The Incidence of an Interest Income Tax	article-journal	Journal of Economic Theory	1970	1073
@@ -2470,12 +2469,12 @@ Required	"[{:family=>""Golosov"", :given=>""M.""}, {:family=>""Tsyvinski"", :giv
 Required	"[{:family=>""Golosov"", :given=>""M.""}, {:family=>""Tsyvinski"", :given=>""A.""}, {:family=>""Werning"", :given=>""I.""}]"	New Dynamic Public Finance: A User’s Guide	chapter	NBER Macroeconomics Annual 2006	2007	1073
 Required	"[{:family=>""Feldstein"", :given=>""M.""}]"	The Welfare Cost of Capital Income Taxation	article-journal	Journal of Political Economy	1978	1073
 Required	"[{:family=>""Judd"", :given=>""K.""}]"	Optimal Taxation in Dynamic Stochastic Economies: Theory and Evidence	book		1989	1073
-Required	"[{:literal=>""———.""}]"	The Welfare Cost of Factor Taxation in a Perfect Foresight Model	article-journal	Journal of Political Economy	1987	1073
-Required	"[{:literal=>""———.""}]"	Redistributive Taxation in a Simple Perfect Foresight Model	article-journal	Journal of Public Economics	1985	1073
-Required	"[{:literal=>""———.""}]"	Optimal Taxation and Spending in General Competitive Growth Models	article-journal	Journal of Public Economics	1999	1073
+Required	"[{:family=>""Judd"", :given=>""K.""}]"	The Welfare Cost of Factor Taxation in a Perfect Foresight Model	article-journal	Journal of Political Economy	1987	1073
+Required	"[{:family=>""Judd"", :given=>""K.""}]"	Redistributive Taxation in a Simple Perfect Foresight Model	article-journal	Journal of Public Economics	1985	1073
+Required	"[{:family=>""Judd"", :given=>""K.""}]"	Optimal Taxation and Spending in General Competitive Growth Models	article-journal	Journal of Public Economics	1999	1073
 Required	"[{:family=>""Kocherlakota"", :given=>""N.""}]"	Zero Expected Wealth Taxes: A Mirrlees Approach to Dynamic Optimal Taxation	article-journal	Econometrica	2005	1073
-Required	"[{:literal=>""———.""}]"	Advances in Dynamic Optimal Taxation	chapter	Advances in Economics and Econometrics: Theory and Applications	2006	1073
-Required	"[{:literal=>""———.""}]"	The New Dynamic Public Finance			2010	1073
+Required	"[{:family=>""Kocherlakota"", :given=>""N.""}]"	Advances in Dynamic Optimal Taxation	chapter	Advances in Economics and Econometrics: Theory and Applications	2006	1073
+Required	"[{:family=>""Kocherlakota"", :given=>""N.""}]"	The New Dynamic Public Finance			2010	1073
 Required	"[{:family=>""Lucas"", :given=>""R.""}]"	Supply-Side Economics: An Analytical Review	article-journal	Oxford Economic Papers	1990	1073
 Required	"[{:family=>""Saez"", :given=>""E.""}]"	Optimal Progressive Capital Income Taxation in the Infinite Horizon Model	article-journal	NBER Working Paper	2002-07	1073
 Required	"[{:family=>""Stokey"", :given=>""N.""}, {:family=>""Rebelo"", :given=>""S.""}]"	Growth Effects of Flat-Rate Taxes	article-journal	Journal of Political Economy	1995	1073
@@ -2489,12 +2488,12 @@ Required	"[{:family=>""Farhi"", :given=>""E.""}, {:family=>""Werning"", :given=>
 Required	"[{:family=>""Gale"", :given=>""W.""}, {:family=>""Slemrod"", :given=>""J.""}]"	Overview	chapter	Rethinking Estate and Gift Taxation: Overview	2001	1073
 Required	"[{:family=>""Kopczuk"", :given=>""W.""}]"	Economics of estate taxation: a brief review of theory and evidence	article-journal	NBER Working Paper		1073
 Required	"[{:family=>""Piketty"", :given=>""T.""}, {:family=>""Saez"", :given=>""E.""}]"	A Theory of Optimal Capital Taxation	article-journal	NBER Working Paper	2012-04	1073
-Required	"[{:literal=>""———.""}]"	The Evolution of Top Incomes: A Historical and International Perspective	article-journal	American Economic Review	2006	1073
+Required	"[{:family=>""Piketty"", :given=>""T.""}, {:family=>""Saez"", :given=>""E.""}]"	The Evolution of Top Incomes: A Historical and International Perspective	article-journal	American Economic Review	2006	1073
 Required	"[{:family=>""Poterba"", :given=>""J.""}]"	The Estate and Gift Tax and Inter Vivos Giving in the United States	article-journal	Journal of Public Economics	2001	1073
 Optional	"[{:family=>""Atkinson"", :given=>""A.""}, {:family=>""Stiglitz"", :given=>""J.""}]"	Lectures on Public Economics			1980	1073
 Optional	"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Feldstein"", :given=>""M.""}]"	Handbook of Public Economics			1985	1073
-Optional	"[{:literal=>""———.""}]"	Handbook of Public Economics			1987	1073
-Optional	"[{:literal=>""———.""}]"	Handbook of Public Economics			2002	1073
+Optional	"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Feldstein"", :given=>""M.""}]"	Handbook of Public Economics			1987	1073
+Optional	"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Feldstein"", :given=>""M.""}]"	Handbook of Public Economics			2002	1073
 Optional	"[{:family=>""Gruber"", :given=>""J.""}]"	Public Finance and Public Policy			2009	1073
 Optional		Institute for Fiscal Studies. Dimensions of Tax Design: The Mirrlees Review			2010	1073
 Optional	"[{:family=>""Myles"", :given=>""G.""}]"	Public Economics			1995	1073
@@ -2534,7 +2533,7 @@ Required	"[{:family=>""Berry"", :given=>""S.""}, {:family=>""Levinsohn"", :given
 Optional	"[{:family=>""Grilliches"", :given=>""Zvi""}, {:family=>""Intriligator"", :given=>""Michael D.""}]"	Handbook of Econometrics			1994	1059
 Optional	"[{:family=>""Grilliches"", :given=>""Zvi""}]"	Handbook of Econometrics			1983	1059
 Optional	"[{:family=>""Grilliches"", :given=>""Zvi""}, {:family=>""Intriligator"", :given=>""Michael D.""}]"	Handbook of Econometrics			1984	1059
-Optional	"[{:literal=>""———.""}]"	Handbook of Econometrics			1986	1059
+Optional	"[{:family=>""Grilliches"", :given=>""Zvi""}, {:family=>""Intriligator"", :given=>""Michael D.""}]"	Handbook of Econometrics			1986	1059
 Optional	"[{:family=>""McFadden"", :given=>""Daniel""}, {:family=>""Engle"", :given=>""Robert""}]"	Handbook of Econometrics			1999	1059
 Optional	"[{:family=>""Heckman"", :given=>""James J.""}, {:family=>""Leamer"", :given=>""Edward E.""}]"	Handbook of Econometrics			2001	1059
 Optional	"[{:family=>""Ruud"", :given=>""Paul A.""}]"	An Introduction to Classical Econometric Theory			2000	1059
@@ -2554,7 +2553,7 @@ Optional	"[{:family=>""Stock"", :given=>""J.""}, {:family=>""Wright"", :given=>"
 Optional	"[{:family=>""Kleibergen"", :given=>""F.""}]"	Testing Parameters in GMM Without Assuming They are Identified	article-journal	Econometrica	2005	1059
 Optional	"[{:family=>""Newey"", :given=>""W.K.""}, {:family=>""Windmeijer"", :given=>""F.""}]"	GMM Estimation with Many Weak Moment Conditions			2007	1059
 Optional	"[{:family=>""Newey"", :given=>""W.K.""}]"	Kernel Estimation of Partial Means and a General Variance Estimator	article-journal	Econometric Theory	1994	1059
-Optional	"[{:literal=>""———.""}]"	Convergence Rates and Asymptotic Normality for Series Estimators	article-journal	Journal of Econometrics	1997	1059
+Optional	"[{:family=>""Newey"", :given=>""W.K.""}]"	Convergence Rates and Asymptotic Normality for Series Estimators	article-journal	Journal of Econometrics	1997	1059
 Optional	"[{:family=>""Powell"", :given=>""James""}]"	Estimation of Semiparametric Models	article-journal	Handbook of Econometrics	1999	1059
 Optional	"[{:family=>""Hausman"", :given=>""J.""}, {:family=>""Newey"", :given=>""W.K.""}]"	Nonparametric Estimation of Exact Consumer Surplus and Deadweight Loss	article-journal	Econometrica	1995-11	1059
 Optional	"[{:family=>""Newey"", :given=>""W.K.""}]"	Asymptotic Variance of Semiparametric Estimators	article-journal	Econometrica	1994	1059
@@ -2576,7 +2575,7 @@ Required	"[{:family=>""Barro"", :given=>""R.J.""}, {:family=>""Sala-i-Martin"", 
 Required	"[{:family=>""Atkeson"", :given=>""A.""}, {:family=>""Chari"", :given=>""V.V.""}, {:family=>""Kehoe"", :given=>""P.""}]"	Taxing Capital Income: A Bad Idea	article-journal	Federal Reserve Bank of Minneapolis Quarterly Review	1999	1065
 Required	"[{:family=>""Lucas"", :given=>""R.E."", :suffix=>""Jr""}]"	Asset Prices in an Exchange Economy	article-journal	Econometrica	1978	1065
 Required	"[{:family=>""Barro"", :given=>""R.J.""}]"	Are Government Bonds Net Wealth?	article-journal	Journal of Political Economy	1974	1065
-Required	"[{:literal=>""———.""}]"	On the Determination of the Public Debt	article-journal	Journal of Political Economy	1979	1065
+Required	"[{:family=>""Barro"", :given=>""R.J.""}]"	On the Determination of the Public Debt	article-journal	Journal of Political Economy	1979	1065
 Required	"[{:family=>""Blanchard"", :given=>""O.""}]"	Debt	article-journal	Journal of Political Economy	1985	1065
 Required	"[{:family=>""Aghion"", :given=>""P.""}, {:family=>""Howitt"", :given=>""P.""}]"	A Model of Growth through Creative Destruction	article-journal	Econometrica	1992	1065
 Required	"[{:family=>""Romer"", :given=>""P.M.""}]"	Endogenous Technological Change	article-journal	Journal of Political Economy	1990	1065
@@ -2587,7 +2586,7 @@ Optional	"[{:family=>""Klenow"", :given=>""P.""}, {:family=>""Rodríguez-Clare""
 Optional	"[{:family=>""Klenow"", :given=>""P.""}, {:family=>""Bils"", :given=>""M.""}]"	Does Schooling Cause Growth?	article-journal	American Economic Review	2000	1065
 Optional	"[{:family=>""Mankiw"", :given=>""N.G.""}, {:family=>""Romer"", :given=>""D.""}, {:family=>""Weil"", :given=>""D.""}]"	A Contribution to the Empirics of Economic Growth	article-journal	Quarterly Journal of Economics	1992	1065
 Optional	"[{:family=>""Solow"", :given=>""R.M.""}]"	A Contribution to the Theory of Economic Growth	article-journal	Quarterly Journal of Economics	1956	1065
-Optional	"[{:literal=>""———.""}]"	Growth Theory: An Exposition			2000	1065
+Optional	"[{:family=>""Solow"", :given=>""R.M.""}]"	Growth Theory: An Exposition			2000	1065
 Optional	"[{:family=>""Blanchard"", :given=>""O.""}, {:family=>""Fischer"", :given=>""S.""}]"	Lectures on Macroeconomics			1989	1065
 Optional	"[{:family=>""Cass"", :given=>""D.""}]"	Optimum Growth in an Aggregative Model of Capital Accumulation: A Turnpike Theorem	article-journal	Econometrica	1966	1065
 Optional	"[{:family=>""Lucas"", :given=>""R.E."", :suffix=>""Jr""}]"	Why Doesn’t Capital Flow from Rich to Poor Countries?	article-journal	American Economic Review	1990	1065
@@ -2609,7 +2608,7 @@ Optional	"[{:family=>""Aghion"", :given=>""P.""}, {:family=>""Howitt"", :given=>
 Optional	"[{:family=>""Barro"", :given=>""R.J.""}]"	Government Spending in a Simple Model of Endogenous Growth	article-journal	Journal of Political Economy	1990	1065
 Optional	"[{:family=>""Caballero"", :given=>""R.""}, {:family=>""Jaffe"", :given=>""A.""}]"	How High Are the Giants Shoulders?	chapter	NBER Macroeconomics Annual 1993	1993	1065
 Optional	"[{:family=>""Lucas"", :given=>""R.E."", :suffix=>""Jr""}]"	Making a Miracle	article-journal	Econometrica	1993	1065
-Optional	"[{:literal=>""———.""}]"	On the Mechanics of Economic Development	article-journal	Journal of Monetary Economics	1988	1065
+Optional	"[{:family=>""Lucas"", :given=>""R.E."", :suffix=>""Jr""}]"	On the Mechanics of Economic Development	article-journal	Journal of Monetary Economics	1988	1065
 Optional	"[{:family=>""Jones"", :given=>""L.""}, {:family=>""Manuelli"", :given=>""R.""}]"	A Convex Model of Equilibrium Growth	article-journal	Journal of Political Economy	1990	1065
 Optional	"[{:family=>""Rebelo"", :given=>""S.""}]"	Long-Run Policy Analysis and Growth	article-journal	Journal of Political Economy	1991	1065
 Optional	"[{:family=>""Romer"", :given=>""P.M.""}]"	Increasing Returns and Long-Run Growth	article-journal	Journal of Political Economy	1986	1065
@@ -2650,7 +2649,7 @@ Required	"[{:family=>""Andrews"", :given=>""D.W.K.""}]"	Tests for Parameter Inst
 Required	"[{:family=>""Hansen"", :given=>""B.E.""}]"	The New Econometrics of Structural Change: Dating Breaks in U.S	article-journal	Labor Productivity.” Journal of Economic Perspectives	2001	1058
 Required	"[{:family=>""Perron"", :given=>""P.""}]"	The Great Crash	article-journal	Econometrica	1989	1058
 Required	"[{:family=>""Watson"", :given=>""M.W.""}]"	Vector Autoregressions and Cointegration	chapter	Sections 1	1999	1058
-Required	"[{:literal=>""———.""}]"	Cointegration	chapter	The New Palgrave Dictionary of Economics	2008	1058
+Required	"[{:family=>""Watson"", :given=>""M.W.""}]"	Cointegration	chapter	The New Palgrave Dictionary of Economics	2008	1058
 Required	"[{:family=>""Cavanagh"", :given=>""C.L.""}, {:family=>""Elliott"", :given=>""G.""}, {:others=>true}]"	Inference in Models with Nearly Integrated Regressors	article-journal	Econometric Theory	1995	1058
 Required	"[{:family=>""Stambaugh"", :given=>""R.F.""}]"	Predictive Regressions	article-journal	Journal of Financial Economics	1999	1058
 Required	"[{:family=>""Hansen"", :given=>""L.P.""}]"	Large Sample Properties of GMM Estimators	article-journal	Econometrica	1982	1058
@@ -2661,7 +2660,7 @@ Required	"[{:family=>""Stock"", :given=>""J.H.""}, {:family=>""Yogo"", :given=>"
 Required	"[{:family=>""Stock"", :given=>""J.H.""}, {:family=>""Wright"", :given=>""J.""}]"	GMM With Weak Identification	article-journal	Econometrica	2000	1058
 Required	"[{:family=>""Hamilton"", :given=>""J.D.""}]"	A New Approach to the Economic Analysis of Nonstationary Time Series and the Business Cycle	article-journal	Econometrica	1989	1058
 Required	"[{:family=>""Chib"", :given=>""S.""}, {:family=>""Greenberg"", :given=>""E.""}]"	Understanding the Metropolist-Hastings Algorithm	article-journal	American Statistician	1995	1058
-Required	"[{:literal=>""———.""}]"	Markov Chain Monte Carlo Simulation Methods in Econometrics	article-journal	Econometric Theory	1996	1058
+Required	"[{:family=>""Chib"", :given=>""S.""}, {:family=>""Greenberg"", :given=>""E.""}]"	Markov Chain Monte Carlo Simulation Methods in Econometrics	article-journal	Econometric Theory	1996	1058
 Required	"[{:family=>""Chib"", :given=>""S.""}]"	Markov Chain Monte Carlo Methods: Computation and Inference	chapter	Chapter 5 in Handbook of Econometrics	2001	1058
 Optional	"[{:family=>""Beveridge"", :given=>""S.""}, {:family=>""Nelson"", :given=>""C.R.""}]"	A New Approach to Decomposition of Economic Time Series into Permanent and Transitory Components with Particular Attention to Measurement of the ‘Business Cycle’	article-journal	Journal of Monetary Economics	1981	1058
 Optional	"[{:family=>""Andrews"", :given=>""D.W.K.""}, {:family=>""Monahan"", :given=>""J.C.""}]"	An Improved Heteroskedasticity and Autocorrelation Consistent Covariance Matrix Estimator	article-journal	Econometrica	1992	1058
@@ -2672,7 +2671,7 @@ Optional	"[{:family=>""Hodrick"", :given=>""R.""}, {:family=>""Prescott"", :give
 Optional	"[{:family=>""Christiano"", :given=>""L.J.""}, {:family=>""Fitzgerald"", :given=>""T.J.""}]"	The Band Pass Filter	article-journal	NBER Working Paper	1999	1058
 Optional	"[{:family=>""Ng"", :given=>""S.""}, {:family=>""Perron"", :given=>""P.""}]"	A Note on the Selection of Time Series Models	article-journal	Oxford Bulletin of Economics and Statistics	2005	1058
 Optional	"[{:family=>""Leeb"", :given=>""H.""}, {:family=>""Potscher"", :given=>""B.M.""}]"	Model Selection and Inference: Facts and Fiction	article-journal	Econometric Theory	2005	1058
-Optional	"[{:literal=>""———.""}]"	The Finite-Sample Distribution of Post-Model-Selection Estimators and Uniform versus Nonuniform Approximations	article-journal	Econometric Theory	2003	1058
+Optional	"[{:family=>""Leeb"", :given=>""H.""}, {:family=>""Potscher"", :given=>""B.M.""}]"	The Finite-Sample Distribution of Post-Model-Selection Estimators and Uniform versus Nonuniform Approximations	article-journal	Econometric Theory	2003	1058
 Optional	"[{:family=>""Hansen"", :given=>""B.""}]"	Challenges for Econometric Model Selection	article-journal	Econometric Theory	2005	1058
 Optional	"[{:family=>""Kuersteiner"", :given=>""G.M.""}]"	Automatic Inference for Infinite Order Vector Autoregressions	article-journal	Econometric Theory	2005	1058
 Optional	"[{:family=>""Watson"", :given=>""M.""}]"	Vector Autoregressions and Cointegration	chapter	Chapter 47 in Handbook of Econometrics	1999	1058
@@ -2696,7 +2695,7 @@ Optional	"[{:family=>""Chamberlain"", :given=>""G.""}, {:family=>""Rothschild"",
 Optional	"[{:family=>""Favero"", :given=>""C.A.""}, {:family=>""Marcellino"", :given=>""M.""}, {:others=>true}]"	Principal Components at Work: The Empirical Analysis of Monetary Policy with Large Datasets	article-journal	Journal of Applied Econometrics	2005	1058
 Optional	"[{:family=>""Forni"", :given=>""M.""}, {:family=>""Hallin"", :given=>""M.""}, {:others=>true}]"	The Generalized Dynamic Factor Model: Identification and Estimation	article-journal	Review of Economics and Statistics	2000	1058
 Optional	"[{:family=>""Bai"", :given=>""J.""}, {:family=>""Ng"", :given=>""S.""}]"	Determining the Number of Factors in Approximate Factor Models	article-journal	Econometrica	2002	1058
-Optional	"[{:literal=>""———.""}]"	Determining the Number of Primitive Shocks in Factor Models	article-journal	Journal of Business Economics and Statistics	2007	1058
+Optional	"[{:family=>""Bai"", :given=>""J.""}, {:family=>""Ng"", :given=>""S.""}]"	Determining the Number of Primitive Shocks in Factor Models	article-journal	Journal of Business Economics and Statistics	2007	1058
 Optional	"[{:family=>""Forni"", :given=>""M.""}, {:family=>""Hallin"", :given=>""M.""}, {:others=>true}]"	One-Sided Representations of Generalized Dynamic Factor Models	manuscript		2011	1058
 Optional	"[{:family=>""Dickey"", :given=>""D.A.""}, {:family=>""Fuller"", :given=>""W.A.""}]"	Distribution of the Estimators for Autoregressive Time Series with a Unit Root	article-journal	Journal of the American Statistical Association	1979	1058
 Optional	"[{:family=>""Campbell"", :given=>""J.Y.""}, {:family=>""Perron"", :given=>""P.""}]"	Pitfalls and Opportunities: What Macroeconomists Should Know About Unit Roots	article-journal	NBER Macroeconomics Annual	1991	1058
@@ -2757,12 +2756,12 @@ Required	"[{:family=>""Arrhenius"", :given=>""G.""}, {:family=>""Lepland"", :giv
 Required	"[{:family=>""Zuilen"", :particle=>""van""}, {:family=>""A."", :given=>""Mark""}, {:family=>""Lepland"", :given=>""A.""}, {:family=>""Jan Teranes"", :given=>""J.Finarelli""}, {:family=>""Wahlen"", :given=>""M.""}, {:family=>""Arrhenius"", :given=>""G.""}]"	Graphite and carbonates in the 3.8 Ga old Isua Supracrustal Belt			2003	1002
 Required	"[{:family=>""Arrhenius"", :given=>""O.Gustaf""}]"	Crystals and Life.” Helvetica Chimica 86			2003	1002
 Required	"[{:family=>""Melosh"", :given=>""H.J.""}]"	Giant Impacts and the Thermal State of the Early Earth	chapter	Origin of the Earth	1990	1002
-Required	"[{:literal=>""———.""}]"	Giant Impacts and the Thermal State of the Early Earth	chapter	Encyclopedia of Planetary Sciences		1002
+Required	"[{:family=>""Melosh"", :given=>""H.J.""}]"	Giant Impacts and the Thermal State of the Early Earth	chapter	Encyclopedia of Planetary Sciences		1002
 Required	"[{:family=>""Soloman"", :given=>""S.C.""}, {:family=>""Aharonson"", :given=>""O.""}, {:others=>true}]"	New Perspectives on Ancient Mars.” Science 307			2005	1002
 Required	"[{:family=>""Hardie"", :given=>""L.A.""}]"	Secular variations in seawater chemistry: An explanation for the coupled secular variation in the mineralogies of marine limestones and potash evaporites over the past 600 My.” Geology 24			1996	1002
 Required	"[{:family=>""Holland"", :given=>""H.D.""}]"	The geologic history of seawater.” In The Oceans and Marine Geochemistry. Edited by H	article-journal	Elderfield	2006	1002
 Required	"[{:family=>""Lowenstein"", :given=>""T.K.""}, {:family=>""Timofeeff"", :given=>""M.N.""}, {:family=>""Brennan"", :given=>""S.T.""}, {:family=>""Hardie"", :given=>""L.A.""}, {:family=>""Demicco"", :given=>""R.V.""}]"	Oscillations in Phanerozoic seawater chemistry	article-journal	Evidence from fluid	2001	1002
-Required	"[{:literal=>""———.""}]"	Secular variation in seawater chemistry and the origin of calcium chloride basinal brines.” Geology 31			2003	1002
+Required	"[{:family=>""Lowenstein"", :given=>""T.K.""}, {:family=>""Timofeeff"", :given=>""M.N.""}, {:family=>""Brennan"", :given=>""S.T.""}, {:family=>""Hardie"", :given=>""L.A.""}, {:family=>""Demicco"", :given=>""R.V.""}]"	Secular variation in seawater chemistry and the origin of calcium chloride basinal brines.” Geology 31			2003	1002
 Required	"[{:family=>""Weiss"", :given=>""Benjamin P.""}, {:family=>""Vali"", :given=>""Hojatollah""}, {:family=>""Baudenbacher’"", :given=>""Franz J.""}, {:family=>""Kirschvink"", :given=>""Joseph L.""}, {:family=>""Stewart"", :given=>""Sarah T.""}, {:family=>""Shuster"", :given=>""David L.""}]"	Records of an ancient Martian magnetic field in ALH84001	article-journal	Elsevier Science.” Earth and Planetary Science	2002	1002
 Required	"[{:family=>""Weiss"", :given=>""Benjamin P.""}, {:family=>""Shuster"", :given=>""David L.""}, {:family=>""Stewart"", :given=>""G.Sarah T.""}]"	Temperatures on Mars from 40Ar/39Ar thermochronology of ALH84001			2002	1002
 Required	"[{:family=>""Stevenson"", :given=>""David J.""}]"	Mars’ Core and Magnetism.” Nature 412			2001-07-12	1002
@@ -2795,11 +2794,11 @@ Required	"[{:family=>""Ito"", :given=>""G.""}, {:family=>""Shen"", :given=>""Y."
 Required	"[{:family=>""White"", :given=>""W.M.""}, {:family=>""McBirney"", :given=>""A.R.""}, {:family=>""Duncan"", :given=>""R.A.""}]"	Petrology and Geochemistry of the Galapagos: Portrait of a Pathological Mantle Plume	article-journal	J Geophys Res	1993	1000
 Required	"[{:family=>""Richards"", :given=>""M.A.""}, {:family=>""Griffiths"", :given=>""R.W.""}]"	Thermal entrainment by deflected mantle plumes	article-journal	Nature	1989	1000
 Required	"[{:family=>""Schilling"", :given=>""J.G.""}]"	Upper mantle Heterogeneities and dynamics	article-journal	Nature	1985	1000
-Required	"[{:literal=>""———.""}]"	Fluxes and excess temperatures of the mantle plumes inferred from their interaction with migrating mid-ocean ridges	article-journal	Nature	1991	1000
+Required	"[{:family=>""Schilling"", :given=>""J.G.""}]"	Fluxes and excess temperatures of the mantle plumes inferred from their interaction with migrating mid-ocean ridges	article-journal	Nature	1991	1000
 Required	"[{:family=>""Wilson"", :given=>""D.S.""}, {:family=>""Hey"", :given=>""R.N.""}]"	History of rift propagation and magnetization intensity for the Cocos-Nazca spreading center	article-journal	J Geophys Res	1995	1000
 Required	"[{:family=>""Sinton"", :given=>""J.M.""}, {:family=>""Wilson"", :given=>""D.S.""}, {:family=>""Christie"", :given=>""D.M.""}, {:family=>""Hey"", :given=>""R.N.""}, {:family=>""Delaney"", :given=>""J.R.""}]"	Petrologic consequences of rift propagation on oceanic spreading ridges	article-journal	Earth Planet Sci Lett	1983	1000
 Required	"[{:family=>""Hieronymus"", :given=>""C.F.""}, {:family=>""Bercovici"", :given=>""D.""}]"	Discrete alternating hotspot islands formed by the interaction of magma transport and lithospheric flexure	article-journal	Nature	1999	1000
-Required	"[{:literal=>""———.""}]"	Non-hotspot formation of volcanic chains: control of tectonic and flexural stresses on magma transport	article-journal	Earth Planet Sci Lett	2000	1000
+Required	"[{:family=>""Hieronymus"", :given=>""C.F.""}, {:family=>""Bercovici"", :given=>""D.""}]"	Non-hotspot formation of volcanic chains: control of tectonic and flexural stresses on magma transport	article-journal	Earth Planet Sci Lett	2000	1000
 Required	"[{:family=>""Albers"", :given=>""M.""}, {:family=>""Christensen"", :given=>""U.R.""}]"	Channeling of plume flow beneath mid-ocean ridges	article-journal	Earth Planet Sci Lett	2001	1000
 Required	"[{:family=>""Ito"", :given=>""G.""}]"	Reykjanes ‘V’-shaped ridges originating from a pulsing and dehydrating mantle plume	article-journal	Nature	2001	1000
 Required	"[{:family=>""Korenaga"", :given=>""J.""}, {:family=>""Kelemen"", :given=>""P.B.""}]"	Major element heterogeneity in the mantle source of the North Atlantic igneous province	article-journal	Earth Planet Sci Lett	2000	1000
@@ -2883,7 +2882,7 @@ Required	"[{:family=>""Hulbe"", :given=>""Christina L.""}, {:family=>""MacAyeal"
 Required	"[{:family=>""Scambos"", :given=>""Ted""}, {:family=>""Hulbe"", :given=>""Christina""}, {:family=>""Fahnestock"", :given=>""Mark""}]"	Climate-Induced Ice Shelf Disintegration In The Antarctic Peninsula	chapter	Paleobiology and Paleoenvironments of Eoscene Rocks-Antarctic Research Series	2003	1001
 Required	"[{:family=>""Ekstrom"", :given=>""Goran""}, {:family=>""Nettles"", :given=>""Meredith""}, {:family=>""Tsai"", :given=>""Victor C.""}]"	Seasonality and Increasing Frequency of Greenland Glacial Earthquakes				1001
 Required	"[{:family=>""Thompson"", :given=>""Lonnie G.""}, {:family=>""Davis"", :given=>""Mary E.""}, {:family=>""Mosley-Thompson"", :given=>""Ellen""}, {:family=>""Lin"", :given=>""Ping-Nan""}, {:family=>""Henderson"", :given=>""Keith A.""}, {:family=>""Mashiotta"", :given=>""Tracy A.""}]"	Tropical Ice Core Records: Evidence for Asynchronous Glaciation on Milankovitch Timescales	article-journal	Journal of Quaternary Science	2005	1001
-Required	"[{:literal=>""———.""}]"	Tropical Glacier and Ice Core Evidence of Climate Change on Annual to Millennial Time Scales	article-journal	Climatic Change	2003	1001
+Required	"[{:family=>""Thompson"", :given=>""Lonnie G.""}, {:family=>""Davis"", :given=>""Mary E.""}, {:family=>""Mosley-Thompson"", :given=>""Ellen""}, {:family=>""Lin"", :given=>""Ping-Nan""}, {:family=>""Henderson"", :given=>""Keith A.""}, {:family=>""Mashiotta"", :given=>""Tracy A.""}]"	Tropical Glacier and Ice Core Evidence of Climate Change on Annual to Millennial Time Scales	article-journal	Climatic Change	2003	1001
 Required	"[{:family=>""Thompson"", :given=>""L.G.""}, {:family=>""Mosley-Thompson"", :given=>""E.""}, {:family=>""Davis"", :given=>""M.E.""}, {:family=>""Henderson"", :given=>""K.A.""}, {:family=>""Brecher"", :given=>""H.H.""}, {:family=>""Zagorodnov"", :given=>""V.S.""}, {:family=>""Mashiotta"", :given=>""T.A.""}, {:family=>""Lin"", :given=>""P.-N.""}, {:family=>""Mikhalenko"", :given=>""V.N.""}, {:family=>""Hardy"", :given=>""D.R.""}, {:family=>""Beer"", :given=>""J.""}]"	Kilimanjaro Ice Core Records: Evidence of Holocene Climate Change in Tropical Africa	article-journal	Science	2002	1001
 Required	"[{:family=>""Priscu"", :given=>""J.C.""}, {:family=>""Christner"", :given=>""B.C.""}]"	Earth’s icy biosphere. In “Microbial Diversity and Bioprospecting			2004	1001
 Required	"[{:family=>""Priscu"", :given=>""John C.""}, {:family=>""Fritsen"", :given=>""Christian H.""}, {:family=>""Adams"", :given=>""Edward E.""}, {:family=>""Giovannoni"", :given=>""Stephen J.""}, {:family=>""Paerl"", :given=>""Hans W.""}, {:family=>""McKay"", :given=>""Christopher P.""}, {:family=>""Doran"", :given=>""Peter T.""}, {:family=>""Gordon"", :given=>""Douglas A.""}, {:family=>""Lanoil"", :given=>""Brian D.""}, {:family=>""Pinckney"", :given=>""James L.""}]"	Perennial Antarctic Lake Ice: An Oasis for Life in a Polar Desert	article-journal	Science	1998-06-26	1001
@@ -2892,7 +2891,7 @@ Required	"[{:family=>""Overpeck"", :given=>""Jonathan T.""}, {:family=>""Otto-Bl
 Required		ACIA: Impacts of a warming Arctic	book		2004	1001
 Required	"[{:family=>""Shuman"", :given=>""C.A.""}, {:family=>""Zwally"", :given=>""H.J.""}, {:family=>""Schutz"", :given=>""B.E.""}, {:family=>""Brenner"", :given=>""A.C.""}, {:family=>""DiMarzio"", :given=>""J.P.""}, {:family=>""Suchdeo"", :given=>""V.P.""}, {:family=>""Fricker"", :given=>""H.A.""}]"	ICESat Antarctic Elevation Data: Preliminary Precision and Accuracy Assessment	article-journal	Geophysical Research Letters	2006	1001
 Required	"[{:family=>""Schulson"", :given=>""Erland M.""}]"	Brittle Failure of Ice	article-journal	Engineering Fracture Mechanics	2001	1001
-Required	"[{:literal=>""———.""}]"	The Fracture of Water Ice Ih: A Short Overview	article-journal	Meteoritics and Planetary Science	2006-04	1001
+Required	"[{:family=>""Schulson"", :given=>""Erland M.""}]"	The Fracture of Water Ice Ih: A Short Overview	article-journal	Meteoritics and Planetary Science	2006-04	1001
 Required	"[{:family=>""Hoffman"", :given=>""Paul F.""}, {:family=>""Schrag"", :given=>""Daniel P.""}]"	The Snowball Earth Hypothesis: Testing the Limits of Global Change	article-journal	Terra Nova	2002	1001
 Required	"[{:family=>""Pollard"", :given=>""David""}, {:family=>""Kasting"", :given=>""James F.""}]"	Snowball Earth: A Thin-ice Solution with Flowing Sea Glaciers	article-journal	Journal of Geophysical Research	2005	1001
 Required	"[{:family=>""Donnadieu"", :given=>""Yannick""}, {:family=>""Fluteau"", :given=>""Frederic""}, {:family=>""Ramstein"", :given=>""Gilles""}, {:family=>""Ritz"", :given=>""Catherine""}, {:family=>""Besse"", :given=>""Jean""}]"	Is There a Conflict Between the Neoproterozoic Glacial Deposits and the Snowball Earth Interpretation: An Improved Understanding with Numerical Modeling	article-journal	Earth and Planetary Science Letters	2003	1001
@@ -3009,7 +3008,7 @@ Optional	"[{:family=>""Trenberth"", :given=>""K.""}, {:others=>true}]"	The atmos
 Optional	"[{:given=>""Starr""}, {:others=>true}]"	Momentum and zonal kinetic energy balance of the atmosphere from five years of hemisphere data	article-journal	Tellus	1970	1013
 Optional	"[{:given=>""Starr""}, {:given=>""Gaut""}]"	Symmetrical formulation of the zonal kinetic energy equation	article-journal	Tellus	1969	1013
 Optional	"[{:given=>""Newton""}]"	Mountain torques in the global angular momentum balance	article-journal	J Atmos Sci		1013
-Optional	"[{:literal=>""———.""}]"	Global angular momentum balance: earth torque and atmospheric fluxes	article-journal	J Atmos Sci		1013
+Optional	"[{:given=>""Newton""}]"	Global angular momentum balance: earth torque and atmospheric fluxes	article-journal	J Atmos Sci		1013
 Optional	"[{:family=>""Newton"", :given=>""C.W.""}]"	Southern hemisphere general circulation in relation to global energy and momentum balance requirements	article-journal	Meteorology of the Southern Hemisphere. Meteorol Monogr 13	1971	1013
 Optional	"[{:given=>""Rosen""}, {:others=>true}]"	Variability in the annual fields of large-scale atmospheric water transport	article-journal	Mon Wea Rev	1979	1013
 Optional	"[{:family=>""Oort"", :given=>""A.H.""}, {:family=>""Peixoto"", :given=>""J.P.""}]"	Global angular momentum and energy balance requirements from observations	article-journal	Adv Geophys	1983	1013

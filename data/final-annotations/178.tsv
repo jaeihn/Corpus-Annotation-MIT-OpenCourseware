@@ -1,0 +1,8 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Poirier"", :given=>""D.R.""}, {:family=>""Geiger"", :given=>""G.H.""}]"	Transport Phenomena in Materials Processing			1998	both	Required
+"[{:family=>""Bergman"", :given=>""Theodore L.""}, {:family=>""Lavine"", :given=>""Adrienne S.""}, {:others=>true}]"	Introduction to Heat Transfer			2011	both	Required
+"[{:family=>""Kou"", :given=>""Sindo""}]"	Transport Phenomena and Materials Processing			1996	both	Required
+"[{:family=>""Flemings"", :given=>""Merton C.""}]"	Solidification Processing			1974	both	Required
+"[{:family=>""Carslaw"", :given=>""H.S.""}, {:family=>""Jaeger"", :given=>""J.C.""}]"	Conduction of Heat in Solids			1959	both	Required
+"[{:family=>""Pilkington"", :given=>""L.A.B.""}]"	The Float Glass Process	article-journal	Proceedings of the Royal Society of London	1969	both	Required
+"[{:family=>""Reed"", :given=>""James S.""}]"	Deflocculants and Coagulants	chapter	Chapter 10 in Principles of Ceramics Processing	1995	both	Required

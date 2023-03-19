@@ -1,0 +1,7 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Suh"", :given=>""N.P.""}]"	Tribophysics			1986	both	Required
+"[{:family=>""Lim"", :given=>""S.C.""}, {:family=>""Ashby"", :given=>""M.F.""}]"	Wear-Mechanism Maps	article-journal	Acta Metal	1987	both	Required
+"[{:family=>""Rha"", :given=>""J.J.""}, {:family=>""Kwon"", :given=>""S.C.""}, {:family=>""Cho"", :given=>""J.R.""}, {:family=>""Shon"", :given=>""W.Yim""}, {:family=>""Saka"", :given=>""N.""}]"	Creation of Ultra-Low Friction and Wear Surfaces for Micro-Devices Using Carbon Films				both	Required
+"[{:family=>""Suh"", :given=>""N.P.""}, {:family=>""Oktay"", :given=>""S.T.""}]"	Wear Debris Formation and Agglomeration	article-journal	Journal of Tribology	1992-04	both	Required
+	The readings in this table are from the course textbook	manuscript		1986	left_only	Required
+"[{:family=>""Suh"", :given=>""N.""}]"	P	book			right_only	Required

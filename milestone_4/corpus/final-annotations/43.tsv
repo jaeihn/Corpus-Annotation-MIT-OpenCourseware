@@ -1,0 +1,8 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Porter"", :given=>""M.E.""}]"	Competitive Advantage: Creating and Sustaining Superior Performance			1985	left_only	Required
+"[{:family=>""Porter"", :given=>""M.E.""}]"	Market Segmentation			chapter 7	left_only	Required
+"[{:family=>""Porter"", :given=>""M.E.""}, {:family=>""Millar"", :given=>""V.E.""}]"	How Information Gives You Competitive Advantage	article-journal	Harvard Business Review	1985-07	left_only	Required
+"[{:family=>""Porter"", :given=>""M.E.""}, {:family=>""Rivkin"", :given=>""J.W.""}]"	Industry Transformation	book			left_only	Required
+"[{:family=>""Porter"", :given=>""M.E.""}]"	Strategy in Fragmented Industries	book		Chapter 9	left_only	Required
+"[{:family=>""Tovar"", :given=>""M.L.""}, {:family=>""Cacace"", :given=>""K.""}, {:family=>""Matsushima"", :given=>""S.""}]"	B2Bilt - A Study of Changes in Building Industry Processes	book		2002	left_only	Required
+"[{:family=>""Porter"", :given=>""Michael E.""}]"	Competitive Advantage: Creating and Sustaining Superior Performance			1985	right_only	Required

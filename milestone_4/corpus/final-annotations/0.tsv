@@ -1,0 +1,3 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Press"", :given=>""William""}, {:family=>""Teukolsky"", :given=>""Saul""}, {:others=>true}]"	Numerical Recipes in C: The Art of Scientific Computing			1992	both	Optional
+"[{:family=>""Horstmann"", :given=>""Cay""}]"	Big Java			2009	both	Optional

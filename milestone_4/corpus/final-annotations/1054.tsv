@@ -1,0 +1,4 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Ross"", :given=>""Sheldon M.""}]"	Probability and Statistics for Engineers and Scientists			2004	both	Required
+"[{:family=>""Larsen"", :given=>""Richard J.""}, {:family=>""Marx"", :given=>""Morris L.""}]"	An Introduction to Mathematical Statistics and its Applications			2001	both	Optional
+"[{:family=>""DeGroot"", :given=>""Morris H.""}, {:family=>""Schervish"", :given=>""Mark J.""}]"	Probability and Statistics	book		2002	both	Optional

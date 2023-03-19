@@ -1,0 +1,3 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Slocum"", :given=>""A.H.""}]"	Precision Machine Design	book		1995	both	Required
+"[{:family=>""Roark"", :given=>""R.J.""}, {:family=>""Young"", :given=>""W.C.""}]"	Formulas for Stress and Strain	book			both	Optional

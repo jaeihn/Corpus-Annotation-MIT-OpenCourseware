@@ -1,0 +1,7 @@
+Required	[{:family=>"Dill", :given=>"K."}, {:family=>"Bromberg", :given=>"S."}]	["Molecular Driving Forces"]			["2002"]
+Optional	[{:family=>"Hill", :given=>"T.L."}]	["An Introduction to Statistical Thermodynamics"]			["1987"]
+Optional	[{:family=>"Holde", :given=>"K.E.", :particle=>"van"}, {:family=>"Johnson", :given=>"W.C."}, {:family=>"Ho", :given=>"P.S."}]	["Principles of Physical Biochemistry"]			["1998"]
+Optional	[{:family=>"Eisenberg", :given=>"D."}, {:family=>"Crothers", :given=>"D."}]	["Physical Chemistry with Applications to the Life Sciences"]			["1979"]
+Optional	[{:family=>"Kittel", :given=>"C."}, {:family=>"Kroemer", :given=>"H."}]	["Thermal Physics"]			["1980"]
+Optional	[{:family=>"McQuarrie", :given=>"D.A."}]	["Statistical Mechanics"]	book		["1976"]
+Optional	[{:family=>"Atkins", :given=>"P.W."}]	["Physical Chemistry"]	book		["1997"]

@@ -1,0 +1,5 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Franklin"", :given=>""Gene F.""}, {:family=>""Powell"", :given=>""J.David""}, {:family=>""Workman"", :given=>""Michael L.""}]"	Digital Control of Dynamic Systems			1997	left_only	Required
+"[{:family=>""Oppenheim"", :given=>""A.V.""}, {:family=>""Willsky"", :given=>""A.S.""}]"	Signals and Systems			1996	left_only	Required
+"[{:family=>""Biernson"", :given=>""G.""}]"	A Servo for Integrated-Circuit Photolithography	chapter	Chapter 15 in Principles of Feedback Control	1988	both	Optional
+"[{:family=>""F."", :given=>""Gene""}, {:family=>""Powell"", :given=>""J.David""}, {:family=>""Workman"", :given=>""Michael L.""}]"	The course text is: Franklin			1997	right_only	Required

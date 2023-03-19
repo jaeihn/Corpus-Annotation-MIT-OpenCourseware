@@ -1,0 +1,19 @@
+author	title	type	collection	year	_merge	category
+"[{:literal=>""HP97 - Hatton, J., and P. B. Plouffe.""}]"	Science and Its Ways of Knowing			1996	left_only	Required
+"[{:family=>""Medawar"", :given=>""P.""}]"	Advice to a Young Scientist			1979	both	Required
+"[{:given=>""NAS95""}]"	National Academy of Sciences. On Being a Scientist			1995	left_only	Required
+"[{:family=>""Chalmers"", :given=>""A.""}]"	What is This Thing Called Science?			1999	both	Required
+"[{:family=>""Anholt"", :given=>""R.""}]"	Dazzle’em With Style			2005	both	Required
+"[{:family=>""Bishop"", :given=>""C.""}]"	How to Edit a Scientific Journal			1984	both	Required
+"[{:family=>""Bronowski"", :given=>""J.""}]"	The creative process	article-journal	Scientific American	1995	both	Required
+"[{:family=>""Dodd"", :given=>""J.""}]"	The ACS Style Guide			1997	both	Required
+"[{:family=>""Kuhn"", :given=>""T.""}]"	The Structure of Scientific Revolutions			1996	both	Required
+"[{:family=>""Klemke"", :given=>""E.""}, {:family=>""Hollinger"", :given=>""R.""}, {:family=>""Rudge"", :given=>""D.""}, {:family=>""Kline"", :given=>""A.""}]"	Introductory Readings in the Philosophy of Science			1998	both	Required
+"[{:family=>""Miller"", :given=>""D.""}]"	Popper Selections			1985	both	Required
+"[{:family=>""Woodward"", :given=>""J.""}, {:family=>""Goodstein"", :given=>""D.""}]"	Conduct	article-journal	American Scientist	1996	both	Required
+"[{:family=>""Zucker"", :given=>""A.""}]"	Introduction to the Philosophy of Science			1995	both	Required
+"[{:family=>""Hatton"", :given=>""J.""}, {:family=>""Plouffe"", :given=>""P.B.""}]"	Science and Its Ways of Knowing			1996	right_only	Required
+"[{:family=>""Sciences"", :given=>""National Academy"", :particle=>""of""}]"	On Being a Scientist			1995	right_only	Required
+"[{:given=>""Weinberg""}]"	In Best American Science Writing			2002	right_only	Required
+"[{:family=>""Mayr"", :given=>""E.""}]"	Toward a New Philosophy of Biology			1988	right_only	Required
+"[{:family=>""Jenkins"", :given=>""S.H.How Science Works?""}]"				2004	right_only	Required

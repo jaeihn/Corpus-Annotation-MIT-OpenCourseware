@@ -1,0 +1,5 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Vecchio"", :given=>""Del""}, {:family=>""Domitilla""}, {:family=>""Murray"", :given=>""Richard M.""}]"	Biomolecular Feedback Systems			2014	both	Required
+"[{:family=>""Alon"", :given=>""Uri""}]"	An Introduction to Systems Biology: Design Principles of Biological Circuits			2006	both	Optional
+"[{:family=>""Klipp"", :given=>""Edda""}, {:family=>""Herwig"", :given=>""Ralf""}, {:others=>true}]"	Systems Biology in Practice: Concepts			2005	both	Optional
+"[{:family=>""Alberts"", :given=>""Bruce""}, {:family=>""Johnson"", :given=>""Alexander""}, {:others=>true}]"	Molecular Biology of the Cell			2002	both	Optional

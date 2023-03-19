@@ -32,5 +32,5 @@ Required	[{:family=>"Bloom", :given=>"Nicholas"}, {:family=>"Schankerman", :give
 Required	[{:family=>"Jaffe", :given=>"Adam B."}, {:family=>"Trajtenberg", :given=>"Manuel"}, {:family=>"Henderson", :given=>"Rebecca"}]	["Geographic Localization of Knowledge Spillovers as Evidenced by Patent Citations"]	article-journal	["The Quarterly Journal of Economics"]	["1993"]
 Required	[{:family=>"Kerr", :given=>"William R."}]	["Ethnic Scientific Communities and International Technology Diffusion"]	article-journal	["The Review of Economics and Statistics"]	["2008"]
 Required	[{:family=>"Griliches", :given=>"Zvi"}]	["Hybrid Corn: An Exploration in the Economics of Technological Change"]	article-journal	["Econometrica"]	["1957"]
-Required	[{:literal=>"———."}]	["The Search for R&D Spillovers"]	article-journal	["The Scandinavian Journal of Economics"]	["1992"]
+Required	[{:family=>"Griliches", :given=>"Zvi"}]	["The Search for R&D Spillovers"]	article-journal	["The Scandinavian Journal of Economics"]	["1992"]
 Required	[{:family=>"Irwin", :given=>"Douglas A."}, {:family=>"Klenow", :given=>"Peter J."}]	["Learning by Doing Spillovers in the Semiconductor Industry"]	article-journal	["Journal of Political Economy"]	["1994"]

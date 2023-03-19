@@ -1,0 +1,13 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Hart"", :given=>""Myra M.""}, {:family=>""Roberts"", :given=>""Michael J.""}, {:others=>true}]"	Zipcar: Refining the Business Model	book		2003	both	Required
+"[{:family=>""Steenburgh"", :given=>""Thomas""}, {:family=>""Avery"", :given=>""Jill""}, {:others=>true}]"	HubSpot: Inbound Marketing and Web 2.0	book		2009	both	Required
+"[{:family=>""Lynch"", :given=>""Merrill""}]"	Understanding Financial Reports	book		2003	both	Required
+"[{:family=>""Christensen"", :given=>""Roland C.""}, {:family=>""Rosenblum"", :given=>""John W.""}, {:others=>true}]"	Prelude Corporation	book		1972	both	Required
+"[{:family=>""Lee"", :given=>""Hau L.""}, {:family=>""Plous"", :given=>""Steven""}, {:others=>true}]"	Hewlett-Packard Company: Network Printer Design for Universality	chapter	Stanford Graduate School of Business Case	1996	both	Required
+"[{:family=>""Ince"", :given=>""J.F.""}, {:family=>""Maidique"", :given=>""M.A.""}]"	The Grumman Corporation	article-journal	Harvard Business School Case. Harvard Business School Publishing. Case	1979	both	Required
+"[{:family=>""Barbour"", :given=>""Jakobsen""}]"	Pilkington Float Glass	article-journal	Harvard Business School Case. Harvard Business School Publishing. Case	1971	both	Required
+"[{:family=>""Wierzynski"", :given=>""G.H.""}]"	The Eccentric Lords of Float Glass	article-journal	The Fortune	1968	both	Required
+"[{:family=>""Derby"", :given=>""Jack""}]"	Writing the Winning Business Plan	book		2012	left_only	Optional
+"[{:family=>""Derby"", :given=>""Jack""}]"	The Roles of Business Planning for Successful Business Growth	book		2012	left_only	Optional
+"[{:family=>""Turner"", :given=>""Jack""}]"	Inventions			2012	left_only	Optional
+"[{:family=>""Marano"", :given=>""John""}]"	Vascular Insights	article-journal	ClariVein	2012	left_only	Optional

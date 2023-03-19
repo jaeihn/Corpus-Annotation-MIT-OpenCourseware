@@ -1,0 +1,19 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Church"", :given=>""Jeffrey""}, {:family=>""Ware"", :given=>""Roger""}]"	Industrial Organization: A Strategic Approach	book		2000	left_only	Required
+	Hard Profits: A Cement Titan in Mexico Thrives by Selling to the Poor—Cemex’s Huge Market Share Lets It Keep Prices High	article-journal	Wall Street Journal	2002-04-22	both	Required
+"[{:family=>""Case"", :given=>""Harvard Business School""}]"	General Electric v. Westinghouse in Large Turbine Generators				both	Required
+"[{:family=>""Salpukas"", :given=>""A.""}]"	An Oil Outsider Revives a Cartel	article-journal	New York Times	1999-10-24	both	Required
+"[{:family=>""Economic Advisors"", :given=>""U.S.Council"", :particle=>""of""}]"	Realizing Gains from Competition	article-journal	The Economic Report of the President	2002-01	left_only	Required
+	Oligopolies are on the Rise as the Urge to Merge Grows	article-journal	Wall Street Journal	2002-02-25	both	Required
+"[{:family=>""response"", :given=>""Airline""}, {:family=>""Done"", :given=>""Kevin""}]"	US airlines on collision course with regulators	article-journal	Financial Times	2003-01-21	left_only	Required
+	Nintendo in Europe: See the European Commission Ruling &	book		2002-10-30	both	Required
+"[{:given=>""Priceline""}]"	How to Beat Priceline	article-journal	Wall Street Journal	2002-04-09	both	Required
+"[{:family=>""Pricing"", :given=>""Internet""}, {:family=>""Search"", :given=>""Ellison""}, {:family=>""Glenn""}, {:family=>""Ellison"", :given=>""Sara""}]"	Search	article-journal	MIT mimeo	2001	both	Required
+"[{:family=>""Ghemawat"", :given=>""Pankaj""}]"	Capacity Expansion in the Titanium Dioxide Industry	article-journal	Journal of Industrial Economics	1984-12	both	Required
+"[{:family=>""American Airlines"", :given=>""U.S."", :particle=>""v.""}]"	Memorandum and Order			2001-04-27	both	Required
+"[{:family=>""Nevo"", :given=>""Aviv""}]"	Measuring Market Power in the Ready-to-Eat Cereal Industry	article-journal	Econometrica	2001-03	both	Optional
+	Chrysler Unveils New Warranty Deal	book		2002-07-07	both	Required
+	Cigarette Makers in Discount War to Lock in Share	article-journal	Wall Street Journal	1998-09-23	both	Required
+	Leading the News: Drug Study Finds Little Innovation	article-journal	Wall Street Journal	2002-05-29	both	Required
+	Big Tooth? Suit Says Dentsply has a Monopoly	article-journal	Wall Street Journal	2002-04-12	both	Required
+"[{:family=>""Church"", :given=>""Jeffrey""}, {:family=>""Ware"", :given=>""Roger""}]"	Industrial Organization: A Strategic Approach			2000	right_only	Required

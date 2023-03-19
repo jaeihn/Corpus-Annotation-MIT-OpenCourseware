@@ -1,0 +1,6 @@
+Required	[{:family=>"Provenzano", :given=>"Paolo P."}, {:family=>"Cuevas", :given=>"Carlos"}, {:others=>true}]	["Enzymatic Targeting of the Stroma Ablates Physical Barriers to Treatment of Pancreatic Ductal Adenocarcinoma"]	article-journal	["Cancer Cell"]	["2012"]
+Required	[{:family=>"Provenzano", :given=>"P.P."}, {:family=>"Hingorani", :given=>"S.R."}]	["Hyaluronan, Fluid Pressure, and Stromal Resistance in Pancreas Cancer"]	article-journal	["British Journal of Cancer"]	["2013"]
+Required	[{:family=>"Chauhan", :given=>"Vikash P."}, {:family=>"Boucher", :given=>"Yves"}, {:others=>true}]	["Compression of Pancreatic Tumor Blood Vessels by Hyaluronan is Caused by Solid Stress and Not Interstitial Fluid Pressure"]	article-journal	["Cancer Cell"]	["2014"]
+Optional	[{:family=>"Drubin", :given=>"David G."}]	["Any Jackass can Trash a Manuscript, But It Takes Good Scholarship to Create One (How MBoC Promotes Civil and Constructive Peer Review"]	article-journal	["Molecular Biology of the Cell"]	["2011"]
+Optional	[{:family=>"Neill", :given=>"Ushma S."}]	["How to Write an Effective Referee Report"]	article-journal	["The Journal of Clinical Investigation"]	["2009"]
+Optional	[{:family=>"Truskey", :given=>"George A."}, {:family=>"Yuan", :given=>"Fan"}, {:family=>"Katz", :given=>"David F."}]	["Transport Phenomena in Biological Bystems"]			["2009"]

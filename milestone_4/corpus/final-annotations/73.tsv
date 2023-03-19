@@ -1,0 +1,5 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Nise"", :given=>""Norman S.""}]"	Control Systems Engineering			2007	both	Required
+"[{:given=>""Rowell""}, {:given=>""Wormley""}]"	System Dynamics: An Introduction	book		1996	both	Optional
+"[{:given=>""Dorf""}, {:given=>""Bishop""}]"	Modern Control Systems	book		1995	both	Optional
+"[{:given=>""Ogata""}]"	Modern Control Engineering	book		1996	both	Optional

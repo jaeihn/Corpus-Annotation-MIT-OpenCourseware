@@ -1,0 +1,7 @@
+Optional		["Introduction to Derivative-Free Optimization"]	book		
+Optional		["Sigmund and Maute’s “Topology Optimization Approaches"]			
+Optional		["Chris’s blog post on Engineering Trade-Offs in Automatic Differentiation"]			
+Optional		["Chris Rackauckas’s discussion post on AD limitations"]			
+Optional			book		
+Optional		["Adjoint Sensitivity Analysis for Differential-Algebraic Equations: The Adjoint DAE System and Its Numerical Solution"]			
+Optional		["Chris’s amazing DifferentialEquations.jl software suite"]			

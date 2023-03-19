@@ -1,0 +1,30 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Engel"", :given=>""T.""}, {:family=>""Reid"", :given=>""P.""}]"	Physical Chemistry			2005	both	Required
+"[{:family=>""Allen"", :given=>""S.M.""}, {:family=>""Thomas"", :given=>""E.L.""}]"	The Structure of Materials			1999	both	Required
+"[{:family=>""Rohrer"", :given=>""G.""}]"	Structure and Bonding in Crystalline Materials			2001	both	Optional
+"[{:family=>""Atkins"", :given=>""P.W.""}, {:family=>""Paula"", :given=>""J."", :particle=>""de""}]"	Physical Chemistry			2002	both	Optional
+"[{:family=>""Nye"", :given=>""J.F.""}]"	Physical Properties of Crystals: Their Representation by Tensors and Matrices			1985	both	Optional
+"[{:family=>""Mortimer"", :given=>""R.G.""}]"	Physical Chemistry			2000	both	Optional
+"[{:family=>""Thaller"", :given=>""B.""}]"	Visual Quantum Mechanics			2002	both	Optional
+"[{:family=>""Bransden"", :given=>""B.H.""}, {:family=>""Joachain"", :given=>""C.J.""}]"	Quantum Mechanics			2000	both	Optional
+"[{:family=>""Bransden"", :given=>""B.H.""}, {:family=>""Joachain"", :given=>""C.J.""}]"	Physics of Atoms and Molecules			2003	both	Optional
+"[{:family=>""Petrucci"", :given=>""R.H.""}, {:family=>""Harwood"", :given=>""W.S.""}, {:family=>""Herring"", :given=>""F.G.""}]"	General Chemistry: Principles and Modern Applications			2001	both	Optional
+"[{:family=>""Dill"", :given=>""K.A.""}, {:family=>""Bromberg"", :given=>""S.""}]"	Molecular Driving Forces			2002	both	Optional
+"[{:family=>""Bent"", :given=>""H.A.""}]"	The Second Law			1965	both	Optional
+"[{:family=>""Callen"", :given=>""H.B.""}]"	Thermodynamics			1960	both	Optional
+"[{:family=>""Denbigh"", :given=>""K.G.""}]"	The Principles of Chemical Equilibrium			1981	both	Optional
+"[{:family=>""Smith"", :given=>""D.Y.""}]"	Spin-Orbit Effects in the F and K Bands of Colored Alkali Halides	article-journal	Physical Review B	1972-07-15	both	Required
+"[{:family=>""Binning"", :given=>""G.""}, {:family=>""Rohrer"", :given=>""H.""}]"	Scanning tunneling microscopy - from birth to adolescence	article-journal	Reviews of Modern Physics	1987	both	Required
+"[{:family=>""Zemansky"", :given=>""M.W.""}, {:family=>""Dittman"", :given=>""R.H.""}]"	Work	chapter	Heat and Thermodynamics	1996	both	Required
+"[{:family=>""Callister"", :given=>""W.D."", :suffix=>""Jr""}]"	Magnetic Properties	chapter	Fundamentals of Materials Science and Engineering	2004	both	Required
+"[{:given=>""Dill""}, {:given=>""Bromberg""}]"	How to Design a Fundamental Equation	chapter	Molecular Driving Forces	2003	both	Required
+"[{:family=>""Lupis"", :given=>""C.H.P.""}]"	Stability of one-component systems	chapter	Chemical Thermodynamics of Materials	1983	both	Required
+"[{:family=>""Callen"", :given=>""H.B.""}]"	Stability of Thermodynamic Systems	chapter	Thermodynamics and an Introduction to Thermostatistics	1985	both	Required
+"[{:family=>""Wang"", :given=>""X.""}, {:family=>""Scandolo"", :given=>""S.""}, {:family=>""Car"", :given=>""R.""}]"	Carbon Phase Diagrams from Ab Initio Molecular Dynamics	article-journal	Physical Review Letters	2005-10-28	both	Required
+"[{:given=>""Gaskell""}]"	The free energy of solution	chapter	Chapter 11.5 in Introduction to Metallurgical Thermodynamics		both	Required
+"[{:given=>""Lupis""}]"	Binary Phase Diagrams	chapter	Chapter VII in Chemical Thermodynamics of Materials		both	Required
+"[{:family=>""Mortimer"", :given=>""R.G.""}]"	Principles of Quantum Mechanics: Classical Mechanics	chapter	Section 14.1 in Physical Chemistry	2000	right_only	Required
+"[{:family=>""Dill"", :given=>""D.""}]"	Analytic solution of the Schrödinger equation: Particle in a box				right_only	Required
+"[{:family=>""Callister"", :given=>""W.D."", :suffix=>""Jr""}]"	Phase Diagrams	chapter	Chapter 10S in Fundamentals of Materials Science and Engineering		right_only	Required
+"[{:given=>""Zallen""}]"	The Glass Transition	chapter	Chapter 1.4 in The Physics of Amorphous Solids		right_only	Required
+"[{:given=>""Dill""}, {:given=>""Bromberg""}]"	Chapter 15 “Solutions & Mixtures				right_only	Required

@@ -1,0 +1,5 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Snir"", :given=>""Marc""}, {:family=>""Gropp"", :given=>""William""}]"	MPI: The Complete Reference (2-volume set			1998	both	Required
+"[{:family=>""Gropp"", :given=>""William""}, {:family=>""Huss-Lederman"", :given=>""Steven""}, {:family=>""Lumsdaine"", :given=>""Andrew""}, {:family=>""Lusk"", :given=>""Ewing""}, {:family=>""Nitzberg"", :given=>""Bill""}, {:family=>""Saphir"", :given=>""William""}, {:family=>""Snir"", :given=>""Marc""}, {:literal=>""-""}]"	MPI: The Complete Reference			1998	both	Required
+"[{:family=>""Gropp"", :given=>""William""}, {:family=>""Lusk"", :given=>""Ewing""}, {:family=>""Skjellum"", :given=>""Anthony""}]"	Using MPI: Portable Parallel Programming with the Message Passing Interface			1999	both	Required
+"[{:family=>""Snir"", :given=>""Marc""}, {:family=>""Gropp"", :given=>""William""}]"	Using MPI-2: Advanced Features of the Message Passing Interface			1999	both	Required

@@ -1,0 +1,63 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Crichton"", :given=>""Michael""}]"	Prey			2003	both	Required
+"[{:family=>""French"", :given=>""A.P.""}]"	Periodic Motions,” “The Free Vibrations of Physical Systems,” and “Forced Vibrations and Resonance	article-journal	Vibrations and Waves	1971	both	Required
+"[{:family=>""Rugar"", :given=>""D.""}, {:others=>true}]"	Adventures in Attonewton Force Detection	article-journal	Appl Phys A	2001	both	Required
+"[{:family=>""Vettiger"", :given=>""P.""}, {:others=>true}]"	The ‘Millipede’ - More Than One Thousand Tips for Future AFM Data Storage	article-journal	IBM J Res Develop	2000-05	both	Required
+"[{:family=>""Beer"", :given=>""F.""}, {:family=>""Johnston"", :given=>""E.R.""}, {:family=>""DeWolf"", :given=>""J.T.""}]"	Pure Bending,” “Analysis and Design of Beams for Bending,” and “Deflection of Beams	article-journal	Mechanics of Materials	2005	both	Required
+"[{:family=>""Molloy"", :given=>""J.E.""}, {:family=>""Padgett"", :given=>""M.J.""}]"	Lights	article-journal	Contemporary Physics	2002	both	Required
+"[{:family=>""Domke"", :given=>""J.""}, {:others=>true}]"	Mapping the Mechanical Pulse of Single Cardiomyocytes with the Atomic Force Microscope	article-journal	Eur Biophys J	1999	both	Required
+"[{:family=>""Guo"", :given=>""X.E.""}, {:others=>true}]"	Intracellular Calcium Waves in Bone Cell Networks Under Single Cell Nanoindentation	article-journal	MCB	2006	both	Required
+"[{:family=>""Roylance"", :given=>""D.E.""}]"	Matrix and Index Notation	chapter	From 3.11 Mechanics of Materials	1999	both	Required
+"[{:family=>""Shusteff"", :given=>""M.""}, {:family=>""Burg"", :given=>""T.P.""}, {:family=>""Manalis"", :given=>""S.R.""}]"	Measuring Boltzmann’s Constant with a Low-Cost Atomic Force Microscope: An Undergraduate Experiment	article-journal	Am J Phys	2006-10	both	Required
+"[{:family=>""Hartgerink"", :given=>""J.D.""}, {:others=>true}]"	Self-Assembly and Mineralization of Peptide-Amphiphile Nanofibers	article-journal	Science	2001-11-23	both	Required
+"[{:family=>""Lewis"", :given=>""J.A.""}]"	Colloidal Processing of Ceramics	article-journal	J Am Ceram Soc	2000	both	Required
+"[{:family=>""Israelachvili"", :given=>""J.""}]"	Chord Theorem	chapter	Intermolecular Forces		both	Required
+"[{:family=>""Halperin"", :given=>""A.""}]"	Polymer Brushes that Resist Adsorption of Model Proteins: Design Parameters	article-journal	Langmuir	1999	both	Required
+"[{:family=>""Feynman"", :given=>""R.P.""}]"	There’s Plenty of Room at the Bottom	paper-conference	December 29th 1959 Annual meeting of the American Physical Society at the California Institute of Technology (Caltech		left_only	Required
+"[{:family=>""Drexler"", :given=>""K.E.""}]"	Engines of Construction.” Chapter 1 in Engines of Creation: The Coming Era of Nanotechnology			1987	both	Required
+	Nanotechnology: Shaping the World Atom by Atom	chapter	Report by the National Science and Technology Council (NSTC) Committee on Technology The Interagency Working Group on Nanoscience	1999	both	Required
+"[{:family=>""Shao"", :given=>""J.""}]"	Measuring Piconewton Forces and Its Application in Cellular and Molecular Biomechanics	article-journal	Advances in Biomechanics	2001	both	Required
+"[{:family=>""Vliet"", :given=>""K.J."", :particle=>""Van""}, {:family=>""Bao"", :given=>""G.""}, {:family=>""Suresh"", :given=>""S.""}]"	The Biomechanics Toolbox: Experimental Approaches for Living Cells and Biomolecules	article-journal	Acta Materialia	2003	both	Required
+"[{:family=>""Heinz"", :given=>""W.F.""}, {:family=>""Hoh"", :given=>""J.H.""}]"	Spatially Resolved Force Spectroscopy of Biological Surfaces using the Atomic Force Microscope	article-journal	Tibtech	1999	both	Required
+"[{:family=>""Binning"", :given=>""G.""}, {:family=>""Quate"", :given=>""C.F.""}, {:family=>""Gerber"", :given=>""C.""}]"	Atomic Force Microscope	article-journal	Physical Review Letters	1986	both	Required
+"[{:family=>""Baselt"", :given=>""D.""}]"	Atomic Force Microscopy: Measuring Intermolecular Interaction Forces	thesis		1993	both	Required
+"[{:family=>""Karp"", :given=>""G.""}]"	Covalent Bonds			Section 2.1	both	Required
+"[{:family=>""Dao"", :given=>""M.""}, {:others=>true}]"	Mechanics of the Human Red Blood Cell Deformed by Optical Tweezers	article-journal	J Mech Phys Solids	2003	both	Required
+"[{:family=>""Ashby"", :given=>""M.F.""}, {:family=>""Jones"", :given=>""D.R.H.""}]"	Chapter 3 “The Elastic Moduli,” and Chapter 4 “Bonding Between Atoms	chapter	Engineering Materials 1 - An Introduction to Properties	2005	both	Required
+"[{:family=>""Vlack"", :given=>""L.H."", :particle=>""Van""}]"	Introduction to Materials: Review of Chemical Bonding	chapter	Chapter 2 in Elements of Materials Science and Engineering	1985	both	Required
+"[{:family=>""Israelachvili"", :given=>""J.""}]"	Classification of Forces.” Section 2.6 in Intermolecular and Surface Forces			1992	both	Required
+"[{:family=>""Israelachvili"", :given=>""J.""}]"	Contrasts between Intermolecular	chapter	Chapter 10 in Intermolecular and Surface Forces		both	Required
+"[{:family=>""Malescio"", :given=>""G.""}]"	Intermolecular Potentials - Past	article-journal	Nature Materials	2003	both	Required
+"[{:family=>""Autumn"", :given=>""K.""}]"	How Gecko Toes Stick	article-journal	American Scientist	2006	both	Required
+"[{:family=>""Tian"", :given=>""Yu""}, {:others=>true}]"	Adhesion and Friction in Gecko Toe Attachment and Detachment	article-journal	PNAS	2006	both	Required
+"[{:family=>""Dupres"", :given=>""V.""}, {:others=>true}]"	Nanoscale Mapping and Functional Analysis of Individual Adhesins on Living Bacteria	article-journal	Nature Methods	2005	both	Required
+"[{:family=>""Israelachvili"", :given=>""J.""}]"	Electrostatic Forces Between Surfaces in Liquids	chapter	Chapter 12 in Intermolecular and Surface Forces		both	Required
+"[{:family=>""Buckwalter"", :given=>""J.A.""}, {:family=>""Mankin"", :given=>""H.J.""}, {:family=>""Grodinzinsky"", :given=>""A.J.""}]"	Articular Cartilage and Osteoarthritis	article-journal	AAOS Instructional Course Lectures	2005	both	Required
+"[{:family=>""Kratky"", :given=>""O.""}, {:family=>""Porod"", :given=>""G.""}]"	X-ray Investigation of Dissolved Chain Molecules	chapter	Recueil des Travaux Chimiques des Pays-Bas et de la Belgique (Recl Trav Chim Pas-Bas	1949	both	Required
+"[{:family=>""Fixman"", :given=>""M.""}, {:family=>""Kovac"", :given=>""J.""}]"	Polymer Conformational Statistics. III. Modified Gaussian Models of Stiff Chains	article-journal	J Chem Phys	1973	both	Required
+"[{:family=>""Bouchiat"", :given=>""C.""}, {:family=>""Wang"", :given=>""M.D.""}, {:family=>""Allemand"", :given=>""J.F.""}, {:family=>""Strick"", :given=>""T.""}, {:family=>""Block"", :given=>""S.M.""}, {:family=>""Croquette"", :given=>""V.""}]"	Estimating the Persistence Length of a Worm-Like Chain Molecule from Force-Extension Measurements	article-journal	Biophysical Journal	1999	both	Required
+"[{:family=>""Odijk"", :given=>""T.""}]"	Stiff Chains and Filaments under Tension	article-journal	Macromolecules	1995	both	Required
+"[{:family=>""Rief"", :given=>""M.""}, {:family=>""Grubmuller"", :given=>""H.Helmut""}]"	Force Spectroscopy of Single Biomolecules	article-journal	ChemPhysChem	2002	both	Required
+"[{:family=>""Fisher"", :given=>""T.E.""}, {:family=>""Oberhauser"", :given=>""A.F.""}, {:family=>""Carrion-Vazquez"", :given=>""M.""}, {:family=>""Marszalek"", :given=>""P.E.""}, {:family=>""Fernandez"", :given=>""J.M.""}]"	The Study of Protein Mechanics With the Atomic Force Microscope	article-journal	TIBS	1999	both	Required
+"[{:family=>""Austin"", :given=>""R.H.""}, {:family=>""Brody"", :given=>""J.P.""}, {:family=>""Cox"", :given=>""E.C.""}, {:family=>""Duke"", :given=>""T.""}, {:family=>""Volkmuth"", :given=>""W.""}]"	Stretch Genes	article-journal	Physics Today	1997	both	Required
+"[{:family=>""Clausen-Schaumann"", :given=>""H.""}, {:family=>""Rief"", :given=>""M.""}, {:family=>""Tolksdorf"", :given=>""C.""}, {:family=>""Gaub"", :given=>""H.E.""}]"	Mechanical Stability of Single DNA Molecules	article-journal	Biophysical Journal	2000	both	Required
+"[{:family=>""Smith"", :given=>""B.L.""}, {:family=>""Schaffer"", :given=>""T.E.""}, {:family=>""Viani"", :given=>""M.""}, {:family=>""Thompson"", :given=>""J.B.""}, {:family=>""Frederick"", :given=>""N.A.""}, {:family=>""Kindt"", :given=>""J.""}, {:family=>""Belcher"", :given=>""A.""}, {:family=>""Stucky"", :given=>""G.D.""}, {:family=>""Morse"", :given=>""D.E.""}, {:family=>""Hansma"", :given=>""P.K.""}]"	Molecular Mechanistic Origin of the Toughness of Natural Adhesives	article-journal	Nature	1999	both	Required
+"[{:family=>""Landingham"", :given=>""M."", :particle=>""Van""}, {:family=>""Villarubia"", :given=>""J.S.""}, {:family=>""Guthrie"", :given=>""W.F.""}, {:family=>""Meyers"", :given=>""G.F.""}]"	Nanoindentation of Polymers: An Overview	article-journal	Macromolecular Symposia	2001	both	Required
+"[{:family=>""Oliver"", :given=>""W.C.""}, {:family=>""Pharr"", :given=>""G.M.""}]"	An Improved Technique for Determining Hardness and Elastic-modulus Using Load and Displacement Sensing Indentation Expermiments	article-journal	J Mater Res	1992-06	both	Required
+"[{:family=>""Sneddon"", :given=>""Ian""}]"	The Relation Between Load and Penetration in the Axisymmetric Boussinesq Problem for a Punch of Arbitrary Profile	article-journal	Journal of Engineering Science	1965	both	Required
+"[{:family=>""Bruet"", :given=>""B.J.F.""}, {:others=>true}]"	Nanoscale Morphology and Indentation of Individual Nacre Tablets From the Gastropod Mollusc Trochus Niloticus	article-journal	J Mater Res	2005-09	both	Required
+"[{:family=>""Drexler"", :given=>""K.Eric""}]"	Engines of Creation: The Coming Era of Nanotechnology			1986	right_only	Required
+"[{:family=>""Higgins"", :given=>""M.J.""}, {:others=>true}]"	Structured Water Layers Adjacent to Biological Membranes	article-journal	Biophys J	2006	right_only	Required
+"[{:given=>""Suresh""}, {:others=>true}]"	Connections Between Single-cell Biomechanics and Human Disease States: Gastrointestinal Cancer and Malaria	article-journal	Acta Biomaterialia	2005	right_only	Required
+"[{:family=>""Israelachvili"", :given=>""J.""}]"	Contrasts Between Intermolecular	chapter	Chapter 10 in Intermolecular and Surface Forces		right_only	Required
+"[{:family=>""Israelachvili"", :given=>""J.""}]"	Van der Waals Forces Between Surfaces: The Force Laws for Bodies of Different Geometries - The Hamaker Constant	chapter	Chapter 11.1 in Intermolecular and Surface Forces		right_only	Required
+"[{:family=>""Briscoe"", :given=>""W.H.""}, {:others=>true}]"	Boundary Lubrication Under Water	article-journal	Nature	2006	right_only	Required
+"[{:family=>""Paper"", :given=>""Associated""}, {:family=>""Briscoe"", :given=>""W.H.""}, {:others=>true}]"	Boundary Lubrication Under Water	article-journal	Nature	2006	right_only	Required
+"[{:family=>""Paper"", :given=>""Associated""}, {:family=>""Dean"", :given=>""D.""}, {:others=>true}]"	Compressive Nanomechanics of Opposing Aggrecan Macromolecules	article-journal	J Biomech	2006	right_only	Required
+"[{:family=>""Buckwalter"", :given=>""J.A.""}, {:family=>""Mankin"", :given=>""H.J.""}, {:family=>""J"", :given=>""A.""}]"	Grodinzinsky “Articular Cartilage and Osteoarthritis	article-journal	AAOS Instructional Course Lectures	2005	right_only	Required
+"[{:family=>""Ortiz"", :given=>""C.""}]"	A Review of Elasticity Models for the Extension of Single Polymer Chains	chapter	MIT Department of Materials Science and Engineering 3.052 Nanomechanics of Materials and Biomaterials; supplementary course material		right_only	Required
+"[{:family=>""Treloar"", :given=>""L.R.G.""}]"	The Elasticity of Long Chain Molecules,” and “Non-Gaussian Chain Statistics and Network Theory	article-journal	The Physics of Rubber Elasticity	1975	right_only	Required
+"[{:family=>""Ng"", :given=>""Laurel""}, {:others=>true}]"	Nanomechanical Properties of Individual Chondrocytes and Their Developing Growth Factor-stimulated Pericellular Matrix	article-journal	J Biomech	2007	right_only	Required
+"[{:family=>""Abu-Lail"", :given=>""N.I.""}, {:others=>true}]"	Understanding the Elasticity of Fibronectin Fibrils: Unfolding Strengths of FN-III and GFP Domains Measured by Single Molecule Force Spectroscopy	article-journal	Matrix Biology	2006	right_only	Required
+"[{:family=>""Fantner"", :given=>""G.E.""}, {:others=>true}]"	Sacrificial Bonds and Hidden Length: Unraveling Molecular Mesostructures in Tough Materials	article-journal	Biophys J	2006	right_only	Required
+"[{:family=>""Mahadevan"", :given=>""L.""}, {:family=>""Matsudaira"", :given=>""P.""}]"	Motility Powered by Supramolecular Springs and Ratchets	article-journal	Science	2000-04-07	right_only	Required

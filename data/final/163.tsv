@@ -1,0 +1,17 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Chen"", :given=>""Gang""}]"	Nanoscale Energy Transport and Conversion			2005	both	Required
+"[{:family=>""Goldsmid"", :given=>""H.J.""}]"	Thermoelectric Refrigeration	book		1964	both	Required
+"[{:family=>""Bell"", :given=>""Lon E.""}]"	Cooling	article-journal	Science	2008-09-12	both	Required
+"[{:family=>""Vining"", :given=>""Cronin B.""}]"	An Inconvenient Truth About Thermoelectrics	article-journal	Nature Materials	2009-02	both	Required
+"[{:family=>""Dresselhaus"", :given=>""Mildred S.""}, {:others=>true}]"	New Directions for Low-Dimensional Thermoelectric Materials	article-journal	Advanced Materials	2007	both	Required
+"[{:family=>""Poudel"", :given=>""Bed""}, {:others=>true}]"	High-Thermoelectric Performance of Nanostructured Bismuth Antimony Telluride Bulk Alloys	article-journal	Science	2008-05-02	both	Required
+"[{:family=>""Heremans"", :given=>""Joseph P.""}, {:others=>true}]"	Enhancement of Thermoelectric Efficiency in PbTe by Distortion of the Electronic Density of States	article-journal	Science	2008-07-25	both	Required
+"[{:family=>""Hatsopoulos"", :given=>""George N.""}, {:family=>""Kaye"", :given=>""Joseph""}]"	Measured Thermal Efficiences of a Diode Configuration of a Thermo Electron Engine	article-journal	Journal of Applied Physics	1958	both	Required
+"[{:family=>""Shockley"", :given=>""William""}, {:family=>""Queisser"", :given=>""Hans J.""}]"	Detailed Balance Limit of Efficiency of p-n Junction Solar Cells	article-journal	Journal of Applied Physics	1961-03	both	Required
+"[{:family=>""Henry"", :given=>""C.H.""}]"	Limiting Efficiencies of Ideal Single and Multiple Energy Gap Terrestrial Solar Cells	article-journal	Journal of Applied Physics	1980-08	both	Required
+"[{:family=>""Würfel"", :given=>""Peter""}, {:family=>""Ruppel"", :given=>""Wolfgang""}]"	Upper Limit of Thermophotovoltaic Solar-Energy Conversion	article-journal	IEEE Transactions on Electron Devices	1980-04	both	Required
+"[{:family=>""Landsberg"", :given=>""P.T.""}, {:family=>""Tonge"", :given=>""G.""}]"	Thermodynamic Energy Conversion Efficiencies	article-journal	Journal of Applied Physics	1980-07	both	Required
+"[{:family=>""Winston"", :given=>""R.""}, {:family=>""Hinterberger"", :given=>""H.""}]"	Principles of Cylindrical Concentrators for Solar Energy	article-journal	Solar Energy	1975	both	Required
+"[{:family=>""Detor"", :given=>""A.J.""}, {:family=>""Schuh"", :given=>""C.A.""}]"	Microstructural Evolution During the Heat Treatment of Nanocrystalline Alloys	article-journal	Journal of Materials Research	2007-11	both	Required
+"[{:family=>""Winn"", :given=>""Joshua N.""}, {:others=>true}]"	Omnidirectional Reflection from a One-dimensional Photonic Crystal	article-journal	Optics Letters	1998-10	both	Required
+"[{:family=>""Čelanović"", :given=>""Ivan""}, {:others=>true}]"	Design and Optimization of One-dimensional Photonic Crystals for Thermophotovoltaic Applications	article-journal	Optics Letters	2004-04	both	Required

@@ -1,0 +1,4 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Devore"", :given=>""Jay L.""}]"	Probability and Statistics for Scientists and Engineers	book		2000	left_only	Required
+"[{:family=>""Devore"", :given=>""Jay L.""}]"	Probability and Statistics for Scientists and Engineers			2000	right_only	Required
+"[{:family=>""Etter"", :given=>""D.""}]"	Introduction to MATLAB® for Engineers and Scientists			1996	right_only	Required

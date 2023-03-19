@@ -1,0 +1,35 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Romer"", :given=>""David""}]"	Advanced Macroeconomics			2001	both	Required
+"[{:family=>""Solow"", :given=>""R.M.""}]"	A Contribution to the Theory of Economic Growth	article-journal	Quarterly Journal of Economics	1956	both	Required
+"[{:family=>""Mankiw"", :given=>""N.G.""}, {:family=>""Romer"", :given=>""D.""}, {:family=>""Weil"", :given=>""D.""}]"	A Contribution to the Empirics of Economic Growth	article-journal	Quarterly Journal of Economics	1992	both	Required
+"[{:family=>""Barro"", :given=>""R.J.""}, {:family=>""Sala-i-Martin"", :given=>""X.""}]"	Economic Growth			1995	both	Optional
+"[{:family=>""Blanchard"", :given=>""O.""}, {:family=>""Fischer"", :given=>""S.""}]"	Lectures on Macroeconomics			1989	both	Optional
+"[{:family=>""Barro"", :given=>""R.J.""}]"	Are Government Bonds Net Wealth?	article-journal	Journal of Political Economy	1974	both	Required
+"[{:family=>""Diamond"", :given=>""P.""}]"	National Debt in a Neoclassical Growth Model	article-journal	American Economic Review	1965	both	Required
+"[{:family=>""Blanchard"", :given=>""O.""}]"	Debt	article-journal	Journal of Political Economy	1985	both	Optional
+"[{:family=>""Barro"", :given=>""R.J.""}]"	On the Determination of the Public Debt	article-journal	Journal of Political Economy	1979	both	Required
+"[{:family=>""Barro"", :given=>""R.""}]"	Ramsey Meets Laibson in the Neoclassical Growth Model	article-journal	Quarterly Journal of Economics	1999	both	Optional
+"[{:family=>""Laibson"", :given=>""D.""}]"	Golden Eggs and Hyperbolic Discounting	article-journal	Quarterly Journal of Economics	1997	both	Optional
+"[{:family=>""Lucas"", :given=>""R.E."", :suffix=>""Jr""}]"	Asset Prices in an Exchange Economy	article-journal	Econometrica	1978	both	Optional
+"[{:family=>""Romer"", :given=>""P.M.""}]"	Increasing Returns and Long-Run Growth	article-journal	Journal of Political Economy	1986	both	Required
+"[{:family=>""Lucas"", :given=>""R.E."", :suffix=>""Jr""}]"	On the Mechanics of Economic Development	article-journal	Journal of Monetary Economics	1988	both	Required
+"[{:family=>""Romer"", :given=>""P.M.""}]"	Endogenous Technological Change	article-journal	Journal of Political Economy	1990	both	Required
+"[{:family=>""Lucas"", :given=>""R.E."", :suffix=>""Jr""}]"	Making a Miracle	article-journal	Econometrica	1993	both	Optional
+"[{:family=>""Aghion"", :given=>""P.""}, {:family=>""Howitt"", :given=>""P.""}]"	A Model of Growth Through Creative Destruction	article-journal	Econometrica	1992	both	Optional
+"[{:family=>""Kydland"", :given=>""F.""}, {:family=>""Prescott"", :given=>""E.C.""}]"	Time to Build and Aggregate Fluctuations	article-journal	Econometrica	1982	both	Required
+"[{:family=>""Lucas"", :given=>""R.E."", :suffix=>""Jr""}]"	An Equilibrium Model of the Business Cycle	article-journal	Journal of Political Economy	1975	both	Required
+"[{:family=>""Barro"", :given=>""R.Macroeconomics Chap""}]"	9			1998	both	Optional
+"[{:family=>""Prescott"", :given=>""E.C.""}]"	Theory Ahead of Business Cycle Measurement	article-journal	Quarterly Review	1986	both	Optional
+"[{:family=>""Lucas"", :given=>""R.E."", :suffix=>""Jr""}]"	Models of Business Cycles	book		1987	both	Optional
+"[{:family=>""Blanchard"", :given=>""O.""}]"	Why Does Money Affect Output? A Survey	chapter	Handbook of Monetary Economics	1990	both	Optional
+"[{:family=>""Mankiw"", :given=>""N.G.""}]"	Small Menu Costs and Large Business Cycles: A Macroeconomic Model of Monopoly	article-journal	Quarterly Journal of Economics	1985	both	Required
+"[{:family=>""Calvo"", :given=>""G.""}]"	Staggered Prices in a Utility-Maximizing Framework	article-journal	Journal of Monetary Economics	1983	both	Optional
+"[{:family=>""Obstfeld"", :given=>""M.""}]"	Risk-Taking	article-journal	American Economic Review	1994	both	Required
+"[{:family=>""Bernanke"", :given=>""B.""}, {:family=>""Gertler"", :given=>""M.""}]"	Agency Costs	article-journal	American Economic Review	1989	both	Required
+"[{:family=>""Greenwood"", :given=>""J.""}, {:family=>""Jovanovic"", :given=>""B.""}]"	Financial Development	article-journal	Journal of Political Economy	1990	both	Optional
+"[{:family=>""Banarjee"", :given=>""A.""}, {:family=>""Newman"", :given=>""A.""}]"	Occupational Choice in the Process of Development	article-journal	Journal of Political Economy	1993	both	Optional
+"[{:family=>""Shapiro"", :given=>""C.""}, {:family=>""Stiglitz"", :given=>""J.""}]"	Equilibrium Unemployment as a Worker Discipline Device	article-journal	American Economic Review	1984	both	Required
+"[{:family=>""Diamond"", :given=>""P.""}]"	Aggregate Demand Management in Search Equilibrium	article-journal	Journal of Political Economy	1982	both	Optional
+"[{:family=>""Hall"", :given=>""R.E.""}]"	Stochastic Implications of the Life Cycle-Permanent Income Hypothesis: Theory and Evidence	article-journal	Journal of Political Economy	1978	both	Optional
+"[{:family=>""Romer"", :given=>""D.Advanced Macroeconomics""}]"				2001	right_only	Required
+"[{:family=>""Romer"", :given=>""D.Advanced Macroeconomics""}]"		chapter	and 10. ISBN	2001	right_only	Required

@@ -1,0 +1,9 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Easley"", :given=>""David""}, {:family=>""Kleinberg"", :given=>""Jon""}]"	Networks			2010	both	Required
+"[{:family=>""Jackson"", :given=>""Matthew O.""}]"	Social and Economic Networks			2010	left_only	Required
+"[{:family=>""Newman"", :given=>""M.E.J.""}]"	Networks: An Introduction			2010	left_only	Required
+"[{:family=>""Shah"", :given=>""Devavrat""}]"	Gossip Algorithms			2009	left_only	Required
+"[{:family=>""Spielman"", :given=>""Daniel""}]"	Chapter 16: Spectral Graph Theory	book		2007	left_only	Required
+"[{:given=>""Battiston""}, {:others=>true}]"	DebtRank: Too Central to Fail? Financial Networks			2012	left_only	Optional
+"[{:given=>""Akbarpour""}, {:others=>true}]"	Just a Few Seeds More: Value of Network Information for Diffusion			2018	left_only	Optional
+"[{:given=>""Shah""}, {:given=>""Zaman""}]"	Rumors in a Network: Who’s the Culprit?			2011	left_only	Optional

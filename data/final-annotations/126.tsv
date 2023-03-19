@@ -1,0 +1,8 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Chen"", :given=>""Gang""}]"	Nanoscale Energy Transport and Conversion: A Parallel Treatment of Electrons			2005	both	Required
+"[{:family=>""Griffiths"", :given=>""D.J.""}]"	Quantum Mechanics	chapter	Introduction to Quantum Mechanics	1994	both	Optional
+"[{:family=>""Kittel"", :given=>""C.""}]"	Solid-State Physics	chapter	Introduction to Solid State Physics	1995	both	Optional
+"[{:family=>""Born"", :given=>""M.""}, {:family=>""Wolf"", :given=>""E.""}]"	Electromagnetism	chapter	Principles of Optics: Electromagnetic Theory of Propagation	1999	both	Optional
+"[{:family=>""Sze"", :given=>""S.M.""}]"	Electronics	chapter	Physics of Semiconductor Devices	1981	both	Optional
+"[{:family=>""Kittel"", :given=>""C.""}, {:family=>""Kroemer"", :given=>""H.""}]"	Thermal Physics	chapter	Thermal Physics	1980	both	Optional
+"[{:family=>""Vincenti"", :given=>""W.G.""}, {:family=>""Kruger"", :given=>""C.H."", :suffix=>""Jr""}]"	Kinetic Theory	chapter	Introduction to Physical Gas Dynamics	1975	both	Optional

@@ -1,0 +1,27 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Monden"", :given=>""Yasuhiro""}]"	Toyota Production System: Practical Approach to Production Management	article-journal	Industrial Engineering and Management Press	1983	both	Optional
+"[{:family=>""Gershwin"", :given=>""Stanley B.""}]"	Manufacturing Systems Engineering			1993	both	Optional
+"[{:family=>""Viswanadham"", :given=>""N.""}, {:family=>""Narahari"", :given=>""Y.""}]"	Performance Modeling of Automated Manufacturing Systems			1994	both	Optional
+"[{:family=>""Buzacott"", :given=>""John A.""}, {:family=>""Shanthikumar"", :given=>""J.George""}]"	Stochastic Models of Manufacturing Systems			1993	both	Optional
+"[{:family=>""Askin"", :given=>""Ronald G.""}, {:family=>""Standridge"", :given=>""Charles R.""}]"	Modeling and Analysis of Manufacturing Systems			1993	both	Optional
+"[{:family=>""Tempelmeier"", :given=>""Horst""}, {:family=>""Kuhn"", :given=>""Heinrich""}]"	Flexible Manufacturing Systems: Decision Support for Design and Operation			1993	both	Optional
+"[{:family=>""Papadopoulos"", :given=>""H.T.""}, {:family=>""Heavey"", :given=>""C.""}, {:family=>""Browne"", :given=>""J.""}]"	Queueing Theory in Manufacturing Systems Analysis and Design			1993	both	Optional
+"[{:family=>""Altiok"", :given=>""Tayfur""}]"	Performance Analysis of Manufacturing Systems	book		1997	both	Optional
+"[{:family=>""Hopp"", :given=>""Wallace J.""}, {:family=>""Spearman"", :given=>""Mark L.""}]"	Factory Physics: Foundations of Manufacturing Management			2011	both	Optional
+"[{:family=>""A."", :given=>""Dolgui""}, {:family=>""Proth"", :given=>""J.M.""}]"	Les systèmes de production modernes. Tome 1 : Conception			2006	both	Optional
+"[{:family=>""A."", :given=>""Dolgui""}, {:family=>""Proth"", :given=>""J.M.""}]"	Les systèmes de production modernes. Tome 2 : Outils et corrigés des exercices coll finance gestion managem	article-journal	Hermes Science	2006	both	Optional
+"[{:family=>""Li"", :given=>""Jingshan""}, {:family=>""Meerkov"", :given=>""Semyon M.""}]"	Production Systems Engineering			2008	both	Optional
+"[{:family=>""Goldratt"", :given=>""Eliyahu M.""}, {:family=>""Cox"", :given=>""Jeff""}]"	The Goal: A Process of Ongoing Improvement			2014	both	Optional
+"[{:family=>""Drake"", :given=>""Alvin W.""}]"	Fundamentals of Applied Probability Theory			1967	both	Optional
+"[{:family=>""Ross"", :given=>""Sheldon M.""}]"	Introduction to Probability and Statistics for Engineers and Scientists			1987	both	Optional
+"[{:family=>""Hillier"", :given=>""Frederick S.""}, {:family=>""Lieberman"", :given=>""G.J.""}]"	Introduction to Stochastic Models in Operations Research			1990	both	Optional
+"[{:family=>""Kleinrock"", :given=>""Leonard""}]"	Queueing Systems			1975	both	Optional
+"[{:family=>""Chen"", :given=>""Hong""}, {:family=>""Yao"", :given=>""David D.""}]"	Fundamentals of Queueing Networks: Performance			2001	both	Optional
+"[{:family=>""McLain"", :given=>""John O.""}, {:family=>""Thomas"", :given=>""L.Joseph""}]"	Operations Management: Production of Goods and Services			1985	both	Optional
+"[{:family=>""Box"", :given=>""George E.P.""}, {:family=>""Hunter"", :given=>""William G.""}, {:family=>""Hunter"", :given=>""J.Stuart""}]"	Statistics for Experimenters: An Introduction to Design			1978	both	Optional
+"[{:family=>""Pankratz"", :given=>""Alan""}]"	Forecasting with Dynamic Regression Models			1991	both	Optional
+"[{:family=>""Hillier"", :given=>""Frederick S.""}, {:family=>""Lieberman"", :given=>""Gerald J.""}]"	Introduction to Mathematical Programming (MAC	article-journal	McGraw-Hill Science / Engineering / Math	1995	both	Optional
+"[{:family=>""Luenberger"", :given=>""David G.""}]"	Introduction to Linear and Nonlinear Programming			1973	both	Optional
+"[{:family=>""Law"", :given=>""Averill M.""}, {:family=>""Kelton"", :given=>""D.""}]"	Simulation Modeling and Analysis			2014	both	Optional
+"[{:family=>""Denardo"", :given=>""Eric V.""}]"	The Science of Decision Making: A Problem-Based Approach Using Excel	article-journal	Wiley	2001	both	Optional
+"[{:family=>""Luenberger"", :given=>""David G.""}]"	Introduction to Dynamic Systems: Theory			1979	both	Optional

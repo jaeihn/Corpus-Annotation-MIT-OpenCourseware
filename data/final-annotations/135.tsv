@@ -1,0 +1,21 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Frisk"", :given=>""George V.""}]"	Ocean and Seabed Acoustics: A Theory of Wave Propagation			1994	both	Required
+"[{:family=>""Jensen"", :given=>""Finn B.""}, {:family=>""Kuperman"", :given=>""William A.""}, {:others=>true}]"	Computational Ocean Acoustics			2011	both	Required
+"[{:family=>""Brekhovskikh"", :given=>""L.M.""}, {:family=>""Lysanov"", :given=>""Yu P.""}]"	Fundamentals of Ocean Acoustics			2010	both	Required
+"[{:family=>""Katznelson"", :given=>""Boris G.""}, {:family=>""Petnikov"", :given=>""Valery G.""}]"	Shallow Water Accoustics			2002	both	Required
+"[{:family=>""Katsnelson"", :given=>""Boris G.""}, {:family=>""Petnikov"", :given=>""Valery G.""}, {:family=>""Lynch"", :given=>""James""}]"	Fundamentals of Shallow Water Acoustics			2012	both	Required
+"[{:family=>""Medwin"", :given=>""Herman""}, {:family=>""Clay"", :given=>""Clarence S.""}]"	Fundamentals of Acoustical Oceanography (Applications of Modern Acoustics			1997	both	Required
+"[{:family=>""Ogilvy"", :given=>""J.A.""}]"	Theory of Wave Scattering From Random Rough Surfaces			1991	both	Required
+"[{:family=>""Aster"", :given=>""Richard""}, {:family=>""Borchers"", :given=>""Brian""}, {:family=>""Thurber"", :given=>""Clifford""}]"	Parameter Estimation and Inverse Problems			2005	both	Required
+"[{:family=>""Medwin"", :given=>""Herman""}]"	Sounds in the Sea: from Ocean Acoustics to Acoustical Oceanography			2005	both	Required
+"[{:family=>""Menke"", :given=>""William""}]"	Geophysical Data Analysis: Discrete Inverse Theory			1989	both	Required
+"[{:family=>""Tolstoy"", :given=>""Ivan S.""}, {:family=>""Clay"", :given=>""C.S.""}]"	Section 6.9 in Ocean Acoustics			1967	both	Required
+"[{:family=>""Watts"", :given=>""D.Randolph""}, {:family=>""Rossby"", :given=>""H.Thomas""}]"	Measuring Dynamic Heights with Inverted Echo Sounders: Results from MODE	article-journal	Physical Oceanography	1977	both	Required
+"[{:family=>""Spain"", :given=>""Peter F.""}, {:others=>true}]"	PEGASUS: A Simple	article-journal	Deep Sea Research	1981	both	Required
+"[{:family=>""Aki"", :given=>""Keeiti""}, {:family=>""Richards"", :given=>""Paul G.""}]"	Chapter 12 in Quantitative Seismology			2009	both	Required
+"[{:family=>""Dosso""}, {:given=>""Holland""}]"	Bayesian inversion of seabed reflection data	chapter	Acoustic Sensing Techniques for the Shallow Water Environment: Inversion Methods and Experiments	2006	both	Required
+"[{:family=>""Press"", :given=>""William H.""}, {:family=>""Teukolsky"", :given=>""Saul A.""}, {:others=>true}]"	Numerical Recipes: The Art of Scientific Computing			2007	both	Required
+"[{:family=>""Collins"", :given=>""Michael D.""}, {:family=>""Kuperman"", :given=>""W.A.""}, {:others=>true}]"	Nonlinear Inversions for Ocean Bottom Properties	article-journal	J. Acoust. Soc. Am	1992	both	Required
+"[{:family=>""Myint-U"", :given=>""Tyn""}, {:family=>""Debnath"", :given=>""Lokenath""}]"	Sections 7.11 and 7.12 in Linear Partial Differential Equations for Scientists and Engineers	article-journal	Birkhäuser	2006	right_only	Required
+"[{:family=>""Tindle"", :given=>""C.T.""}, {:family=>""Stamp"", :given=>""A.P.""}, {:others=>true}]"	Virtual Modes and the Surface Boundary Condition in Underwater Acoustics	article-journal	Sound and Vibration	1976	right_only	Required
+"[{:family=>""Tindle"", :given=>""C.T.""}, {:family=>""Guthrie"", :given=>""J.K.""}]"	Rays as Interfering Modes in Underwater Acoustics	article-journal	Sound and Vibration	1974	right_only	Required

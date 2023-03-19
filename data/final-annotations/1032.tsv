@@ -1,0 +1,24 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Romer"", :given=>""David""}]"	Advanced Macroeconomics	book		2001	left_only	Required
+"[{:family=>""Solow"", :given=>""Robert M.""}]"	Technical Change and the Aggregated Production Function	article-journal	Review of Economics and Statistics	1957	both	Required
+"[{:family=>""Mankiw"", :given=>""N.Gregory""}, {:family=>""Romer"", :given=>""David""}, {:family=>""Weil"", :given=>""David N.""}]"	A Contribution to the Empirics of Economic Growth	article-journal	Quarterly Journal of Economics	1992-05	both	Required
+"[{:family=>""Romer"", :given=>""Paul M.""}]"	Endogenous Technological Change	article-journal	Journal of Political Economy	1990	both	Required
+"[{:family=>""Dixit"", :given=>""Avinish""}]"	Optimization in Economic Theory			1990	left_only	Required
+"[{:family=>""Dorfman"", :given=>""Robert""}]"	An Economic Interpretation of Optimal Control Theory	article-journal	American Economic Review	1969-12	both	Required
+"[{:family=>""Blanchard"", :given=>""Olivier J.""}, {:family=>""Fischer"", :given=>""Stanley""}]"	Lectures on Macroeconomics	book		1989	both	Required
+"[{:family=>""Ramsey"", :given=>""F.P.""}]"	A Mathematical Theory of Saving	article-journal	Economic Journal	1928-12	both	Required
+"[{:family=>""Barro"", :given=>""Robert J.""}]"	Are Government Bonds Net Wealth?	article-journal	Journal of Political Economy	November/December 1974	both	Required
+"[{:family=>""Chirinko"", :given=>""Robert S.""}, {:family=>""Schaller"", :given=>""Huntley""}]"	Business Fixed Investment and ‘Bubbles’: The Japanese Case	article-journal	The American Economic Review	2001	both	Required
+"[{:family=>""Jorgenson"", :given=>""Dale""}, {:family=>""Hall"", :given=>""Robert""}]"	Tax Policy and Investment Behavior	article-journal	American Economic Review	1967-06	both	Required
+"[{:family=>""Summers"", :given=>""Lawrence""}]"	Taxation and Corporate Investment: A q-Theory Approach	article-journal	Brookings Papers on Economic Activity	1981	both	Required
+"[{:family=>""Blinder"", :given=>""Alan""}, {:family=>""Maccini"", :given=>""Louis J.""}]"	Taking Stock: A Critical Assessment of Recent Research on Inventories	article-journal	A Journal of Economic Perspectives	1991	both	Required
+"[{:family=>""Maccini"", :given=>""Louis J.""}, {:family=>""Moore"", :given=>""Bartholomew""}, {:family=>""Schaller"", :given=>""Huntley""}]"	The Interest Rate	article-journal	MIT Working Paper	2003	both	Required
+"[{:family=>""Ramey"", :given=>""Valerie A.""}, {:family=>""West"", :given=>""Kenneth D.""}]"	Inventories	chapter	Chap. 13 in Handbook of Macroeconomics	1999	both	Required
+"[{:family=>""Blanchard"", :given=>""Olivier""}]"	Debt and the Current Account Deficit in Brazil	chapter	Financial Policies and the World Capital Market: The Problem of Latin American Countries. Edited by Pedro Aspe Armella et al	1983	both	Required
+"[{:family=>""Fischer"", :given=>""Stanley""}, {:family=>""Frankel"", :given=>""Jacob""}]"	Investment	article-journal	Journal of International Economics	1972-08	both	Required
+"[{:family=>""Svensson"", :given=>""Lars E.O.""}]"	Oil Prices	article-journal	Quarterly Journal of Economics	1984-11	both	Required
+"[{:family=>""Chang"", :given=>""Yongsung""}, {:family=>""Gomes"", :given=>""Joao""}, {:family=>""Schorfheide"", :given=>""Frank""}]"	Learning by Doing as a Propagation Mechanism	article-journal	American Economic Review	2002	both	Required
+"[{:family=>""Chang"", :given=>""Ha-Joon""}]"	Kicking Away the Ladder-Development Strategy in Historical Perspective	book		2002	both	Optional
+"[{:family=>""Easterly"", :given=>""William""}]"	The Elusive Quest for Growth: Economists’ Adventures and Misadventures in the Tropics	book		2001	both	Optional
+"[{:family=>""Romer"", :given=>""David""}]"	Advanced Macroeconomics			2001	right_only	Required
+"[{:family=>""Dixit"", :given=>""Avinish""}]"	Optimization in Economic Theory	book		1990	right_only	Required

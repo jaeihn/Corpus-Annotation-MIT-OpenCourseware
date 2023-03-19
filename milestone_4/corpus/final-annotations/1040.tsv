@@ -1,0 +1,39 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Fudenberg"", :given=>""Drew""}, {:family=>""Tirole"", :given=>""Jean""}]"	Game Theory			1991	both	Required
+"[{:family=>""Bernheim"", :given=>""B.Douglas""}]"	Rationalizable Strategic Behavior	article-journal	Econometrica	1984	both	Required
+"[{:family=>""Pearce"", :given=>""David G.""}]"	Rationalizable Strategic Behavior and the Problem of Perfection	article-journal	Econometrica	1984	both	Required
+"[{:family=>""Aumann"", :given=>""Robert""}, {:family=>""Brandenburger"", :given=>""Adam""}]"	Epistemic Conditions for Nash Equilibrium	article-journal	Econometrica	1995	both	Required
+"[{:family=>""Brandenburger"", :given=>""Adam""}, {:family=>""Dekel"", :given=>""Eddie""}]"	Hierarchies of Beliefs and Common Knowledge	article-journal	Journal of Economic Theory	1993	both	Required
+"[{:family=>""Dekel"", :given=>""Eddie""}]"	Drew Fudenberg	article-journal	Theoretical Economics	2007	both	Required
+	Topologies On Types	article-journal	Theoretical Economics	2006	left_only	Required
+"[{:family=>""Rubinstein"", :given=>""Ariel""}]"	Perfect Equilibrium in a Bargaining Model	article-journal	Econometrica	1982	both	Required
+"[{:family=>""Manea"", :given=>""Mihai""}]"	Bargaining in Dynamic Markets			2012	both	Required
+"[{:family=>""Kreps"", :given=>""David M.""}, {:family=>""Wilson"", :given=>""Robert""}]"	Sequential Equilibrium	article-journal	Econometrica	1982	both	Required
+"[{:family=>""Kohlberg"", :given=>""Elon""}, {:family=>""Mertens"", :given=>""Jean-Francois""}]"	On the Strategic Stability of Equilibria	article-journal	Econometrica	1986	both	Required
+"[{:family=>""Cho"", :given=>""In-Koo""}, {:family=>""Kreps"", :given=>""David M.""}]"	Signaling Games and Stable Equilibria	article-journal	The Quarterly Journal of Economics	1987	both	Required
+"[{:family=>""Battigalli"", :given=>""Pierpaola""}, {:family=>""Siniscalchi"", :given=>""Marciano""}]"	Strong Belief and Forward Induction Reasoning	article-journal	Journal of Economic Theory	2002	both	Required
+"[{:given=>""Govindan""}]"	Srihari	article-journal	Econometrica	2008	both	Required
+"[{:family=>""Fudenberg"", :given=>""Drew""}, {:family=>""Maskin"", :given=>""Eric""}]"	The Folk Theorem in Repeated Games with Discounting or with Incomplete Information	article-journal	Econometrica	1986	both	Required
+"[{:family=>""Abreu"", :given=>""Dilip""}, {:family=>""Pearce"", :given=>""David""}, {:family=>""Stacchetti"", :given=>""Ennio""}]"	Toward a Theory of Discounted Repeated Games with Imperfect Monitoring	article-journal	Econometrica	1990	both	Required
+"[{:family=>""Abreu"", :given=>""Dilip""}, {:family=>""Milgrom"", :given=>""Paul""}, {:family=>""Pearce"", :given=>""David""}]"	Information and Timing in Repeated Partnerships	article-journal	Econometrica	1991	both	Required
+"[{:family=>""Fudenberg"", :given=>""Drew""}, {:family=>""Levine"", :given=>""David""}, {:family=>""Maskin"", :given=>""Eric""}]"	The Folk Theorem with Imperfect Public Information	article-journal	Econometrica	1994	both	Required
+"[{:family=>""Kreps"", :given=>""David M.""}, {:family=>""Wilson"", :given=>""Robert""}]"	Reputation and Imperfect Information	article-journal	Journal of Economic Theory	1982	both	Required
+"[{:family=>""Milgrom"", :given=>""Paul""}, {:family=>""Roberts"", :given=>""John""}]"	Predation	article-journal	Journal of Economic Theory	1982	both	Required
+"[{:family=>""Kreps"", :given=>""David M.""}, {:family=>""Milgrom"", :given=>""Paul""}, {:others=>true}]"	Rational Cooperation in the Finitely Repeated Prisoners’ Dilemma	article-journal	Journal of Economic Theory	1982	both	Required
+"[{:family=>""Levine"", :given=>""David K.""}, {:family=>""Fudenberg"", :given=>""Drew""}]"	Reputation and Equilibrium Selection in Games with a Patient Player	article-journal	Econometrica	1989	both	Required
+"[{:family=>""Gul"", :given=>""Faruk""}, {:family=>""Sonnenschein"", :given=>""Hugo""}, {:family=>""Wilson"", :given=>""Robert""}]"	Foundations of Dynamic Monopoly and the Coase Conjecture	article-journal	Journal of Economic Theory	1986	both	Required
+"[{:family=>""Abreu"", :given=>""Dilip""}, {:family=>""Gul"", :given=>""Faruk""}]"	Bargaining and Reputation	article-journal	Econometrica	2000	both	Required
+"[{:family=>""Milgrom"", :given=>""Paul""}, {:family=>""Roberts"", :given=>""John""}]"	Rationalizability and Learning in Games with Strategic Complementarities	article-journal	Econometrica	1990	both	Required
+"[{:family=>""Vives"", :given=>""Xavier""}]"	Complementarities and Games: New Developments	article-journal	Journal of Economic Literature	2005	both	Required
+"[{:family=>""Topkis"", :given=>""Donald M.""}]"	Supermodularity and Complementarity			1998	both	Required
+"[{:family=>""Zandt"", :particle=>""Van""}, {:family=>""Timothy""}, {:family=>""Vives"", :given=>""Xavier""}]"	Monotone Equilibria in Bayesian Games of Strategic Complementarities	article-journal	Journal of Economic Theory	2007	both	Required
+"[{:family=>""Immorlica"", :given=>""Nicole""}, {:family=>""Kranton"", :given=>""Rachel""}, {:others=>true}]"	Social Status in Networks			2015	both	Required
+"[{:family=>""Carlsson"", :given=>""Hans""}, {:family=>""Damme"", :given=>""Eric"", :particle=>""van""}]"	Global Games and Equilibrium Selection	article-journal	Econometrica	1993	both	Required
+"[{:family=>""Morris"", :given=>""Stephen""}, {:family=>""Shin"", :given=>""Hyun Song""}]"	Unique Equilibrium in a Model of Self-­Fulfilling Attacks	article-journal	American Economic Review	1998	both	Required
+"[{:family=>""Nash"", :given=>""John F.""}]"	The Bargaining Problem	article-journal	Econometrica	1950	both	Required
+"[{:family=>""Shapley"", :given=>""Lloyd S.""}]"	A Value for n­‐Person Games	chapter	Contributions to the Theory of Games	1956	both	Required
+"[{:family=>""Manea"", :given=>""Mihai""}]"	Core Tatonnement	article-journal	Journal of Economic Theory	2007	both	Required
+"[{:family=>""Binmore"", :given=>""Ken""}, {:family=>""Rubinstein"", :given=>""Ariel""}, {:family=>""Wolinsky"", :given=>""Asher""}]"	The Nash Bargaining Solution in Economic Modeling	article-journal	RAND Journal of Economics	1986	both	Required
+"[{:family=>""Gul"", :given=>""Faruk""}]"	Bargaining Foundations of Shapley Value	article-journal	Econometrica	1989	both	Required
+"[{:family=>""Perry"", :given=>""Motty""}, {:family=>""Reny"", :given=>""Philip J.""}]"	A Noncooperative View of Coalition Formation and the Core	article-journal	Econometrica	1994	both	Required
+"[{:family=>""Dekel"", :given=>""Eddie""}, {:family=>""Fudenberg"", :given=>""Drew""}, {:family=>""Morris"", :given=>""Stephen""}]"	Topologies On Types	article-journal	Theoretical Economics	2006	right_only	Required

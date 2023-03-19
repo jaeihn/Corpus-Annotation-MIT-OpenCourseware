@@ -1,0 +1,9 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Blanchard"", :given=>""Olivier""}, {:family=>""Johnson"", :given=>""David R.""}]"	Macroeconomics			2012	both	Required
+"[{:family=>""Gapper"", :given=>""John""}]"	Promises that Proved Ultimately Empty	article-journal	Financial Times	2012-01-09	both	Optional
+	Playing with Fire	article-journal	The Economist	2012-02-25	both	Optional
+	The Origins of the Financial Crisis: Crash Course	article-journal	The Economist	2013-09-07	both	Optional
+	The Dangers of Debt: Lending Weight	article-journal	The Economist	2013-09-14	both	Optional
+	Monetary Policy after the Crash: Controlling Interest	article-journal	The Economist	2013-09-21	both	Optional
+	Stimulus v Austerity: Sovereign Doubts	article-journal	The Economist	2013-09-28	both	Optional
+	Making Banks Safe: Calling to Accounts	article-journal	The Economist	2013-10-05	both	Optional

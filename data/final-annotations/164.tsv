@@ -1,0 +1,8 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Vogel"", :given=>""Steven""}]"	Cats’ Paws and Catapults: Mechanical Worlds of Nature and People			2000	both	Required
+"[{:family=>""Triantafyllou"", :given=>""Michael S.""}, {:family=>""Triantafyllou"", :given=>""George S.""}]"	An Efficient Swimming Machine	article-journal	Scientific American	1995	both	Required
+"[{:family=>""Taylor"", :given=>""Graham K.""}, {:family=>""Nudds"", :given=>""Robert L.""}, {:others=>true}]"	Flying and Swimming Animals Cruise at a Strouhal Number Tuned for High Power Efficiency	article-journal	Nature	2003	both	Required
+"[{:family=>""Holland"", :given=>""John H.""}]"	Genetic Algorithms	article-journal	Scientific American	1992	both	Required
+"[{:family=>""Carpenter"", :given=>""Jennifer""}]"	May the Best Analyst Win	article-journal	Science	2011	both	Required
+"[{:family=>""Woolley"", :given=>""Anita Williams""}, {:family=>""Chabris"", :given=>""Christopher F.""}, {:others=>true}]"	Evidence for a Collective Intelligence Factor in the Performance of Human Groups	article-journal	Science	2010	both	Required
+"[{:family=>""Chittka"", :given=>""Lars""}, {:family=>""Mesoudi"", :given=>""Alex""}]"	Insect Swarm Intelligence	article-journal	Science	2011	both	Required

@@ -1,0 +1,11 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Meshot"", :given=>""Eric R.""}, {:family=>""Plata"", :given=>""Desirée L.""}, {:others=>true}]"	Engineering Vertically Aligned Carbon Nanotube Growth by Decoupled Thermal Treatment of Precursor and Catalyst	article-journal	ACS Nano	2009	both	Optional
+"[{:family=>""Feynman"", :given=>""Richard""}]"	Plenty of Room	article-journal	Nature Nanotechnology	2009	both	Required
+"[{:family=>""Xia"", :given=>""Younan""}, {:family=>""Whitesides"", :given=>""George M.""}]"	Soft Lithography	article-journal	Annual Review of Material Science	1998	both	Required
+"[{:family=>""Squires"", :given=>""Todd M.""}, {:family=>""Quake"", :given=>""Stephen R.""}]"	Microfluidics: Fluid Physics at the Nanoliter Scale	article-journal	Reviews of Modern Physics	2005	both	Required
+"[{:family=>""Mengeaud"", :given=>""Virginie""}, {:family=>""Josserand"", :given=>""Jacques""}, {:others=>true}]"	Mixing Processes in a Zigzag Microchannel: Finite Element Simulations and Optical Study	article-journal	Analytical Chemistry	2002	both	Required
+"[{:family=>""Thorsen"", :given=>""Todd""}, {:family=>""Roberts"", :given=>""Richard W.""}, {:others=>true}]"	Dynamic Pattern Formation in a Vesicle-Generating Microfluidic Device	article-journal	_Physical Review Letter_s	2001	both	Required
+"[{:family=>""Garstecki"", :given=>""Piotr""}, {:family=>""Fuerstman"", :given=>""Michael J.""}, {:others=>true}]"	Formation of Droplets and Bubbles in a Microfluidic T-Junction—Scaling and Mechanism of Break-Up	article-journal	Lab on a Chip	2006	both	Required
+"[{:literal=>""Nelson, Wyatt C., and Chang-Jin ‘CJ’ Kim.""}]"	Droplet Actuation by Electrowetting-on-Dielectric (EWOD): A Review	article-journal	Journal of Adhesion Science and Technology	2012	both	Required
+"[{:family=>""Shusteff"", :given=>""Maxim""}, {:family=>""Burg"", :given=>""T.P.""}, {:others=>true}]"	Measuring Boltzmann’s Constant with a Low-Cost Atomic Force Microscope: An Undergraduate Experiment	article-journal	American Journal of Physics	2006	both	Required
+	Introduction to Micro Electromechanical System (Courtesy of Franck Chollet and Haobing Liu	book			right_only	Required
