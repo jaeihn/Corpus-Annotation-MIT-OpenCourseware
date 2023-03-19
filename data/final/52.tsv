@@ -12,7 +12,7 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Ricciardi"", :given=>""Vincent""}, {:family=>""Ramankutty"", :given=>""Navin""}, {:others=>true}]"	How Much of the World’s Food Do Smallholders Produce?	article-journal	Global Food Security	2018	both	Optional
 	National Agricultural Statistics Service	article-journal	Annual Reports for	2000-06	both	Optional
 	US Department of Agriculture			2002	both	Optional
-	University of Michigan Extension website			2020-07	left_only	Optional
+	University of Michigan Extension website			2020-07	both	Optional
 "[{:family=>""Lobell"", :given=>""David B.""}, {:family=>""Cassman"", :given=>""Kenneth G.""}, {:family=>""Field"", :given=>""Christopher B.""}]"	Crop Yield Gaps: Their Importance	article-journal	Annual Review of Environment and Resources	2009	both	Required
 "[{:family=>""Mueller"", :given=>""Nathaniel D.""}, {:family=>""Gerber"", :given=>""James S.""}, {:others=>true}]"	Closing Yield Gaps Through Nutrient and Water Management	article-journal	Nature	2012	both	Required
 "[{:family=>""Licker"", :given=>""Rachel""}, {:family=>""Johnston"", :given=>""Matt""}, {:others=>true}]"	Mind the Gap: How Do Climate and Agricultural Management Explain the ‘Yield Gap’of Croplands Around the World?	article-journal	Global Ecology and Biogeography	2010	both	Optional
@@ -74,18 +74,18 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Lomborg"", :given=>""Bjørn""}]"	Food and Hunger.” Chapter 5 in The Skeptical Environmentalist: Measuring the Real State of the World			2001	both	Required
 "[{:family=>""Godfray"", :given=>""H.Charles J.""}, {:family=>""Beddington"", :given=>""John R.""}, {:others=>true}]"	Food Security: The Challenge of Feeding 9 Billion People	article-journal	Science	2010	both	Required
 "[{:family=>""Sen"", :given=>""Amartya""}]"	The Food Problem: Theory and Policy	article-journal	Third World Quarterly	1982	both	Required
-"[{:family=>""Malthus"", :given=>""Thomas""}]"	An Essay on the Principle of Population	chapter	ISBN	2008	both	Optional
+"[{:family=>""Malthus"", :given=>""Thomas""}]"	An Essay on the Principle of Population	chapter	ISBN	2008	left_only	Optional
 "[{:family=>""Tilman"", :given=>""David""}, {:family=>""Socolow"", :given=>""Robert""}, {:others=>true}]"	Beneficial Biofuels—The Food	article-journal	Science	2009	both	Required
 "[{:family=>""Fixen"", :given=>""Paul E.""}, {:family=>""Johnston"", :given=>""Adrian M.""}]"	World Fertilizer Nutrient Reserves: A View to the Future	article-journal	Better Crops with Plant Food	2009	both	Required
-"[{:family=>""Lambin"", :given=>""E.F.""}, {:family=>""Gibbs"", :given=>""H.K.""}, {:others=>true}]"	Estimating the World’s Potentially Available Cropland Using a Bottom-Up Approach	article-journal	Global Environmental Change	2013	both	Optional
-"[{:family=>""Fischer"", :given=>""Joern""}, {:family=>""Brosi"", :given=>""Berry""}, {:others=>true}]"	Should Agricultural Policies Encourage Land Sparing or Wildlife-Friendly Farming?	article-journal	Frontiers in Ecology and the Environment	2008	both	Optional
-"[{:family=>""Searchinger"", :given=>""Tim""}, {:family=>""Heimlich"", :given=>""Ralph""}]"	Avoiding Bioenergy Competition for Food Crops and Land	chapter	Working Paper	2015	both	Optional
-"[{:family=>""IIASA"", :given=>""F.A.O.""}]"	Global Agro-Ecological Zones—Model Documentation (GAEZ v. 3.0	chapter	International Institute of Applied Systems Analysis & Food and Agricultural Organization	2012	both	Optional
+"[{:family=>""Lambin"", :given=>""E.F.""}, {:family=>""Gibbs"", :given=>""H.K.""}, {:others=>true}]"	Estimating the World’s Potentially Available Cropland Using a Bottom-Up Approach	article-journal	Global Environmental Change	2013	left_only	Optional
+"[{:family=>""Fischer"", :given=>""Joern""}, {:family=>""Brosi"", :given=>""Berry""}, {:others=>true}]"	Should Agricultural Policies Encourage Land Sparing or Wildlife-Friendly Farming?	article-journal	Frontiers in Ecology and the Environment	2008	left_only	Optional
+"[{:family=>""Searchinger"", :given=>""Tim""}, {:family=>""Heimlich"", :given=>""Ralph""}]"	Avoiding Bioenergy Competition for Food Crops and Land	chapter	Working Paper	2015	left_only	Optional
+"[{:family=>""IIASA"", :given=>""F.A.O.""}]"	Global Agro-Ecological Zones—Model Documentation (GAEZ v. 3.0	chapter	International Institute of Applied Systems Analysis & Food and Agricultural Organization	2012	left_only	Optional
 "[{:given=>""I.P.C.C.""}]"	Climate Change 2014: Synthesis Report. Contribution of Working Groups I	chapter	Sections SPM1 and SPM2	2014	both	Required
 "[{:family=>""Ruane"", :given=>""A.C.""}, {:family=>""Rosenzweig"", :given=>""C.""}]"	Chapter 5: Climate Change Impacts on Agriculture	chapter	Agriculture & Food Systems to 2050	2019	both	Required
 "[{:family=>""Morton"", :given=>""J.F.""}]"	The Impact of Climate Change on Smallholder and Subsistence Agriculture	article-journal	Proceedings of the National Academy of Sciences	2007	both	Required
 "[{:family=>""Deutsch"", :given=>""C.A.""}, {:family=>""Tewksbury"", :given=>""J.J.""}, {:others=>true}]"	Increase in Crop Losses to Insect Pests in a Warming Climate	article-journal	Science	2018	both	Required
-"[{:family=>""Stocker"", :given=>""T.F.""}, {:family=>""Qin"", :given=>""D.""}, {:others=>true}]"	Technical Summary	chapter	Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change	2013	both	Optional
+"[{:family=>""Stocker"", :given=>""T.F.""}, {:family=>""Qin"", :given=>""D.""}, {:others=>true}]"	Technical Summary	chapter	Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change	2013	left_only	Optional
 "[{:family=>""Aeschbach-Hertig"", :given=>""Werner""}, {:family=>""Gleeson"", :given=>""Tom""}]"	Regional Strategies for the Accelerating Global Problem of Groundwater Depletion	article-journal	Nature Geoscience	2012	both	Required
 "[{:family=>""Rijsberman"", :given=>""Frank""}]"	Water Scarcity: Fact or Fiction?	article-journal	Agricultural Water Management	2006	both	Optional
 "[{:family=>""Rodell"", :given=>""M.""}, {:family=>""Famiglietti"", :given=>""J.S.""}, {:others=>true}]"	Emerging Trends in Global Freshwater Availability	article-journal	Nature	2018	both	Optional

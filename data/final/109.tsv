@@ -10,7 +10,7 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Piegl"", :given=>""L.""}, {:family=>""Tiller"", :given=>""W.""}]"	The NURBS Book	book		1995	both	Required
 "[{:family=>""Rogers"", :given=>""D.F.""}]"	An Introduction to NURBS: With Historical Perspective	book		2000	both	Required
 "[{:family=>""Yamaguchi"", :given=>""F.""}]"	Curves and Surfaces in Computer Aided Geometric Design	book		1988	both	Required
-"[{:family=>""Yamaguchi"", :given=>""F.""}]"	Computer-Aided Geometric Design	book		2002	left_only	Required
+"[{:family=>""Yamaguchi"", :given=>""F.""}]"	Computer-Aided Geometric Design	book		2002	both	Required
 "[{:family=>""Hoffmann"", :given=>""C.""}]"	Geometric and Solid Modeling	book		1989	both	Required
 "[{:family=>""Mantyla"", :given=>""M.""}]"	An Introduction to Solid Modeling	book		1988	both	Required
 "[{:family=>""Foley"", :given=>""J.D.""}]"	Computer Graphics	book		1990	both	Required
@@ -20,4 +20,3 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Struik"", :given=>""D.J.""}]"	Lectures on Classical Differential Geometry	book		1950	both	Required
 "[{:family=>""Dahlquist"", :given=>""G.""}, {:family=>""Bjorck"", :given=>""A.""}]"	Numerical Methods	book		1974	both	Required
 "[{:family=>""Press"", :given=>""W.H.""}, {:others=>true}]"	Numerical Recipes in C: The Art of Scientific Computing	book		1988	both	Required
-"[{:literal=>""-—–.""}]"	Computer-Aided Geometric Design	book		2002	right_only	Required

@@ -22,4 +22,3 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Lomax"", :given=>""Harvard""}, {:family=>""Pulliam"", :given=>""Thomas H.""}, {:family=>""Zingg"", :given=>""David W.""}]"	Fundmentals of Computational Fluid Dynamics			2004	both	Optional
 "[{:family=>""Wendt"", :given=>""John""}]"	Computational Fluid Dynamics: An Introduction			2008	both	Optional
 "[{:family=>""Löhner"", :given=>""Rainald""}]"	Applied Computational Fluid Dynamics Techniques: An Introduction Based on Finite Element Methods			2008	both	Optional
-"[{:family=>""Durbin"", :given=>""Paul A.""}, {:family=>""Medic"", :given=>""Gorazd""}]"	Fluid Dynamics with a Computational Perspective			2007	right_only	Optional

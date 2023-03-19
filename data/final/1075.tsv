@@ -18,5 +18,5 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Krugman"", :given=>""Paul R.""}]"	A Raspberry for Free Trade	article-journal	Slate	1997-11	both	Required
 "[{:family=>""Kristof"", :given=>""Nicholas D.""}, {:family=>""Wudunn"", :given=>""Sheryl""}]"	Two Cheers for Sweatshops	article-journal	The New York Times Magazine	2000-09	both	Required
 "[{:family=>""Brown"", :given=>""Drusilla""}, {:family=>""Deardorff"", :given=>""Alan""}, {:family=>""Stern"", :given=>""Robert""}]"	Issues of Environmental and Labor Standards in the Global Trading System	chapter	Globalization	2012	both	Required
-"[{:family=>""Deardorff"", :given=>""Alan""}]"	In Praise of Cheap Labor	article-journal	Slate	1997-03	right_only	Required
-"[{:family=>""Bastiat"", :given=>""Frédéric""}]"	Economic Sophisms			2016	right_only	Required
+"[{:literal=>""———.""}]"	In Praise of Cheap Labor	article-journal	Slate	1997-03	right_only	Required
+"[{:literal=>""———.""}]"	Economic Sophisms			2016	right_only	Required

@@ -194,6 +194,6 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Yenmez"", :given=>""M.Bumin""}]"	Incentive Compatible Market Design with an Application to Matching with Wages	book		2009-11	left_only	Optional
 "[{:family=>""Lee"", :given=>""Soohyung""}]"	Marriage and Online Mate-Search Services: Evidence from South Korea	book		2009-10	left_only	Optional
 "[{:given=>""Milgrom""}]"	Getting to Work,” “Vickrey-Clarke-Groves Mechanisms,” and “The Envelope Theorem and Payoff Equivalence	article-journal	chapters		right_only	Required
-"[{:family=>""Coase"", :given=>""Ronald""}]"	The Problem of Social Cost	article-journal	Journal of Law and Economics	1960-10	right_only	Optional
+"[{:literal=>""———.""}]"	The Problem of Social Cost	article-journal	Journal of Law and Economics	1960-10	right_only	Optional
 "[{:family=>""Fox"", :given=>""Jeremy T.""}, {:family=>""Bajari"", :given=>""Patrick""}]"	Measuring the Efficiency of an FCC Spectrum Auction	book		2009-10	right_only	Optional
-"[{:family=>""Sönmez"", :given=>""Tayfun""}]"	Can Pre-Arranged Matches by Avoided in Two-Sided Matching Markets?	article-journal	Journal of Economic Theory	1999-05	right_only	Optional
+"[{:literal=>""———.""}]"	Can Pre-Arranged Matches by Avoided in Two-Sided Matching Markets?	article-journal	Journal of Economic Theory	1999-05	right_only	Optional
