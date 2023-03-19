@@ -206,9 +206,9 @@ a.active-page, a:hover {
   }
 
 #author{
+  background-color: transparent;
   margin-left: 3%;
-  background-color: var(--light-color);
-  color: var(--primary-color);
+  color: var(--light-color);
   border-color: var(--light-color);
   border-style: solid;
 }
