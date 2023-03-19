@@ -12,14 +12,13 @@ body {
 :root {
   --primary-color: #041434;
   --secondary-color: #f55b5c;
-  --ternary-color: #efdfca;
+  --ternary-color: #ffffff;
   --light-color: #ffffff;
-  --overlay-color: rgb(4,20,52);
 }
 
 .search {
   width: 852px;
-  margin:  auto;
+  margin: auto;
   padding: 16px;
 }
 
@@ -28,7 +27,7 @@ body {
 
 }
 .wrapper {
-  margin: 8px 0;
+  margin-top: 120px;
 }
 
 .search-container {
