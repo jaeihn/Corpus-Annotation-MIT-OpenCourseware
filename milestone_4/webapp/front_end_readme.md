@@ -145,7 +145,7 @@ and necessity (required, optional, or both).
       </select>
       ```
     - button: **_Search_**
-      - when clicked, button onclick method **search_by_title()** interacts with back end, and it should return a table of reading below
+      - when clicked, button onclick method **search_by_author()** interacts with back end, and it should return a table of reading below
       related to **_Course Topic_**, **_type of reading_**, and **_Readings to Include_** field values.
         - **search_by_author()** in front_end.js
           - get options field values from front end
