@@ -14,7 +14,7 @@ function search_by_title()
 	const queryString = searchParams.toString();
 //        alert(searchParams);
 	xmlHttpRqst = new XMLHttpRequest( )
-	xmlHttpRqst.onload = function(e) {update_page(xmlHttpRqst.response);} 
+	xmlHttpRqst.onload = function(e) {update_page(xmlHttpRqst.response);}
 	xmlHttpRqst.open( "GET", "/search-by-title?" + queryString);
 	try {
 		xmlHttpRqst.send( null );

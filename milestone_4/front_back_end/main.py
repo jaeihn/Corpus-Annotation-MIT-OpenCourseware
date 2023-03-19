@@ -110,7 +110,7 @@ def search_by_title(topicselection, formatselection, includeselection):
     if reading_count == 0:
         return HTMLResponse(message)
     else:
-        return HTMLResponse(message + df.to_html(classes='data', header='true'))
+        return HTMLResponse(message + df.to_html(classes='data', header='true', index=False))
 
 @app.get("/search-by-author")
 def search_by_author(topicselection, formatselection, includeselection):
@@ -119,7 +119,7 @@ def search_by_author(topicselection, formatselection, includeselection):
     if df.empty:
         return HTMLResponse()
     else:
-        return HTMLResponse(df.to_html(classes='data', header='true'))
+        return HTMLResponse(df.to_html(classes='data', header='true', index=False))
 
 @app.get("/")
 def start():
