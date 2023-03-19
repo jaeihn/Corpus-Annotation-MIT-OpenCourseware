@@ -34,17 +34,17 @@
 		
         <div class="search-container">
 		
-            <select name="topic-selection">
+            <select name="topicselection">
               {% for topic in topic_options %}
                   <option value="{{ topic }}">{{ topic }}</option>
               {% endfor %}
             </select>
-          <select id="format" name="formats">
+          <select name="formatselection">
 			  <option value="All">All</option>
             <option value="Book">Book</option>
             <option value="Paper">Academic Paper</option>
           </select>
-          <select id="include" name="include">
+          <select name="includeselection">
             <option value="All">All</option>
             <option value="Required">Required</option>
             <option value="Optional">Optional</option>

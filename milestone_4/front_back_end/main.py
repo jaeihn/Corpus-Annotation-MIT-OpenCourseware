@@ -116,8 +116,7 @@ def search_by_title(topicselection, formatselection, includeselection):
 def search_by_author(topicselection, formatselection, includeselection):
     results = search_readings(topicselection[:-1], formatselection, includeselection)
     df = results[2]
-    return HTMLResponse(df)
-    # return HTMLResponse(df.to_html(classes='data', header='true'))
+    return HTMLResponse(df.to_html(classes='data', header='true'))
 
 @app.get("/")
 def start():
