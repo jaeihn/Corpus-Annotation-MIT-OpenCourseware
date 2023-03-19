@@ -48,4 +48,4 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Lewis"", :given=>""H.Gregg""}]"	Union Relative Wage Effects: A Survey			1986	both	Required
 "[{:family=>""DiNardo"", :given=>""John""}, {:family=>""Lee"", :given=>""David S.""}]"	Economic Impacts of New Unionization on U.S. Private Sector Employers: 1984-2001	article-journal	Quarterly Journal of Economics	2004-11	both	Required
 "[{:family=>""Ashenfelter"", :given=>""Orley""}, {:family=>""Johnson"", :given=>""George E.""}]"	Bargaining Theory	article-journal	American Economic Review	1969-03	both	Required
-"[{:literal=>""———.""}]"	School Quality and Black-White Relative Earnings: A Direct Assessment	article-journal	Quarterly Journal of Economics	1992-02	right_only	Required
+"[{:family=>""Card"", :given=>""David""}, {:family=>""Krueger"", :given=>""Alan""}]"	School Quality and Black-White Relative Earnings: A Direct Assessment	article-journal	Quarterly Journal of Economics	1992-02	right_only	Required

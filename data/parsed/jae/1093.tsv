@@ -3,7 +3,7 @@ Required	[{:family=>"Krugman", :given=>"Paul"}, {:family=>"Obstfeld", :given=>"M
 Required	[{:family=>"King", :given=>"Philip"}, {:family=>"King", :given=>"Sharmila"}]	["International Economics and International Economics Policy: A Reader"]			["2004"]
 Required	[{:family=>"Kennedy", :given=>"Robert E."}]	["National Income Accounting"]	article-journal	["Harvard Business School Case. Harvard Business School Publishing. Case"]	["1996-11-15"]
 Required	[{:family=>"Economic Analysis", :given=>"Bureau", :particle=>"of"}]	["GDP Growth Accelerates in Fourth Quarter"]	book		
-Required	[{:literal=>"———."}]	["GDP and the Economy: Third Estimates for the First Quarter of 2011"]	article-journal	["U.S. Department of Commerce"]	["2011-07"]
+Required	[{:family=>"Economic Analysis", :given=>"Bureau", :particle=>"of"}]	["GDP and the Economy: Third Estimates for the First Quarter of 2011"]	article-journal	["U.S. Department of Commerce"]	["2011-07"]
 Required		["World Economic Outlook Update"]	article-journal	["International Monetary Fund"]	["2011-06-17"]
 Required	[{:family=>"Alfaro", :given=>"Laura"}, {:family=>"Tella", :given=>"Rafael", :particle=>"Di"}, {:others=>true}]	["China: To Float or Not to Float?"]	book		["2006-03-02"]
 Required	[{:family=>"Johnson", :given=>"Simon"}]	["Brace for a Long Recovery From Global Credit Glut: Simon Johnson"]	article-journal	["Bloomberg"]	["2011-09-11"]

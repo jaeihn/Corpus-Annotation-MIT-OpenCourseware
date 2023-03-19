@@ -55,4 +55,4 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Boville"", :given=>""B.""}, {:family=>""Gent"", :given=>""P.""}]"	The NCAR Climate System Model	article-journal	J Climate	1998	both	Optional
 "[{:family=>""Solomon"", :given=>""A.""}, {:family=>""Stone"", :given=>""P.H.""}]"	Equilibration in an eddy-resolving model with simplified physics	article-journal	J Atmos Sci	2001	both	Optional
 "[{:family=>""Gleckler"", :given=>""P.""}]"	Surface energy balance errors in AGCMs: Implications for ocean-atmosphere model coupling	article-journal	Geophys Res Lett	2005	both	Optional
-"[{:literal=>""———.""}]"	Global angular momentum balance: earth torque and atmospheric fluxes	article-journal	J Atmos Sci		right_only	Optional
+"[{:given=>""Newton""}]"	Global angular momentum balance: earth torque and atmospheric fluxes	article-journal	J Atmos Sci		right_only	Optional

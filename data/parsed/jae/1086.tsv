@@ -24,7 +24,7 @@ Required	[{:family=>"Riordan", :given=>"William L."}]	["Honest Graft and Dishone
 Optional	[{:family=>"Banerjee", :given=>"Abhijit V."}, {:family=>"Duflo", :given=>"Esther"}]	["Poor Economics: Rethinking Poverty and the Ways to End it"]			["2013"]
 Optional	[{:family=>"Easterly", :given=>"William"}]	["The Elusive Quest for Growth: Economists’ Adventures and Misadventures in the Tropics"]			["2002"]
 Optional	[{:family=>"Klitgaard", :given=>"Robert"}]	["Tropical Gangsters: One Man’s Experience With Development and Decadence in Deepest Africa"]	article-journal	["Basic"]	["2000"]
-Optional	[{:literal=>"———."}]	["Controlling Corruption"]			["1991"]
+Optional	[{:family=>"Klitgaard", :given=>"Robert"}]	["Controlling Corruption"]			["1991"]
 Optional	[{:family=>"Fisman", :given=>"Raymond"}, {:family=>"Miguel", :given=>"Edward"}]	["Economic Gangsters: Corruption, Violence, and the Poverty of Nations"]			["2010"]
 Optional	[{:family=>"Jones", :given=>"Benjamin F."}, {:family=>"Olken", :given=>"Benjamin A."}]	["Do Leaders Matter? National Leadership and Growth Since World War II](http://dx.doi.org/ 10.1093/qje/120.3.835"]	article-journal	["Quarterly Journal of Economics"]	["2005"]
 Optional	[{:family=>"Nunn", :given=>"Nathan"}]	["Long Term Effects of Africa’s Slave Trades"]	article-journal	["The Quarterly Journal of Economics"]	["2008"]

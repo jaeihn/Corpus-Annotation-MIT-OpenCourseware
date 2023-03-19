@@ -30,6 +30,9 @@ Required	C. A. Deutsch, J. J. Tewksbury, et al. 2018. “Increase in Crop Losses
 Required	Sandra L. Postel, Gretchen C. Daily, and Paul R. Ehrlich. 1996. “Human Appropriation of Renewable Fresh Water.” Science. 271, no. 5250: 785–788
 Required	Lorenzo Rosa, Davide Danilo Chiarelli, et al. 2020. “Global Agricultural Economic Water Scarcity.” Science Advances. 6, no. 18: eaaz6031
 Required	Werner Aeschbach-Hertig and Tom Gleeson. 2012. “Regional Strategies for the Accelerating Global Problem of Groundwater Depletion.” Nature Geoscience. 5: 853–861
+Required	Frank Rijsberman, 2006. “Water Scarcity: Fact or Fiction?” Agricultural Water Management. 80, no. 1–3: 5–22
+Required	M. Rodell, J.S. Famiglietti, et al. 2018. “Emerging Trends in Global Freshwater Availability.” Nature. 557, no. 7707: 651–659
+Required	Yoshihide Wada, Ludovicus P.H. Van Beek, et al. 2010. “Global Depletion of Groundwater Resources.” Geophysical Research Letters. 37, no. 20
 Required	Alexander Wezel, Marion Casagrande, et al. 2014. “Agroecological Practices for Sustainable Agriculture. A Review.” Agronomy for Sustainable Development. 34, no. 1: 1–20
 Required	Jules Pretty. 2008. “Agricultural Sustainability: Concepts, Principles and Evidence.” Philosophical Transactions of the Royal Society B: Biological Sciences. 363, no. 1491: 447–465
 Required	Verena Seufert and Navin Ramankutty. 2017. “Many Shades of Gray—the Context-Dependent Performance of Organic Agriculture.” Science Advances. 3, no. 3, e1602638
@@ -37,6 +40,8 @@ Required	Verena Seufert and Navin Ramankutty. 2017. “Many Shades of Gray—the
 Required	Peter B. R. Hazell. 2002. “Green Revolution: Curse or Blessing? ” No. REP-9450. Washington, DC (USA), IFPRI. 3 p
 Required	D. Pimentel and M. Pimentel 1990. “Comment: Adverse Environmental Consequences of the Green Revolution.” Population and Development Review, 16, 329–332
 Required	Kenneth G. Cassman. 1999. “Ecological Intensification of Cereal Production Systems: Yield Potential, Soil Quality, and Precision Agriculture.” Proceedings of the National Academy of Sciences, 96, no. 11: 5952–5959
+Required	Peter B.R. Hazell. 2010. “Asia’s Green Revolution: Past Achievements and Future Challenges.” Chapter 1.3 in Rice in the Global Economy. Strategic Research and Policy Issues for Food Security. S. Pandey, D. Byerlee, et al. (Eds). IRRI. Manila
+Required	Gurdev S. Khush. 2001. “Green Revolution: the Way Forward.” Nature Reviews Genetics, 2, no. 10: 815–822
 Required	Paolo D’Odorico, Joel A. Carr, et al. 2014. “Feeding Humanity Through Global Food Trade.” Earth’s Future, 2, no. 9: 458–469
 Required	Graham K. MacDonald, Kate A. Brauman, et al. 2015. “Rethinking Agricultural Trade Relationships in an Era of Globalization.” BioScience, 65, no. 3: 275–289
 Required	Kyle F. Davis, Maria C. Rulli, et al. 2017. “Increased Food Production and Reduced Water Use Through Optimized Crop Distribution.” Nat. Geosci. 10, 919–924
@@ -54,7 +59,6 @@ Optional	Sarah K. Lowder, Jakob Skoet, and Terri Raney. 2016. “The Number, Siz
 Optional	Vincent Ricciardi, Navin Ramankutty, et al. 2018. “How Much of the World’s Food Do Smallholders Produce?” Global Food Security, 17, 64–72
 Optional	National Agricultural Statistics Service. Annual Reports for June. 2000–2018
 Optional	US Department of Agriculture, Economic Research Service Report AER–810. 2002
-Optional	University of Michigan Extension website, “Why Many Growers Are Quick to Adopt Genetic Modification Technology.” Accessed 14 July 2020
 Optional	Rachel Licker, Matt Johnston, et al. 2010. “Mind the Gap: How Do Climate and Agricultural Management Explain the ‘Yield Gap’of Croplands Around the World?” Global Ecology and Biogeography. 19, no. 6: 769–782
 Optional	Deepak K. Ray, Navin Ramankutty, et al. 2012. “Recent Patterns of Crop Yield Growth and Stagnation.” Nature Communications, 3, no. 1: 1–7
 Optional	F. Achard, H. D. Eva, et al. 2002. “Determination of Deforestation Rates of the World’s Humid Tropical Forests.” Science. 297, no. 5583: 999–1002
@@ -65,7 +69,6 @@ Optional	Rachel Licker, Matt Johnston, et al. 2010. “Mind the Gap: How Do Clim
 Optional	Nathan Mueller, James Gerber, et al. 2012. “Closing Yield Gaps Through Nutrient and Water Management.” Nature, 490, no. 7419: 254–257
 Optional	Navin Ramankutty, Amato T. Evan, et al. 2008. “Farming the Planet: 1. Geographic Distribution of Global Agricultural Lands in the Year 2000.” Global Biogeochemical Cycles, 22, no. 1
 Optional	Florian Zabel, Birgitta Putzenlechner, and Wolfram Mauser. 2014. “Global Agricultural Land Resources—A High Resolution Suitability Evaluation and Its Perspectives until 2100 under Climate Change Conditions.” PloS One. 9, no. 9
-Optional	IFAD International Fund for Agricultural Development. 2010. “Rural Poverty Report 2011 - New Realities, New Challenges: New Opportunities for Tomorrow’s Generation.” Annexes 1 and 2. IFAD, RomeIv
 Optional	Sarah K. Lowder, Jakob Skoet, Terri Raney. 2016. “The Number, Size, and Distribution of Farms, Smallholder Farms, and Family Farms Worldwide.” World Development, 87, 16–29
 Optional	USDA ERS and NASS. 2012. “Agricultural Resource Management Survey.” (Accessed 22 July, 2020)
 Optional	Yiyun Wu, Xican Xi, et al. 2018. “Policy Distortions, Farm Size, and the Overuse of Agricultural Chemicals in China.” Proceedings of the National Academy of Sciences, 115, no. 27: 7010–7015
@@ -94,9 +97,12 @@ Optional	Florian Zabel, Birgitta Putzenlechner, and Wolfram Mauser. 2014. “Glo
 Optional	Peter Alexander, Calum Brown, et al. 2017. “Losses, Inefficiencies and Waste in the Global Food System.” Agricultural Systems, 153, no. 2017: 190–200
 Optional	Jenny Gustavsson, Christel Cederberg, et al. 2011. “Global Food Losses and Food Waste: Extent, Causes and Prevention.” Report commissioned by Food and Agriculture Organization (FAO) of the United Nations
 Optional	FAO, IFAD and WFP. 2014. The State of Food Insecurity in the World 2014. Strengthening the Enabling Environment for Food Security and Nutrition . Rome, FAO
-Optional	Frank Rijsberman, 2006. “Water Scarcity: Fact or Fiction?” Agricultural Water Management. 80, no. 1–3: 5–22
-Optional	M. Rodell, J.S. Famiglietti, et al. 2018. “Emerging Trends in Global Freshwater Availability.” Nature. 557, no. 7707: 651–659
-Optional	Yoshihide Wada, Ludovicus P.H. Van Beek, et al. 2010. “Global Depletion of Groundwater Resources.” Geophysical Research Letters. 37, no. 20
+Optional	Thomas Malthus, 2008. An Essay on the Principle of Population. Oxford University Press, Geoffrey Gilbert (Editor), ISBN: 9780199540457
+Optional	E.F. Lambin, H.K. Gibbs, et al. 2013. “Estimating the World’s Potentially Available Cropland Using a Bottom-Up Approach.” Global Environmental Change. 23, no. 5: 892–901
+Optional	Joern Fischer, Berry Brosi, et al. 2008. “Should Agricultural Policies Encourage Land Sparing or Wildlife-Friendly Farming?” Frontiers in Ecology and the Environment. 6, no. 7: 380–385
+Optional	Tim Searchinger and Ralph Heimlich. 2015. “Avoiding Bioenergy Competition for Food Crops and Land.” Working Paper, Installment 9 of Creating a Sustainable Food Future. World Resources Institute
+Optional	IIASA, FAO. 2012. “Global Agro-Ecological Zones—Model Documentation (GAEZ v. 3.0).” International Institute of Applied Systems Analysis & Food and Agricultural Organization, Laxenburg, Austria & Rome, Italy
+Optional	T. F. Stocker, D. Qin, et al. 2013. “Technical Summary.” In Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA
 Optional	UN FAO. 2015. “Agroecology for Food Security and Nutrition: Proceedings of the FAO International Symposium.” International Symposium on Agroecology for Food Security and Nutrition. Rome, Italy. 426 pp
 Optional	Michael Clark and David Tilman. 2017. “Comparative Analysis of Environmental Impacts of Agricultural Production Systems, Agricultural Input Efficiency, and Food Choice.” Environmental Research Letters. 12, no. 6: 064016
 Optional	Kenneth G. Cassman, Achim Dobermann, and Daniel T. Walters. 2002. “Agroecosystems, Nitrogen-Use Efficiency, and Nitrogen Management.” AMBIO: A Journal of the Human Environment. 31, no. 2: 132–140
@@ -105,8 +111,6 @@ Optional	Verena Seufert, Navin Ramankutty, and Jonathan A. Foley. 2012. “Compa
 Optional	Andreas Fliessbach, Hans-Rudolf Oberholzer, et al. 2007. “Soil Organic Matter and Biological Soil Quality Indicators After 21 Years of Organic and Conventional Farming .” Agriculture, Ecosystems and Environment. 118, no. 1–4: 273–284
 Optional	UN Population Division. 2019. Department of Economic and Social Affairs, Population Dynamics. World Population Prospects 2019
 Optional	Mirella Salvatore, Francesca Pozzi, et al. 2005. Mapping Global Urban and Rural Population Distributions. Environment and Natural Resources Working Paper 24, FAO, Rome, 2005
-Optional	Peter B.R. Hazell. 2010. “Asia’s Green Revolution: Past Achievements and Future Challenges.” Chapter 1.3 in Rice in the Global Economy. Strategic Research and Policy Issues for Food Security. S. Pandey, D. Byerlee, et al. (Eds). IRRI. Manila
-Optional	Gurdev S. Khush. 2001. “Green Revolution: the Way Forward.” Nature Reviews Genetics, 2, no. 10: 815–822
 Optional	Carole Dalin, Megan Konar, et al. 2012. “Evolution of the Global Virtual Water Trade Network.” Proceedings of the National Academy of Sciences, 109, no. 16: 5989–5994
 Optional	Robert Paarlberg. 2010. “GMO Foods and Crops: Africa’s Choice.” New Biotechnology, 27, no. 5: 609–613
 Optional	Kathleen L. Hefferon and Ronald J. Herring. 2017. “The End of the GMO? Genome Editing, Gene Drives and New Frontiers of Plant Technology.” Review of Agrarian Studies, 7, no. 1: 1–32

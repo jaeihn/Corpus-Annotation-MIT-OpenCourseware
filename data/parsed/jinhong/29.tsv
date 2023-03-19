@@ -3,8 +3,9 @@ Optional	[{:family=>"Francois", :given=>"Francis B."}]	["Introduction"]	chapter	
 Optional	[{:family=>"Nelson", :given=>"Donna"}]	["ITS Systems, Applications and Programs"]	article-journal	["Intelligent Transportation Primer", "Chapter"]	["2000"]
 Optional	[{:family=>"Sussman", :given=>"Joseph M."}]	["Intelligent Transportation Systems.” Chapter 24 in Introduction to Transportation Systems"]	book		["2000"]
 Optional	[{:family=>"Shladover", :given=>"Steven E."}]	["Introducing Intelligent Transportation Systems: Paradigm for 21st Century Transportation"]	article-journal	["TR News"]	["2002-01"]
-Optional	[{:family=>"McQueen", :given=>"Bob"}, {:family=>"Schuman", :given=>"Rick"}, {:family=>"Chen", :given=>"Kan"}]	["Advanced Traveler Information Systems"]	book		["2002"]
-Optional	[{:family=>"Zimmerman", :given=>"Carol"}]	["Advanced Traveler Information Systems"]			["2000"]
+Optional	[{:family=>"McQueen", :given=>"Bob"}, {:family=>"Schuman", :given=>"Rick"}, {:family=>"Chen", :given=>"Kan"}]	["Chapters 2 and 3 in Advanced Traveler Information Systems"]	book		["2002"]
+Optional	[{:family=>"Zimmerman", :given=>"Carol"}]	["Advanced Traveler Information Systems"]	chapter	["Chapter 5 in Intelligent Transportation Primer"]	["2000"]
+Optional	[{:family=>"McQueen", :given=>"Bob"}, {:family=>"Schuman", :given=>"Rick"}, {:family=>"Chen", :given=>"Kan"}]	["Chapters 4 and 5 in Advanced Traveler Information Systems"]	book		["2002"]
 Optional	[{:family=>"Lappin", :given=>"Jane"}, {:family=>"Peirce", :given=>"Sean"}]	["A Qualitative Assessment of Customer Response to Online Traffic Information Services in Greater Los Angeles: Part I of a Two-Part Customer Satisfaction Evaluation"]	report		["2001-12-15"]
 Optional	[{:family=>"Lappin", :given=>"Jane"}, {:family=>"Peirce", :given=>"Sean"}]	["Why don’t more people use advanced traveler information? Evidence from the Seattle area"]	report		["2004-01"]
 Optional	[{:family=>"Lieu", :given=>"Henry"}]	["A Roadmap for the Research, Development and Deployment of Traffic Estimation and Prediction Systems for Real-Time and Off-Line Applications (TREPS"]	book		["2003"]
@@ -16,6 +17,7 @@ Optional	[{:family=>"Hall", :given=>"Randolph W."}]	["Route Choice and Advanced 
 Optional	[{:family=>"Watling", :given=>"David"}, {:family=>"Vuren", :given=>"Tom", :particle=>"van"}]	["The Modeling of Dynamic Route Guidance Systems"]	article-journal	["Transportation Research C"]	["1993"]
 Optional	[{:family=>"Richeson", :given=>"Kim"}, {:family=>"Barnes", :given=>"Valerie B."}]	["Commercial Vehicle Operations and Freight Movement"]	chapter	["Chapter 9 in Intelligent Transportation Primer"]	["2000"]
 Optional	[{:family=>"Orban", :given=>"John E."}]	["What Have We Learned About ITS for Commercial Vehicle Operations?"]	chapter	["Chapter 6 in What Have We Learned About Intelligent Transportation Systems?"]	["2000"]
+Optional		["A letter from Thomas Horan, Executive Director and Associate Professor, School of Information Science, Claremont Graduate University, to Emil Frankel, Assistant Secretary for Transportation Policy, U.S"]	manuscript		
 Optional	[{:family=>"Horan", :given=>"Thomas"}]	["Integrating the End User into Infrastructure Systems: A Customer Centric Approach to the Design and Function of Intelligent Transportation Systems"]	manuscript		
 Optional	[{:family=>"Miller", :given=>"Charles"}]	["A Discussion of Intelligent Transportation Systems Environmental Impacts"]	article-journal	["ITE Journal on the Web"]	["1999-02"]
 Optional	[{:family=>"Jordan", :given=>"Daniel"}, {:family=>"Horan", :given=>"Thomas"}]	["Intelligent Transportation Systems and Sustainable Communities: Findings of a National Study"]	article-journal	["Transportation Research Record, Paper"]	

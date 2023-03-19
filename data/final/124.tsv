@@ -24,7 +24,10 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Probstein"", :given=>""Ronald F.""}]"	Reverse Osmosis and Mixed Heterogeneous Reactions	chapter	Section 4.4 in Physicochemical Hydrodynamics	2003	both	Optional
 "[{:family=>""Yasuda"", :given=>""H.""}, {:family=>""Lamaze"", :given=>""C.E.""}]"	Salt Rejection by Polymer Membranes in Reverse Osmosis	article-journal	I. Nonionic Polymers.” Journal of Polymer Science: Part A-2	1971	both	Optional
 "[{:family=>""Paul"", :given=>""D.R.""}]"	The Role of Membrane Pressure in Reverse Osmosis	article-journal	Journal of Applied Polymer Science	1972	both	Optional
-"[{:literal=>""———.""}]"	Reformulation of the Solution-Diffusion Theory of Reverse Osmosis	article-journal	Journal of Membrane Science	2004-10	both	Optional
+"[{:family=>""Paul"", :given=>""D.R.""}]"	Reformulation of the Solution-Diffusion Theory of Reverse Osmosis	article-journal	Journal of Membrane Science	2004-10	both	Optional
+"[{:family=>""Paul"", :given=>""D.R.""}]"	Reformulation of the Solution-Diffusion Theory of Reverse Osmosis	article-journal	Journal of Membrane Science	2004-10	both	Optional
+"[{:family=>""Paul"", :given=>""D.R.""}]"	Reformulation of the Solution-Diffusion Theory of Reverse Osmosis	article-journal	Journal of Membrane Science	2004-10	both	Required
+"[{:family=>""Paul"", :given=>""D.R.""}]"	Reformulation of the Solution-Diffusion Theory of Reverse Osmosis	article-journal	Journal of Membrane Science	2004-10	both	Required
 "[{:family=>""Cath"", :given=>""Tzahi Y.""}, {:family=>""Childress"", :given=>""Amy E.""}, {:family=>""Elimelech"", :given=>""Menachem""}]"	Forward Osmosis: Principles	article-journal	Journal of Membrane Science	2006	both	Optional
 "[{:family=>""Hilal"", :given=>""N.""}, {:others=>true}]"	A Comprehensive Review of Nanofiltration Membranes	article-journal	Desalination	2004	both	Optional
 "[{:family=>""Asatekin"", :given=>""Ayse""}, {:others=>true}]"	Antifouling Nanofiltration Membranes for Membrane Bioreactors from Self-Assembling Graft Copolymers	article-journal	Journal of Membrane Science	2006	both	Optional
@@ -53,14 +56,14 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Ettouney"", :given=>""H.""}, {:family=>""Rizzuti"", :given=>""L.""}, {:family=>""Rizzuti"", :given=>""Lucio""}, {:family=>""Ettouney"", :given=>""Hisham M.""}, {:family=>""Cipollina"", :given=>""Andrea""}]"	Solar Desalination: A Challenge for Sustainable Fresh Water in the 21st Century	article-journal	Chapter	2007	both	Optional
 "[{:family=>""Koschikowski"", :given=>""Joachim""}, {:family=>""Weighaus"", :given=>""Marcel""}, {:family=>""Rommel"", :given=>""Matthias""}]"	Solar Thermal-Driven Desalination Plants Based on Membrane Distillation	article-journal	Desalination	2003	both	Optional
 "[{:family=>""Dean"", :given=>""Cornelia""}]"	Rising Acidity is Threatening Food Web of Oceans	article-journal	New York Times	2009-01-30	both	Required
-"[{:family=>""Paul"", :given=>""D.R.""}]"	Reformulation of the Solution-Diffusion Theory of Reverse Osmosis	article-journal	Journal of Membrane Science	2004-10	both	Required
 "[{:family=>""Sauvet-Guichon"", :given=>""Bruno""}]"	Ashkelon Desalination Plant — A Successful Challenge	article-journal	Desalination	2007-02	both	Required
 "[{:family=>""Strathmann"", :given=>""Heiner""}]"	The Ion-Exchange Equilibrium and the Donnan Potential,” and “The Electrochemical Equilibrium	article-journal	chapter 2 in Ion-Exchange Membrane Separation Processes	2004	both	Required
 "[{:family=>""Probstein"", :given=>""Ronald F.""}]"	The Electrolytic Cell,” “Electrodialysis,” and “Ion Exchange	chapter	Sections 6.1-6.3 in Physicochemical Hydrodynamics	2003	both	Required
 "[{:family=>""Hammer"", :given=>""Mark J.""}, {:family=>""Hammer"", :given=>""Mark J."", :suffix=>""Jr""}]"	Water Processing.” Chapter 7 in Water and Wastewater Technology			2007	both	Required
 "[{:family=>""Tarr"", :given=>""J.A.""}, {:others=>true}]"	Water and Wastes: A Retrospective Assessment of Wastewater Technology in the United States	article-journal	Technology and Culture	1984-04	both	Required
 "[{:family=>""Tarr"", :given=>""J.A.""}, {:family=>""Appendix"", :given=>""in del Porto""}, {:family=>""David""}, {:family=>""Steinfeld"", :given=>""Carol""}]"	Origins of the Piped Society			2000	both	Required
-"[{:family=>""Ettouney"", :given=>""H.""}, {:family=>""Rizzuti"", :given=>""L.""}]"	Solar Desalination: A Challenge for Sustainable Fresh Water in the 21st Century.” Chapter 1 in Solar Desalination for the 21st Century: A Review of Modern Technologies and Researched on Desalination Coupled to Renewable Energies			2007	left_only	Required
+"[{:family=>""Tarr"", :given=>""J.A.""}, {:family=>""Appendix"", :given=>""in del Porto""}, {:family=>""David""}, {:family=>""Steinfeld"", :given=>""Carol""}]"	Origins of the Piped Society			2000	both	Required
+"[{:family=>""Ettouney"", :given=>""H.""}, {:family=>""Rizzuti"", :given=>""L.""}]"	Solar Desalination: A Challenge for Sustainable Fresh Water in the 21st Century.” Chapter 1 in Solar Desalination for the 21st Century: A Review of Modern Technologies and Researched on Desalination Coupled to Renewable Energies			2007	both	Required
 "[{:family=>""Wilf"", :given=>""Mark""}]"	The Guide Book to Membrane Desalination Technology			2007	both	Optional
 "[{:family=>""Sandler"", :given=>""S.I.""}]"	Chemical			2006	both	Optional
 "[{:family=>""Twort"", :given=>""A.C.""}, {:family=>""Ratnayaka"", :given=>""D.D.""}, {:family=>""Brandt"", :given=>""M.J.""}]"	Water Supply			2001	both	Optional
@@ -69,5 +72,9 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Reynolds"", :given=>""T.D.""}, {:family=>""Richards"", :given=>""P.A.""}]"	Unit Operations and Processes in Environmental Engineering			1995	both	Optional
 "[{:family=>""Glasstone"", :given=>""S.""}]"	Thermodynamics for Chemists	book		1947	both	Optional
 "[{:family=>""Strathmann"", :given=>""H.""}]"	Ion-Exchange Membrane Separation Processes			2004	both	Optional
-"[{:family=>""Spielger"", :given=>""K.S.""}, {:family=>""El-Sayed"", :given=>""Y.M.""}]"	A Desalination Primer			1994	left_only	Optional
+"[{:family=>""Spielger"", :given=>""K.S.""}, {:family=>""El-Sayed"", :given=>""Y.M.""}]"	A Desalination Primer			1994	both	Optional
 "[{:family=>""El-Dessouky"", :given=>""H.T.""}, {:family=>""Ettouney"", :given=>""H.M.""}]"	Fundamentals of Salt Water Desalination			2002	both	Optional
+"[{:family=>""Stewart"", :given=>""Robert H.""}]"	Definition of Salinity.” Section 6.1 in Introduction to Physical Oceanography. Texas A & M University				right_only	Optional
+"[{:family=>""Yasuda"", :given=>""H.""}, {:family=>""Lamaze"", :given=>""C.E.""}, {:family=>""Schindler"", :given=>""A.""}]"	Salt Rejection by Polymer Membranes in Reverse Osmosis	article-journal	II. Ionic Polymers.” Journal of Polymer Science	1971	right_only	Optional
+"[{:family=>""Strathmann"", :given=>""Heiner""}]"	Electromembrane Processes: State-of-the-Art Processes and Recent Developments	article-journal	European Desalination Society	2007	right_only	Optional
+"[{:family=>""Murcott"", :given=>""Susan""}]"	Water and Sanitation Literacy Quiz				right_only	Optional

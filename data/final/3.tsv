@@ -1,6 +1,6 @@
 author	title	type	collection	year	_merge	category
 "[{:family=>""Sullivan"", :given=>""Louis H.""}]"	The Tall Office Building Artistically Considered	article-journal	Lippincott’s Magazine	1896-03	both	Required
-	Introduction: Metropolitan District Commission				left_only	Required
+	Introduction: Metropolitan District Commission				both	Required
 "[{:family=>""McAdow"", :given=>""R.""}]"	The Charles River Basin Study Area	chapter	The Charles River	1992	both	Required
 	Metropolitan District Commission				both	Required
 	The Old Colony Trust Company			1926	both	Required

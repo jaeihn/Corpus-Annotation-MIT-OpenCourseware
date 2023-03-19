@@ -1,0 +1,8 @@
+Required	[{:family=>"Samuelson", :given=>"P.A."}, {:family=>"Nordhaus", :given=>"W.D."}]	["Economics"]			["2004"]
+Required	[{:family=>"Tietenberg", :given=>"T.H."}]	["Economics of the Environment - An Overview” and “Property Rights, Externalities and Environmental Problems"]	article-journal	["Environmental and Natural Resource Economics"]	["1992"]
+Required	[{:family=>"Schleifer", :given=>"Arthur", :suffix=>"Jr"}]	["Calculating Net Present Values and Accumulations of Cash-Flow Streams"]	article-journal	["Harvard Business School Note"]	["1979"]
+Required	[{:family=>"Daly", :given=>"H.E."}]	["Beyond Growth"]			["1997"]
+Required	[{:family=>"Kite-Powell", :given=>"H.L."}]	["Marine policy: shipping and ports"]	chapter	["Encyclopedia of Ocean Sciences"]	["2001"]
+Required	[{:family=>"Jin", :given=>"D."}]	["Supply and Demand of New Oil Tankers"]	article-journal	["Marit Pol Mgmt"]	["2003"]
+Required		["Committee on Oil Pollution Act of 1990 (Section 4115) Implementation Review, National Research Council"]	chapter	["Double-Hull Tanker Legislation: An Assessment of the Oil Pollution Act of 1990"]	["1997"]
+Required	[{:family=>"Marcus", :given=>"H.S."}]	["Interrelationship Between Strategy and Technology in the International Liner Market"]	article-journal	["Mar Pol Rep"]	["1989"]

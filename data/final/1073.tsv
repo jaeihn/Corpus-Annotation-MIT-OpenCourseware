@@ -284,30 +284,30 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Piketty"", :given=>""T.""}, {:family=>""Saez"", :given=>""E.""}]"	A Theory of Optimal Capital Taxation	article-journal	NBER Working Paper	2012-04	both	Required
 	The Evolution of Top Incomes: A Historical and International Perspective	article-journal	American Economic Review	2006	left_only	Required
 "[{:family=>""Poterba"", :given=>""J.""}]"	The Estate and Gift Tax and Inter Vivos Giving in the United States	article-journal	Journal of Public Economics	2001	both	Required
-"[{:literal=>""———.""}]"	Estimation Methods for Male Labor Supply Functions: How to Take Account of Nonlinear Taxes	article-journal	Journal of Econometrics	1996	right_only	Required
-"[{:literal=>""———.""}]"	Career Length: Effects of Curvature of Earnings Profiles	book		2010	right_only	Required
-"[{:literal=>""———.""}]"	Work Disincentive Effects of Taxes: A Reexamination of Some Evidence	article-journal	American Economic Review	1992	right_only	Required
-"[{:literal=>""———.""}]"	Is the EITC as Good as an NIT? Conditional Cash Transfers and Tax Incidence	article-journal	American Economic Journal: Economic Policy	2010	right_only	Required
+"[{:family=>""Blomquist"", :given=>""S.""}]"	Estimation Methods for Male Labor Supply Functions: How to Take Account of Nonlinear Taxes	article-journal	Journal of Econometrics	1996	right_only	Required
+"[{:family=>""Ljungqvist"", :given=>""L.""}, {:family=>""Sargent"", :given=>""T.""}]"	Career Length: Effects of Curvature of Earnings Profiles	book		2010	right_only	Required
+"[{:family=>""MaCurdy"", :given=>""T.""}]"	Work Disincentive Effects of Taxes: A Reexamination of Some Evidence	article-journal	American Economic Review	1992	right_only	Required
+"[{:family=>""Rothstein"", :given=>""J.""}]"	Is the EITC as Good as an NIT? Conditional Cash Transfers and Tax Incidence	article-journal	American Economic Journal: Economic Policy	2010	right_only	Required
 "[{:family=>""Bastani"", :given=>""S.""}, {:family=>""Selin"", :given=>""H.""}]"	Bunching and Non-Bunching at Kink Points of the Swedish Tax Schedule	article-journal	Working Paper		right_only	Required
-"[{:literal=>""———.""}]"	Bounds on Elasticities with Optimization Frictions: An Application to Taxation and Labor Supply	article-journal	NBER Working Paper	2009-12	right_only	Required
-"[{:literal=>""———.""}]"	Were They Prepared for Retirement? Financial Status at Advanced Ages in the HRS and AHEAD Cohorts	chapter	Investigations in the Economics of Aging	2012	right_only	Required
-"[{:literal=>""———.""}]"	How Retirement Saving Programs Increase Saving	article-journal	Journal of Economic Perspectives	1996	right_only	Required
-"[{:literal=>""———.""}]"	The Tax Reform Act of 1986 and the Cost of Capital	article-journal	Journal of Economic Perspectives	1987	right_only	Required
-"[{:literal=>""———.""}]"	How Big Are the Tax Benefits of Debt?	article-journal	Journal of Finance	2000	right_only	Required
-"[{:literal=>""———.""}]"	The 2003 Dividend Tax Cuts and the Value of the Firm: An Event Study	chapter	Taxing Capital Income in the 21st Century	2007	right_only	Required
-"[{:literal=>""———.""}]"	Dividends and Corporate Taxation in an Agency Model of the Firm	article-journal	American Economic Journal: Economic Policy	2010	right_only	Required
-"[{:literal=>""———.""}]"	The “Stern Review” on the Economics of Climate Change	article-journal	Journal of Economic Literature	2007	right_only	Required
-"[{:literal=>""———.""}]"	Should Low Skilled Work be Subsidized?			2006	right_only	Required
-"[{:literal=>""———.""}]"	Optimal Taxation in the Extensive Model				right_only	Required
-"[{:literal=>""———.""}]"	Optimal Income Taxation: An Example with a U-Shaped Pattern of Optimal Marginal Tax Rates	article-journal	American Economic Review	1998	right_only	Required
-"[{:literal=>""———.""}]"	Optimal Income Transfer Programs: Intensive vs. Extensive Labor Supply Responses	article-journal	Quarterly Journal of Economics	2002	right_only	Required
-"[{:literal=>""———.""}]"	On the Specification of Models of Optimum Income Taxation	article-journal	Journal of Public Economics	1976	right_only	Required
-"[{:literal=>""———.""}]"	Optimal Taxation of Capital Income in General Equilibrium with Infinite Lives	article-journal	Econometrica	1986	right_only	Required
-"[{:literal=>""———.""}]"	The Welfare Cost of Factor Taxation in a Perfect Foresight Model	article-journal	Journal of Political Economy	1987	right_only	Required
-"[{:literal=>""———.""}]"	Redistributive Taxation in a Simple Perfect Foresight Model	article-journal	Journal of Public Economics	1985	right_only	Required
-"[{:literal=>""———.""}]"	Optimal Taxation and Spending in General Competitive Growth Models	article-journal	Journal of Public Economics	1999	right_only	Required
-"[{:literal=>""———.""}]"	Advances in Dynamic Optimal Taxation	chapter	Advances in Economics and Econometrics: Theory and Applications	2006	right_only	Required
-"[{:literal=>""———.""}]"	The New Dynamic Public Finance			2010	right_only	Required
-"[{:literal=>""———.""}]"	The Evolution of Top Incomes: A Historical and International Perspective	article-journal	American Economic Review	2006	right_only	Required
-"[{:literal=>""———.""}]"	Handbook of Public Economics			1987	right_only	Optional
-"[{:literal=>""———.""}]"	Handbook of Public Economics			2002	right_only	Optional
+"[{:family=>""Chetty"", :given=>""R.""}]"	Bounds on Elasticities with Optimization Frictions: An Application to Taxation and Labor Supply	article-journal	NBER Working Paper	2009-12	right_only	Required
+"[{:family=>""Poterba"", :given=>""J.""}, {:family=>""Venti"", :given=>""S.""}, {:others=>true}]"	Were They Prepared for Retirement? Financial Status at Advanced Ages in the HRS and AHEAD Cohorts	chapter	Investigations in the Economics of Aging	2012	right_only	Required
+"[{:family=>""Poterba"", :given=>""J.""}, {:family=>""Venti"", :given=>""S.""}, {:others=>true}]"	How Retirement Saving Programs Increase Saving	article-journal	Journal of Economic Perspectives	1996	right_only	Required
+"[{:family=>""Auerbach"", :given=>""A.""}]"	The Tax Reform Act of 1986 and the Cost of Capital	article-journal	Journal of Economic Perspectives	1987	right_only	Required
+"[{:family=>""Graham"", :given=>""J.""}]"	How Big Are the Tax Benefits of Debt?	article-journal	Journal of Finance	2000	right_only	Required
+"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Hassett"", :given=>""K.""}]"	The 2003 Dividend Tax Cuts and the Value of the Firm: An Event Study	chapter	Taxing Capital Income in the 21st Century	2007	right_only	Required
+"[{:family=>""Chetty"", :given=>""R.""}, {:family=>""Saez"", :given=>""E.""}]"	Dividends and Corporate Taxation in an Agency Model of the Firm	article-journal	American Economic Journal: Economic Policy	2010	right_only	Required
+"[{:family=>""Nordhaus"", :given=>""W.""}]"	The “Stern Review” on the Economics of Climate Change	article-journal	Journal of Economic Literature	2007	right_only	Required
+"[{:family=>""Choné"", :given=>""P.""}, {:family=>""Laroque"", :given=>""G.""}]"	Should Low Skilled Work be Subsidized?			2006	right_only	Required
+"[{:family=>""Choné"", :given=>""P.""}, {:family=>""Laroque"", :given=>""G.""}]"	Optimal Taxation in the Extensive Model				right_only	Required
+"[{:family=>""Diamond"", :given=>""P.""}]"	Optimal Income Taxation: An Example with a U-Shaped Pattern of Optimal Marginal Tax Rates	article-journal	American Economic Review	1998	right_only	Required
+"[{:family=>""Saez"", :given=>""E.""}]"	Optimal Income Transfer Programs: Intensive vs. Extensive Labor Supply Responses	article-journal	Quarterly Journal of Economics	2002	right_only	Required
+"[{:family=>""Stern"", :given=>""N.""}]"	On the Specification of Models of Optimum Income Taxation	article-journal	Journal of Public Economics	1976	right_only	Required
+"[{:family=>""Chamley"", :given=>""C.""}]"	Optimal Taxation of Capital Income in General Equilibrium with Infinite Lives	article-journal	Econometrica	1986	right_only	Required
+"[{:family=>""Judd"", :given=>""K.""}]"	The Welfare Cost of Factor Taxation in a Perfect Foresight Model	article-journal	Journal of Political Economy	1987	right_only	Required
+"[{:family=>""Judd"", :given=>""K.""}]"	Redistributive Taxation in a Simple Perfect Foresight Model	article-journal	Journal of Public Economics	1985	right_only	Required
+"[{:family=>""Judd"", :given=>""K.""}]"	Optimal Taxation and Spending in General Competitive Growth Models	article-journal	Journal of Public Economics	1999	right_only	Required
+"[{:family=>""Kocherlakota"", :given=>""N.""}]"	Advances in Dynamic Optimal Taxation	chapter	Advances in Economics and Econometrics: Theory and Applications	2006	right_only	Required
+"[{:family=>""Kocherlakota"", :given=>""N.""}]"	The New Dynamic Public Finance			2010	right_only	Required
+"[{:family=>""Piketty"", :given=>""T.""}, {:family=>""Saez"", :given=>""E.""}]"	The Evolution of Top Incomes: A Historical and International Perspective	article-journal	American Economic Review	2006	right_only	Required
+"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Feldstein"", :given=>""M.""}]"	Handbook of Public Economics			1987	right_only	Optional
+"[{:family=>""Auerbach"", :given=>""A.""}, {:family=>""Feldstein"", :given=>""M.""}]"	Handbook of Public Economics			2002	right_only	Optional

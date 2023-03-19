@@ -123,6 +123,6 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Saloner"", :given=>""G.""}, {:family=>""Shepard"", :given=>""A.""}]"	Adoption of Technologies with Network Effects: An Empirical Examination of the Adoption of Automated Teller Machines	article-journal	Rand Journal of Economics	1995	both	Required
 "[{:family=>""Vigna"", :given=>""S.Della""}, {:family=>""Stefano""}, {:family=>""Malmendier"", :given=>""U.""}]"	Paying Not to Go to the Gym	article-journal	American Economic Review		both	Required
 "[{:family=>""Gabaix"", :given=>""X.""}, {:family=>""Laibson"", :given=>""D.""}]"	Shrouded Attributes	chapter	NBER Working Paper 11755	2005-11	both	Required
-"[{:literal=>""———.""}]"	An Empirical Model of Heterogeneous Consumer Search for Retail Prescription Drugs	book		2001-09-14	right_only	Required
+"[{:family=>""Sorensen"", :given=>""A.""}]"	An Empirical Model of Heterogeneous Consumer Search for Retail Prescription Drugs	book		2001-09-14	right_only	Required
 "[{:family=>""Schmalensee"", :given=>""R.""}]"	Interindustry Studies of Structure and Performance	chapter	Handbook of Industrial Organization	1989	right_only	Required
-"[{:literal=>""———.""}]"	Predation	article-journal	Journal of Economic Theory	1982-08	right_only	Required
+"[{:family=>""Milgrom"", :given=>""P.""}, {:family=>""Roberts"", :given=>""J.""}]"	Predation	article-journal	Journal of Economic Theory	1982-08	right_only	Required

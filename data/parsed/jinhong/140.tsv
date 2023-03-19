@@ -1,0 +1,5 @@
+Required	[{:family=>"Goodman", :given=>"Joseph W."}]	["Statistical Optics"]			["2000"]
+Required	[{:family=>"Bertero", :given=>"Mario"}, {:family=>"Boccacci", :given=>"Patrizia"}]	["Introduction to Inverse Problems in Imaging"]			["1998"]
+Required	[{:family=>"Barbastathis", :given=>"G."}, {:family=>"Sinha", :given=>"A."}]	["Information Content of Volume Holographic Imaging"]	article-journal	["Trends in Biotechnology"]	["2001"]
+Required	[{:family=>"O’Sullivan", :given=>"J.A."}, {:family=>"Blahut", :given=>"R.E."}, {:family=>"Snyder", :given=>"D.L."}]	["Information-Theoretic Image Formation"]	article-journal	["IEEE Transactions on Information Theory"]	["1998"]
+Required	[{:family=>"Neifeld", :given=>"M.A."}]	["Information, Resolution, and The Space-Bandwidth Product"]	article-journal	["Optics Letters"]	["1998"]

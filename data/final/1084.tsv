@@ -62,5 +62,5 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Almond"", :given=>""Douglas""}]"	Is the 1918 Influenza Pandemic Over? Long-term Effects of In Utero Influenza Exposure in the Post-1940 U.S	article-journal	Population.” Journal of Political Economy	2006-08	both	Required
 "[{:family=>""Bleakley"", :given=>""Hoyt""}]"	Disease and Development: Evidence from Hookworm Eradication in the American South	article-journal	Quarterly Journal of Economics	2007-02	both	Required
 "[{:family=>""Cutler"", :given=>""David""}, {:family=>""Miller"", :given=>""Grant""}]"	Water	chapter	Chapter 5 in Corruption and Reform: Lessons from America’s Economic History	2008	both	Required
-"[{:literal=>""———.""}]"	The Relative Productivity Hypothesis of Industrialization: The American Case	article-journal	Quarterly Journal of Economics	1984-08	right_only	Required
-"[{:literal=>""———.""}]"	Fundamentals	article-journal	American Economic Review	2003-12	right_only	Required
+"[{:family=>""Goldin"", :given=>""Claudia""}, {:family=>""Sokoloff"", :given=>""Kenneth""}]"	The Relative Productivity Hypothesis of Industrialization: The American Case	article-journal	Quarterly Journal of Economics	1984-08	right_only	Required
+"[{:family=>""Calomiris"", :given=>""Charles W.""}, {:family=>""Mason"", :given=>""Joseph R.""}]"	Fundamentals	article-journal	American Economic Review	2003-12	right_only	Required

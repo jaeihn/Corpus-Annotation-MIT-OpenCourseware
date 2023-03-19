@@ -55,7 +55,7 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Caballero"", :given=>""Ricardo J.""}, {:family=>""Leahy"", :given=>""John V.""}]"	Fixed Costs: The Demise of Marginal q	article-journal	NBER Working Paper	1996	both	Optional
 "[{:family=>""Thomas"", :given=>""Julia K.""}]"	Is Lumpy Investment Relevant for the Business Cycle?	article-journal	Journal of Political Economy	2002	both	Optional
 "[{:family=>""Veracierto"", :given=>""Marcelo L.""}]"	Plant-Level Irreversible Investment and Equilibrium Business Cycles	article-journal	American Economic Review	2002	both	Optional
-"[{:literal=>""———.""}]"	Risk and Insurance in Village India	article-journal	Econometrica	1994	right_only	Required
+"[{:family=>""Townsend"", :given=>""Robert M.""}]"	Risk and Insurance in Village India	article-journal	Econometrica	1994	right_only	Required
 "[{:family=>""Cochrane"", :given=>""John""}]"	Where is the Market Going? Uncertain Facts and Novel Theories	chapter	Economic Perspectives XXI	1997	right_only	Optional
-"[{:literal=>""———.""}]"	Rare Disasters and Asset Markets in the Twentieth Century	article-journal	Quarterly Journal of Economics	2006	right_only	Optional
+"[{:family=>""Barro"", :given=>""Robert J.""}]"	Rare Disasters and Asset Markets in the Twentieth Century	article-journal	Quarterly Journal of Economics	2006	right_only	Optional
 "[{:family=>""Mehra"", :given=>""Rajnish""}, {:family=>""Prescott"", :given=>""Edward C.""}]"	The Equity Premium: A Puzzle	article-journal	Journal of Monetary Economics	1985	right_only	Optional

@@ -11,4 +11,4 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Anderson"", :given=>""J.D.""}]"	Modern Compressible Flow with Historical Perspective	book		1990	both	Optional
 "[{:family=>""Vincenti"", :given=>""W.G.""}, {:family=>""Kruger"", :given=>""C.H.""}]"	Introduction to Physical Gas Dynamics	book		1975	both	Optional
 "[{:family=>""Vincenti"", :given=>""W.B.""}, {:family=>""Kruger"", :given=>""C.H.""}]"	Introduction to Physical Gas Dynamics	book		1975	left_only	Required
-"[{:family=>""Taylor"", :given=>""Geoffrey""}]"	The Formation of a Blast Wave by a Very Intense Explosion. I. Theoretical Discussion_._	article-journal	Proceedings of the Royal Society of London. Series A	1950	both	Required
+"[{:family=>""Taylor"", :given=>""Geoffrey""}]"	The Formation of a Blast Wave by a Very Intense Explosion. I. Theoretical Discussion_._	article-journal	Proceedings of the Royal Society of London. Series A	1950	left_only	Required

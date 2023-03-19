@@ -5,7 +5,7 @@ Required		["Greatest Construction Projects: a Look Back at 125 Years of Construc
 Required	[{:family=>"Moavenzadeh", :given=>"Fred"}]	["Marketing in the Construction Industry"]			["2009"]
 Required	[{:family=>"Flyvbjerg", :given=>"Bent"}, {:family=>"Holm", :given=>"Mette Skamris"}, {:family=>"Buhl", :given=>"Soren"}]	["Underestimating Costs in Public Works Projects"]	article-journal	["Journal of the American Planning Association"]	["2002"]
 Required	[{:family=>"Emmons", :given=>"Willis"}, {:family=>"Brand", :given=>"Monica"}]	["Empresas ICA and the Mexican Road Privatization Program.” Harvard Business School Case"]			["1993-03-24"]
-Required	[{:family=>"Ybarra", :given=>"Shirley J."}]	["VMS Asset Management Contract for Virginia’s Interstate Highways"]	article-journal	["Public Works Financing"]	["1998"]
+Required	[{:family=>"Ybarra", :given=>"Shirley J."}]	["VMS Asset Management Contract for Virginia’s Interstate Highways"]	book		["1998"]
 Required		["2008 Corruption Perceptions Index"]	book		["2008"]
 Required		["Global Competitiveness Report 2009-2010"]	book		["2009"]
 Required	[{:family=>"Friedman", :given=>"Thomas L."}]	["The Lexus and the Olive Tree"]			["2000"]

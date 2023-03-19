@@ -1,6 +1,7 @@
 Required	Chapra, Steven, and Raymond Canale. Numerical Methods for Engineers. 7th ed. McGraw–hill Higher Education, 2014. ISBN: 9780073397924
 Required	Ferziger, Joel H., and Milovan Peric. Computational Methods for Fluid Dynamics. 3rd ed. Springer, 2013. ISBN: 9783540420743
 Required	Cebeci, Tuncer, Jian P. Shao, et al. Computational Fluid Dynamics for Engineers: From Panel to Navier-stokes Methods with Computer Programs. Springer, 2005. ISBN: 9783540244516
+Required	Chapra, Steven, and Raymond Canale. Numerical Methods for Engineers. 7th ed. McGraw-hill Higher Education, 2014. ISBN: 9780073397924
 Optional	Kundu, Pijush K., Ira M. Cohen, and David R. Dowling. Fluid Mechanics. 6th ed. Academic Press, 2015. ISBN: 9780124059351
 Optional	White, Frank. Fluid Mechanics. 7th ed. McGraw-hill Education, 2010. ISBN: 9780077422417
 Optional	Lomax, Harvard, Thomas H. Pulliam, and David W. Zingg. Fundamentals of Computational Fluid Dynamics. Springer, 2004. ISBN: 9783540416074
@@ -14,9 +15,11 @@ Optional	Pozrikidis, Constantine. Introduction to Finite and Spectral Element Me
 Optional	Roache, Patrick J. Fundamentals of Computational Fluid Dynamics. Hermosa Publishers, 1998. ISBN: 9780913478097
 Optional	Lapidus, Leon, and George F. Pinder. Numerical Solution of Partial Differential Equations in Science and Engineering. Wiley-interscience, 1999. ISBN: 9780471359449
 Optional	Fletcher, C. A. J. Computational Techniques for Fluid Dynamics, Vol. 1: Fundamental and General Techniques. Springer, 2013. ISBN: 9780387530581
+Optional	Wendt, John. Computational Fluid Dynamics: An Introduction. Springer, 2008. ISBN: 9783540850557
+Optional	Löhner, Rainald. Applied Computational Fluid Dynamics Techniques: An Introduction Based on Finite Element Methods. Wiley, 2008. ISBN: 9780470519073
 Optional	Trefethen, Lloyd N., and David Bau III. Numerical Linear Algebra. SIAM: Society for Industrial and Applied Mathematics, 1997. ISBN: 9780898713619
 Optional	Chapra, Steven, and Raymond Canale. Numerical Methods for Engineers. 7th ed. McGraw–Hill Higher Education, 2014. ISBN: 9780073397924
 Optional	White, Frank. Fluid Mechanics. 7th ed. McGraw-Hill Education, 2010. ISBN: 9780077422417
 Optional	Lomax, Harvard, Thomas H. Pulliam, and David W. Zingg. Fundmentals of Computational Fluid Dynamics. Springer, 2004. ISBN: 9783540416074
-Optional	Wendt, John. Computational Fluid Dynamics: An Introduction. Springer, 2008. ISBN: 9783540850557
-Optional	Löhner, Rainald. Applied Computational Fluid Dynamics Techniques: An Introduction Based on Finite Element Methods. Wiley, 2008. ISBN: 9780470519073
+Optional	Fletcher, C. A. J. Computational Techniques for Fluid Dynamics, Vol. 1: Fundamental and General Techniques. Springer, 2013. ISBN: 9783540530589
+Optional	Durbin, Paul A., and Gorazd Medic. Fluid Dynamics with a Computational Perspective. Cambridge University Press, 2007. ISBN: 9780521850179

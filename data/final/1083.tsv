@@ -58,10 +58,10 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Greif"", :given=>""Avner""}, {:family=>""Milgrom"", :given=>""Paul""}, {:family=>""Weingast"", :given=>""Barry R.""}]"	Coordination	article-journal	Journal of Political Economy	1994-08	both	Required
 "[{:family=>""Allen"", :given=>""Robert C.""}]"	The Great Divergence in European Wages and Prices from the Middle Ages to the First World War	article-journal	Explorations in Economic History	2001-10	both	Required
 "[{:family=>""Temin"", :given=>""Peter""}]"	The Economy of the Early Roman Empire	article-journal	Journal of Economic Perspectives	2006	both	Required
-"[{:literal=>""———.""}]"	The Macroeconomics of the Great Depression: A Comparative Approach	article-journal	Journal of Money	1995	right_only	Required
+"[{:family=>""Bernanke"", :given=>""Ben""}]"	The Macroeconomics of the Great Depression: A Comparative Approach	article-journal	Journal of Money	1995	right_only	Required
 "[{:family=>""Census"", :given=>""U.S.Bureau"", :particle=>""of the""}]"	Historical Statistics of the United States	article-journal	Colonial Times to	1970	right_only	Optional
 "[{:family=>""Mitchell"", :given=>""B.R.""}]"	British Historical Statistics			1988	right_only	Optional
-"[{:literal=>""———.""}]"	European Historical Statistics			1975	right_only	Optional
+"[{:family=>""Mitchell"", :given=>""B.R.""}]"	European Historical Statistics			1975	right_only	Optional
 	Board of Governors of the Federal Reserve System. Banking and Monetary Statistics	book		1943	right_only	Optional
 "[{:family=>""Capie"", :given=>""Forrest""}, {:family=>""Collins"", :given=>""Michael""}]"	The Inter-war British Economy: A Statistical Abstract			1983	right_only	Optional
 "[{:family=>""Capie"", :given=>""F.""}, {:family=>""Weber"", :given=>""A.""}, {:given=>""Data""}]"	A Monetary History of the United Kingdom			1985	right_only	Optional

@@ -35,4 +35,4 @@ author	title	type	collection	year	_merge	category
 	The Search for R&D Spillovers	article-journal	The Scandinavian Journal of Economics	1992	left_only	Required
 "[{:family=>""Irwin"", :given=>""Douglas A.""}, {:family=>""Klenow"", :given=>""Peter J.""}]"	Learning by Doing Spillovers in the Semiconductor Industry	article-journal	Journal of Political Economy	1994	both	Required
 "[{:family=>""Hall"", :given=>""Robert""}, {:family=>""Jones"", :given=>""Charles I.""}]"	Why Do Some Countries Produce So Much More Output per Worker than Others?	article-journal	The Quarterly Journal of Economics	1999	right_only	Required
-"[{:literal=>""———.""}]"	The Search for R&D Spillovers	article-journal	The Scandinavian Journal of Economics	1992	right_only	Required
+"[{:family=>""Griliches"", :given=>""Zvi""}]"	The Search for R&D Spillovers	article-journal	The Scandinavian Journal of Economics	1992	right_only	Required

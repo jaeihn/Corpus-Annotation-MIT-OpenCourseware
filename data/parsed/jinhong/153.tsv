@@ -1,0 +1,8 @@
+Required	[{:family=>"Hart", :given=>"Myra M."}, {:family=>"Roberts", :given=>"Michael J."}, {:others=>true}]	["Zipcar: Refining the Business Model"]	book		["2003"]
+Required	[{:family=>"Steenburgh", :given=>"Thomas"}, {:family=>"Avery", :given=>"Jill"}, {:others=>true}]	["HubSpot: Inbound Marketing and Web 2.0"]	book		["2009"]
+Required	[{:family=>"Lynch", :given=>"Merrill"}]	["Understanding Financial Reports"]	book		["2003"]
+Required	[{:family=>"Christensen", :given=>"Roland C."}, {:family=>"Rosenblum", :given=>"John W."}, {:others=>true}]	["Prelude Corporation"]	book		["1972"]
+Required	[{:family=>"Lee", :given=>"Hau L."}, {:family=>"Plous", :given=>"Steven"}, {:others=>true}]	["Hewlett-Packard Company: Network Printer Design for Universality"]	chapter	["Stanford Graduate School of Business Case"]	["1996"]
+Required	[{:family=>"Ince", :given=>"J.F."}, {:family=>"Maidique", :given=>"M.A."}]	["The Grumman Corporation"]	article-journal	["Harvard Business School Case. Harvard Business School Publishing. Case"]	["1979"]
+Required	[{:family=>"Barbour", :given=>"Jakobsen"}]	["Pilkington Float Glass"]	article-journal	["Harvard Business School Case. Harvard Business School Publishing. Case"]	["1971"]
+Required	[{:family=>"Wierzynski", :given=>"G.H."}]	["The Eccentric Lords of Float Glass"]	article-journal	["The Fortune"]	["1968"]

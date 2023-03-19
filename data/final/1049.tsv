@@ -29,6 +29,6 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Luhby"", :given=>""Tami""}]"	Get Ready to Pay Sales Tax on Amazon	article-journal	CNN Money	2012-07-18	both	Optional
 "[{:family=>""Streitfeld"", :given=>""David""}]"	Amazon	article-journal	New York Times	2012-09-11	both	Optional
 "[{:family=>""Manjoo"", :given=>""Farhard""}]"	I Want it Today: How Amazon’s Ambitious New Push for Same-day Delivery will Destroy Local Retail	article-journal	Slate.com	2012-07-11	both	Optional
-"[{:literal=>""———.""}]"	Privacy Regulation and Online Advertising	article-journal	Management Science	2010	right_only	Optional
-"[{:literal=>""———.""}]"	Vickrey Auctions in Practice: From Nineteenth Century Philately to Twenty-first Century E-commerce	article-journal	Journal of Economic Perspectives	2000	right_only	Optional
-"[{:literal=>""———.""}]"	The Groupon Effect on Yelp Ratings: A Root Cause Analysis	article-journal	Association for Computing Machinery	2012	right_only	Optional
+"[{:family=>""Goldfarb"", :given=>""Avi""}, {:family=>""Tucker"", :given=>""Catherine""}]"	Privacy Regulation and Online Advertising	article-journal	Management Science	2010	right_only	Optional
+"[{:family=>""Lucking-Reiley"", :given=>""David""}]"	Vickrey Auctions in Practice: From Nineteenth Century Philately to Twenty-first Century E-commerce	article-journal	Journal of Economic Perspectives	2000	right_only	Optional
+"[{:family=>""Byers"", :given=>""John W.""}, {:family=>""Mitzenmacher"", :given=>""Michael""}, {:others=>true}]"	The Groupon Effect on Yelp Ratings: A Root Cause Analysis	article-journal	Association for Computing Machinery	2012	right_only	Optional

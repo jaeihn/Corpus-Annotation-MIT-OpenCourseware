@@ -10,7 +10,7 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Bazant"", :given=>""Z.P.""}]"	Fracture Mechanics of Concrete Structures	book		1992	both	Optional
 "[{:family=>""Billington"", :given=>""D.P.""}]"	Thin Shell Concrete Structures	book		1982	both	Optional
 "[{:family=>""Bresler"", :given=>""B.""}]"	Design Criteria for Reinforced Concrete Columns under Axial Load and Biaxial Bending	article-journal	ACI Journal	1960	both	Optional
-"[{:family=>""Bresler"", :given=>""B.""}, {:family=>""Pister"", :given=>""K.S.""}]"	Failure of Plain Concrete under Combined Stresses	article-journal	ASCE Transactions	1955-08	left_only	Optional
+"[{:family=>""Bresler"", :given=>""B.""}, {:family=>""Pister"", :given=>""K.S.""}]"	Failure of Plain Concrete under Combined Stresses	article-journal	ASCE Transactions	1955-08	both	Optional
 	Reinforced Concrete Engineering: Volume I - Materials	book		1974	both	Optional
 "[{:family=>""Buyukozturk"", :given=>""O.""}]"	Nonlinear Analysis of Reinforced Concrete Structures	article-journal	Computers and Structures	1977	both	Optional
 "[{:family=>""Buyukozturk"", :given=>""O.""}]"	Imaging of Concrete Structures	article-journal	NDT & E International	1998	both	Optional

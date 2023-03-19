@@ -9,7 +9,7 @@ Optional	[{:family=>"Trenberth", :given=>"K."}, {:others=>true}]	["The atmospher
 Optional	[{:given=>"Starr"}, {:others=>true}]	["Momentum and zonal kinetic energy balance of the atmosphere from five years of hemisphere data"]	article-journal	["Tellus"]	["1970"]
 Optional	[{:given=>"Starr"}, {:given=>"Gaut"}]	["Symmetrical formulation of the zonal kinetic energy equation"]	article-journal	["Tellus"]	["1969"]
 Optional	[{:given=>"Newton"}]	["Mountain torques in the global angular momentum balance"]	article-journal	["J Atmos Sci"]	
-Optional	[{:literal=>"———."}]	["Global angular momentum balance: earth torque and atmospheric fluxes"]	article-journal	["J Atmos Sci"]	
+Optional	[{:given=>"Newton"}]	["Global angular momentum balance: earth torque and atmospheric fluxes"]	article-journal	["J Atmos Sci"]	
 Optional	[{:family=>"Newton", :given=>"C.W."}]	["Southern hemisphere general circulation in relation to global energy and momentum balance requirements"]	article-journal	["Meteorology of the Southern Hemisphere. Meteorol Monogr 13"]	["1971"]
 Optional	[{:given=>"Rosen"}, {:others=>true}]	["Variability in the annual fields of large-scale atmospheric water transport"]	article-journal	["Mon Wea Rev"]	["1979"]
 Optional	[{:family=>"Oort", :given=>"A.H."}, {:family=>"Peixoto", :given=>"J.P."}]	["Global angular momentum and energy balance requirements from observations"]	article-journal	["Adv Geophys"]	["1983"]

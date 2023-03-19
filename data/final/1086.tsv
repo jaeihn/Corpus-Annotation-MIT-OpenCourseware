@@ -60,4 +60,4 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Fisman"", :given=>""Ray""}]"	Estimating the Value of Political Connections	article-journal	American Economic Review	2001	both	Required
 "[{:family=>""Riordan"", :given=>""William L.""}]"	Honest Graft and Dishonest Graft.” Chapter 1 in Plunkitt of Tammany Hall: A Series of Very Plain Talks on Very Practical Politics	article-journal	CreateSpace Independent Publishing Platform	2013	both	Required
 "[{:family=>""Kenneth"", :given=>""A.""}]"	Analyzing Politics: Rationality			2010	right_only	Required
-"[{:literal=>""———.""}]"	Controlling Corruption			1991	right_only	Optional
+"[{:family=>""Klitgaard"", :given=>""Robert""}]"	Controlling Corruption			1991	right_only	Optional

@@ -1,0 +1,4 @@
+Required	[{:family=>"Shigley", :given=>"Joseph"}, {:family=>"Mischke", :given=>"Charles"}, {:family=>"Budynas", :given=>"Richard"}]	["Mechanical Engineering Design"]			["2003"]
+Required	[{:family=>"Chen", :given=>"Skim"}, {:family=>"Shih-Chi"}, {:family=>"Culpepper", :given=>"Martin L."}]	["Design of a six-axis micro-scale nanopositioner - μHexFlex"]	article-journal	["Precision Engineering"]	["2006"]
+Optional	[{:family=>"Norton", :given=>"Robert L."}]	["Design of Machinery: An Introduction to the Synthesis and Analysis of Mechanisms and Machines"]			["2007"]
+Optional	[{:family=>"Oberg", :given=>"Erik"}, {:family=>"Jones", :given=>"Franklin D."}, {:family=>"Horton", :given=>"Holbrook L."}, {:family=>"Ryffel", :given=>"Henry H."}]	["Machinery’s Handbook"]			["2008"]
