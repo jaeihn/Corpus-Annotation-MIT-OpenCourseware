@@ -20,7 +20,7 @@ Now you should be able to access the application in your web browser.
 
 <br>
 
-## Don't forget to check out the following in our website!
+## Features
 
 - Please check out our statistics page! There are some interesting moments when we did the annotations.
 
