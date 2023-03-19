@@ -31,7 +31,7 @@ body {
 }
 
 .search-container {
-	margin-top: 50px;
+  margin-top: 50px;
   padding: 0.2rem;
   display: flex;
   flex-direction: row;
@@ -44,10 +44,11 @@ body {
 .flex-container {
   background: var(--ternary-color);
   margin-top: 50px;
-  /*height: 400px;*/
+  width: 750px;
   color: var(--primary-color);
   padding: 10px;
   border-radius: 5px;
+  font-size: 18px;
 }
 
 .search-container {

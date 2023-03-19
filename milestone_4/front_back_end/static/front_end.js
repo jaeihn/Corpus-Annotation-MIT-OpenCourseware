@@ -1,7 +1,7 @@
 
 
 function update_page(response) {
-    console.log(response)
+//    console.log(response)
   	document.getElementById('flex-container').innerHTML = response;
 }
 
