@@ -28,26 +28,6 @@ with open('data/index_to_link.json', encoding='utf-8') as f:
 
 # Main search function
 def search_readings(TOPIC, FORMAT, INCLUDE):
-    """Return the dataframe for filtering by title
-
-        Parameters
-        ----------
-        TOPIC (str): topic
-        FORMAT (str): type of reading which has options - ["Book", "Paper"]
-        INCLUDE (str): "Required" OR "Optional"
-
-        Returns
-        -------
-        pandas dataframe
-            the dataframe after filtering specific "topic", "format", "include"
-            e.g.
-
-                    Author	                            Title	    Year	Link to Course
-            Martinez, W.;...    Computational Statistics...	       2007	    https://ocw.mit.edu/courses/12-s990-quantifyin...
-            Devore, J....       Probability and Statistics ...	   2000	    https://ocw.mit.edu/courses/1-017-computing-an...
-            ...
-
-        """
     TOPIC = '-' + TOPIC
     # Topic selection (Mandatory)
     selection = data_df[data_df.Topics == TOPIC].copy()
@@ -76,28 +56,6 @@ def search_readings(TOPIC, FORMAT, INCLUDE):
 
 
 def search_authors(TOPIC, FORMAT, INCLUDE):
-    """Return the dataframe for filtering by author
-
-        Parameters
-        ----------
-        TOPIC (str): topic
-        FORMAT (str): type of reading which has options - ["Book", "Paper"]
-        INCLUDE (str): "Required" OR "Optional"
-
-        Returns
-        -------
-        pandas dataframe
-            the dataframe after filtering specific "topic", "format", "include"
-            e.g.
-                                                      Author  # of Readings
-            0    ['Belloni, A.', 'Chernozhukov, V.']              6
-            1                        ['Angrist, J.']              5
-            2          ['Angrist, J.', 'Imbens, G.']              4
-            3                           ['Yano, M.']              3
-            4         ['Angrist, J.', 'Krueger, A.']              3
-            ..                                   ...            ...
-
-        """
     TOPIC = '-' + TOPIC
     # Topic selection (Mandatory)
     selection = author_df[author_df.Topics==TOPIC].copy()
@@ -119,17 +77,6 @@ def search_authors(TOPIC, FORMAT, INCLUDE):
 
 
 def create_table(df):
-    """Return the html table string for the input dataframe
-
-    Parameters
-    ----------
-    df : panda dataframe
-
-    Returns
-    -------
-    string
-        html table string for the input dataframe
-    """
     cols = df.columns
     if '# of Readings' in cols: 
         S = ["<table width=100%>"]
