@@ -1,0 +1,7 @@
+Required	[{:family=>"Poirier", :given=>"D.R."}, {:family=>"Geiger", :given=>"G.H."}]	["Transport Phenomena in Materials Processing"]			["1998"]
+Required	[{:family=>"Bergman", :given=>"Theodore L."}, {:family=>"Lavine", :given=>"Adrienne S."}, {:others=>true}]	["Introduction to Heat Transfer"]			["2011"]
+Required	[{:family=>"Kou", :given=>"Sindo"}]	["Transport Phenomena and Materials Processing"]			["1996"]
+Required	[{:family=>"Flemings", :given=>"Merton C."}]	["Solidification Processing"]			["1974"]
+Required	[{:family=>"Carslaw", :given=>"H.S."}, {:family=>"Jaeger", :given=>"J.C."}]	["Conduction of Heat in Solids"]			["1959"]
+Required	[{:family=>"Pilkington", :given=>"L.A.B."}]	["The Float Glass Process"]	article-journal	["Proceedings of the Royal Society of London, Series A. Mathematical and Physical Sciences"]	["1969"]
+Required	[{:family=>"Reed", :given=>"James S."}]	["Deflocculants and Coagulants"]	chapter	["Chapter 10 in Principles of Ceramics Processing"]	["1995"]

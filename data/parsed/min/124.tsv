@@ -20,7 +20,7 @@ Optional	[{:family=>"Sauvet-Guichon", :given=>"Bruno"}]	["Ashkelon Desalination 
 Optional	[{:family=>"Probstein", :given=>"Ronald F."}]	["Reverse Osmosis and Mixed Heterogeneous Reactions"]	chapter	["Section 4.4 in Physicochemical Hydrodynamics"]	["2003"]
 Optional	[{:family=>"Yasuda", :given=>"H."}, {:family=>"Lamaze", :given=>"C.E."}]	["Salt Rejection by Polymer Membranes in Reverse Osmosis"]	article-journal	["I. Nonionic Polymers.” Journal of Polymer Science: Part A-2"]	["1971"]
 Optional	[{:family=>"Paul", :given=>"D.R."}]	["The Role of Membrane Pressure in Reverse Osmosis"]	article-journal	["Journal of Applied Polymer Science"]	["1972"]
-Optional	[{:literal=>"———."}]	["Reformulation of the Solution-Diffusion Theory of Reverse Osmosis"]	article-journal	["Journal of Membrane Science"]	["2004-10"]
+Optional	[{:family=>"Paul", :given=>"D.R."}]	["Reformulation of the Solution-Diffusion Theory of Reverse Osmosis"]	article-journal	["Journal of Membrane Science"]	["2004-10"]
 Optional	[{:family=>"Cath", :given=>"Tzahi Y."}, {:family=>"Childress", :given=>"Amy E."}, {:family=>"Elimelech", :given=>"Menachem"}]	["Forward Osmosis: Principles, Applications, and Recent Developments"]	article-journal	["Journal of Membrane Science"]	["2006"]
 Optional	[{:family=>"Hilal", :given=>"N."}, {:others=>true}]	["A Comprehensive Review of Nanofiltration Membranes"]	article-journal	["Desalination"]	["2004"]
 Optional	[{:family=>"Asatekin", :given=>"Ayse"}, {:others=>true}]	["Antifouling Nanofiltration Membranes for Membrane Bioreactors from Self-Assembling Graft Copolymers"]	article-journal	["Journal of Membrane Science"]	["2006"]

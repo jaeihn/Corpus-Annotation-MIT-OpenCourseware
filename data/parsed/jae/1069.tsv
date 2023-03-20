@@ -1,5 +1,5 @@
 Required	[{:family=>"Caballero", :given=>"Ricardo J."}]	["Macroeconomics After the Crisis: Time to Deal with the Pretense-of-Knowledge Syndrome"]	article-journal	["Journal of Economic Perspectives"]	["2010"]
-Required	[{:literal=>"———."}]	["A Caricature (Model) of the World Economy"]	article-journal	["MIT Working Paper No. 10-17; NBER Working Paper"]	["2010"]
+Required	[{:family=>"Caballero", :given=>"Ricardo J."}]	["A Caricature (Model) of the World Economy"]	article-journal	["MIT Working Paper No. 10-17; NBER Working Paper"]	["2010"]
 Required	[{:family=>"B.", :given=>"Bernanke"}, {:family=>"Gertler", :given=>"M."}]	["Agency Costs, Net Worth, and Business Fluctuations"]	article-journal	["American Economic Review"]	["1989"]
 Required	[{:family=>"Kiyotaki", :given=>"Nobuhiro"}, {:family=>"Moore", :given=>"John"}]	["Credit Cycles"]	article-journal	["Journal of Political Economy"]	["1997"]
 Required	[{:family=>"Brunnermeier", :given=>"Markus"}, {:family=>"Sannikov", :given=>"Yuliy"}]	["A Macroeconomics Model with a Financial Sector"]			["2011"]

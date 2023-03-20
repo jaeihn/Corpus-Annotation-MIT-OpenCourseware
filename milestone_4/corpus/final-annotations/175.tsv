@@ -1,0 +1,10 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Reader"", :given=>""Course""}]"	Mechanical Behavior of Materials				both	Required
+"[{:family=>""Hosford"", :given=>""W.F.""}]"	Mechanical Behavior of Materials			2005	both	Optional
+"[{:family=>""Hibbeler"", :given=>""R.C.""}]"	Mechanics of Materials			2004	both	Required
+"[{:family=>""Bedford"", :given=>""A.""}, {:family=>""Liechti"", :given=>""K.M.""}]"	Mechanics of Materials			2000	both	Required
+"[{:family=>""Nye"", :given=>""J.F.""}]"	Physical Properties of Crystals			1985	both	Required
+"[{:family=>""Meyers"", :given=>""M.A.""}, {:family=>""Chawla"", :given=>""K.K.""}]"	Mechanical Behavior of Materials			1998	both	Required
+"[{:family=>""Ashby"", :given=>""M.F.""}, {:family=>""Jones"", :given=>""D.R.H.""}]"	Engineering Materials 1			1996	both	Required
+"[{:family=>""Callister"", :given=>""W.D.""}]"	Fundamentals of Materials Science and Engineering			2004	both	Required
+"[{:family=>""Beer"", :given=>""F.P.""}, {:family=>""Johnson"", :given=>""E.R.""}]"	Mechanics of Materials			1981	both	Required

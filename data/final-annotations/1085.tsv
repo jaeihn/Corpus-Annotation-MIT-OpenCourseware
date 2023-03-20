@@ -1,0 +1,54 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Ray"", :given=>""Debraj""}]"	Development Economics			1998	both	Required
+"[{:family=>""Hartmann"", :given=>""Betsy""}, {:family=>""Boyce"", :given=>""James K.""}]"	The Trials of a Poor Peasant Family.” Chapter 12 in A Quiet Violence: View from a Bangladesh Village			1985	both	Required
+"[{:family=>""Banerjee"", :given=>""A.V.""}, {:family=>""Duflo"", :given=>""E.""}]"	The Economic Lives of the Poor	article-journal	Journal of Economic Perspectives	2007	both	Required
+"[{:family=>""Thomas"", :given=>""D.""}, {:family=>""Frankenberg"", :given=>""E.""}, {:family=>""Friedman"", :given=>""J.""}, {:family=>""Habicht"", :given=>""J.-P.""}, {:family=>""Jones"", :given=>""N.""}, {:family=>""McKelvey"", :given=>""C.""}, {:family=>""Pelto"", :given=>""G.""}, {:family=>""Sikoki"", :given=>""B.""}, {:family=>""Smith"", :given=>""J.P.""}, {:family=>""Sumantri"", :given=>""C.""}, {:family=>""Suriastini"", :given=>""W.""}]"	Causal Effect of Health on Labor Market Outcomes: Evidence from a Random Assignment Iron Supplementation Intervention	chapter	California Center for Population Research On-Line Working Paper Series	2004-04-01	both	Required
+	The PROBE Team in association with the Centre for Development Economics	report		1999	both	Required
+"[{:family=>""Duflo"", :given=>""E.""}]"	Schooling and Labor Market Consequences of School Construction in Indonesia: Evidence from an Unusual Policy Experiment	article-journal	American Economic Review	2001	both	Required
+"[{:family=>""Banerjee"", :given=>""Abhijit V.""}, {:family=>""Deaton"", :given=>""Angus""}, {:family=>""Duflo"", :given=>""Esther""}]"	Wealth	article-journal	American Economic Review	2003	both	Required
+"[{:family=>""Dreze"", :given=>""Jean""}, {:family=>""Sen"", :given=>""Amartya""}]"	Gender Inequality and Women’s Agency.” Chapter 7 in India: Economic Development and Social Opportunity	book		1999	both	Required
+"[{:family=>""Udry"", :given=>""C.""}]"	Gender	article-journal	Journal of Political Economy	1996	both	Required
+"[{:family=>""Duflo"", :given=>""E.""}, {:family=>""Udry"", :given=>""C.""}]"	Intrahousehold Resource Allocation in Cote d’Ivoire: Social Norms	article-journal	National Bureau of Economic Research Working Paper	2004-05	both	Required
+"[{:family=>""Banerjee"", :given=>""A.V.""}]"	Land Reforms: Prospects and Strategies	book		1999	both	Required
+"[{:family=>""Paxson"", :given=>""C.H.""}]"	Using Weather Variability to Estimate the Response of Savings to Transitory Income in Thailand	article-journal	American Economic Review	1992	both	Required
+"[{:family=>""Udry"", :given=>""C.""}]"	Credit Markets in Northern Nigeria: Credit as Insurance in a Rural Economy	article-journal	World Bank Economic Review	1990	both	Required
+"[{:family=>""Aleem"", :given=>""I.""}]"	Imperfect Information	article-journal	World Bank Economic Review	1990-09	both	Required
+"[{:family=>""Acemoglu"", :given=>""D.""}, {:family=>""Johnson"", :given=>""S.""}, {:family=>""Robinson"", :given=>""J.""}]"	The Colonial Origins of Comparative Development: An Empirical Investigation	article-journal	American Economic Review	2001	both	Required
+	What is Middle Class about the Middle Classes around the World?	article-journal	Journal of Economic Perspectives	2008	left_only	Optional
+	Aging and Death Under a Dollar a Day	article-journal	National Bureau of Economic Research Working Paper	2007-12	left_only	Optional
+"[{:family=>""Subramanian"", :given=>""S.""}, {:family=>""Deaton"", :given=>""A.""}]"	The Demand for Food and Calories	article-journal	Journal of Political Economy	1996	both	Optional
+"[{:family=>""Duflo"", :given=>""E.""}]"	Grandmothers and Granddaughters: Old-Age Pensions and Intrahousehold Allocation in South Africa	article-journal	World Bank Economic Review	2003	both	Optional
+"[{:family=>""Duflo"", :given=>""E.""}, {:family=>""Hanna"", :given=>""R.""}]"	Monitoring Works: Getting Teachers to Come to School	article-journal	National Bureau of Economic Research Working Paper	2005-12	both	Optional
+"[{:family=>""Glewwe"", :given=>""P.""}, {:family=>""Ilias"", :given=>""N.""}, {:family=>""Kremer"", :given=>""M.""}]"	Teacher Incentives	article-journal	National Bureau of Economic Research Working Paper	2003-05	both	Optional
+"[{:family=>""Banerjee"", :given=>""A.V.""}, {:family=>""Cole"", :given=>""S.""}, {:family=>""Duflo"", :given=>""E.""}, {:family=>""Linden"", :given=>""L.""}]"	Remedying Education: Evidence from Two Randomized Experiments in India	article-journal	Quarterly Journal of Economics	2007-08	both	Optional
+"[{:family=>""Deaton"", :given=>""Angus""}]"	The Analysis of Household Surveys: A Microeconometric Approach to Development Policy			1997	both	Optional
+"[{:family=>""Rose"", :given=>""E.""}]"	Consumption Smoothing and Excess Female Mortality in Rural India	article-journal	Review of Economics and Statistics	1999	both	Optional
+"[{:family=>""Rao"", :given=>""V.""}]"	The Rising Price of Husbands: A Hedonic Analysis of Dowry Increases in Rural India	article-journal	Journal of Political Economy	1993	both	Optional
+"[{:family=>""Qian"", :given=>""Nancy""}]"	Missing Women and the Price of Tea in China: The Effect of Relative Female Income on Sex Imbalance	book		2005	both	Optional
+"[{:family=>""Thomas"", :given=>""D.""}]"	Intra-Household Resource Allocation: An Inferential Approach	article-journal	Journal of Human Resources	1990	both	Optional
+"[{:family=>""Lundberg"", :given=>""S.J.""}, {:family=>""Pollak"", :given=>""R.A.""}, {:family=>""Wales"", :given=>""T.J.""}]"	Do Husbands and Wives Pool Their Resources? Evidence from the United Kingdom Child Benefit	article-journal	Journal of Human Resources	1996	both	Optional
+"[{:family=>""Banerjee"", :given=>""Abhijit V.""}, {:family=>""Gertier"", :given=>""Paul""}, {:family=>""Ghatak"", :given=>""Maitreesh""}]"	Empowerment and Efficiency: Tenancy Reform in West Bengal	article-journal	Journal of Political Economy	2002-04	both	Optional
+"[{:family=>""Aportela"", :given=>""F.""}]"	The Effects of Financial Access on Savings by Low-Income People	book		1998	both	Optional
+"[{:family=>""Jensen"", :given=>""R.""}]"	Agricultural Volatility and Investments in Children	article-journal	American Economic Review	2000	both	Optional
+"[{:family=>""Townsend"", :given=>""R.""}]"	Financial Systems in Northern Thai Villages	article-journal	Quarterly Journal of Economics	1995	both	Optional
+"[{:family=>""Morduch"", :given=>""J.""}]"	The Microfinance Promise	article-journal	Journal of Economic Literature	1999	both	Optional
+"[{:family=>""Banerjee"", :given=>""A.""}, {:family=>""Iyer"", :given=>""L.""}, {:family=>""Somanathan"", :given=>""R.""}]"	Public Action for Public Goods	article-journal	National Bureau of Economic Research Working Paper	2007-02	both	Optional
+"[{:family=>""Greif"", :given=>""A.""}]"	Contract Enforceability and Economic Institution in Early Trade: The Maghribi Traders Coalition	article-journal	American Economic Review	1993	both	Optional
+	Cultural Beliefs and the Organization of Society: A Historical and Theoretical Reflection on Collectivist and Individualist Societies	article-journal	Journal of Political Economy	1994	left_only	Optional
+"[{:family=>""Munshi"", :given=>""K.""}]"	Social Norms and Individual Decisions During a Period of Change: An Application to the Demographic Transition	book		2000	both	Optional
+"[{:family=>""Porta"", :given=>""R."", :particle=>""La""}, {:family=>""Silanes"", :given=>""F.L."", :particle=>""de""}, {:family=>""Shleifer"", :given=>""A.""}, {:family=>""Vishny"", :given=>""R.""}]"	Law and Finance	article-journal	Journal of Political Economy	1998	both	Optional
+"[{:family=>""Banerjee"", :given=>""A.V.""}, {:family=>""Iyer"", :given=>""L.""}]"	History	article-journal	American Economic Review	2005	both	Optional
+"[{:family=>""Iyer"", :given=>""L.""}]"	The Long-term Impact of Colonial Rule: Evidence from India	book		2003	both	Optional
+"[{:family=>""Banerjee"", :given=>""A.V.""}, {:family=>""Duflo"", :given=>""E.""}]"	Reputation Effects and the Limits of Contracting: A Study of the Indian Software Industry	article-journal	Quarterly Journal of Economics	2000	both	Optional
+"[{:family=>""Shleifer"", :given=>""A.""}, {:family=>""Vishny"", :given=>""R.W.""}]"	Corruption	article-journal	The Quarterly Journal of Economics	1993	both	Optional
+"[{:family=>""Bertrand"", :given=>""M.""}, {:family=>""Djankov"", :given=>""S.""}, {:family=>""Hanna"", :given=>""R.""}, {:family=>""Mullainathan"", :given=>""S.""}]"	Does Corruption Produce Unsafe Drivers?	article-journal	National Bureau of Economic Research Working Paper	2006-06	both	Optional
+"[{:family=>""Olken"", :given=>""B.""}, {:family=>""Barron"", :given=>""P.""}]"	The Simple Economics of Extortion: Evidence from Trucking in Aceh	article-journal	National Bureau of Economic Research Working Paper	2007-06	both	Optional
+"[{:family=>""Olken"", :given=>""B.""}]"	Monitoring Corruption: Evidence from a Field Experiment in Indonesia	article-journal	National Bureau of Economic Research Working Paper	2005-11	both	Optional
+"[{:family=>""Duflo"", :given=>""Esther""}, {:family=>""Dupas"", :given=>""Pascaline""}, {:family=>""Kremer"", :given=>""Michael""}]"	Peer Effects	article-journal	Mimeograph	2007-09	both	Optional
+"[{:family=>""Glewwe"", :given=>""Paul""}, {:family=>""Kremer"", :given=>""Michael""}, {:family=>""Moulin"", :given=>""Sylvie""}]"	Many Children Left Behind? Textbooks and Test Scores in Kenya	article-journal	American Economic Journal: Applied Economics	2009-01	both	Optional
+"[{:family=>""Miguel"", :given=>""Edward""}, {:family=>""Kremer"", :given=>""Michael""}]"	Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities	article-journal	Econometrica	2004-01	both	Optional
+"[{:family=>""Paxson"", :given=>""Christina""}]"	Using Weather Variability to Estimate the Response of Savings to Transitory Income in Thailand	article-journal	American Economic Review	1992-03	both	Optional
+"[{:family=>""Udry"", :given=>""Christopher""}]"	Credit Markets in Northern Nigeria: Credit as Insurance in a Rural Economy	article-journal	World Bank Economic Review	1990-09	both	Optional
+"[{:family=>""Banerjee"", :given=>""A.V.""}, {:family=>""Duflo"", :given=>""E.""}]"	What is Middle Class about the Middle Classes around the World?	article-journal	Journal of Economic Perspectives	2008	right_only	Optional
+"[{:family=>""Banerjee"", :given=>""A.V.""}, {:family=>""Duflo"", :given=>""E.""}]"	Aging and Death Under a Dollar a Day	article-journal	National Bureau of Economic Research Working Paper	2007-12	right_only	Optional
+"[{:family=>""Greif"", :given=>""A.""}]"	Cultural Beliefs and the Organization of Society: A Historical and Theoretical Reflection on Collectivist and Individualist Societies	article-journal	Journal of Political Economy	1994	right_only	Optional

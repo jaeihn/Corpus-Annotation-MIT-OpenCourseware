@@ -1,0 +1,71 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Hartmann"", :given=>""D.L.""}]"	Global Physical Climate			1994	both	Required
+"[{:family=>""Houghton"", :given=>""J.T.""}, {:others=>true}]"	Climate Change 1994: Radiative Forcing of Climate Change			1995	both	Optional
+"[{:family=>""Schlesinger"", :given=>""W.T.""}]"	Biogeochemistry - An Analysis of Global Change			1991	both	Optional
+"[{:family=>""Ruddiman"", :given=>""W.L.""}]"	Earth’s Climate Past and Future			2000	both	Optional
+"[{:family=>""Watson"", :given=>""R.""}]"	T.			2002	both	Optional
+"[{:family=>""Press"", :given=>""F.""}, {:family=>""Siever"", :given=>""R.""}]"	Earth			1982	both	Optional
+"[{:family=>""Imbrie"", :given=>""J.""}, {:family=>""Imbrie"", :given=>""K.P.""}]"	Ice Ages: Solving the Mystery			2005	both	Optional
+"[{:family=>""Wilson"", :given=>""R.C.L.""}, {:family=>""Drury"", :given=>""S.A.""}, {:family=>""Chapman"", :given=>""J.A.""}]"	The Great Ice Age: Climate Change and Life			1999	both	Optional
+"[{:family=>""Crowley"", :given=>""T.J.""}, {:family=>""North"", :given=>""G.R.""}]"	Paleoclimatology			1995	both	Optional
+"[{:family=>""Peixoto"", :given=>""J.P.""}, {:family=>""Oort"", :given=>""A.H.""}]"	Physics of Climate			1992	both	Optional
+"[{:family=>""Grove"", :given=>""J.M.""}]"	The Little Ice Age			1988	both	Optional
+"[{:family=>""Henderson-Sellers"", :given=>""A.""}, {:family=>""McGuffie"", :given=>""K.""}]"	A Climate Modelling Primer			2005	both	Optional
+"[{:family=>""Graedel"", :given=>""T.E.""}, {:family=>""Crutzen"", :given=>""P.""}]"	Atmospheric Change: An Earth System Perspective	book		1993	both	Optional
+"[{:family=>""Cronin"", :given=>""T.M.""}]"	Principles of Paleoclimatology	book		1999	both	Optional
+"[{:family=>""Kump"", :given=>""L.R.J.F.Kasting""}, {:family=>""Crane"", :given=>""R.G.""}]"	The Earth System			2003	both	Optional
+"[{:family=>""Bradley"", :given=>""R.S.Paleoclimatology""}]"	Reconstructing Climates of the Quaternary			1999	both	Optional
+"[{:family=>""Allegre"", :given=>""C.J.""}, {:family=>""Schneider"", :given=>""S.H.""}]"	The Evolution of the Earth	article-journal	Scientific American	1994-10	both	Required
+"[{:family=>""Kasting"", :given=>""J.F.""}]"	Earth’s Early Atmosphere	article-journal	Science	1993	both	Required
+"[{:family=>""Holland"", :given=>""H.D.""}]"	Evidence for Life on Earth more than 3850 Million Years Ago	article-journal	Science	1997	both	Required
+"[{:family=>""Owen"", :given=>""T.""}, {:family=>""Cess"", :given=>""R.D.""}, {:family=>""Ramanathan"", :given=>""V.""}]"	Enhanced CO2 Greenhouse to Compensate for Reduced Solar Luminosity on Early Earth	article-journal	Nature	1979	both	Required
+"[{:family=>""Walker"", :given=>""J.C.G.""}, {:family=>""Hays"", :given=>""P.B.""}, {:family=>""Kasting"", :given=>""J.F.""}]"	A Negative Feedback Mechanism for the Long-term Stabilization of Earth’s Surface Temperature	article-journal	J Geophys Res	1981	both	Required
+"[{:family=>""Catling"", :given=>""D.C.""}, {:family=>""Zahnle"", :given=>""K.J.""}, {:family=>""McKay"", :given=>""C.P.""}]"	Biogenic Methane	article-journal	Science	2001	both	Optional
+"[{:family=>""Holland"", :given=>""H.D.""}]"	When did the Earth’s Atmosphere become Oxic? A Reply	article-journal	Geochem News	1999-07	both	Optional
+"[{:family=>""Holland"", :given=>""H.D.""}, {:family=>""Lazar"", :given=>""B.""}, {:family=>""McCaffrey"", :given=>""M.""}]"	Evolution of the Atmosphere and Oceans	article-journal	Nature	1986	both	Optional
+"[{:family=>""Kasting"", :given=>""J.F.""}, {:family=>""Eggler"", :given=>""D.H.""}, {:family=>""Raeburn"", :given=>""S.P.""}]"	Mantle Redox Evolution and the Oxidation State of the Archean Atmosphere	article-journal	J Geol	1993	both	Optional
+"[{:family=>""Kump"", :given=>""L.R.""}, {:family=>""Holland"", :given=>""H.D.""}]"	Iron in Precambrian Rocks: Implications for the Global Oxygen Budget of the Ancient Earth	article-journal	Geochim Cosmochim Acta	1992	both	Optional
+"[{:family=>""Schopf"", :given=>""J.W.""}, {:family=>""Kudryavtsev"", :given=>""A.B.""}, {:family=>""Agresti"", :given=>""D.G.""}, {:family=>""Widowiak"", :given=>""T.J.""}, {:family=>""Czaja"", :given=>""A.D.""}]"	Laser-Raman Imagery of Earth’s Earliest Fossils	article-journal	Nature	2002	both	Optional
+"[{:family=>""Brasier"", :given=>""M.D.""}, {:family=>""Green"", :given=>""O.R.""}, {:family=>""Jephcoat"", :given=>""A.P.""}, {:family=>""Kleppe"", :given=>""A.K.""}, {:family=>""Kranendonk"", :given=>""M.J."", :particle=>""Van""}, {:family=>""Lindsay"", :given=>""J.F.""}, {:family=>""Steele"", :given=>""A.""}, {:family=>""Grassineau"", :given=>""N.V.""}]"	Questioning the Evidence for Earth’s Oldest Fossils	article-journal	Nature	2002	both	Optional
+"[{:family=>""Dalton"", :given=>""R.""}]"	Squaring up over Ancient Life	article-journal	Nature	2002	both	Optional
+"[{:family=>""Garcia-Ruiz"", :given=>""J.M.""}, {:family=>""Hyde"", :given=>""S.T.""}, {:family=>""Carnerup"", :given=>""A.M.""}, {:family=>""Christy"", :given=>""A.G.""}, {:family=>""Kranendonk"", :given=>""M.J."", :particle=>""Van""}, {:family=>""Welham"", :given=>""N.J.""}]"	Self-Assembled Silica-Carbonate Structures and Detection of Ancient Microfossils	article-journal	Science	2003	both	Optional
+"[{:family=>""Tice"", :given=>""M.M.""}, {:family=>""Lowe"", :given=>""D.R.""}]"	Photosynthetic Microbial Mats in the 3,416-Myr-old Ocean	article-journal	Nature	2004	both	Optional
+"[{:family=>""Cody"", :given=>""G.D.""}, {:family=>""Boctor"", :given=>""N.Z.""}, {:family=>""Filley"", :given=>""T.R.""}, {:family=>""Hazen"", :given=>""R.M.""}, {:family=>""Scott"", :given=>""J.H.""}, {:family=>""Sharma"", :given=>""A.""}, {:family=>""Yoder"", :given=>""H.S."", :suffix=>""Jr""}]"	Primordial Carbonylated Iron-sulfur Compounds and the Synthesis of Pyruvate	article-journal	Science	2000	both	Optional
+"[{:family=>""Shen"", :given=>""Y.""}, {:family=>""Canfield"", :given=>""D.E.""}]"	Isotopic Evidence for Microbial Sulphate Reduction in the Early Archaean Era	article-journal	Nature	2001	both	Optional
+"[{:family=>""Wächtershäuser"", :given=>""G.""}]"	Life as We Don’t Know it	article-journal	Science	2000	both	Optional
+	Hoffman and Schrag	article-journal	Terra Nova	2002	both	Required
+"[{:family=>""Christie-Blick"", :given=>""N.""}]"	Pre-Pleistocene Glaciation on Earth: Implications for Climatic History of Mars	article-journal	Icarus	1982	both	Optional
+"[{:family=>""Crowell"", :given=>""J.""}]"	Gondwana Glaciation	article-journal	Am J Sci	1978	both	Optional
+"[{:family=>""Edmond"", :given=>""J.M.""}, {:family=>""Palmer"", :given=>""M.R.""}, {:family=>""Measures"", :given=>""C.I.""}, {:family=>""Grant"", :given=>""B.""}, {:family=>""Stallard"", :given=>""R.F.""}]"	The Fluvial Geochemistry and Denudation of the Guyana Shield in Venezuela	article-journal	Geochimica et Cosmochimica Acta	1995	both	Optional
+"[{:family=>""Evans"", :given=>""D.""}, {:family=>""Beukes"", :given=>""N.""}, {:family=>""Kirschvink"", :given=>""J.""}]"	Low-latitude Glaciation in the Palaeoproterozoic Era	article-journal	Nature	1997	both	Optional
+"[{:family=>""Frakes"", :given=>""L.""}]"	Climates Throughout Geologic Time			1979	both	Optional
+"[{:family=>""Frakes"", :given=>""L.A.""}, {:family=>""Francis"", :given=>""J.E.""}, {:family=>""Syktus"", :given=>""J.I.""}]"	Climate Modes of the Phanerozoic			1992	both	Optional
+"[{:family=>""Hambray"", :given=>""M.""}, {:family=>""Harland"", :given=>""W.""}]"	Earth’s Pre-Pleistocene Glacial Record			1981	both	Optional
+"[{:family=>""Hoffman"", :given=>""P.F.""}, {:family=>""Schrag"", :given=>""D.P.""}]"	Snowball Earth	article-journal	Sci Am	2000-01	both	Optional
+"[{:family=>""Hoffman"", :given=>""P.F.""}, {:family=>""Kaufman"", :given=>""A.J.""}, {:family=>""Halverson"", :given=>""G.P.""}, {:family=>""Schrag"", :given=>""D.P.""}]"	A Neoproterozoic Snowball Earth	article-journal	Science	1988	both	Optional
+"[{:family=>""Meert"", :given=>""J.""}, {:family=>""Voo"", :given=>""R."", :particle=>""van der""}]"	The Neoproterozoic (1000-540 Ma) Glacial Intervals: No More Snowball Earth?	article-journal	Earth Planet Sci Lett	1994	both	Optional
+"[{:family=>""Veizer"", :given=>""J.""}, {:family=>""Godderis"", :given=>""Y.""}, {:family=>""Francois"", :given=>""L.M.""}]"	Evidence for Decoupling of Atmospheric CO2 and Global Climate during the Phanerozoic Eon	article-journal	Nature	2000	both	Required
+"[{:family=>""Kump"", :given=>""L.R.""}]"	What Drives Climate?	article-journal	Nature	2000	both	Required
+"[{:family=>""Rothman"", :given=>""D.H.""}]"	Atmospheric Carbon Dioxide Levels for the Last 500 million Years	article-journal	Proceedings of the National Academy of Sciences 99	2002	both	Required
+"[{:family=>""Berner"", :given=>""R.A.""}]"	The Rise of Plants and their Effect on Weathering and Atmospheric CO2	article-journal	Science	1997	both	Required
+"[{:family=>""Royer"", :given=>""D.L.""}, {:family=>""Bemer"", :given=>""R.A.""}, {:family=>""Beerling"", :given=>""D.J.""}]"	Phanerozoic Atmospheric CO2 Change: Evaluating Geochemical and Paleobiological Approaches	article-journal	Earth-Science Reviews	2001	both	Required
+"[{:family=>""Crowley"", :given=>""T.J.""}]"	Carbon Dioxide and Phanerozoic Climate	chapter	Warm Climates in Earth History	2000	both	Required
+"[{:family=>""Retallack"", :given=>""G.J.""}]"	A 300-million-year Record of Atmospheric Carbon Dioxide from Fossil Plant Cuticles	article-journal	Nature	2001	both	Optional
+"[{:family=>""Royer"", :given=>""D.L.""}, {:family=>""Wing"", :given=>""S.L.""}, {:family=>""Beerling"", :given=>""D.J.""}, {:family=>""Jolley"", :given=>""D.W.""}, {:family=>""Koch"", :given=>""P.L.""}, {:family=>""Hickey"", :given=>""L.J.""}, {:family=>""Berner"", :given=>""R.A.""}]"	Paleobotanical Evidence for Near Present-day Levels of Atmospheric CO2 during Part of the Tertiary	article-journal	Science	2001	both	Optional
+"[{:family=>""Tarner"", :given=>""L.H.""}, {:family=>""Hubert"", :given=>""J.F.""}, {:family=>""Coffey"", :given=>""B.P.""}, {:family=>""McInerney"", :given=>""D.P.""}]"	Stability of Atmospheric CO2 Levels Across the Triassic/Jurassic Boundary	article-journal	Nature	2001	both	Optional
+"[{:family=>""Pagani"", :given=>""M.""}, {:family=>""Arthur"", :given=>""M.A.""}, {:family=>""Freeman"", :given=>""K.H.""}]"	Miocene Evolution of Atmospheric Carbon Dioxide	article-journal	Paleoceanography	1999	both	Optional
+"[{:family=>""Berner"", :given=>""R.A.""}]"	Atmospheric Carbon Dioxide Levels over Phanerozoic Time	article-journal	Science	1990	both	Optional
+"[{:family=>""Freeman"", :given=>""K.H.""}, {:family=>""Hayes"", :given=>""J.M.""}]"	Fractionation of Carbon Isotopes by Ancient Phytoplankton and Estimates of Ancient CO2 Levels	article-journal	Glob Biogeochem Cycles	1992	both	Optional
+"[{:family=>""Hayes"", :given=>""J.M.""}, {:family=>""Strauss"", :given=>""H.""}, {:family=>""Kaufman"", :given=>""A.J.""}]"	The Abundance of 13 C in Marine Organic Matter and Isotopic Fractionation in the Global Biogeochemical Cycle of Carbon during the Past 800 Ma	article-journal	Chem Geol	1999	both	Optional
+"[{:family=>""Popp"", :given=>""B.N.""}, {:family=>""Takigiku"", :given=>""R.""}, {:family=>""Hayes"", :given=>""J.M.""}, {:family=>""Louda"", :given=>""J.W.""}, {:family=>""Baker"", :given=>""E.W.""}]"	The Post-Paleozoic Chronology and Mechanisms of 13C Depletion in Primary Marine Organic Matter	article-journal	Am J Sci	1989	both	Optional
+"[{:family=>""Raymo"", :given=>""M.E.""}, {:family=>""Ruddiman"", :given=>""W.F.""}]"	Tectonic Forcing of Late Cenozoic Climate	article-journal	Nature	1992	both	Required
+"[{:family=>""Edmond"", :given=>""J.M.""}]"	Himalayan Tectonics	article-journal	Science	1992	both	Required
+"[{:family=>""McCauley"", :given=>""S.""}, {:family=>""DePaolo"", :given=>""D.""}]"	The Marine 87Sr/86Sr and δ18O Records	chapter	Tectonic Uplift and Climate Change	1997	both	Optional
+"[{:family=>""Richter"", :given=>""F.M.""}, {:family=>""Rowley"", :given=>""D.B.""}, {:family=>""DePaolo"", :given=>""D.J.""}]"	Sr Isotope Evolution of Seawater: the Role of Tectonics	article-journal	Earth Planet Sci Lett	1992	both	Optional
+"[{:family=>""Shackleton"", :given=>""N.J.""}]"	The Carbon Isotope Record of the Ceozoic: History of Organic Carbon Burial and of Oxygen in the Ocean and Atmosphere	chapter	Marine Petroleum Source Rocks	1987	both	Optional
+"[{:family=>""Sarmiento"", :given=>""Jorge L.""}, {:family=>""Gruber"", :given=>""Nicolas""}]"	Sinks for Anthropogenic Carbon				both	Optional
+"[{:family=>""Asher"", :given=>""William""}, {:family=>""Wanninkhof"", :given=>""Rik""}]"	Transient Tracers and Air-Sea Gas Transfer	article-journal	J Geophys Res	1998	both	Optional
+"[{:family=>""Sigman"", :given=>""Daniel""}, {:family=>""Boyle"", :given=>""Edward""}]"	Glacial/interglacial Variations in Atmospheric Carbon Dioxide	article-journal	Nature	2000	both	Optional
+"[{:family=>""Boyd"", :given=>""Philip W.""}]"	Ranking Geo-engineering Schemes	article-journal	Nature Geoscience	2008	both	Optional
+"[{:family=>""Zuilen"", :given=>""M.A."", :particle=>""van""}, {:family=>""Lepland"", :given=>""A.""}, {:family=>""Arrhenius"", :given=>""G.""}]"	Reassessing the Evidence for the Earliest Traces of Life	article-journal	Nature	2002	right_only	Required
+"[{:family=>""Berner"", :given=>""R.A.""}]"	Paleo-CO2 and Climate	article-journal	Nature	1992	right_only	Optional

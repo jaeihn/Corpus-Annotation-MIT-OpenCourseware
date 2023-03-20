@@ -32,7 +32,7 @@ Required	[{:family=>"Angrist", :given=>"Joshua"}, {:family=>"Bettinger", :given=
 Required	[{:family=>"Angrist", :given=>"Joshua"}, {:family=>"Lang", :given=>"Daniel"}, {:family=>"Oreopoulos", :given=>"Philip"}]	["Incentives and Services for College Achievement: Evidence from a Randomized Trial"]	article-journal	["American Economic Journal: Applied Economics"]	["2009-01"]
 Required	[{:family=>"Card", :given=>"David"}]	["The Causal Effect of Education on Earnings.” Chapter 30 in The Handbook of Labor Economics"]			["1999"]
 Required	[{:family=>"Card", :given=>"David"}, {:family=>"Krueger", :given=>"Alan"}]	["Does School Quality Matter? Returns to Education and the Characteristics of Public Schools in the United States"]	article-journal	["Journal of Political Economy"]	["1992-02"]
-Required	[{:literal=>"———."}]	["School Quality and Black-White Relative Earnings: A Direct Assessment"]	article-journal	["Quarterly Journal of Economics"]	["1992-02"]
+Required	[{:family=>"Card", :given=>"David"}, {:family=>"Krueger", :given=>"Alan"}]	["School Quality and Black-White Relative Earnings: A Direct Assessment"]	article-journal	["Quarterly Journal of Economics"]	["1992-02"]
 Required	[{:family=>"Welch", :given=>"Finis"}]	["Black-White Differences in Returns to Schooling"]	article-journal	["American Economic Review"]	["1973-12"]
 Required	[{:family=>"Krueger", :given=>"Alan"}]	["Experimental Estimates of the Education Production Functions"]	article-journal	["Quarterly Journal of Economics"]	["1999-05"]
 Required	[{:family=>"Angrist", :given=>"Joshua"}, {:family=>"Lavy", :given=>"Victor"}]	["New Evidence on Classroom Computers and Pupil Learning"]	article-journal	["Economic Journal"]	["2002-10"]

@@ -1,0 +1,270 @@
+@import url("https://fonts.googleapis.com/css2?family=Catamaran:wght@400;700&display=swap");
+
+
+
+/* start_of_hero_program_intro_page */
+:root {
+  --primary-color: #041434;
+  --secondary-color: #f55b5c;
+  --ternary-color: #ffffff;
+  --light-color: #ffffff;
+  --overlay-color: rgb(4,20,52);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  line-height: 1.6;
+  color: var(--primary-color);
+  font-size: 1.2rem;
+  font-weight: bold;
+  background-color: #041434;
+}
+
+.light {
+  color: var(--ternary-color);
+}
+
+.coral {
+  color: var(--secondary-color);
+}
+
+.question {
+  line-height: 1.5;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: 1000;
+  line-height: 1;
+  color: var(--secondary-color);
+}
+
+h2,
+h3{
+	font-size: 15px; 	
+}
+h4 {
+  line-height: 1
+}
+
+a {
+  color: var(--secondary-color);
+  text-decoration: none;
+}
+
+li a {
+  color: var(--ternary-color);
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  border-radius: 10%
+}
+
+
+#rcorners {
+  border-radius: 25px;
+  border: 5px solid var(--secondary-color);
+  padding: 20px;
+	hover: 
+}
+
+
+
+.container {
+  max-width: 800;
+  margin: auto;
+  overflow: hidden;
+  padding: 1 1rem;
+}
+
+.image-container:hover .image {
+	opacity: 0.3;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+
+
+.image-container:hover .middle {
+	opacity: 1;
+}
+
+.my-image-container {
+  text-align: right;
+  margin-right: 5px;
+}
+
+/* showcase section */
+
+.section-showcase {
+  margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+.section-showcase .container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+  padding-bottom: 50px;
+padding-left: 50px;
+}
+
+.section-showcase h1 {
+  font-size: 4rem;
+  color: var(--secondary-color);
+}
+
+.section-showcase h3 {
+  font-size: 2rem;
+  color: var(--secondary-color);
+}
+
+.section-showcase p {
+  margin: 1rem 3;
+}
+
+.section-showcase img {
+  display: block;
+  margin: auto;
+}
+
+.btn {
+  display: inline-block;
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
+  padding: 1rem 2rem;
+  border: none;
+  cursor: pointer;
+  font-size: 1.1rem;
+  border-radius: 30px;
+}
+
+.btn:hover {
+  background-color: var(--ternary-color);
+}
+
+/* large text section */
+
+
+.section-large-text {
+  background-color: var(--light-color);
+  color: var(--primary-color);
+
+}
+
+.section-large-text-inner {
+  color: var(--primary-color);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: auto;
+  max-width: 800px;
+  padding: 5rem 0;
+}
+
+.section-large-text-inner h2 {
+  font-size: 5rem;
+  margin-top: 1rem;
+}
+
+.section-large-text-inner h3 {
+  font-size: 30px;
+}
+
+.section-large-text-inner p {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+
+.section-large-text-inner img{
+  width: 100%;
+  display: block;
+}
+
+
+
+
+
+/* navbar */
+
+
+
+.navbar {
+  font-size: 1.2rem;
+	background-color: var(--primary-color);
+	position:fixed;
+	top: 0;
+  	padding: 2rem 0.5rem;
+	padding-left: 40px;
+	width: 100%;
+	
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 11px;
+  text-decoration: none;
+}
+
+
+.navbar .container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+
+
+.navbar ul {
+  display: flex;
+  justify-self: flex-end;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar a {
+  padding: 0 1rem;
+}
+
+.navbar a:hover {
+  color: var(--ternary-color);
+}
+
+
+.navbar ul li a.active-page
+{
+	color: var(--ternary-color);
+}
+
+
+/* end_of_hero_program_intro_page */

@@ -1,0 +1,58 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Lorenz"", :given=>""E.N.""}]"	The Nature and Theory of the General Circulation of the Atmosphere	book		1967	both	Required
+"[{:family=>""Peixoto"", :given=>""J.P.""}, {:family=>""Oort"", :given=>""A.H.""}]"	Physics of Climate			1992	both	Required
+"[{:family=>""Oort"", :given=>""A.H.""}]"	Adequacy of the rawinsonde network for global circulation studies tested through numerical model output	article-journal	Mon Wea Rev	1978	both	Optional
+"[{:family=>""Bengtsson"", :given=>""L.""}, {:others=>true}]"	FGGE 4-dimensional data assimilation at ECMWF	article-journal	Bull Amer Meteor Soc	1982	both	Optional
+"[{:given=>""Rosen""}, {:others=>true}]"	Circulation statistics derived from level lll-b and station-based analyses during FGGE	article-journal	Mon Wea Rev	1985	both	Optional
+"[{:family=>""Kalnay"", :given=>""E.""}, {:others=>true}]"	The NCEP/NCAR 40-year re-analysis project	article-journal	Bull Amer Meteor Soc	1996	both	Optional
+"[{:family=>""Rabier"", :given=>""F.""}, {:others=>true}]"	The ECMWF operational implementation of four-dimensional variational assimilation	chapter	Q J Roy Meteor Soc 126		both	Optional
+"[{:family=>""Trenberth"", :given=>""K.""}, {:others=>true}]"	The atmospheric energy budget and implications for surface fluxes and ocean heat transports	article-journal	Climate Dyn	2001	both	Optional
+"[{:given=>""Starr""}, {:others=>true}]"	Momentum and zonal kinetic energy balance of the atmosphere from five years of hemisphere data	article-journal	Tellus	1970	both	Optional
+"[{:given=>""Starr""}, {:given=>""Gaut""}]"	Symmetrical formulation of the zonal kinetic energy equation	article-journal	Tellus	1969	both	Optional
+"[{:given=>""Newton""}]"	Mountain torques in the global angular momentum balance	article-journal	J Atmos Sci		both	Optional
+	Global angular momentum balance: earth torque and atmospheric fluxes	article-journal	J Atmos Sci		left_only	Optional
+"[{:family=>""Newton"", :given=>""C.W.""}]"	Southern hemisphere general circulation in relation to global energy and momentum balance requirements	article-journal	Meteorology of the Southern Hemisphere. Meteorol Monogr 13	1971	both	Optional
+"[{:given=>""Rosen""}, {:others=>true}]"	Variability in the annual fields of large-scale atmospheric water transport	article-journal	Mon Wea Rev	1979	both	Optional
+"[{:family=>""Oort"", :given=>""A.H.""}, {:family=>""Peixoto"", :given=>""J.P.""}]"	Global angular momentum and energy balance requirements from observations	article-journal	Adv Geophys	1983	both	Optional
+"[{:given=>""Huang""}, {:others=>true}]"	The balance of global angular momentum in a long-term atmospheric data set	article-journal	J Geophys Res	1999	both	Optional
+"[{:given=>""Peixoto""}]"	Pole-to-pole water balance for the IGY from aerological data	article-journal	Nordic Hydrology	1972	both	Optional
+"[{:given=>""Peixoto""}, {:given=>""Oort""}]"	The atmospheric branch of the hydrological cycle and climate	chapter	Variations in the Global Water Budget	1983	both	Optional
+"[{:family=>""Adler"", :given=>""Robert F.""}, {:others=>true}]"	The Version-2 Global Precipitation Climatology Project (GPCP) Monthly Precipitation Analysis (1979-Present	article-journal	Journal of Hydrometeorology	2003	both	Optional
+"[{:family=>""Andersson"", :given=>""Erik""}, {:others=>true}]"	Assimilation and modeling of the atmospheric hydrological cycle in the ECMWF forecasting system	article-journal	Bulletin of the AMS	2004	both	Optional
+"[{:family=>""Haar"", :given=>""Vonder""}, {:given=>""Suomi""}]"	Measurements of the Earth’s radiation budget from satellites during a 5-year period	article-journal	J Atmos Sci	1971	both	Optional
+"[{:given=>""Oort""}]"	The observed annual cycle in the meridional transport of atmospheric energy	article-journal	J Atmos Sci	1971	both	Optional
+"[{:family=>""Oort"", :given=>""A.H.""}, {:family=>""Rasmusson"", :given=>""E.M.""}]"	Atmospheric circulation statistics	chapter	NOAA Prof Pap 5		both	Optional
+"[{:given=>""Kondratyev""}]"	Radiation Processes in the Atmosphere	article-journal	W.M.O	1972	both	Optional
+"[{:given=>""Hantel""}]"	On the vertical eddy transports in the northern atmosphere	article-journal	J Geophys Res	1976	both	Optional
+"[{:given=>""Stephens""}, {:others=>true}]"	Earth Radiation Budgets	article-journal	J Geophys Res	1981	both	Optional
+"[{:family=>""Fullmer"", :given=>""J.W.A.""}]"	Calculations of the quasi-geostrophic potential vorticity gradient from climatological data	article-journal	J Atmos Sci	1982	both	Optional
+"[{:family=>""Carissimo"", :given=>""Oort""}, {:family=>""Haar"", :given=>""Vonder""}]"	Estimating the Meridional Energy Transports in the Atmosphere and Ocean	article-journal	J Phys Ocean	1985	both	Optional
+"[{:given=>""Ramanathan""}, {:others=>true}]"	Cloud-radiative forcing and climate: results from the Earth Radiation Budget Experiment	article-journal	Science	1989	both	Optional
+"[{:given=>""Ardanuy""}, {:others=>true}]"	Global relationships among the earth’s radiation budget	article-journal	J Climate	1992	both	Optional
+"[{:given=>""Stone""}, {:given=>""Nemet""}]"	Baroclinic adjustment: a comparison between theory	article-journal	J Atmos Sci	1996	both	Optional
+"[{:family=>""Macdonald"", :given=>""A.M.""}, {:family=>""Wunsch"", :given=>""C.""}]"	An estimate of global ocean circulation and heat fluxes	article-journal	Nature	1996	both	Optional
+"[{:family=>""Jiang"", :given=>""S.""}, {:family=>""Stone"", :given=>""P.H.""}, {:family=>""Malanotte-Rizzoli"", :given=>""P.""}]"	An assessment of the Geophysical Fluid Dynamics Laboratory ocean model with coarse resolution: Annual-mean climatology	article-journal	J Geophys Res	1999	both	Optional
+"[{:family=>""Trenberth"", :given=>""K.E.""}, {:family=>""Caron"", :given=>""J.M.""}]"	Estimates of meridional atmosphere and ocean heat transports	article-journal	J Climate	2001	both	Optional
+"[{:given=>""Wiin-Nelson""}]"	On the annual variation and spectral distribution of atmospheric energy	article-journal	Tellus	1967	both	Optional
+"[{:given=>""Saltzman""}]"	Large-scale atmospheric energetics in the wave-number domain	article-journal	Rev Geophys Sp Phys	1970	both	Optional
+"[{:given=>""Julian""}, {:others=>true}]"	On the spectral distribution of large-scale atmospheric kinetic energy	article-journal	J Atmos Sci	1970	both	Optional
+"[{:given=>""Holopainen""}]"	An observational study of the energy balance of the stationary disturbances in the atmosphere	article-journal	Quart J Roy Meteor Soc	1970	both	Optional
+"[{:family=>""Solomon"", :given=>""A.""}]"	An observational study of the spatial and temporal scales of transient eddy sensible heat fluxes	article-journal	J Climate	1997	both	Optional
+"[{:given=>""Eliassen""}, {:given=>""Palm""}]"	On the transfer of energy in stationary mountain waves	article-journal	Geofys Publ	1961	both	Optional
+"[{:given=>""Charney""}, {:given=>""Drazin""}]"	Propagation of planetary scale disturbances from the lower into the upper atmosphere	article-journal	J Geophys Res	1961	both	Optional
+"[{:given=>""Vernekar""}]"	On mean meridional circulations in the atmosphere	article-journal	Mon Wea Rev	1967	both	Optional
+"[{:given=>""Andrews""}, {:given=>""McIntyre""}]"	Planetary waves in horizontal and vertical shear: the generalized Eliassen-Palm cross sections for the troposphere	article-journal	J Atmos Sci	1976	both	Optional
+"[{:given=>""Edmon""}, {:others=>true}]"	Eliassen-Palm cross sections for the troposphere	article-journal	J Atmos Sci	1980	both	Optional
+"[{:given=>""Stone""}, {:given=>""Salustri""}]"	Generalization of the quasi-geostrophic Eliassen-Palm flux to include eddy forcing of condensation heating	article-journal	J Atmos Sci	1984	both	Optional
+"[{:given=>""Lorenz""}]"	Available potential energy and maintenance of the general circulation	article-journal	Tellus	1955	both	Optional
+"[{:given=>""Peixoto""}, {:given=>""Oort""}]"	The annual distribution of atmospheric energy on a planetary scale	article-journal	J Geophys Res	1974	both	Optional
+"[{:given=>""Oort""}, {:given=>""Peixoto""}]"	The annual cycle of the energetics of the atmosphere on a planetary scale	article-journal	J Geophys Res	1974	both	Optional
+"[{:given=>""Wiin-Nielsen""}, {:given=>""Chen""}]"	Fundamentals of Atmospheric Energetics			1993	both	Optional
+"[{:family=>""Somerville"", :given=>""R.C.J.""}, {:others=>true}]"	The GISS Model of the Global Atmosphere	article-journal	J Atmos Sci	1974	both	Optional
+"[{:given=>""Phillips""}]"	The general circulation of the atmosphere: A numerical experiment	article-journal	Quart J Roy Meteor Soc	1956	both	Optional
+"[{:family=>""Cess"", :given=>""R.""}, {:family=>""Potter"", :given=>""G.""}, {:others=>true}]"	Interpretation of cloud-climate feedback as produced by 14 atmospheric general circulation models	article-journal	Science	1989	both	Optional
+	Climate Change 2001: The Scientific Basis				both	Optional
+"[{:family=>""Boville"", :given=>""B.""}, {:family=>""Gent"", :given=>""P.""}]"	The NCAR Climate System Model	article-journal	J Climate	1998	both	Optional
+"[{:family=>""Solomon"", :given=>""A.""}, {:family=>""Stone"", :given=>""P.H.""}]"	Equilibration in an eddy-resolving model with simplified physics	article-journal	J Atmos Sci	2001	both	Optional
+"[{:family=>""Gleckler"", :given=>""P.""}]"	Surface energy balance errors in AGCMs: Implications for ocean-atmosphere model coupling	article-journal	Geophys Res Lett	2005	both	Optional
+"[{:given=>""Newton""}]"	Global angular momentum balance: earth torque and atmospheric fluxes	article-journal	J Atmos Sci		right_only	Optional

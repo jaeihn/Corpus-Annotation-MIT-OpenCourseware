@@ -1,0 +1,21 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Sussman"", :given=>""Joseph""}]"	Introduction to Transportation Systems			2000	both	Required
+"[{:family=>""Committee"", :given=>""T.R.B.Executive""}]"	Critical Issues in Transportation 2005				both	Optional
+"[{:family=>""Transportation"", :given=>""United States Department"", :particle=>""of""}]"	The Secretary’s Vision	chapter	Department of Transportation Strategic Plan 2003-2008		both	Optional
+"[{:family=>""Board"", :given=>""Federal Transportation Advisory""}]"	Vision 2050: An Integrated National Transportation System				both	Optional
+"[{:family=>""Sussman"", :given=>""Joseph M.""}]"	Educating the New Transportation Professional	article-journal	ITS Quarterly	1995	both	Optional
+"[{:family=>""Pisarski"", :given=>""Alan E.""}]"	Prescriptions for Research: Reviewing the History of TRB’s Critical Issues in Transportation	article-journal	TR News	2003-05	both	Optional
+"[{:family=>""Board"", :given=>""Transportation Research""}]"	The Interstate Achievement: Getting There and Beyond	article-journal	TR News	2006-05	both	Optional
+"[{:family=>""Manheim"", :given=>""Marvin L.""}]"	Challenge of Transportation Systems Analysis	chapter	Fundamentals of Transportation Systems Analysis	1979	both	Optional
+"[{:family=>""Gomez-Ibañez"", :given=>""Jose A.""}, {:family=>""Tye"", :given=>""William B.""}, {:family=>""Winston"", :given=>""Clifford""}]"	Demand	chapter	Essays in Transportation Economics and Policy	1999	both	Optional
+"[{:family=>""Shrock"", :given=>""David L.""}]"	The Functional Approach to Motor Carrier Costing: Applications and Limitations	paper-conference	Proceedings	1986	both	Optional
+"[{:family=>""Martland"", :given=>""Carl""}]"	Allocating the Costs of Railroad Infrastructure to Specific Traffic Classes	paper-conference	Proceedings of Workshop on Integrated Transportation and Economic Modeling (ITEM	2001	both	Optional
+"[{:family=>""Martland"", :given=>""Carl""}]"	Performance-Based Technology Scanning Applied to Containerizable Freight Traffic	article-journal	Journal of the Transportation Research Forum	2003	both	Optional
+"[{:family=>""Guo"", :given=>""Zhan""}, {:family=>""Wilson"", :given=>""Nigel H.M.""}]"	Assessment of the Transfer Penalty for Transit Trips: A GIS-based Disaggregate Modeling Approach	article-journal	Transportation Research Record	2004	both	Optional
+"[{:family=>""Pucher"", :given=>""John""}, {:family=>""Lefevre"", :given=>""Christian""}]"	The Urban Transport Crisis in Europe and North America			1996	both	Optional
+"[{:family=>""Furth"", :given=>""P.G.""}, {:family=>""Wilson"", :given=>""N.""}]"	Setting Frequencies on Bus Routes: Theory and Practice	article-journal	Transportation Research Record	1981	both	Optional
+"[{:family=>""Kumar"", :given=>""Vimal""}, {:family=>""Martland"", :given=>""Carl D.""}]"	Assessment of Current Project Evaluation Techniques	chapter	Working Paper PE-1	2003-09	both	Optional
+"[{:family=>""Program"", :given=>""National Cooperative Highway Research""}]"	Emerging Models for Delivering Transportation Programs and Services	article-journal	Research Results Digest	1999-03	both	Optional
+"[{:family=>""Molina"", :given=>""Luisa""}]"	Air Quality in the Mexico Megacity: An Integrated Assessment			2002	both	Optional
+"[{:family=>""Board"", :given=>""Transportation Research""}]"	New York City’s Subway Century	article-journal	TR News	2006-01	both	Optional
+"[{:family=>""Coughlin"", :given=>""Joseph F.""}, {:family=>""Reimer"", :given=>""Bryan""}]"	New Demands from an Older Population: An Integrated Approach to Defining the Future of Older Driver Safety	paper-conference	Proceedings of the SAE Convergence Conference	2006	both	Optional

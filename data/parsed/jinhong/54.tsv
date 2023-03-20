@@ -1,5 +1,4 @@
-Required	[{:family=>"Fischer", :given=>"Hugo B."}, {:family=>"List", :given=>"John E."}, {:family=>"Koh", :given=>"C.Robert"}, {:family=>"Imberger", :given=>"Jorg"}, {:family=>"Brooks", :given=>"Norman H."}]	["Mixing in Inland and Coastal Waters"]			["1979"]
-Optional	[{:family=>"ischer", :given=>"Hugo B."}, {:family=>"List", :given=>"John E."}, {:family=>"Koh", :given=>"C.Robert"}, {:family=>"Imberger", :given=>"Jorg"}, {:family=>"Brooks", :given=>"Norman H."}]	["Mixing in Inland and Coastal Waters"]			["1979"]
+Optional	[{:family=>"Fischer", :given=>"Hugo B."}, {:family=>"List", :given=>"John E."}, {:family=>"Koh", :given=>"C.Robert"}, {:family=>"Imberger", :given=>"Jorg"}, {:family=>"Brooks", :given=>"Norman H."}]	["Mixing in Inland and Coastal Waters"]			["1979"]
 Optional	[{:family=>"Chapra", :given=>"Steven C."}]	["Surface Water Quality Modeling"]			["1996"]
 Optional	[{:family=>"Clark", :given=>"Mark M."}]	["Transport Modeling for Environmental Engineers and Scientists"]			["1996"]
 Optional	[{:family=>"DiToro", :given=>"Dominic M."}]	["Sediment Flux Modeling"]			["2000"]

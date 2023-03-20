@@ -1,0 +1,22 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Krugman"", :given=>""Paul""}, {:family=>""Obstfeld"", :given=>""Maurice""}, {:family=>""Melitz"", :given=>""Marc""}]"	International Economics: Theory and Policy			2011	both	Required
+"[{:family=>""Krugman"", :given=>""Paul""}]"	Pop Internationalism			1997	both	Required
+"[{:family=>""Irwin"", :given=>""Douglas""}]"	Free Trade Under Fire			2015	both	Required
+"[{:family=>""Deardorff"", :given=>""Alan""}, {:family=>""Stern"", :given=>""Robert""}]"	What the Public Should Know About Globalization and the World Trade Organization	article-journal	Research Seminar in International Economics	2000-07	both	Required
+"[{:family=>""Irwin"", :given=>""Douglas""}]"	The United States in a New Global Economy? A Century’s Perspective	article-journal	The American Economic Review	1996	both	Required
+"[{:family=>""Deardorff"", :given=>""Alan""}]"	Benefits and Costs of Following Comparative Advantage	article-journal	University of Michigan	1998	both	Required
+"[{:family=>""Bastiat"", :given=>""Frédéric""}]"	Petition of the Candle Makers				both	Required
+"[{:family=>""Verlag"", :given=>""Economic Sophisms Jazzybee""}]"				2016	left_only	Required
+"[{:family=>""Freeman"", :given=>""Richard""}]"	Are Your Wages Set in Beijing?	article-journal	The Journal of Economic Perspectives	1995	both	Required
+"[{:family=>""Rodrik"", :given=>""Dani""}]"	Has Globalization Gone Too Far			1997	both	Required
+"[{:family=>""Feenstra"", :given=>""Robert C.""}]"	How Costly is Protectionism?	article-journal	The Journal of Economic Perspectives	1992	both	Required
+"[{:family=>""Baldwin"", :given=>""Robert E.""}]"	The Political Economy of Trade Policy	article-journal	The Journal of Economic Perspectives	1989	both	Required
+"[{:family=>""Krugman"", :given=>""Paul R.""}]"	Is Free Trade Passé?	article-journal	The Journal of Economic Perspectives	1987	both	Required
+"[{:family=>""Borjas"", :given=>""George""}, {:family=>""Freeman"", :given=>""Richard""}, {:others=>true}]"	Searching for the Effect of Immigration on the Labor Market	article-journal	The American Economic Review	1996	both	Required
+"[{:family=>""Markusen"", :given=>""James R.""}]"	The Boundaries of Multinational Enterprises and the Theory of International Trade	article-journal	The Journal of Economic Perspectives	1995	both	Required
+"[{:family=>""Feenstra"", :given=>""Robert C.""}]"	Integration of Trade and Disintegration of Production in the Global Economy	article-journal	Journal of Economic Perspectives	1998	both	Required
+"[{:family=>""Krugman"", :given=>""Paul R.""}]"	A Raspberry for Free Trade	article-journal	Slate	1997-11	both	Required
+"[{:family=>""Kristof"", :given=>""Nicholas D.""}, {:family=>""Wudunn"", :given=>""Sheryl""}]"	Two Cheers for Sweatshops	article-journal	The New York Times Magazine	2000-09	both	Required
+"[{:family=>""Brown"", :given=>""Drusilla""}, {:family=>""Deardorff"", :given=>""Alan""}, {:family=>""Stern"", :given=>""Robert""}]"	Issues of Environmental and Labor Standards in the Global Trading System	chapter	Globalization	2012	both	Required
+"[{:family=>""Deardorff"", :given=>""Alan""}]"	In Praise of Cheap Labor	article-journal	Slate	1997-03	right_only	Required
+"[{:family=>""Bastiat"", :given=>""Frédéric""}]"	Economic Sophisms			2016	right_only	Required

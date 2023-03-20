@@ -1,0 +1,10 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Larsen"", :given=>""R.""}, {:family=>""Marx"", :given=>""M.""}]"	Introduction to Mathematical Statistics and Its Applications			2005	both	Required
+"[{:family=>""DeGroot"", :given=>""M.""}, {:family=>""Schervish"", :given=>""M.""}]"	Probability and Statistics			2001	both	Optional
+"[{:family=>""Lindgren"", :given=>""B.""}]"	Statistical Theory			1993	both	Optional
+"[{:family=>""Ekeland"", :given=>""I.""}]"	The Broken Dice and Other Mathematical Tales of Chance			1996	both	Optional
+"[{:family=>""Huff"", :given=>""D.""}, {:family=>""Geis"", :given=>""I.""}]"	How to Lie With Statistics			1993	both	Optional
+	Statistics on the Table: The History of Statistical Concepts and Methods			2002	left_only	Optional
+"[{:family=>""Taleb"", :given=>""N.""}]"	Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets			2008	both	Optional
+"[{:family=>""Stigler"", :given=>""S.""}]"	The History of Statistics: The Measurement of Uncertainty before 1900			1990	right_only	Optional
+"[{:family=>""Stigler"", :given=>""S.""}]"	Statistics on the Table: The History of Statistical Concepts and Methods			2002	right_only	Optional

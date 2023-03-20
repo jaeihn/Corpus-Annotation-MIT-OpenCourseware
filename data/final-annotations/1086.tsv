@@ -1,0 +1,63 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Shepsle"", :given=>""Kenneth A.""}]"	Analyzing Politics: Rationality			2010	both	Required
+"[{:family=>""Banerjee"", :given=>""Abhijit V.""}, {:family=>""Duflo"", :given=>""Esther""}]"	Poor Economics: Rethinking Poverty and the Ways to End it			2013	both	Optional
+"[{:family=>""Easterly"", :given=>""William""}]"	The Elusive Quest for Growth: Economists’ Adventures and Misadventures in the Tropics			2002	both	Optional
+"[{:family=>""Klitgaard"", :given=>""Robert""}]"	Tropical Gangsters: One Man’s Experience With Development and Decadence in Deepest Africa	article-journal	Basic	2000	both	Optional
+"[{:family=>""Corruption"", :given=>""Controlling""}]"				1991	left_only	Optional
+"[{:family=>""Fisman"", :given=>""Raymond""}, {:family=>""Miguel"", :given=>""Edward""}]"	Economic Gangsters: Corruption			2010	both	Optional
+"[{:family=>""Jones"", :given=>""Benjamin F.""}, {:family=>""Olken"", :given=>""Benjamin A.""}]"	Do Leaders Matter? National Leadership and Growth Since World War II](http://dx.doi.org/ 10.1093/qje/120.3.835	article-journal	Quarterly Journal of Economics	2005	both	Optional
+"[{:family=>""Nunn"", :given=>""Nathan""}]"	Long Term Effects of Africa’s Slave Trades	article-journal	The Quarterly Journal of Economics	2008	both	Optional
+"[{:family=>""Dell"", :given=>""Jones""}, {:family=>""Olken"", :given=>""Benjamin A.""}]"	Temperature Shocks and Economic Growth: Evidence from the Last Half Century	article-journal	American Journal of Economics: Macroeconomics	2011	both	Optional
+"[{:family=>""Michalopoulos"", :given=>""Stelios""}, {:family=>""Papaioannou"", :given=>""Elias""}]"	Divide and Rule or the Rule of the Divided? Evidence from Africa	article-journal	NBER Working Paper	2011	both	Optional
+"[{:family=>""Miller"", :given=>""Grant""}]"	Women’s Suffrage	article-journal	The Quarterly Journal of Economics	2008	both	Optional
+"[{:family=>""Meltzer"", :given=>""Allan H.""}, {:family=>""Richards"", :given=>""Scott F.""}]"	A Rational Theory of the Size of Government	article-journal	Journal of Political Economy	1981	both	Optional
+"[{:family=>""Pande"", :given=>""Rohini""}]"	Can Mandated Political Representation Increase Policy Influence for Disadvantaged Minorities	article-journal	American Economic Review	2003	both	Optional
+"[{:family=>""Miguel"", :given=>""Edward""}, {:family=>""Manacorda"", :given=>""Marco""}, {:others=>true}]"	Government Transfers and Political Support	article-journal	American Economic Journal: Applied Economics. NBER Working Paper	2009	both	Optional
+"[{:family=>""Ferraz"", :given=>""Claudio""}, {:family=>""Finan"", :given=>""Frederico""}]"	Exposing Corrupt Politicians: The Effect of Brazil’s Publicly Released Audits on	article-journal	Electoral Outcomes.“The Quarterly Journal of Economics	2008	both	Optional
+"[{:family=>""Gans-Morse"", :given=>""Jordan""}, {:family=>""Mazzuca"", :given=>""Sebastian""}, {:others=>true}]"	Who Gets Bought? Vote Buying	book		2009	both	Optional
+"[{:family=>""Nichter"", :given=>""Simeon""}]"	Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot	article-journal	American Political Science Review	2008	both	Optional
+"[{:family=>""Hsieh"", :given=>""Chang-Tai""}, {:family=>""Miguel"", :given=>""Edward""}, {:others=>true}]"	The Price of Political Opposition: Evidence from Venezuela’s Maisanta	article-journal	American Economic Journal: Applied Economics	2011	both	Optional
+"[{:family=>""Olson"", :given=>""Mancur""}]"	The Logic of Collective Action: Public Goods and the Theory of Groups			1965	both	Optional
+"[{:family=>""Ray"", :given=>""Debraj""}, {:family=>""Esteban"", :given=>""Joan Maria""}]"	Collective Action and the Group Size Paradox	article-journal	American Political Science Review	2001	both	Optional
+"[{:family=>""Alesina"", :given=>""Alberto""}, {:family=>""Baqir"", :given=>""Reza""}, {:others=>true}]"	Public Goods and Ethnic Divisions	article-journal	Quarterly Journal of Economics	1999	both	Optional
+"[{:family=>""Miguel"", :given=>""Edward""}]"	Tribe or Nation?: Nation Building and Public Goods in Kenya versus Tanzania	article-journal	World Politics	2004	both	Optional
+"[{:family=>""Olken"", :given=>""Benjamin A.""}, {:family=>""Singhal"", :given=>""Monica""}]"	Informal Taxation	article-journal	American Economic Journal: Applied Economics	2011	both	Optional
+"[{:family=>""Olken"", :given=>""Benjamin""}]"	Monitoring Corruption: Evidence from a Field Experiment in Indonesia	article-journal	Journal of Political Economy	2007	both	Optional
+"[{:family=>""Banerjee"", :given=>""Abhijit""}, {:family=>""Duflo"", :given=>""Esther""}, {:others=>true}]"	Pitfalls of Participatory Programs: Evidence from three randomized experiments in education in India	article-journal	NBER Working Paper	2008	both	Optional
+"[{:family=>""Jackson"", :given=>""Matthew O.""}, {:family=>""Morelli"", :given=>""Massimo""}]"	Political Bias and War	article-journal	American Economic Review	2007	both	Optional
+"[{:family=>""Miguel"", :given=>""Edward""}, {:family=>""Satyanath"", :given=>""Shanker""}, {:others=>true}]"	Economic Shocks and Civil Conflict: An Instrumental Variables Approach	article-journal	Journal of Political Economy	2004	both	Optional
+"[{:family=>""Abadie"", :given=>""Alberto""}, {:family=>""Garbeazabal"", :given=>""Javier""}]"	The Economic Costs of Conflict: A Case Study of the Basque Country	article-journal	American Economic Review	2003	both	Optional
+"[{:family=>""Miguel"", :given=>""Edward""}, {:family=>""Roland"", :given=>""Gerard""}]"	The Long Run Impact of Bombing Vietnam	article-journal	Journal of Development Economics	2011	both	Optional
+"[{:family=>""Banerjee"", :given=>""Abhijit""}, {:family=>""Hanna"", :given=>""Rema""}, {:others=>true}]"	Corruption	article-journal	NBER Working Paper	2012	both	Optional
+"[{:family=>""Hsieh"", :given=>""Chang-Tai""}, {:family=>""Moretti"", :given=>""Enrico""}]"	Did Iraq Cheat the United Nations? Underpricing	article-journal	The Quarterly Journal of Economics	2006	both	Optional
+"[{:family=>""Reinikka"", :given=>""Ritva""}, {:family=>""Svennson"", :given=>""Jakob""}]"	Local Capture: Evidence from a Central Government Transfer Program in Uganda	article-journal	The Quarterly Journal of Economics	2004	both	Optional
+"[{:family=>""Becker"", :given=>""Gary S.""}, {:family=>""Stigler"", :given=>""George J.""}]"	Law Enforcement	article-journal	Journal of Legal Studies	1974	both	Optional
+"[{:family=>""Tella"", :particle=>""Di""}, {:family=>""Rafael""}, {:family=>""Schargrodsky"", :given=>""Ernesto""}]"	The Role of Wages and Auditing During a Crackdown on Corruption in the City of Buenos Aires	article-journal	Journal of Law and Economics	2003	both	Optional
+"[{:family=>""Duflo"", :given=>""Esther""}, {:family=>""Hanna"", :given=>""Rema""}, {:others=>true}]"	Monitoring Works: Getting Teachers to Come to School	article-journal	CEPR Discussion Paper Series	2008	both	Optional
+"[{:family=>""Shleifer"", :given=>""Andrei""}, {:family=>""Vishny"", :given=>""Robert W.""}]"	Corruption	article-journal	The Quarterly Journal of Economics	1993	both	Optional
+"[{:family=>""Burgess"", :given=>""Robin""}, {:family=>""Hansen"", :given=>""Matthew""}, {:others=>true}]"	The Political Economy of Deforestation in the Tropics	article-journal	NBER Working Paper	2011	both	Optional
+"[{:family=>""Khwaja"", :given=>""Asim Ijaz""}, {:family=>""Mian"", :given=>""Atif""}]"	Do Lenders Favor Politically Connected Firms? Rent Provision in an Emerging Financial Market	article-journal	Quarterly Journal of Economics	2005	both	Optional
+"[{:family=>""Fisman"", :given=>""Ray""}, {:family=>""Fisman"", :given=>""David""}, {:others=>true}]"	Estimating the value of connections to Vice-President Cheney	chapter	. Working Paper	2006	both	Optional
+"[{:family=>""Jones"", :given=>""Benjamin F.""}, {:family=>""Olken"", :given=>""Benjamin A.""}]"	Hit or Miss? The Effect of Assassinations on Institutions and War	article-journal	American Economic Journal: Macroeconomics	2009	both	Required
+"[{:family=>""Acemoglu"", :given=>""Daron""}, {:family=>""Johnson"", :given=>""Simon""}, {:others=>true}]"	The Colonial Origins of Comparative Development: An Empirical Investigation	article-journal	American Economic Review	2001	both	Required
+"[{:family=>""Dell"", :given=>""Melissa""}]"	The Persistent Effects of Peru’s Mining Mita	article-journal	Econometrica	2010	both	Required
+"[{:family=>""Duflo"", :given=>""Esther""}, {:family=>""Chattopadhyay"", :given=>""Raghabendra""}]"	Women as Policy Makers: Evidence From a Randomized Experiment in India	article-journal	Econometrica	2004	both	Required
+"[{:family=>""O"", :particle=>""De La""}, {:family=>""L"", :given=>""Ana""}]"	Do Conditional Cash Transfers Affect Electoral Behavior? Evidence from a Randomized Experiment in Mexico	article-journal	American Journal of Political Science	2013	both	Required
+"[{:family=>""Banerjee"", :given=>""Abhijit V.""}, {:family=>""Kumar"", :given=>""Selvan""}, {:others=>true}]"	Do Informed Voters Make Better Choices? Experimental Evidence from Urban India	article-journal	Working Paper	2011	both	Required
+"[{:family=>""Finan"", :given=>""Fredericom""}, {:family=>""Schecter"", :given=>""Laura""}]"	Vote-Buying and Reciprocity?	chapter	Working Paper	2011	both	Required
+"[{:family=>""Shepsle"", :given=>""Kenneth A.""}]"	Chapters 3			2010	both	Required
+"[{:family=>""Olson"", :given=>""Mancur""}]"	Dictatorship	article-journal	The American Politcial Science Review	1993	both	Required
+"[{:family=>""Acemoglu"", :given=>""Daron""}, {:family=>""Robinson"", :given=>""James A.""}]"	Chapters 1			2009	both	Required
+"[{:family=>""Shepsle"", :given=>""Kenneth A.""}]"	Chapters 9			2010	both	Required
+"[{:family=>""Miguel"", :given=>""Edward""}, {:family=>""Gugerty"", :given=>""Mary Kay""}]"	Ethnic Diversity	article-journal	Journal of Public Economics	2005	both	Required
+"[{:family=>""Björkman"", :given=>""Martina""}, {:family=>""Svensson"", :given=>""Jakob""}]"	Power to the People: Evidence from a Randomized Experiment of a Citizen Report Card Project in Uganda	article-journal	Quarterly Journal of Economics	2009	both	Required
+"[{:family=>""Beath"", :given=>""Andrew""}, {:family=>""Christia"", :given=>""Fotini""}, {:others=>true}]"	Winning Hearts and Minds: Evidence from a Field Experiment in Afghanistan	article-journal	MIT Political Science Department Working Paper	2012	both	Required
+"[{:family=>""Fearon"", :given=>""James D.""}]"	Rationalist Explanations for War	article-journal	International Organization	1995	both	Required
+"[{:family=>""Dube"", :given=>""Oeindrila""}, {:family=>""Vargas"", :given=>""Juan F.""}]"	Commodity Price Shocks and Civil Conflict: Evidence from Colombia	article-journal	Review of Economic Studies	2010	both	Required
+"[{:family=>""Bertrand"", :given=>""Marianne""}, {:family=>""Djankov"", :given=>""Simeon""}, {:others=>true}]"	Obtaining a Driver’s License in India: An Experimental Approach to Studying Corruption	article-journal	The Quarterly Journal of Economics	2007	both	Required
+"[{:family=>""Olken"", :given=>""Benjamin A.""}]"	Monitoring Corruption: Evidence from a Field Experiment in Indonesia	article-journal	Journal of Political Economy	2007	both	Required
+"[{:family=>""Olken"", :given=>""Benjamin A.""}, {:family=>""Barron"", :given=>""Patrick""}]"	The Simple Economics of Extortion: Evidence from Trucking in Aceh	article-journal	Journal of Political Economy	2009	both	Required
+"[{:family=>""Fisman"", :given=>""Ray""}]"	Estimating the Value of Political Connections	article-journal	American Economic Review	2001	both	Required
+"[{:family=>""Riordan"", :given=>""William L.""}]"	Honest Graft and Dishonest Graft.” Chapter 1 in Plunkitt of Tammany Hall: A Series of Very Plain Talks on Very Practical Politics	article-journal	CreateSpace Independent Publishing Platform	2013	both	Required
+"[{:family=>""Kenneth"", :given=>""A.""}]"	Analyzing Politics: Rationality			2010	right_only	Required
+"[{:family=>""Klitgaard"", :given=>""Robert""}]"	Controlling Corruption			1991	right_only	Optional

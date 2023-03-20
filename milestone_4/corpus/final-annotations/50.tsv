@@ -1,0 +1,12 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Hemond"", :given=>""H.F.""}, {:family=>""Fechner"", :given=>""E.J.""}]"	Chemical Fate and Transport in the Environment			2000	both	Required
+"[{:family=>""Driscoll"", :given=>""F.""}]"	Groundwater and Wells			1986	left_only	Optional
+"[{:family=>""Freeze"", :given=>""R.A.""}, {:family=>""Cherry"", :given=>""J.A.""}]"	Groundwater			1979	left_only	Optional
+"[{:family=>""Morel"", :given=>""F.M.M.""}, {:family=>""Hering"", :given=>""J.G.""}]"	Principles and Application of Aquatic Chemistry			1993	left_only	Optional
+"[{:family=>""Reid"", :given=>""G.""}, {:family=>""Wood"", :given=>""R.""}]"	Ecology of Inland Waters and Estuaries			1976	left_only	Optional
+"[{:family=>""Schwarzenbach"", :given=>""R.P.""}, {:family=>""Gschwend"", :given=>""P.M.""}, {:family=>""Imboden"", :given=>""D.M.""}]"	Environmental Organic Chemistry			1993	left_only	Optional
+"[{:family=>""Stern"", :given=>""A.C.""}, {:family=>""Boubel"", :given=>""R.W.""}, {:family=>""Turner"", :given=>""D.B.""}, {:family=>""Fox"", :given=>""D.L.""}]"	Fundamentals of Air Pollution			1984	left_only	Optional
+"[{:family=>""Stumm"", :given=>""W.""}, {:family=>""Morgan"", :given=>""J.J.""}]"	Aquatic Chemistry			1981	left_only	Optional
+"[{:family=>""Thibodeaux"", :given=>""L.""}]"	Chemodynamics			1979	left_only	Optional
+"[{:family=>""Wayne"", :given=>""R.P.""}]"	Chemistry of Atmospheres			1991	left_only	Optional
+"[{:family=>""Wetzel"", :given=>""R.G.""}]"	Limnology Saunders			1983	left_only	Optional

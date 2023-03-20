@@ -1,0 +1,44 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Blanchard"", :given=>""O.""}]"	What Do We Know About Macroeconomics that Fisher and Wicksell Did Not?	article-journal	Quarterly Journal of Economics	2000-11	both	Optional
+"[{:family=>""Woodford"", :given=>""M.""}]"	Revolution and Evolution in Twentieth-Century Macroeconomics	book		1999-06	both	Optional
+"[{:family=>""Chari"", :given=>""V.V.""}]"	Modern Macroeconomics in Practice: How Theory is Shaping Policy	article-journal	Journal of Economic Perspectives	2006	both	Optional
+"[{:family=>""Mankiw"", :given=>""N.G.""}]"	The Macroeconomist as Scientist and Engineer	article-journal	Journal of Economic Perspectives	2006	both	Optional
+"[{:family=>""Stock"", :given=>""J.""}, {:family=>""Watson"", :given=>""M.""}]"	Business Cycle Fluctuations in U.S. Macroeconomic Time Series	chapter	Chapter 1 in Handbook of Macroeconomics	1999	both	Required
+"[{:family=>""Blanchard"", :given=>""O.""}, {:family=>""Fischer"", :given=>""S.""}]"	Lectures on Macroeconomics			1989	both	Required
+"[{:family=>""Cochrane"", :given=>""J.""}]"	Time Series for Macroeconomics and Finance	book		2005	both	Optional
+"[{:family=>""Blanchard"", :given=>""O.""}, {:family=>""Quah"", :given=>""D.""}]"	The Dynamic Effects of Aggregate Demand and Aggregate Supply Disturbances.’	article-journal	American Economic Review	1989	both	Optional
+"[{:family=>""Christiano"", :given=>""L.""}, {:family=>""Eichenbaum"", :given=>""M.""}, {:family=>""Evans"", :given=>""C.""}]"	Monetary Policy Shocks: What have we Learned and to What End?	chapter	Handbook of Macroeconomics	1999	both	Optional
+"[{:family=>""Aguiar"", :given=>""M.""}, {:family=>""Gopinath"", :given=>""G.""}]"	Emerging Market Business Cycles,” and “The Cycle is the Trend	article-journal	Journal of Political Economy	2007	both	Optional
+"[{:family=>""Obstfeld"", :given=>""M.""}, {:family=>""Rogoff"", :given=>""K.""}]"	Foundations of International Macroeconomics			1996	both	Optional
+"[{:family=>""Campbell"", :given=>""J.""}]"	Inspecting the Mechanism: An Analytical Approach to the Stochastic Growth Model	article-journal	Journal of Monetary Economics	1994-06	both	Optional
+"[{:family=>""Uhlig"", :given=>""H.""}]"	A Toolkit for Analyzing Nonlinear Dynamic Stochastic Models Easily	book		1997	both	Optional
+"[{:family=>""King"", :given=>""R.""}, {:family=>""Rebelo"", :given=>""S.""}]"	Resuscitating Real Business Cycles	chapter	Chapter 14 in Handbook of Macroeconomics	1999	both	Required
+"[{:family=>""Prescott"", :given=>""E.C.""}]"	Theory Ahead of Business Cycle Measurement	article-journal	Federal Reserve Bank of Minneapolis Quarterly Review	1986	both	Optional
+"[{:family=>""Rebelo"", :given=>""S.""}]"	Real Business Cycle Models: Past	article-journal	National Bureau of Economic Research Working Paper	2005-06	both	Optional
+"[{:family=>""Gali"", :given=>""J.""}, {:family=>""Rabanal"", :given=>""P.""}]"	Technology Shocks and Aggregate Fluctuations: How Well does the RBC Model Fit Postwar U.S. Data?	chapter	NBER Macroeconomics Annual 2004		both	Optional
+"[{:family=>""Basu"", :given=>""S.""}, {:family=>""Fernald."", :given=>""J.""}, {:family=>""Kimball"", :given=>""M.""}]"	Are Technology Improvements Contractionary?	book		2004	both	Optional
+"[{:family=>""Aghion"", :given=>""P.""}, {:family=>""Howitt"", :given=>""P.""}]"	Growth and Cycles	chapter	Chapter 8 in Endogenous Growth Theory	1998	both	Optional
+"[{:family=>""Shleifer"", :given=>""A.""}]"	Implementation Cycles	article-journal	Journal of Political Economy	1986-12	both	Optional
+"[{:family=>""Shiller"", :given=>""R.""}]"	Irrational Exuberance			2000	both	Optional
+"[{:family=>""Blanchard"", :given=>""O.""}, {:family=>""Rhee"", :given=>""C.""}, {:family=>""Summers"", :given=>""L.""}]"	The Stock Market	article-journal	Quarterly Journal of Economics	1993-02	both	Optional
+"[{:family=>""Obstfeld"", :given=>""M.""}, {:family=>""Rogoff"", :given=>""K.""}]"	The Intertemporal Approach to the Current Account	article-journal	Handbook of International Economics	1997	both	Required
+"[{:family=>""Blanchard"", :given=>""O.""}]"	Current Account Deficits in Rich Countries	chapter	mimeo MIT Department of Economics Working Paper No. 07-06	2007-02	both	Optional
+"[{:family=>""Dornbusch"", :given=>""R.""}, {:family=>""Sturzenegger"", :given=>""F.""}, {:family=>""Wolf"", :given=>""H.""}, {:family=>""Fischer"", :given=>""S.""}, {:family=>""Barro"", :given=>""R.""}]"	Extreme Inflation: Dynamics and Stabilization	article-journal	Brookings Papers on Economic Activity	1990	both	Optional
+"[{:family=>""Blanchard"", :given=>""O.""}]"	Why Does Money Affect Output? A Survey	chapter	Handbook of Monetary Economics	1990	both	Required
+"[{:family=>""Woodford"", :given=>""M.""}]"	Interest and Prices: Foundations of a Theory of Monetary Policy			2003	both	Required
+"[{:family=>""Dhyne"", :given=>""E.""}, {:family=>""Álvarez"", :given=>""L.""}, {:family=>""Bihan"", :given=>""H.Le""}, {:family=>""Veronese"", :given=>""G.""}, {:family=>""Dias"", :given=>""D.""}, {:family=>""Hoffmann"", :given=>""J.""}, {:family=>""Jonker"", :given=>""N.""}, {:family=>""Lünnemann"", :given=>""P.""}, {:family=>""Rumler"", :given=>""F.""}, {:family=>""Vilmunen"", :given=>""J.""}]"	Price Changes in the Euro area and the United States: Some Facts from Individual Consumer Price Data	article-journal	The Journal of Economic Perspectives	2006	both	Optional
+"[{:family=>""King"", :given=>""R.""}]"	The New IS-LM model: Language	article-journal	Federal Reserve Bank of Richmond Economic Quarterly	2000	both	Optional
+"[{:family=>""Blanchard"", :given=>""O.""}, {:family=>""Gali"", :given=>""J.""}]"	Real Wage Rigidities and the New Keynesian Model	book		2006-02	both	Optional
+"[{:family=>""Beaudry"", :given=>""P.""}, {:family=>""Portier"", :given=>""F.""}]"	Stock Prices	book		2004-03	both	Optional
+"[{:family=>""Lorenzoni"", :given=>""G.""}]"	A Theory of Demand Shocks	book		2006-11	both	Optional
+"[{:family=>""Smets"", :given=>""F.""}, {:family=>""Wouters"", :given=>""R.""}]"	Comparing Shocks and Frictions in US and Euro Area Business Cycles: A Bayesian DSGE Approach	article-journal	Center for Economic Policy Research Discussion Paper	2004-11	both	Optional
+"[{:family=>""Clarida"", :given=>""R.""}, {:family=>""Gali"", :given=>""J.""}, {:family=>""Gertler"", :given=>""M.""}]"	The Science of Monetary Policy: A New Keynesian Perspective	article-journal	Journal of Economic Literature	1999-12	both	Required
+"[{:family=>""Gali"", :given=>""J.""}]"	New Perspectives on Monetary Policy	article-journal	National Bureau of Economic Research Working Paper	2002-02	both	Optional
+"[{:family=>""King"", :given=>""M.""}]"	What has Inflation Targeting Achieved?	chapter	The Inflation-Targeting Debate	2005	both	Optional
+"[{:family=>""Bernanke"", :given=>""B.""}, {:family=>""Reinhart"", :given=>""V.""}, {:family=>""Sack"", :given=>""B.""}]"	Monetary Policy Alternatives at the Zero Bound. An empirical assessment	chapter	Finance and Economics Discussion Series 2004-48	2004	both	Optional
+"[{:family=>""Svensson"", :given=>""L.""}]"	Escaping from a Liquidity Trap and Deflation: The Foolproof Way and Others	chapter	National Bureau of Economic Research Working Paper No	2003-12	both	Optional
+"[{:family=>""Galí"", :given=>""J.""}, {:family=>""López-Salido"", :given=>""J.""}, {:family=>""Vallés"", :given=>""J.""}]"	Understanding the Effects of Government Spending on Consumption	article-journal	Journal of the European Economic Association	2007-03	both	Required
+"[{:family=>""Chari"", :given=>""V.V.""}, {:family=>""Kehoe"", :given=>""P.""}]"	Optimal Fiscal and Monetary Policy	article-journal	Federal Reserve Bank of Minneapolis Staff Report	1998-07	both	Optional
+"[{:family=>""Baxter"", :given=>""M.""}, {:family=>""King"", :given=>""R.""}]"	Fiscal Policy in General Equilibrium	article-journal	American Economic Review	1993-06	both	Optional
+"[{:family=>""Blanchard"", :given=>""O.""}, {:family=>""Perotti"", :given=>""R.""}]"	An Empirical Characterization of the Dynamic Effects of Government Spending and Taxes on Output	article-journal	Quarterly Journal of Economics	2002	both	Optional
+"[{:family=>""Giavazzi"", :given=>""F.""}, {:family=>""Pagano"", :given=>""M.""}]"	Non-Keynesian Effects of Fiscal Policy Changes: International Evidence and the Swedish Experience	article-journal	National Bureau of Economic Research Working Paper	1996-10	both	Optional

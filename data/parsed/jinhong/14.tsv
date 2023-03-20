@@ -6,6 +6,7 @@ Optional	[{:family=>"Barker", :given=>"A.L.L."}]	["The Ultimate Load Theory Appl
 Optional	[{:family=>"Bazant", :given=>"Z.P."}]	["Fracture Mechanics of Concrete Structures"]	book		["1992"]
 Optional	[{:family=>"Billington", :given=>"D.P."}]	["Thin Shell Concrete Structures"]	book		["1982"]
 Optional	[{:family=>"Bresler", :given=>"B."}]	["Design Criteria for Reinforced Concrete Columns under Axial Load and Biaxial Bending"]	article-journal	["ACI Journal, Proceedings"]	["1960"]
+Optional	[{:family=>"Bresler", :given=>"B."}, {:family=>"Pister", :given=>"K.S."}]	["Failure of Plain Concrete under Combined Stresses"]	article-journal	["ASCE Transactions"]	["1955-08"]
 Optional		["Reinforced Concrete Engineering: Volume I - Materials, Structural Elements, Safety"]	book		["1974"]
 Optional	[{:family=>"Buyukozturk", :given=>"O."}]	["Nonlinear Analysis of Reinforced Concrete Structures"]	article-journal	["Computers and Structures"]	["1977"]
 Optional	[{:family=>"Buyukozturk", :given=>"O."}]	["Imaging of Concrete Structures"]	article-journal	["NDT & E International"]	["1998"]

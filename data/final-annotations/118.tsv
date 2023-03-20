@@ -1,0 +1,21 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Eggers"", :given=>""Jens""}, {:family=>""Villermaux"", :given=>""Emmanuel""}]"	Physics of Liquid Jets	article-journal	Reports on Progress in Physics	2008	both	Optional
+"[{:family=>""Website"", :given=>""Prof John Bush’s""}]"	Professor John Bush has many images of surface tension related phenomena				left_only	Optional
+"[{:family=>""Woodward"", :given=>""Ian""}]"	Plant Science: Tall Storeys	article-journal	Nature	2004	both	Optional
+"[{:family=>""Thoroddsen"", :given=>""S.T.""}, {:family=>""Takehara"", :given=>""K.""}]"	The Coalescence Cascade of a Drop	article-journal	Physics of Fluids	2000	both	Optional
+"[{:family=>""Panton"", :given=>""Ronald L.""}]"	Incompressible Flow			2013	left_only	Required
+"[{:family=>""Kundu"", :given=>""Pijush K.""}, {:family=>""Cohen"", :given=>""Ira M.""}]"	Fluid Mechanics			2015	left_only	Required
+"[{:literal=>""Anderson Jr., John D.""}]"	Ludwig Prandtl’s Boundary Layer	article-journal	Physics Today	2005	left_only	Optional
+"[{:family=>""Fay"", :given=>""James A.""}]"	Introduction to Fluid Mechanics			1994	left_only	Required
+"[{:family=>""Avila"", :given=>""Kerstin""}, {:family=>""Moxey"", :given=>""David""}, {:others=>true}]"	The Onset of Turbulence in Pipe Flow	article-journal	Science	2011	left_only	Optional
+"[{:family=>""Zeidan"", :given=>""F.Y.""}, {:family=>""Jain"", :given=>""Dilip""}]"	Application of Hydrodynamic Thrust Bearings in Submersible Pumps	chapter	ESP Workshop held in	April 26–28	left_only	Optional
+"[{:family=>""McHugh"", :given=>""Jim""}]"	Albert Kingsbury – His Life and Times	article-journal	Sound & Vibration	2003-10	left_only	Optional
+"[{:family=>""Bird"", :given=>""R.Byron""}, {:family=>""Armstrong"", :given=>""Robert C.""}, {:family=>""Hassager"", :given=>""Ole""}]"	Dynamics of Polymeric Liquids			1987	left_only	Optional
+"[{:family=>""Newman"", :given=>""John Nicholas""}]"	Hydrodynamic Pressure Forces	chapter	Section 4.12 in Marine Hydrodynamics	1977	left_only	Optional
+"[{:family=>""Astarita"", :given=>""Gianni""}, {:family=>""Mackay"", :given=>""Michael E.""}]"	The Generalized Engineering Bernoulli Equation (GEBE) and the First and Second Laws of Thermodynamics for Viscoelastic Fluids	article-journal	Journal of Rheology	1996	left_only	Optional
+"[{:family=>""Tritton"", :given=>""D.J.""}]"	Physical Fluid Dynamics			2013	left_only	Optional
+"[{:family=>""Schlichting"", :given=>""H.""}, {:family=>""Gersten"", :given=>""K.""}]"	Boundary Layer Theory			2000	left_only	Optional
+	Multimedia Fluid Mechanics			2011	left_only	Optional
+"[{:family=>""Matthews"", :given=>""Jermey N.A.""}]"	Low-drag Suit Propels Swimmers	article-journal	Physics Today	2008	left_only	Optional
+"[{:family=>""Pope"", :given=>""Stephen B.""}]"	Turbulent Flows			2000	left_only	Optional
+"[{:family=>""Vincenti"", :given=>""Walter G.""}]"	Control-volume Analysis: A Difference in Thinking Between Engineering and Physics	article-journal	Technology and Culture	1982	left_only	Optional

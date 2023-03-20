@@ -1,0 +1,11 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Domenico"", :given=>""Patrick A.""}, {:family=>""Schwartz"", :given=>""Franklin W.""}]"	Physical and Chemical Hydrogeology			1998	both	Optional
+"[{:family=>""Freeze"", :given=>""Alan R.""}, {:family=>""Cherry"", :given=>""John A.""}]"	Groundwater			1979	both	Optional
+"[{:family=>""Marsily"", :given=>""Ghislain De""}]"	Quantitative Hydrogeology: Groundwater Hydrology for Engineers			1986	both	Optional
+"[{:family=>""Bear"", :given=>""Jacob""}]"	Dynamics of Fluids in Porous Media			1988	both	Optional
+"[{:family=>""Bear"", :given=>""Jacob""}]"	Hydraulics of Groundwater			1980	left_only	Optional
+"[{:family=>""Sahimi"", :given=>""Muhammad""}]"	Flow and Transport in Porous Media and Fractured Rock			1995	both	Optional
+"[{:family=>""Fetter"", :given=>""C.W.""}]"	Contaminant Hydrogeology			1998	both	Optional
+"[{:family=>""Todd"", :given=>""David Keith""}]"	Groundwater Hydrology			1980	both	Optional
+"[{:family=>""Hillel"", :given=>""Daniel""}]"	Fundamentals of Soil Physics			1980	both	Optional
+	Hydraulics of Groundwater			1980	right_only	Optional

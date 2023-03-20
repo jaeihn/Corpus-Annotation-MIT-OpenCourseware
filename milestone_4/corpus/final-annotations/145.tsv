@@ -1,0 +1,9 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Yannas"", :given=>""I.V.""}]"	Tissue and Organ Regeneration in Adults			2001	both	Required
+"[{:family=>""Langer"", :given=>""Robert""}, {:family=>""Vacanti"", :given=>""Joseph P.""}]"	Tissue Engineering	article-journal	Science	1993-05-14	both	Required
+"[{:family=>""Yannas"", :given=>""I.V.""}, {:others=>true}]"	Wound Tissue Can Utilize a Polymeric Template to Synthesize a Functional Extension of Skin	article-journal	Science	1982-01-08	both	Required
+"[{:family=>""Spector"", :given=>""Myron""}]"	Biomaterials.” Chapter 19 in Plastic Surgery			2000	both	Required
+"[{:family=>""Mitchell"", :given=>""L.Shannon""}, {:family=>""Niklason"", :given=>""Laura E.""}]"	Requirements for Growing Tissue-Engineered Vascular Grafts	article-journal	Cardiovascular Pathology	2003	both	Required
+"[{:family=>""Niklason"", :given=>""L.E.""}, {:family=>""Gao"", :given=>""J.""}, {:family=>""Abbot"", :given=>""W.M.""}, {:family=>""Hirschi"", :given=>""K.K.""}, {:family=>""Houser"", :given=>""S.""}, {:family=>""Marini"", :given=>""R.""}, {:family=>""Langer"", :given=>""R.""}]"	Functional Arteries Grown in Vitro	article-journal	Science	1999-04-16	both	Required
+"[{:family=>""Schoen"", :given=>""Frederick J.""}, {:family=>""Levy"", :given=>""Robert J.""}]"	Tissue Heart Valves: Current Challenges and Future Research Perspectives	paper-conference	Founder’s Award	April 28-May 2	both	Required
+"[{:family=>""Rabkin"", :given=>""Elena""}, {:family=>""Schoen"", :given=>""Frederick J.""}]"	Cardiovascular Tissue Engineering	article-journal	Cardiovascular Pathology	2002	both	Required

@@ -1,0 +1,66 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Freedman"", :given=>""David""}]"	Statistical Models and Shoe Leather	article-journal	Sociological Methodology	1991	both	Required
+"[{:family=>""Laslett"", :given=>""Peter""}]"	The World We Have Lost: Further Explored			1983	both	Required
+"[{:family=>""Ogilvie"", :given=>""Sheilagh""}]"	The Economic World of the Bohemian Serf: Economic Concepts	article-journal	The Economic History Review	2001	both	Required
+"[{:family=>""Romer"", :given=>""Paul""}]"	Why	article-journal	American Economic Review	1996-05	both	Required
+"[{:family=>""Ashton"", :given=>""T.S.""}]"	The Industrial Revolution			1948	both	Required
+"[{:family=>""Allen"", :given=>""Robert C.""}]"	The British Industrial Revolution in Global Perspective	paper-conference	National Bureau of Economic Research conference on Starting Economic Growth	June 1-2	both	Required
+"[{:family=>""Goldin"", :given=>""Claudia""}, {:family=>""Sokoloff"", :given=>""Kenneth""}]"	Women	article-journal	Journal of Economic History	1982-12	both	Required
+	The Relative Productivity Hypothesis of Industrialization: The American Case	article-journal	Quarterly Journal of Economics	1984-08	left_only	Required
+"[{:family=>""Gerschenkron"", :given=>""Alexander""}]"	Economic Backwardness in Historical Perspective			1962	both	Required
+"[{:family=>""Murphy"", :given=>""Kevin""}, {:family=>""Sheilfer"", :given=>""Andrei""}, {:family=>""Vishny"", :given=>""Robert""}]"	Industrialization and the Big Push	article-journal	Journal of Political Economy	1989	both	Required
+"[{:family=>""Ray"", :given=>""Debraj""}]"	Development Economics			1998	both	Required
+"[{:family=>""Mokyr"", :given=>""Joel""}]"	The Lever of Riches: Technological Creativity and Economic Progress			1992	both	Required
+"[{:family=>""Pomeranz"", :given=>""Kenneth""}]"	The Great Divergence: China			2001	both	Required
+"[{:family=>""Broadberry"", :given=>""Stephen""}, {:family=>""Gupta"", :given=>""Bishnupriya""}]"	The Early Modern Great Divergence: Wages	article-journal	Economic History Review	2006-02	both	Required
+"[{:family=>""Flath"", :given=>""David""}]"	The Japanese Economy			2005	both	Required
+"[{:family=>""North"", :given=>""Douglass C.""}, {:family=>""Weingast"", :given=>""Barry R.""}]"	Constitutions and Commitment: Evolution of Institutions Governing Public Choice in Seventeenth Century England	article-journal	Journal of Economic History	1989	both	Required
+"[{:family=>""Temin"", :given=>""Peter""}]"	Free Land and Federalism: A Synoptic View of American Economic History	article-journal	Journal of Interdisciplinary History	1991	both	Required
+"[{:family=>""Engerman"", :given=>""Stanley L.""}, {:family=>""Sokoloff"", :given=>""Kenneth L.""}]"	Factor Endowments: Institutions	article-journal	National Bureau of Economic Research Historical Working Paper	1994-12	both	Required
+"[{:family=>""Acemoglu"", :given=>""Daron""}, {:family=>""Johnson"", :given=>""Simon""}, {:family=>""Robinson"", :given=>""James""}]"	Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution	article-journal	Quarterly Journal of Economics	2002	both	Required
+"[{:family=>""Acemoglu"", :given=>""Daron""}, {:family=>""Johnson"", :given=>""Simon""}, {:family=>""Robinson"", :given=>""James A.""}]"	The Colonial Origins of Comparative Development: An Empirical Investigation	article-journal	American Economic Review	2001	both	Required
+"[{:family=>""Nunn"", :given=>""Nathan""}]"	The Long-run Effects of Africa’s Slave Trades	article-journal	Quarterly Journal of Economics	2008	both	Required
+"[{:family=>""Acemoglu"", :given=>""Daron""}, {:family=>""Johnson"", :given=>""Simon""}, {:family=>""Robinson"", :given=>""James""}]"	The Rise of Europe: Atlantic Trade	article-journal	American Economic Review	2005	both	Required
+"[{:family=>""Acemoglu"", :given=>""Daron""}, {:family=>""Johnson"", :given=>""Simon""}]"	Unbundling Institutions	article-journal	Journal of Political Economy	2005	both	Required
+"[{:family=>""Banerjee"", :given=>""Abhijit""}, {:family=>""Iyer"", :given=>""Lakshmi""}]"	History	article-journal	American Economic Review	2005	both	Required
+"[{:family=>""Hornbeck"", :given=>""Richard""}]"	Good Fences Make Good Neighbors: Evidence on the Effects of Property Rights	book		2008	both	Required
+"[{:family=>""Moser"", :given=>""Petra""}]"	How Do Patent Laws Influence Innovation? Evidence from Nineteenth-Century World’s Fairs	article-journal	American Economic Review	2005-09	both	Required
+"[{:family=>""Moser"", :given=>""Petra""}]"	Why Don’t Inventors Patent?	article-journal	National Bureau of Economic Research Working Paper	2007-08	both	Required
+"[{:family=>""Greif"", :given=>""Avner""}]"	Contract Enforceability and Economic Institutions in Early Trade: the Maghribi Traders’ Coalition	article-journal	American Economic Review	1994	both	Required
+"[{:family=>""Greif"", :given=>""Avner""}, {:family=>""Milgrom"", :given=>""Paul""}, {:family=>""Weingast"", :given=>""Barry""}]"	Coordination	article-journal	Journal of Political Economy	1994	both	Required
+"[{:family=>""Neal"", :given=>""Larry""}, {:family=>""Quinn"", :given=>""Stephen""}]"	Networks of Information	article-journal	Financial History Review	2001-04	both	Required
+"[{:family=>""Greenstone"", :given=>""Michael""}, {:family=>""Oyer"", :given=>""Paul""}, {:family=>""Vissing-Jorgensen"", :given=>""Annette""}]"	Mandated Disclosure	article-journal	Quarterly Journal of Economics	2006-05	both	Required
+"[{:family=>""Benston"", :given=>""George""}]"	Required Disclosure and the Stock Market: An Evaluation of the Securities Exchange Act of 1934	article-journal	American Economic Review	1973-03	both	Required
+"[{:family=>""Calomiris"", :given=>""Charles W.""}, {:family=>""Mason"", :given=>""Joseph R.""}]"	Consequences of Bank Distress during the Great Depression	article-journal	American Economic Review	2003-06	both	Required
+	Fundamentals	article-journal	American Economic Review	2003-12	left_only	Required
+"[{:family=>""Bernanke"", :given=>""Ben S.""}]"	Nonmonetary Effects of the Financial Crisis in the Propagation of the Great Depression	article-journal	American Economic Review	1983-06	both	Required
+"[{:family=>""Acemolgu"", :given=>""D.""}, {:family=>""Autor"", :given=>""D.""}, {:family=>""Lyle"", :given=>""D.""}]"	Women	article-journal	Journal of Political Economy	2004-06	both	Required
+"[{:family=>""Angrist"", :given=>""J.""}]"	How Do Sex Ratios Affect Marriage and Labor Markets? Evidence from America’s Second Generation	article-journal	Quarterly Journal of Economics	2002-08	both	Required
+"[{:family=>""Costa"", :given=>""Dora""}]"	Pensions and Retirement: Evidence from Union Army Veterans	article-journal	Quarterly Journal of Economics	1995-05	both	Required
+"[{:family=>""Angrist"", :given=>""J.""}]"	Lifetime Earnings and the Vietnam Era Draft Lottery: Evidence from Social Security Administrative Records	article-journal	American Economic Review	1990-06	both	Required
+"[{:family=>""Carrington"", :given=>""William J.""}]"	The Alaskan Labor Market during the Pipeline Era	article-journal	Journal of Political Economy	1996	both	Required
+"[{:family=>""Margo"", :given=>""Robert A.""}]"	Wages in California during the Gold Rush	article-journal	National Bureau of Economic Research Historical Working Paper	1997-06	both	Required
+"[{:family=>""Boustan"", :given=>""Leah""}]"	Competition in the Promised Land: Black Migration and Racial Wage Convergence in the North	article-journal	Journal of Economic History		both	Required
+"[{:family=>""Ferrie"", :given=>""Joseph P.""}]"	History Lessons: The End of American Exceptionalism? Mobility in the United States since 1850	article-journal	Journal of Economic Perspectives	2005	both	Required
+"[{:family=>""Williamson"", :given=>""Jeffrey""}]"	Migration and Urbanization	chapter	Handbook of Development Economics	1988	both	Required
+"[{:family=>""Davis"", :given=>""Donald R.""}, {:family=>""Weinstein"", :given=>""David E.""}]"	Bones	article-journal	American Economic Review	2002	both	Required
+"[{:family=>""Hornbeck"", :given=>""Richard""}]"	Quantifying Long-term Adjustment to Environmental Change: Evidence from the American Dust Bowl	book		2008	both	Required
+"[{:family=>""Redding"", :given=>""Stephen J.""}, {:family=>""Sturm"", :given=>""Daniel M.""}]"	The Costs of Remoteness: Evidence from German Division and Reunification	article-journal	American Economic Review	2008-12	both	Required
+"[{:family=>""Costa"", :given=>""Dora L.""}]"	The Wage and the Length of the Work Day: From the 1890s to 1991	article-journal	Journal of Labor Economics	2000-01	both	Required
+"[{:family=>""Goldin"", :given=>""Claudia""}, {:family=>""Margo"", :given=>""Robert A.""}]"	The Great Compression: The U.S. Wage Structure at Mid-Century	article-journal	Quarterly Journal of Economics	1992-02	both	Required
+"[{:family=>""Goldin"", :given=>""Claudia""}, {:family=>""Katz"", :given=>""Lawrence F.""}]"	Decreasing (and Then Increasing) Inequality in America	chapter	Chapter 2 in The Causes and Consequences of Increasing Inequality	2001	both	Required
+"[{:family=>""Goldin"", :given=>""Claudia""}]"	Preface,” “Women’s Experience in the American Economy,” and “The Emergence of ‘Wage Discrimination’.” Preface and Chapters 1 and 4 in Understanding the Gender Gap: An Economic History of American Women			1992	both	Required
+"[{:family=>""Acemoglu"", :given=>""Daron""}, {:family=>""Angrist"", :given=>""Joshua""}]"	Consequences of Employment Protection? The Case of the Americans With Disabilities Act	article-journal	Journal of Political Economy	2001	both	Required
+"[{:family=>""Heckman"", :given=>""James J.""}]"	Determining the Impact of Federal Antidiscrimination Policy on the Economic Status of Blacks: A Study of South Carolina	article-journal	American Economic Review	1989-03	both	Required
+"[{:family=>""Donohue"", :given=>""John J.""}, {:family=>""Heckman"", :given=>""James J.""}]"	Continuous Versus Episodic Change: The Impact of Civil Rights Policy on the Economic Status of Blacks	article-journal	Journal of Economic Literature	1991	both	Required
+"[{:family=>""Galor"", :given=>""Oded""}, {:family=>""Weil"", :given=>""David""}]"	Population	article-journal	American Economic Review	2000-09	both	Required
+"[{:family=>""Boyer"", :given=>""George""}]"	Malthus Was Right After All: Poor Relief and Birth Rates in Southeastern England	article-journal	Journal of Political Economy	1989-02	both	Required
+"[{:family=>""Becker"", :given=>""G.""}, {:family=>""Lewis"", :given=>""H.G.""}]"	On the Interaction Between the Quantity and Quality of Children	article-journal	Journal of Political Economy	1973-03	both	Required
+"[{:family=>""Sacerdote"", :given=>""Bruce""}]"	Slavery and the Intergenerational Transmission of Human Capital	article-journal	Review of Economics and Statistics	2005-05	both	Required
+"[{:family=>""Solon"", :given=>""Gary""}]"	Intergenerational Income Mobility in the United States	article-journal	American Economic Review	1992-06	both	Required
+"[{:family=>""Becker"", :given=>""Gary""}, {:family=>""Tomes"", :given=>""Nigel""}]"	Human Capital and the Rise and Fall of Families	article-journal	Journal of Labor Economics	1986	both	Required
+"[{:family=>""Almond"", :given=>""Douglas""}]"	Is the 1918 Influenza Pandemic Over? Long-term Effects of In Utero Influenza Exposure in the Post-1940 U.S	article-journal	Population.” Journal of Political Economy	2006-08	both	Required
+"[{:family=>""Bleakley"", :given=>""Hoyt""}]"	Disease and Development: Evidence from Hookworm Eradication in the American South	article-journal	Quarterly Journal of Economics	2007-02	both	Required
+"[{:family=>""Cutler"", :given=>""David""}, {:family=>""Miller"", :given=>""Grant""}]"	Water	chapter	Chapter 5 in Corruption and Reform: Lessons from America’s Economic History	2008	both	Required
+"[{:family=>""Goldin"", :given=>""Claudia""}, {:family=>""Sokoloff"", :given=>""Kenneth""}]"	The Relative Productivity Hypothesis of Industrialization: The American Case	article-journal	Quarterly Journal of Economics	1984-08	right_only	Required
+"[{:family=>""Calomiris"", :given=>""Charles W.""}, {:family=>""Mason"", :given=>""Joseph R.""}]"	Fundamentals	article-journal	American Economic Review	2003-12	right_only	Required

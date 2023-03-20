@@ -1,0 +1,15 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Moavenzadeh"", :given=>""Fred""}]"	Globalization Strategies of Selected E&C Firms			2009	both	Required
+	Financial Innovations and the Welfare of Nations			2001	both	Required
+	Measuring Productivity and Evaluating Innovation in the U.S	chapter	Construction Industry. Building Futures Council whitepaper	2006	both	Required
+	Greatest Construction Projects: a Look Back at 125 Years of Construction Milestones	article-journal	Engineering News-Record	1999	both	Required
+"[{:family=>""Moavenzadeh"", :given=>""Fred""}]"	Marketing in the Construction Industry			2009	both	Required
+"[{:family=>""Flyvbjerg"", :given=>""Bent""}, {:family=>""Holm"", :given=>""Mette Skamris""}, {:family=>""Buhl"", :given=>""Soren""}]"	Underestimating Costs in Public Works Projects	article-journal	Journal of the American Planning Association	2002	both	Required
+"[{:family=>""Emmons"", :given=>""Willis""}, {:family=>""Brand"", :given=>""Monica""}]"	Empresas ICA and the Mexican Road Privatization Program.” Harvard Business School Case			1993-03-24	both	Required
+"[{:family=>""Ybarra"", :given=>""Shirley J.""}]"	VMS Asset Management Contract for Virginia’s Interstate Highways	article-journal	Public Works Financing	1998	left_only	Required
+	2008 Corruption Perceptions Index	book		2008	both	Required
+	Global Competitiveness Report 2009-2010	book		2009	both	Required
+"[{:family=>""Friedman"", :given=>""Thomas L.""}]"	The Lexus and the Olive Tree			2000	both	Required
+"[{:family=>""King"", :given=>""Ralph""}, {:family=>""McCoy"", :given=>""Charlie""}]"	Bechtel’s Power Outage	article-journal	Business	2004-03-01	both	Required
+"[{:family=>""Wolff"", :given=>""Derish""}]"	Is Your Firm the Next Enron?	book		2009	both	Required
+"[{:family=>""Ybarra"", :given=>""Shirley J.""}]"	VMS Asset Management Contract for Virginia’s Interstate Highways	book		1998	right_only	Required

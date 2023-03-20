@@ -1,0 +1,13 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Barro"", :given=>""Robert""}]"	Intermediate Macroeconomics			2010	both	Required
+"[{:family=>""Solow"", :given=>""Robert M.""}]"	A Contribution to the Theory of Economic Growth	article-journal	The Quarterly Journal of Economics	1956	both	Required
+"[{:family=>""Mankiw"", :given=>""N.Gregory""}, {:family=>""Romer"", :given=>""David""}, {:others=>true}]"	A Contribution to the Empirics of Economic Growth	article-journal	The Quarterly Journal of Economic Growth	1992	both	Required
+"[{:family=>""Hall"", :given=>""Robert E.""}]"	Stochastic Implications of the Life Cycle-Permanent Income Hypothesis: Theory and Evidence	article-journal	Journal of Political Economy	1978	both	Required
+"[{:literal=>""Lucas Jr., Robert E.""}]"	Making a Miracle	article-journal	Econometrica	1993	both	Required
+"[{:family=>""Barro"", :given=>""Robert J.""}]"	Are Government Bonds Net Wealth?	article-journal	Journal of Political Economy	1974	both	Required
+"[{:family=>""Diamond"", :given=>""Peter""}]"	National Debt in a Neoclassical Growth Model	article-journal	American Economic Review	1965	both	Required
+"[{:family=>""Meltzer"", :given=>""Allan H.""}, {:family=>""Richard"", :given=>""Scott F.""}]"	A Rational Theory of the Size of Government	article-journal	Journal of Political Economy	1981	both	Required
+"[{:family=>""Alesina"", :given=>""Alberto""}, {:family=>""Angeletos"", :given=>""George-Marios""}]"	Fairness and Redistribution	article-journal	The American Economic Review	2005	both	Required
+"[{:family=>""Barro"", :given=>""Robert J.""}, {:family=>""Gordon"", :given=>""David B.""}]"	Rules	article-journal	Journal of Monetary Economics	1983	both	Required
+"[{:family=>""Calvo"", :given=>""Guillermo""}]"	Servicing the Public Debt: The Role of Expectations	article-journal	The American Economic Review	1988	both	Required
+"[{:family=>""Diamond"", :given=>""Douglas W.""}, {:family=>""Dybvig"", :given=>""Philip H.""}]"	Bank Runs	article-journal	Journal of Political Economy	1983	both	Required

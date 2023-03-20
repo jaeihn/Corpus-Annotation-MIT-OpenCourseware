@@ -1,0 +1,13 @@
+author	title	type	collection	year	_merge	category
+	Purdue University Thermophysical Properties Research Center. Thermophysical Properties of Matter			1970	both	Optional
+"[{:family=>""Reid"", :given=>""R.C.""}]"	The Properties of Gases and Liquids			1987	both	Optional
+"[{:family=>""Vargaftik"", :given=>""N.B.""}]"	Handbook of Physical Properties of Liquids and Gases: Pure Substances and Mixtures			1983	left_only	Optional
+"[{:family=>""Bellows"", :given=>""James C.""}, {:family=>""Gallagher"", :given=>""John S.""}, {:family=>""Harvey"", :given=>""Allan H.""}, {:family=>""Parry"", :given=>""William T.""}]"	ASME Steam Tables for Industrial Use			2000	both	Optional
+"[{:family=>""Ho"", :given=>""C.Y.""}]"	Thermal Conductivity of the Elements: A Comprehensive Review			1974	both	Optional
+"[{:family=>""Poling"", :given=>""B.E.""}, {:others=>true}]"	The Properties of Gases and Liquids			2000	both	Optional
+"[{:family=>""Lienhard"", :given=>""J.H."", :suffix=>""IV""}, {:family=>""Lienhard"", :given=>""J.H.""}, {:given=>""V.""}]"	A Heat Transfer Version Textbook			2008	both	Optional
+"[{:family=>""Mills"", :given=>""A.F.""}]"	Basic Heat and Mass Transfer			1999	both	Optional
+"[{:family=>""Baehr"", :given=>""H.D.""}, {:family=>""Stephan"", :given=>""K.""}]"	Heat and Mass Transfer			1998	both	Optional
+"[{:family=>""Cengel"", :given=>""Y.A.""}]"	Heat Transfer: A Practical Approach			2002	both	Optional
+"[{:family=>""MathWorks"", :given=>""Inc""}]"	Partial Differential Equation	book		1995	both	Optional
+"[{:family=>""Vargaftik"", :given=>""N.B.""}]"	Handbook of Physical Properties of Liquids and Gases: Pure Substances and Mixtures			1996	right_only	Optional

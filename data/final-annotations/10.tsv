@@ -1,0 +1,21 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Hendrickson"", :given=>""Chris""}, {:family=>""Au"", :given=>""Tung""}]"	Project Management for Construction			1989	both	Required
+"[{:family=>""Yescombe"", :given=>""E.R.""}]"	Principles of Project Finance			2002	both	Optional
+"[{:family=>""Grimsey"", :given=>""Darrin""}, {:family=>""Lewis"", :given=>""Mervyn K.""}]"	Public Private Partnerships: The World Revolution in Infrastructure Provision and Project Finance			2007	both	Optional
+"[{:family=>""Esty"", :given=>""Benjamin C.""}]"	Modern Project Finance: A Casebook			2008	both	Optional
+"[{:family=>""Newnan"", :given=>""Donald G.""}, {:family=>""Lavelle"", :given=>""Jerome P.""}, {:family=>""Eschenbach"", :given=>""Ted G.""}]"	Engineering Economic Analysis			2000	both	Optional
+"[{:family=>""Park"", :given=>""Chan S.""}]"	Contemporary Engineering Economics			2002	both	Optional
+"[{:family=>""Mishan"", :given=>""E.J.""}]"	Cost-Benefit Analysis			1976	both	Optional
+"[{:family=>""Ray"", :given=>""Anandarup""}]"	Cost-Benefit Analysis: Issues and Methodologies			1984	both	Optional
+"[{:family=>""Ward"", :given=>""William A.""}, {:family=>""Deren"", :given=>""Barry J.""}, {:family=>""D’Silva"", :given=>""Emmanuel H.""}]"	The Economics of Project Analysis: A Practitioner’s Guide			1991	both	Optional
+"[{:family=>""Miller"", :given=>""Roger""}, {:family=>""Lessard"", :given=>""Donald""}]"	The Strategic Management of Large Engineering Projects			2001	both	Optional
+"[{:family=>""Morris"", :given=>""Peter W.G.""}]"	The Management of Projects			1994	both	Optional
+"[{:family=>""Meredith"", :given=>""Jack R.""}, {:family=>""Mantel"", :given=>""Samuel J."", :suffix=>""Jr""}]"	Project Management: A Managerial Approach			2005	both	Optional
+"[{:family=>""Levy"", :given=>""Sidney""}]"	Project Management in Construction			2006	both	Optional
+"[{:family=>""Oberlender"", :given=>""Garold""}]"	Project Management for Engineering and Construction			1993	both	Optional
+	Be Careful What You Wish For	article-journal	The Economist	2009-02-05	both	Required
+	Can The Centrists Hold?	article-journal	The Economist	2009-02-05	both	Required
+"[{:family=>""Doshi"", :given=>""Viren""}, {:family=>""Schulman"", :given=>""Gary""}, {:family=>""Gabaldon"", :given=>""Daniel""}]"	Lights! Water! Motion!	article-journal	Strategy + Business	2007	both	Required
+"[{:family=>""Cooper"", :given=>""Michael""}]"	Big Ideas	article-journal	The New York Times	2009-02-14	both	Required
+"[{:family=>""Poole"", :given=>""Robert""}]"	Infrastructure Report Card: A Caution	article-journal	Surface Transportation Innovations	2009	both	Required
+"[{:family=>""Team"", :given=>""A.E.C.O.M.Consult""}]"	Case Studies of Transportation Public-Private Partnerships in the United States	article-journal	Federal Highway Administration Report	2007-07-07	both	Required

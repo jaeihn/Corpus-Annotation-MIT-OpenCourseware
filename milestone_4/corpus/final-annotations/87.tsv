@@ -1,0 +1,19 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Baruh"", :given=>""H.""}]"	Analytical Dynamics			1998	both	Optional
+"[{:family=>""Ginsberg"", :given=>""J.H.""}]"	Advanced Engineering Dynamics			1995	both	Optional
+"[{:literal=>""Crandall, S. H., D. C. Karnopp, E. F. Kurtz, Jr., and D. C. Pridmore-Brown.""}]"	Dynamics of Mechanical and Electromechanical Systems			1982	both	Optional
+"[{:family=>""Moon"", :given=>""F.C.""}]"	Applied Dynamics			1998	both	Optional
+"[{:family=>""Greenwood"", :given=>""D.T.""}]"	Classical Dynamics			1997	both	Optional
+"[{:family=>""Greenwood"", :given=>""D.T.""}]"	Principles of Dynamics			1987	left_only	Optional
+"[{:family=>""Goldstein"", :given=>""H.""}]"	Classical Mechanics	book		1959	left_only	Optional
+"[{:family=>""Hartog"", :given=>""J.P.Den""}]"	Mechanics	book		1961	left_only	Optional
+"[{:family=>""Marion"", :given=>""J.B.""}]"	Classical Dynamics of Particles and Systems	book		1970	left_only	Optional
+"[{:family=>""Landau"", :given=>""L.D.""}, {:family=>""Lifshitz"", :given=>""E.M.""}]"	Mechanics	book		1976	left_only	Optional
+"[{:family=>""Williams"", :given=>""J.H."", :suffix=>""Jr""}]"	Fundamentals of Applied Dynamics	book		1996	left_only	Optional
+"[{:family=>""Hartog"", :given=>""J.P.Den""}]"	Mechanical Vibrations	book		1956	left_only	Optional
+"[{:family=>""Meirovitch"", :given=>""L.""}]"	Elements of Vibration Analysis	book		1975	left_only	Optional
+"[{:family=>""Meirovitch"", :given=>""L.""}]"	Analytical Methods in Vibrations	book		1967	left_only	Optional
+"[{:family=>""Pippard"", :given=>""A.B.""}]"	Response and Stability	book		1985	left_only	Optional
+"[{:family=>""Nayfeh"", :given=>""A.H.""}, {:family=>""Mook"", :given=>""D.T.""}]"	Nonlinear Oscillations	book		1979	left_only	Optional
+"[{:family=>""Strogatz"", :given=>""S.H.""}]"	Nonlinear Dynamics and Chaos	book		1994	left_only	Optional
+	Principles of Dynamics			1987	right_only	Optional

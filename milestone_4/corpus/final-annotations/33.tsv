@@ -1,0 +1,26 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Daganzo"", :given=>""C.F.""}]"	Fundamentals of Transportation and Traffic Operations	article-journal	Chapters	1997	both	Required
+"[{:family=>""Odoni"", :given=>""A.R.""}, {:family=>""Rousseau"", :given=>""J.M.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	Models in Urban and Air Transportation	chapter	Chapter 5 in Handbooks in Operations Research and Management Science	1994	both	Required
+"[{:family=>""Gabard"", :given=>""J.F.""}]"	Car-Following Models	chapter	Concise Encyclopedia of Traffic & Transportation Systems	1991	both	Required
+"[{:family=>""Daganzo"", :given=>""C.F.""}]"	Fundamental Diagrams	chapter	Fundamentals of Transportation and Traffic Operations	1997	both	Required
+"[{:family=>""Cohen"", :given=>""S.""}]"	Flow Variables	chapter	Concise Encyclopedia of Traffic & Transportation Systems	1991	both	Required
+"[{:family=>""Sheffi"", :given=>""Y.""}]"	Urban Transportation Networks			1985	both	Required
+"[{:family=>""Larson"", :given=>""R.C.""}, {:family=>""Odoni"", :given=>""A.R.""}]"	Urban Operations Research	article-journal	Chapter	1981	both	Required
+"[{:family=>""Burkard"", :given=>""R.E.""}]"	Shortest Path Algorithms	chapter	Concise Encyclopedia of Traffic and Transportation Systems	1991	both	Required
+"[{:family=>""Sheffi"", :given=>""Y.""}]"	Urban Transportation Networks	book		1985	left_only	Required
+"[{:family=>""Daganzo"", :given=>""C.F.""}]"	Equilibrium Analysis	chapter	Chapter 5 in Fundamentals of Transportation and Traflic Operations	1997	both	Required
+"[{:family=>""Daganzo"", :given=>""C.F.""}]"	_Fundamentals of Transportation and Traffic Operations._Pergamon Press-Elsevier Science			1997	both	Required
+"[{:family=>""Wattleworth"", :given=>""J.A.""}]"	Peak-Period Analysis and Control of a Freeway System	article-journal	Highway Research Record	1967	both	Required
+"[{:family=>""Papageorgiou"", :given=>""M.""}]"	A New Approach to Time-of-Day Control Based on a Dynamic Freeway Traffic Model	article-journal	Transportation Research	1980	both	Required
+"[{:family=>""Makigami"", :given=>""Y.""}]"	On-Ramp Control: Coordinated Time-of-Day Strategies	chapter	Concise Encyclopedia of Traffic and Transportation Systems	1991	both	Required
+"[{:family=>""M."", :given=>""Hillier F.""}, {:family=>""Lieberman"", :given=>""G.J.""}]"	Queueing Theory	chapter	Chapter 15 in Introduction to Operations Research	1995	both	Required
+"[{:family=>""M."", :given=>""Hillier F.""}, {:family=>""Lieberman"", :given=>""G.J.""}]"	Simulation	chapter	Chapter 21 in Introduction to Operations Research	1995	both	Required
+"[{:family=>""Webster"", :given=>""F.V.""}]"	Traffic Signal Settings	article-journal	Road Research Technical Paper	1958	both	Required
+"[{:family=>""Odoni"", :given=>""A.R.""}]"	Issues in Air Traffic Flow Management				both	Required
+"[{:family=>""Barcelo"", :given=>""J.""}]"	Traffic Management Systems	chapter	Concise Encyclopedia of Traffic and Transportation Systems	1991	both	Required
+"[{:family=>""Stathopoulos"", :given=>""A.""}]"	Route Guidance	chapter	Concise Encyclopedia of Traffic and Transportation Systems	1991	both	Required
+"[{:family=>""Daganzo"", :given=>""Carlos F.""}]"	Logistics Systems Analysis	book		1991	both	Optional
+"[{:family=>""Watson"", :given=>""H.""}]"	Computer Simulation in Business	book		1981	both	Optional
+"[{:family=>""Nersesian"", :given=>""R.""}, {:family=>""Swartz"", :given=>""G.Boyd""}]"	Computer Simulation in Logistics	book		1996	both	Optional
+"[{:family=>""Smith"", :given=>""J.U.M.""}]"	Computer Simulation Models	book		1968	both	Optional
+"[{:family=>""Manual"", :given=>""Highway Capacity""}]"	Transportation Research Board	book		1985	both	Optional

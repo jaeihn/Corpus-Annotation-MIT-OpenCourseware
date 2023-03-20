@@ -1,0 +1,35 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Rasmussen"", :given=>""E.""}]"	Dampers Hold Sway	article-journal	Civil Engineering Magazine	1997	left_only	Optional
+"[{:family=>""Kojima"", :given=>""H.""}, {:family=>""Fukahori"", :given=>""Y.""}]"	Rubber World			1990	both	Optional
+"[{:family=>""Fujita"", :given=>""R.""}, {:family=>""Suzuki"", :given=>""S.""}, {:family=>""Fujita"", :given=>""S.""}]"		paper-conference	The 1989 ASME Pressure Vesseles and Piping Conference	1989	both	Optional
+"[{:family=>""Allen"", :given=>""D.E.""}, {:family=>""Murray"", :given=>""T.M.""}]"	Design Criterion for Vibrations Due to Walking	article-journal	AISC Engineering Journal	1993	both	Optional
+	American National Standard Guide to the Evaluation of Human Exposure to Vibration in Buildings				left_only	Optional
+"[{:family=>""Connor"", :given=>""J.J.""}]"	Introduction to Structural Motion Control	book		2002-08	both	Required
+"[{:family=>""Billington"", :given=>""D.P.""}]"	Robert Maillart and the Art of Reinforced Concrete	chapter	The Architectural History Foundation	1990	both	Optional
+"[{:family=>""Blanc"", :given=>""A.""}, {:family=>""McEvoy"", :given=>""M.""}, {:family=>""Plank"", :given=>""R.""}]"	Architecture and Construction in Steel	book		1993	both	Optional
+"[{:family=>""Bush-Brown"", :given=>""A.Skidmore""}, {:given=>""Owings""}, {:given=>""Merrill""}]"	Architecture and Urbanism 1973 -1983	book		1983	both	Optional
+"[{:family=>""Crosnier Leconte"", :given=>""M.-L.""}, {:family=>""Granet"", :given=>""A.""}, {:family=>""Marrey"", :given=>""B.Eiffel""}]"	La Bibliotheque des Expositions Adam Biro			1989	both	Optional
+"[{:family=>""Elliott"", :given=>""C.D.""}]"	Technics and Architecture	chapter	The Development of Materials and Systems for Buildings	1992	both	Optional
+"[{:family=>""Englekirk"", :given=>""R.""}]"	Steel Structures	chapter	Controlling Behavior through Design	1994	both	Optional
+"[{:family=>""Frampton"", :given=>""K.""}]"	Calatrava Bridges Birkhauser Verlag	book		1996	both	Optional
+"[{:family=>""Gordon"", :given=>""J.E.""}]"	The Science of Structures and Materials Scientific American Books			1988	both	Optional
+"[{:family=>""Graham"", :given=>""B.""}]"	Bruce Graham of SOM Rizzoli International			1989	both	Optional
+"[{:family=>""Herzog"", :given=>""T.""}, {:family=>""Nervi"", :given=>""P.L.""}]"	Gestalten in Beton zum Werk von Pier Luigi Nervi Rudolf Muller			1989	both	Optional
+"[{:family=>""Lee"", :given=>""D.J.""}]"	Bridge Bearings and Expansion Joints	book		1994	both	Optional
+"[{:family=>""Leonhardt"", :given=>""F.Brucken""}]"	Asthetik und Gestaltung = Bridges: Aesthetics and Design	book		1982	both	Optional
+"[{:family=>""Major"", :given=>""M.""}]"	Pier Luigi Nervi Henschelverlag			1970	both	Optional
+	Architectural Technology up to the Scientific Revolution	chapter	The Art and Structure of Large-Scale Buildings	1993	both	Optional
+"[{:family=>""Arup"", :given=>""Ove""}, {:given=>""Partners""}]"	Ove Arup & Partners 1946-1986	book		1986	both	Optional
+"[{:family=>""Piano"", :given=>""R.Renzo Piano""}]"	Progetti e architetture 1987-1994	book		1994	both	Optional
+"[{:family=>""Piano"", :given=>""R.""}]"	Renzo Piano and Building Workshop Buildings and Projects 1971-1989	article-journal	Rizzoli International	1989	both	Optional
+"[{:family=>""Rice"", :given=>""P.""}]"	An Engineer Imagines Artemis	article-journal	London	1994	both	Optional
+"[{:family=>""Roig"", :given=>""J.""}]"	Nuevos Puentes/New Bridges Gustavo Gili			1996	both	Optional
+	San Francisco Museum of Art Nervi Space and Structural Integrity Associated Arts Foundation				both	Optional
+"[{:family=>""Scott"", :given=>""Q.""}, {:family=>""Miller"", :given=>""H.S.""}]"				1979	both	Optional
+	Santiago Calatrava	article-journal	Architectural Monographs	1996	both	Optional
+"[{:family=>""Stackpole"", :given=>""P.""}]"	The Bridge Builders Pomegranate			1984	both	Optional
+"[{:family=>""Walker"", :given=>""D.""}]"	Great Engineers	chapter	The Art of British Engineers 1837-1987	1987	both	Optional
+"[{:family=>""Wilson"", :given=>""F.""}]"	Architecture	chapter	Fundamental Issues	1990	both	Optional
+	Architectural Record			1891	both	Optional
+	Architecture			1900	both	Optional
+				1959	both	Optional

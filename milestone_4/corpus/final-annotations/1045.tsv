@@ -1,0 +1,6 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Easley"", :given=>""David""}, {:family=>""Kleinberg"", :given=>""Jon""}]"	Networks				left_only	Required
+"[{:family=>""Jackson"", :given=>""Matthew""}]"	Social and Economic Networks	book			both	Required
+	Production Networks: A Primer	article-journal	Carvalho and Tahbaz-Salehi	2019	both	Optional
+	An Economist’s Guide to Epidemiology Models of Infectious Disease	article-journal	Ellison et al.	2020	both	Required
+"[{:family=>""Easley"", :given=>""David""}, {:family=>""Kleinberg"", :given=>""Jon""}]"	Networks	book			right_only	Required

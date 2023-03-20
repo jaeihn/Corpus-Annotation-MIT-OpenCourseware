@@ -1,0 +1,11 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Chaturvedi"", :given=>""Swati""}, {:family=>""Ochsendorf"", :given=>""John""}]"	Global Environmental Impacts due to Cement and Steel	article-journal	Structural Engineering International	2004-08	both	Required
+"[{:family=>""Dholakia"", :given=>""R.""}, {:family=>""Wackernagel"", :given=>""M.""}]"	Ecological Footprint Accounts: Moving Sustainability from Concept to Measurable Goal	book		1999-10	both	Required
+"[{:family=>""Ford"", :given=>""Edward""}]"	The Theory and Practice of Impermanence	article-journal	Harvard Design Magazine	1997	both	Required
+"[{:family=>""Hawken"", :given=>""Paul""}, {:family=>""Lovins"", :given=>""Amory""}, {:family=>""Lovins"", :given=>""L.Hunter""}]"	Building Blocks	chapter	Chapter 5 in Natural Capitalism: Creating the Next Industrial Revolution	1999	both	Required
+	ISO: 14040 “Environmental management — Life Cycle Assessment — Principles and Framework	book		1997	both	Required
+"[{:given=>""L.E.E.D.""}]"	Building Rating System for New Construction and Major Renovations	chapter	Version 2.1	2002	both	Required
+"[{:family=>""Matos"", :given=>""G.""}, {:family=>""Wagner"", :given=>""L.""}]"	Consumption of Materials in the United States	article-journal	Annual Review of Energy and the Environment	1998-11	both	Required
+"[{:family=>""Meadows"", :given=>""Donella H.""}, {:family=>""Randers"", :given=>""Jorgen""}, {:family=>""Meadows"", :given=>""Dennis L.""}]"	Author’s Preface” and “Overshoot.” Chapter 1 in Limits to Growth: The 30-Year Update			2004-06-01	both	Required
+"[{:family=>""Ochsendorf"", :given=>""J.""}]"	Sustainable Structural Design: Lessons from History	article-journal	Structural Engineering International	2004-08	both	Required
+"[{:family=>""Womack"", :given=>""James P.""}, {:family=>""Jones"", :given=>""Daniel T.""}]"	The Value Stream	chapter	Chapter 2 in Lean Thinking	1996-09-09	both	Required

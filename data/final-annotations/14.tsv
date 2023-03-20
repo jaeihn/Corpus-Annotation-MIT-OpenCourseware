@@ -1,0 +1,56 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Nilson"", :given=>""A.H.""}, {:family=>""Darwin"", :given=>""D.""}, {:family=>""Dolan"", :given=>""C.W.""}]"	Design of Concrete Structures	book		2004	both	Required
+"[{:family=>""Nilson"", :given=>""A.H.""}, {:family=>""Darwin"", :given=>""D.""}, {:family=>""Dolan"", :given=>""C.W.""}]"	Design of Concrete Structures	book		2004	both	Required
+"[{:family=>""Nilson"", :given=>""A.H.""}, {:family=>""Darwin"", :given=>""D.""}, {:family=>""Dolan"", :given=>""C.W.""}]"	Design of Concrete Structures	book		2004	both	Optional
+"[{:family=>""Nilson"", :given=>""A.H.""}, {:family=>""Darwin"", :given=>""D.""}, {:family=>""Dolan"", :given=>""C.W.""}]"	Design of Concrete Structures	book		2004	both	Optional
+"[{:family=>""Institute"", :given=>""American Concrete""}]"	Fracture Mechanics of Concrete: Concepts	article-journal	ACI Committee	1989	both	Optional
+"[{:family=>""Institute"", :given=>""American Concrete""}]"	Building Code Requirements for Structural Concrete (ACI 318-02),” and “Commentary (ACI 318-02	article-journal	ACI Committee	2002	both	Optional
+"[{:family=>""Aitcin"", :given=>""P.C.""}]"	High-Performance Concrete	book		1998	both	Optional
+"[{:family=>""Barker"", :given=>""A.L.L.""}]"	The Ultimate Load Theory Applied to the Design of Reinforced and Prestressed Concrete Frames	book		1956	both	Optional
+"[{:family=>""Bazant"", :given=>""Z.P.""}]"	Fracture Mechanics of Concrete Structures	book		1992	both	Optional
+"[{:family=>""Billington"", :given=>""D.P.""}]"	Thin Shell Concrete Structures	book		1982	both	Optional
+"[{:family=>""Bresler"", :given=>""B.""}]"	Design Criteria for Reinforced Concrete Columns under Axial Load and Biaxial Bending	article-journal	ACI Journal	1960	both	Optional
+"[{:family=>""Bresler"", :given=>""B.""}, {:family=>""Pister"", :given=>""K.S.""}]"	Failure of Plain Concrete under Combined Stresses	article-journal	ASCE Transactions	1955-08	both	Optional
+	Reinforced Concrete Engineering: Volume I - Materials	book		1974	both	Optional
+"[{:family=>""Buyukozturk"", :given=>""O.""}]"	Nonlinear Analysis of Reinforced Concrete Structures	article-journal	Computers and Structures	1977	both	Optional
+"[{:family=>""Buyukozturk"", :given=>""O.""}]"	Imaging of Concrete Structures	article-journal	NDT & E International	1998	both	Optional
+"[{:family=>""Buyukozturk"", :given=>""O.""}, {:family=>""Bazant"", :given=>""Z.P.""}]"	Creep Analysis of Structures	article-journal	Mathematical Modeling of Creep and Shrinkage of Concrete	1988	both	Optional
+"[{:family=>""Buyukozturk"", :given=>""O.""}, {:family=>""Gunes"", :given=>""O.""}]"	Advances in Earthquake Risk Assessment and Hazard Reduction for Large Inventory of Structures with High Characteristic Variability	article-journal	ARI The Bulletin of The Istanbul Technical University	2002	both	Optional
+"[{:family=>""Buyukozturk"", :given=>""O.""}, {:family=>""Nilson"", :given=>""A.H.""}]"	Deformation and Fracture of Particulate Composite	article-journal	Journal of the Engineering Mechanics Division	1972	both	Optional
+"[{:family=>""Buyukozturk"", :given=>""O.""}, {:family=>""Shareef"", :given=>""S.S.""}]"	Constitutive Modeling of Concrete in Finite Element Analysis	article-journal	Computers & Structures	1985	both	Optional
+"[{:family=>""Chattejee"", :given=>""B.K.""}]"	Theory and Design of Concrete Shells	book		1988	both	Optional
+"[{:family=>""Chen"", :given=>""E.S.""}, {:family=>""Buyukozturk"", :given=>""O.""}]"	Constitutive Model for Concrete in Cyclic Compression	article-journal	Journal of Engineering Mechanics	1985	both	Optional
+"[{:family=>""Chen"", :given=>""W.F.""}]"	Plasticity in Reinforced Concrete	book		1982	both	Optional
+"[{:family=>""Silva"", :given=>""C.W."", :particle=>""De""}, {:family=>""Wormley"", :given=>""D.N.""}, {:family=>""Buyukozturk"", :given=>""O.""}]"	Postcracking Compliance Analysis of RC Beams	article-journal	Journal of The Structural Division	1979	both	Optional
+"[{:family=>""Fardis"", :given=>""M.N.""}, {:family=>""Buyukozturk"", :given=>""O.""}]"	Shear Transfer Model for Reinforced Concrete	article-journal	Journal of The Engineering Mechanics Division	1979	both	Optional
+"[{:family=>""Fardis"", :given=>""M.N.""}, {:family=>""Buyukozturk"", :given=>""O.""}]"	Shear Stiffness of Concrete by Finite Elements	article-journal	Journal of The Structural Division	1980	both	Optional
+"[{:family=>""Farshad"", :given=>""M.""}]"	Design and Analysis of Shell Structures	book		1992	both	Optional
+"[{:family=>""Gori"", :given=>""R.""}]"	Theoretical Performance of RC Elements Built at the Turn of the Century	article-journal	Journal of Performance of Constructed Facilities	1999	both	Optional
+"[{:family=>""Gould"", :given=>""P.L.""}]"	Analysis of Shells and Plates	book		1988	both	Optional
+"[{:family=>""Guidotti"", :given=>""G.""}, {:family=>""Lucchesi"", :given=>""M.""}, {:family=>""Pagni"", :given=>""A.""}, {:family=>""Pasquinelli"", :given=>""G.""}]"	Application of Shell Theory to Structural Problem Using the Finite Element Method	article-journal	Istituto CNUCE	1986	both	Optional
+"[{:family=>""Hsu"", :given=>""T.T.C.""}]"	Torsion of Reinforced Concrete	book		1984	both	Optional
+"[{:family=>""Ingerslev"", :given=>""A.""}]"	The Strength of Rectangular Slabs	article-journal	J. Inst. Struct. Engng	1923-01	both	Optional
+"[{:family=>""Jawad"", :given=>""M.H.""}]"	Theory and Design of Plate and Shell Structures	book		1994	both	Optional
+"[{:family=>""Johnson"", :given=>""K.W.""}]"	Brudlinieteorier	book		1943-07	both	Optional
+"[{:family=>""Kellar"", :given=>""V.S.""}, {:family=>""Sewell"", :given=>""R.T.""}]"	Fundamentals of the Analysis and Design of Shell Structures	book		1987	both	Optional
+"[{:family=>""Kupfer"", :given=>""H.""}, {:family=>""Hilsdorf"", :given=>""H.K.""}, {:family=>""Rüsch"", :given=>""H.""}]"	Behaviour of Concrete Under Biaxial Stress	article-journal	Journal of American Concrete Institute (ACI Journal	1969	both	Optional
+"[{:family=>""Leet"", :given=>""K.M.""}]"	Reinforced Concrete Design: Conforms to 1995 ACI Codes	book		1997	both	Optional
+"[{:family=>""Mehta"", :given=>""P.K.""}, {:family=>""Monteiro"", :given=>""P.J.M.""}]"	Concrete: Microstructure	book		1993	both	Optional
+"[{:family=>""Mindess"", :given=>""S.""}, {:family=>""Young"", :given=>""J.F.""}, {:family=>""Darwin"", :given=>""D.""}]"	Concrete	book		2003	both	Optional
+"[{:family=>""Mollmann"", :given=>""H.""}]"	Introduction to the Theory of Thin Shells	book		1982	both	Optional
+"[{:family=>""Nawy"", :given=>""E.G.""}]"	Reinforced Concrete - A Fundamental Approach	book		2003	both	Optional
+"[{:family=>""Nielsen"", :given=>""N.P.""}]"	Limit Analysis and Concrete Plasticity	book		1999	both	Optional
+"[{:family=>""Niordson"", :given=>""F.I.""}]"	Shell Theory	book		1985	both	Optional
+"[{:family=>""Park"", :given=>""R.""}, {:family=>""Pauley"", :given=>""T.""}]"	Reinforced Concrete Structures	book		1975	both	Optional
+"[{:family=>""Park"", :given=>""R.""}, {:family=>""Gamble"", :given=>""W.L.""}]"	Reinforced Concrete Slabs	book		2002	both	Optional
+"[{:family=>""Penelis"", :given=>""G.G.""}, {:family=>""Kappos"", :given=>""A.J.""}]"	Earthquake Resistant Concrete Structures	book		1997	both	Optional
+"[{:family=>""Ramamurthy"", :given=>""L.N.""}]"	Investigation of the Ultimate Strength of Square and Rectangular Columns under Biaxially Eccentric Loads	article-journal	Reinforced Concrete Columns	1966	both	Optional
+"[{:family=>""Sacks"", :given=>""R.""}, {:family=>""Buyukozturk"", :given=>""O.""}]"	Expert Interactive Design of R/C Columns under Biaxial Bending	article-journal	Journal of Computing in Civil Engineering	1987	both	Optional
+"[{:family=>""Tasuji"", :given=>""M.E.""}, {:family=>""Slate"", :given=>""F.O.""}, {:family=>""Nilson"", :given=>""A.H.""}]"	Stress-Strain Response and Fracture of Concrete in Biaxial Loading	article-journal	ACI Journal	1978	both	Optional
+"[{:family=>""Timoshenko"", :given=>""S.""}, {:family=>""Woinowsky-Krieger"", :given=>""S.""}]"	Theory of Plates and Shells	book		1959	both	Optional
+"[{:family=>""Wempner"", :given=>""G.""}, {:family=>""Talaslidis"", :given=>""D.""}]"	Mechanics of Solids and Shells: Theories and Applications	book		2003	both	Optional
+"[{:family=>""William"", :given=>""K.J.""}, {:family=>""Warnke"", :given=>""E.P.""}]"	Constitutive Model for The Triaxial Behavior of Concrete	article-journal	Int. Assoc. Bridge Struct. Engng. Proc	1975	both	Optional
+"[{:family=>""Wium"", :given=>""D.J.W.""}, {:family=>""Buyukozturk"", :given=>""O.""}]"	Behavior of Precast Segmental Concrete Bridges	report		1984	both	Optional
+"[{:family=>""Wium"", :given=>""D.J.W.""}, {:family=>""Buyukozturk"", :given=>""O.""}]"	Variability in Long-term Concrete Deformations	article-journal	Journal of Structural Engineering	1985	both	Optional
+"[{:family=>""Wood"", :given=>""R.H.""}]"	Plastic and Elastic Design of Slabs and Plates	book		1961	both	Optional
+"[{:family=>""Zingoni"", :given=>""A.""}]"	Shell Structures in Civil and Mechanical Engineering	book		1997	both	Optional

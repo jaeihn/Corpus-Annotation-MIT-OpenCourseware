@@ -1,0 +1,3 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Bergman"", :given=>""Theodore L.""}, {:family=>""Lavine"", :given=>""Adrienne S.""}, {:family=>""Incropera"", :given=>""Frank P.""}, {:others=>true}]"	Introduction to Heat Transfer			2011	both	Required
+"[{:family=>""Lienhard"", :given=>""John H.""}, {:family=>""Lienhard"", :given=>""John H.""}]"	A Heat Transfer Textbook			2011	both	Optional

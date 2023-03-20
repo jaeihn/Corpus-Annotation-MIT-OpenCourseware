@@ -1,5 +1,5 @@
 Required	[{:family=>"Suh", :given=>"N.P."}]	["Axiomatic Design: Advances and Applications"]			["2001"]
-Required	[{:literal=>"———."}]	["Complexity: Theory and Applications"]			["2005"]
+Required	[{:family=>"Suh", :given=>"N.P."}]	["Complexity: Theory and Applications"]			["2005"]
 Optional	[{:family=>"Stachel", :given=>"J."}]	["1905 and all that"]	article-journal	["Nature"]	["2005-01-20"]
 Optional	[{:family=>"Barrow", :given=>"J.D."}]	["Einstein as an Icon"]	article-journal	["Nature"]	["2005-01-20"]
 Optional	[{:family=>"Parisi", :given=>"G."}]	["Brownian Motion"]	article-journal	["Nature"]	["2005-01-20"]

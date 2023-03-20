@@ -1,5 +1,4 @@
 Required	[{:family=>"Thompson", :given=>"P.A."}]	["Compressible Fluid Dynamics"]			["1972"]
-Required	[{:family=>"Taylor", :given=>"Geoffrey"}]	["The Formation of a Blast Wave by a Very Intense Explosion. I. Theoretical Discussion_._"]	article-journal	["Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences 201"]	["1950"]
 Optional	[{:family=>"Landau", :given=>"L.D."}, {:family=>"Lifshitz", :given=>"E.M."}]	["Fluid Mechanics"]	book		["1995"]
 Optional	[{:family=>"Liepmann", :given=>"H.W."}, {:family=>"Roshko", :given=>"A."}]	["Elements of Gas Dynamics"]	book		["2001", "1957"]
 Optional	[{:family=>"Oosthuizen", :given=>"P.H."}, {:family=>"Carscallen", :given=>"W.E."}]	["Compressible Fluid Flow"]	book		["1997"]

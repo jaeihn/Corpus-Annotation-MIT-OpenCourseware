@@ -1,0 +1,5 @@
+Optional	[{:family=>"Awodey", :given=>"Steve"}]	["Category Theory"]			["2010"]
+Required	[{:family=>"Spivak", :given=>"David I."}]	["Category Theory for Scientists"]			["2013"]
+Optional	[{:family=>"Baez", :given=>"John C."}, {:family=>"Stay", :given=>"Mike"}]	["Physics, Topology, Logic, and Computation: A Rosetta Stone"]			["2009-03-02"]
+Optional	[{:family=>"Gromov", :given=>"Misha"}]	["In a Search for a Structure, Part 1: On Entropy"]			["2012-07-10"]
+Optional	[{:family=>"Weinstein", :given=>"Alan"}]	["Groupoids Unifying Internal and External Symmetry: A Tour through Some Examples"]	article-journal	["Notices of the American Mathematical Society"]	["1996"]

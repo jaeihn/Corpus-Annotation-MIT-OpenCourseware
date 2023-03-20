@@ -1,0 +1,32 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Fielding"", :given=>""G.J.""}]"	Managing Public Transit Strategically			Pete	both	Optional
+"[{:family=>""Rye"", :given=>""T.""}, {:family=>""Wilson"", :given=>""N.""}]"	The Urban Bus Situation in the UK: Recent Developments and a Case Study of Edinburgh	book		2002-03	both	Required
+"[{:family=>""Wilson"", :given=>""N.H.M.""}]"	Public Transport in the U.S.A.: A Critical Appraisal and Prospects For Future Industry Restructuring	book		2002-03	both	Required
+"[{:family=>""Gwilliam"", :given=>""K.""}]"	Ownership	chapter	Fifth International Competition and Ownership in Land Passenger Transport	1997-05	both	Required
+"[{:family=>""Halvorsen"", :given=>""R.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	The Role of Contract Structuring in Contracted Public Transport Performance: Theory and Practice	paper-conference	Proceedings of the Fourth International Conference on Competition and Ownership in Land Passenger Transport	1995-07	both	Required
+"[{:family=>""Blakey"", :given=>""Tara""}]"	Designing Transit Concession Contracts to Deal with Uncertainty	chapter	Master of Science in Transportation Thesis	2006	both	Required
+	Using Archived AVL-APC Data to Improve Transit Performance and Management				both	Required
+"[{:family=>""Lee"", :given=>""Douglass""}]"	Transit Cost and Performance Measurement	article-journal	Transport Reviews	1989	both	Required
+	The Role of Performance-Based Measures in Allocating Funding for Transit Operations				both	Required
+	A Summary of TCRP Report 88: “A Guidebook for Developing a Transit Performance-Measurement System				both	Required
+	Support for Fundamental Change in Public Transportation				both	Required
+	Customer-Focused Transit			Project J-7	both	Required
+	Innovative Financing Techniques for Transit Agencies				both	Required
+	Fare Policies				both	Required
+"[{:family=>""Yi"", :given=>""Hong""}]"	Transition to Smart Card Technology: How Transit Operators Can Encourage the Take-Up of Smart Card Technology	chapter	Master of Science in Transportation Thesis	2006	both	Required
+	A Handbook of Proven Marketing Strategies for Public Transit				both	Required
+					left_only	Required
+	A Handbook: Integrating Market Research into Transit Management				both	Required
+	A Challenged Employment System: Hiring				both	Required
+	Practices in Assuring Employee Availability				both	Required
+	Total Quality Management in Public Transportation				both	Required
+	The Quality Journey: A TQM Roadmap for Public Transportation				both	Required
+"[{:family=>""Harsh"", :given=>""W."", :suffix=>""Jr""}]"	Innovative Labor-Management Practices	report		1995	both	Required
+"[{:family=>""Koutsopoulos"", :given=>""H.N.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	Operator Workforce Planning in the Transit Industry	article-journal	Transportation Research	1987	both	Required
+"[{:family=>""Shiftan"", :given=>""Y.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	Absence	article-journal	Transportation Research Record	1993	both	Required
+	Light Rail Service: Vehicular and Pedestrian Safety				both	Required
+	Monitoring Bus Maintenance Performance				both	Required
+	Leveraging Information for Better Transit Maintenance				both	Required
+	Information Technology Update for Transit				both	Required
+	TCRP Web Document 8	chapter	Executive Summary		right_only	Required
+	Transit Cooperative Research Program Syntheses			1994	right_only	Optional

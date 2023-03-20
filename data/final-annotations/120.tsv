@@ -1,0 +1,36 @@
+author	title	type	collection	year	_merge	category
+"[{:given=>""Sonin""}]"	Fundamental Laws of Motion: Particles				both	Required
+"[{:given=>""White""}]"	Viscous Fluid Flow			1991	both	Required
+"[{:family=>""Bird"", :given=>""Curtis""}, {:given=>""Hirschfelder""}]"	Molecular Theory of Gases and Liquid			1954	both	Required
+"[{:given=>""Vincenti""}, {:given=>""Kruger""}]"	_Introduction to Physical Gas Dynamics._1965				both	Required
+"[{:family=>""Champagne"", :given=>""Pao""}, {:family=>""Mech"", :given=>""Wygnaski J.Fluid""}]"				1976	both	Required
+"[{:given=>""Abramovich""}]"	The Theory of Turbulent Jets				both	Required
+"[{:given=>""Rodi""}]"	Studies in Convection	book		1975	both	Required
+"[{:family=>""Chap"", :given=>""Townsend""}]"	6 in The Structure of Turbulent Shear Flow			1976	both	Required
+"[{:given=>""Cebeci""}, {:given=>""Smith""}, {:given=>""McGinley""}]"	Analysis of Turbulent Boundary Layers	article-journal	Academic	1974	left_only	Required
+"[{:given=>""Blackwelder""}]"	Haritonidis	article-journal	J. Fluid Mech	1983	left_only	Required
+"[{:given=>""Turner""}]"	Buoyancy Effects in Fluids			1973	left_only	Required
+"[{:given=>""Chen""}, {:given=>""Rodi""}]"	A Review of Experimental Data	book		1980	both	Required
+"[{:given=>""Fay""}]"	Buoyant Plumes and Wakes	article-journal	Ann. Rev. Fluid Mech	1973	both	Required
+"[{:family=>""Jets"", :given=>""Rodi Turbulent Buoyant""}, {:family=>""Press"", :given=>""Plumes Pergamon""}]"	Pope	article-journal	Chap	1982	left_only	Required
+"[{:given=>""Chen""}, {:given=>""Yaw""}]"	Fundamentals of Turbulence Modeling	book		1998	both	Required
+"[{:given=>""Libby""}]"	Introduction to Turbulence	book		1996	both	Required
+	LaJones	article-journal	Int. J. Heat Mass Transfer	1972	both	Required
+"[{:family=>""Bradshaw"", :given=>""Cebeci""}, {:given=>""Whitelaw""}]"	Engineering Calculation Methods for Turbulent Flow	book		1981	both	Required
+"[{:given=>""Rodi""}]"	Engineering Turbulence Modelling and Experiments 3	book		1996	both	Required
+"[{:given=>""Monin""}, {:given=>""Yaglom""}, {:family=>""Taylor"", :given=>""G.I.Proc Roy"", :particle=>""ff.9""}]"	Soc	article-journal	A	1979	left_only	Required
+"[{:family=>""Probstein"", :given=>""R.F.""}]"	Physicochemical Hydrodynamics	book		1994	both	Required
+"[{:given=>""Monin""}, {:given=>""Yaglom""}]"	Statistical Fluid Mechanics	book		1973	both	Required
+"[{:given=>""Levich""}]"	Physicochemical Hydrodynamics	book		1962	both	Required
+"[{:family=>""Fischer"", :given=>""H.B.""}]"	Longitudinal dispersion and turbulent mixing in open channel flow	article-journal	Ann. Rev. Fluid Mech	1973	both	Required
+"[{:family=>""Chatwin"", :given=>""P.C.""}, {:family=>""Sullivan"", :given=>""P.J.""}]"	J	article-journal	Fluid Mech	1982	both	Required
+"[{:family=>""Handout"", :given=>""Sonin""}]"	The Thermodynamic Constitutive Equations and the Equation for Temperature				right_only	Required
+"[{:given=>""Cebeci""}, {:given=>""Smith""}]"	Analysis of Turbulent Boundary Layers	book		1974	right_only	Required
+"[{:given=>""Bushnell""}, {:given=>""McGinley""}]"	Turbulence control in wall flows	article-journal	Ann. Rev. Fluid Mech	1989	right_only	Required
+"[{:given=>""List""}]"	Turbulent Jets and Plumes	article-journal	Ann. Rev. Fluid Mech	1982	right_only	Required
+"[{:given=>""Rodi""}]"	Turbulent Buoyant Jets & Plumes	book		1982	right_only	Required
+	LaJones	article-journal	Int. J. Heat Mass Transfer	1973	right_only	Required
+"[{:given=>""Rodi""}]"	Turbulence models and their applications in Hydraulics– “a state of the art review	article-journal	Int. Assoc. for Hydraulics		right_only	Required
+"[{:family=>""Chap"", :given=>""Turbulence""}]"	1 & 5	book		1978	right_only	Required
+"[{:given=>""Monin""}, {:given=>""Yaglom""}]"		book		1979	right_only	Required
+"[{:family=>""Taylor"", :given=>""G.I.Proc Roy""}]"	Soc	article-journal	A	1953	right_only	Required

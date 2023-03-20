@@ -1,0 +1,17 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Slocum"", :given=>""Alexander H.""}]"	Creating Ideas	chapter	Chapter 2 in Fundamentals of Design		left_only	Optional
+"[{:family=>""Newman"", :given=>""Dava""}]"	Introduction to Engineering,” and “Design: Lighter-Than-Air (LTA) Vehicle Module.” Chapters 2 and 12 in Interactive Aerospace Engineering and Design			2001	left_only	Optional
+"[{:family=>""Belden"", :given=>""Jesse""}]"	3 Methods for Dimensional Analysis				left_only	Optional
+"[{:family=>""White"", :given=>""Frank M.""}]"	Dimensional Analysis and Similarity,” and “Experimental External Flow.” Chapter 5 and Section 7.6 in Fluid Mechanics			2006	left_only	Optional
+"[{:family=>""Taylor"", :given=>""Geoffrey""}]"	The Formation of a Blast Wave by a Very Intense Explosion II. The Atomic Explosion of 1945	paper-conference	Proceedings of the Royal Society of London A 201	1950-03-22	left_only	Optional
+"[{:family=>""Slocum"", :given=>""Alexander H.""}]"	Design Is A Passionate Process	chapter	Chapter 1 in Fundamentals of Design		left_only	Required
+"[{:family=>""Kent"", :given=>""Adrian""}]"	A Critical Look at Risk Assessments for Global Catastrophes	article-journal	Risk Analysis	2004	both	Required
+"[{:family=>""Calogero"", :given=>""Francesco""}]"	Might A Laboratory Experiment Destroy Planet Earth?	article-journal	Interdisciplinary Science Reviews	2000	both	Required
+"[{:family=>""Overbye"", :given=>""Dennis""}]"	Gauging a Collider’s Odds of Creating a Black Hole	article-journal	New York Times	2008-04-15	both	Required
+"[{:family=>""Jaffe"", :given=>""R.L.""}, {:others=>true}]"	Review of Speculative ‘Disaster Scenarios’ at RHIC	article-journal	Reviews of Modern Physics	2000	both	Optional
+"[{:family=>""Johnson"", :given=>""George""}]"	Physicists Strive to Build a Black Hole	article-journal	New York Times	2001-09-11	both	Optional
+"[{:family=>""Overbye"", :given=>""Dennis""}]"	Asking a Judge to Save the World	article-journal	New York Times	2008-03-29	both	Optional
+"[{:family=>""Nizza"", :given=>""Mike""}]"	Hawking Anticipates Collider’s Start	article-journal	New York Times	2008-09-09	both	Optional
+"[{:family=>""Overbye"", :given=>""Dennis""}]"	A Giant Takes On Physics’ Biggest Questions	article-journal	New York Times	2005-05-15	both	Optional
+"[{:family=>""Dar"", :given=>""Arnon""}, {:family=>""Rújula"", :given=>""A."", :particle=>""De""}, {:family=>""Heinz"", :given=>""Ulrich""}]"	Will Relativistic Heavy Ion Colliders Destroy Our Planet?	article-journal	Physical Review Letters B	1999	both	Optional
+"[{:given=>""AssociatedPress""}]"	Particle Collider Fires	article-journal	September	2008	both	Optional

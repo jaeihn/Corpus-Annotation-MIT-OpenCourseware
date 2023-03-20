@@ -1,0 +1,190 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Gibbons"", :given=>""Robert""}]"	Incentives Between Firms (and Within	article-journal	Management Science	2005	both	Required
+	Four Formal(izable) Theories of the Firm?	article-journal	Journal of Economic Behavior and Organization	2005	left_only	Required
+		chapter	The Handbook of Organizational Economics		left_only	Required
+"[{:family=>""Coase"", :given=>""Ronald""}]"	The Nature of the Firm	article-journal	Economica	1937	both	Required
+"[{:family=>""Williamson"", :given=>""Oliver""}]"	The Vertical Integration of Production: Market Failure Considerations	article-journal	American Economic Review	1971	both	Required
+"[{:family=>""Alchian"", :given=>""Armen""}, {:family=>""Demsetz"", :given=>""Harold""}]"	Production	article-journal	American Economic Review	1972	both	Required
+"[{:family=>""Klein"", :given=>""Benjamin""}, {:family=>""Crawford"", :given=>""Robert""}, {:family=>""Alchian"", :given=>""Armen""}]"	Vertical Integration	article-journal	Journal of Law and Economics	1978	both	Required
+"[{:family=>""Williamson"", :given=>""Oliver""}]"	Transaction Cost Economics: The Governance of Contractual Relations	article-journal	Journal of Law and Economics	1979	both	Optional
+"[{:family=>""Monteverde"", :given=>""Kirk""}, {:family=>""Teece"", :given=>""David""}]"	Supplier Switching Costs and Vertical Integration in the Automobile Industry	article-journal	Bell Journal of Economics	1982	both	Required
+"[{:family=>""Masten"", :given=>""Scott""}]"	The Organization of Production: Evidence from the Aerospace Industry	article-journal	Journal of Law and Economics	1984	both	Required
+"[{:family=>""Joskow"", :given=>""Paul""}]"	Vertical Integration and Long-Term Contracts: The Case of Coal-Burning Electric Generation Plants	article-journal	Journal of Law Economics and Organizations	1985	both	Required
+"[{:family=>""Macher"", :given=>""Jeffrey""}, {:family=>""Richman"", :given=>""Barak""}]"	Transaction Cost Economics: An Assessment of Empirical Research in the Social Sciences	article-journal	Business and Politics	2008	both	Optional
+"[{:family=>""Grossman"", :given=>""Sanford""}, {:family=>""Hart"", :given=>""Oliver""}]"	The Costs and Benefits of Ownership: A Theory of Vertical and Lateral Integration	article-journal	Journal of Political Economy	1986	both	Required
+"[{:family=>""Hart"", :given=>""Oliver""}]"	Firms			1995	both	Optional
+"[{:family=>""Whinston"", :given=>""Michael""}]"	On the Transaction Cost Determinants of Vertical Integration	article-journal	Journal of Law Economics and Organizations	2003	both	Optional
+"[{:family=>""Holmstrom"", :given=>""Bengt""}, {:family=>""Milgrom"", :given=>""Paul""}]"	The Firm as an Incentive System	article-journal	American Economic Review	1994	both	Optional
+"[{:family=>""Holmstrom"", :given=>""Bengt""}]"	The Firm as a Subeconomy	article-journal	Journal of Law Economics and Organizations	1999	both	Required
+"[{:family=>""Simon"", :given=>""Herbert""}]"	A Formal Theory Model of the Employment Relationship	article-journal	Econometrica	1951	both	Required
+"[{:family=>""Williamson"", :given=>""Oliver""}]"	Markets and Hierarchies: Analysis and Antitrust Implications			1983	both	Optional
+"[{:family=>""Hart"", :given=>""Oliver""}, {:family=>""Moore"", :given=>""John""}]"	Contracts as Reference Points	article-journal	Quarterly Journal of Economics	2008	both	Optional
+"[{:family=>""Hart"", :given=>""Oliver""}, {:family=>""Holmstrom"", :given=>""Bengt""}]"	A Theory of Firm Scope	article-journal	National Bureau of Economic Research Working Paper	2008-12	both	Optional
+"[{:family=>""Gibbons"", :given=>""Robert""}]"	Four Formal(izable) Theories of the Firm?	article-journal	Journal of Economic Behavior and Organization	2005	both	Optional
+"[{:family=>""Baker"", :given=>""George""}, {:family=>""Hubbard"", :given=>""Thomas""}]"	Make Versus Buy in Trucking: Asset Ownership	article-journal	American Economic Review	2003	both	Optional
+	Contractibility and Asset Ownership: On-Board Computers and Governance in US Trucking	article-journal	Quarterly Journal of Economics	2004	left_only	Optional
+"[{:family=>""Azoulay"", :given=>""Pierre""}]"	Capturing Knowledge Within and Across Firm Boundaries: Evidence from Clinical Development	article-journal	American Economic Review	2004	both	Optional
+"[{:family=>""Forbes"", :given=>""Silke""}, {:family=>""Lederman"", :given=>""Mara""}]"	Adaptation and Vertical Integration in the Airline Industry	manuscript			left_only	Optional
+	Does Vertical Integration Affect Firm Performance? Evidence from the Airline Industry	manuscript		2008	left_only	Optional
+"[{:family=>""Aghion"", :given=>""Philippe""}, {:family=>""Tirole"", :given=>""Jean""}]"	On the Management of Innovation	article-journal	Quarterly Journal of Economics	1994	both	Optional
+"[{:family=>""Bajari"", :given=>""Patrick""}, {:family=>""Tadelis"", :given=>""Steven""}]"	Incentives Versus Transaction Costs: A Theory of Procurement Contracts	article-journal	RAND Journal of Economics	2001	both	Required
+"[{:family=>""Macaulay"", :given=>""Stewart""}]"	Non Contractual Relations in Business: A Preliminary Study	article-journal	American Sociological Review	1963	both	Optional
+"[{:family=>""Macneil"", :given=>""Ian""}]"	Contracts: Adjustments of Long-term Economic Relations Under Classical	article-journal	Northwestern University Law Review	1978	both	Optional
+"[{:family=>""Klein"", :given=>""Benjamin""}, {:family=>""Murphy"", :given=>""Kevin M.""}]"	Vertical Restraints as Contract Enforcement Mechanisms	article-journal	Journal of Law and Economics	1988	both	Optional
+	Vertical Integration as a Self-Enforcing Contractual Arrangement	article-journal	American Economic Review	1997	left_only	Optional
+"[{:family=>""Klein"", :given=>""Benjamin""}]"	The Role of Incomplete Contracts in Self-Enforcing Relationships	article-journal	Revue D’Économie Industrielle	2000	both	Optional
+"[{:family=>""Baker"", :given=>""George P.""}, {:family=>""Gibbons"", :given=>""Robert""}, {:family=>""Murphy"", :given=>""Kevin J.""}]"	Relational Contracts and the Theory of the Firm	article-journal	Quarterly Journal of Economics	2002	both	Required
+"[{:family=>""Lerner"", :given=>""Josh""}, {:family=>""Merges"", :given=>""Robert""}]"	The Control of Technology Alliances: An Empirical Analysis of the Biotechnology Industry	article-journal	Journal of Industrial Economics	1998	both	Required
+"[{:family=>""McMillan"", :given=>""John""}, {:family=>""Woodruff"", :given=>""Christopher""}]"	Dispute Prevention Without Courts in Vietnam	article-journal	Journal of Law	1999	both	Optional
+"[{:family=>""Arruñada"", :given=>""Benito""}, {:family=>""Garicano"", :given=>""Luis""}, {:family=>""Vázquez"", :given=>""Luis""}]"	Contractual Allocation of Decision Rights and Incentives: The Case of Automobile Distribution	article-journal	Journal of Law	2001	both	Required
+"[{:family=>""Elfenbein"", :given=>""Daniel""}, {:family=>""Lerner"", :given=>""Josh""}]"	Ownership and Control Rights in Internet Portal Alliances	article-journal	RAND Journal of Economics	2003	both	Optional
+"[{:family=>""Corts"", :given=>""Kenneth""}, {:family=>""Singh"", :given=>""Jasjit""}]"	The Effect of Repeated Interaction on Contract Choice: Evidence from Offshore Drilling	article-journal	Journal of Law	2004	both	Required
+"[{:family=>""Gil"", :given=>""Ricard""}, {:family=>""Marion"", :given=>""Justin""}]"	The Role of Repeated Interactions	manuscript		2009	both	Optional
+"[{:family=>""Weber"", :given=>""Katherine Seger""}, {:family=>""Hill"", :given=>""Linda""}]"	Rudi Gassner and the Executive Committee of BMG International (A	book		1995	both	Required
+"[{:family=>""Hunt"", :given=>""Brian""}, {:family=>""Lerner"", :given=>""Josh""}]"	Xerox Technology Ventures: March 1995	book		1998	both	Required
+"[{:family=>""Freeze"", :given=>""Karen""}, {:family=>""Pisano"", :given=>""Gary""}]"	Crown Equipment Corporation: Design Services Strategy	book		1991	both	Required
+"[{:family=>""Dyer"", :given=>""Jeffrey""}]"	How Chrysler Created an American Keiretsu	article-journal	Harvard Business Review (July-August		both	Required
+"[{:family=>""Lazear"", :given=>""Edward""}]"	Performance Pay and Productivity	article-journal	American Economic Review	2000	both	Optional
+"[{:family=>""Baker"", :given=>""George""}]"	Incentive Contracts and Performance Measurement	article-journal	Journal of Political Economy	1992	both	Optional
+	Distortion and Risk in Optimal Incentive Contracts	article-journal	Journal of Human Resources	2002	left_only	Optional
+"[{:family=>""Courty"", :given=>""Pascal""}, {:family=>""Marschke"", :given=>""Gerald""}]"	An Empirical Investigation of Gaming Responses to Explicit Performance Incentives	article-journal	Journal of Labor Economics	2004	both	Required
+"[{:family=>""Oyer"", :given=>""Paul""}]"	Fiscal Year Ends and Nonlinear Incentive Contracts: The Effect on Business Seasonality	article-journal	Quarterly Journal of Economics	1998	both	Required
+"[{:family=>""Larkin"", :given=>""Ian""}]"	The Cost of High-Powered Incentives: Employee Gaming in Enterprise Software Sales	manuscript		2007	both	Optional
+"[{:family=>""Baker"", :given=>""George""}, {:family=>""Gibbons"", :given=>""Robert""}, {:family=>""Murphy"", :given=>""Kevin J.""}]"	Subjective Performance Measures in Optimal Incentive Contracts	article-journal	Quarterly Journal of Economics	1994	both	Required
+"[{:family=>""Hayes"", :given=>""Rachel""}, {:family=>""Schaefer"", :given=>""Scott""}]"	Implicit Contracts and the Explanatory Power of Top Executive Compensation for Future Performance	article-journal	RAND Journal of Economics	2000	both	Optional
+"[{:family=>""Burtis"", :given=>""Andrew""}, {:family=>""Gabarro"", :given=>""John""}]"	Brainard	book		1996	both	Required
+"[{:family=>""Stewart"", :given=>""James""}]"	Taking the Dare	article-journal	The New Yorker	1993-07-26	both	Required
+"[{:family=>""Roy"", :given=>""Donald""}]"	Quota Restriction and Goldbricking in a Machine Shop	article-journal	American Journal of Sociology	1952	both	Required
+"[{:family=>""Waldman"", :given=>""Michael""}]"	Job Assignment	article-journal	RAND Journal of Economics	1984	both	Required
+"[{:family=>""Brüderl"", :given=>""Josef""}, {:family=>""Diekmann"", :given=>""Andreas""}, {:family=>""Preisendörfer"", :given=>""Peter""}]"	Patterns of Intraorganizational Mobility: Tournament Models	article-journal	Social Science Research	1991	both	Optional
+"[{:family=>""Chiappori"", :given=>""Pierre-André""}, {:family=>""Salanié"", :given=>""Bernard""}, {:family=>""Valentin"", :given=>""Julie""}]"	Early Starters versus Late Beginners	article-journal	Journal of Political Economy	1999	both	Optional
+"[{:family=>""Prendergast"", :given=>""Canice""}]"	The Role of Promotion in Inducing Specific Human Capital Acquisition	article-journal	Quarterly Journal of Economics	1993	both	Required
+"[{:family=>""Acemoglu"", :given=>""Daron""}, {:family=>""Pischke"", :given=>""J.Stephen""}]"	Why Do Firms Train? Theory and Evidence	article-journal	Quarterly Journal of Economics	1998	both	Optional
+"[{:family=>""Autor"", :given=>""David""}]"	Why Do Temporary Help Firms Provide Free General Skills Training?	article-journal	Quarterly Journal of Economics	2001	both	Optional
+"[{:family=>""Wiggenhorn"", :given=>""William""}]"	Motorola U: When Training Becomes an Education	article-journal	Harvard Business Review (July-August		both	Required
+"[{:family=>""Podolny"", :given=>""Joel""}, {:family=>""Baron"", :given=>""James""}]"	Resources and Relationships: Social Networks and Mobility in the Workplace	article-journal	American Sociological Review	1997	both	Required
+"[{:family=>""Fernandez"", :given=>""Roberto""}, {:family=>""Weinberg"", :given=>""Nancy""}]"	Sifting and Sorting: Personal Contacts and Hiring in a Retail Bank	article-journal	American Sociological Review	1997	both	Optional
+"[{:family=>""Fernandez"", :given=>""Roberto""}, {:family=>""Castilla"", :given=>""Emilio""}, {:family=>""Moore"", :given=>""Paul""}]"	Social Capital at Work: Networks and Employment at a Phone Center	article-journal	American Journal of Sociology	1999	both	Optional
+"[{:family=>""Baker"", :given=>""George""}, {:family=>""Gibbs"", :given=>""Michael""}, {:family=>""Holmstrom"", :given=>""Bengt""}]"	The Internal Economics of the Firm: Evidence from Personnel Data	article-journal	Quarterly Journal of Economics	1994	both	Required
+	The Wage Policy of a Firm	article-journal	Quarterly Journal of Economics	1994	left_only	Required
+"[{:family=>""Treble"", :given=>""John""}, {:family=>""Gameren"", :given=>""Edwin"", :particle=>""van""}, {:family=>""Bridges"", :given=>""Sarah""}, {:family=>""Barmby"", :given=>""Tim""}]"	The Internal Economics of the Firm: Further Evidence from Personnel Data	article-journal	Labour Economics	2001	both	Optional
+"[{:family=>""Gibbons"", :given=>""Robert""}, {:family=>""Waldman"", :given=>""Michael""}]"	A Theory of Wage and Promotion Dynamics Inside a Firm	article-journal	Quarterly Journal of Economics	1999	both	Required
+"[{:family=>""Sonnenfeld"", :given=>""Jeffrey""}, {:family=>""Lazo"", :given=>""Meredith""}]"	United Parcel Service (A) and (B	book		1992	both	Required
+"[{:family=>""Lluis"", :given=>""Stéphanie""}]"	The Role of Comparative Advantage and Learning in Wage Dynamics and Intrafirm Mobility: Evidence from Germany	article-journal	Journal of Labor Economics	2005	both	Optional
+"[{:family=>""Ichniowski"", :given=>""Casey""}, {:family=>""Shaw"", :given=>""Kathryn""}, {:family=>""Prennushi"", :given=>""Giovanna""}]"	The Effects of Human Resource Management Practices on Productivity: A Study of Steel Finishing Lines	article-journal	American Economic Review	1997	both	Required
+"[{:family=>""Baron"", :given=>""James""}, {:family=>""Hannan"", :given=>""Michael""}]"	Organizational Blueprints for Success in High-Tech Start-Ups: Lessons from the Stanford Project on Emerging Companies	article-journal	California Management Review	2002	both	Required
+"[{:family=>""Fast"", :given=>""Norman""}, {:family=>""Berg"", :given=>""Norman""}]"	The Lincoln Electric Company	book		1975	both	Required
+"[{:family=>""Brown"", :given=>""Claire""}, {:family=>""Reich"", :given=>""Michael""}]"	When Does Union-Management Cooperation Work? A Look at NUMMI and GM-Van Nuys	article-journal	California Management Review	1989	both	Required
+"[{:family=>""Milgrom"", :given=>""Paul""}, {:family=>""Roberts"", :given=>""John""}]"	The Economics of Modern Manufacturing: Technology	article-journal	American Economic Review	1990	both	Optional
+"[{:family=>""Gibbons"", :given=>""Robert""}]"	Team Theory	article-journal	Industrial and Corporate Change	2003	both	Required
+"[{:family=>""Marschak"", :given=>""Jacob""}, {:family=>""Radner"", :given=>""Roy""}]"	Economic Theory of Teams			1972	both	Optional
+"[{:family=>""Csaszar"", :given=>""Felipe""}]"	An Efficient Frontier in Organization Design	manuscript		2008	both	Optional
+"[{:family=>""Sah"", :given=>""Raj""}, {:family=>""Stiglitz"", :given=>""Joseph""}]"	The Architecture of Economic Systems: Hierarchies and Polyarchies	article-journal	American Economic Review	1986	both	Required
+	Organizational Structure as a Determinant of Performance: Evidence from Mutual Funds	manuscript		2008	left_only	Optional
+"[{:family=>""March"", :given=>""James""}, {:family=>""Simon"", :given=>""Herbert""}]"	Organizations			1958	both	Optional
+"[{:family=>""Cyert"", :given=>""Richard""}, {:family=>""March"", :given=>""James""}]"	A Behavioral Theory of the Firm			1992	both	Optional
+"[{:family=>""Cohen"", :given=>""Michael""}, {:family=>""March"", :given=>""James""}, {:family=>""Olsen"", :given=>""Johan""}]"	A Garbage Can Model of Organizational Choice	article-journal	Administrative Science Quarterly	1972	both	Optional
+"[{:family=>""Feldman"", :given=>""Martha""}, {:family=>""March"", :given=>""James""}]"	Information in Organizations as Signal and Symbol	article-journal	Administrative Science Quarterly	1981	both	Required
+"[{:family=>""Aghion"", :given=>""Philippe""}, {:family=>""Tirole"", :given=>""Jean""}]"	Formal and Real Authority in Organizations	article-journal	Journal of Political Economy	1997	both	Required
+"[{:family=>""Baker"", :given=>""George""}, {:family=>""Gibbons"", :given=>""Robert""}, {:family=>""Murphy"", :given=>""Kevin J.""}]"	Informal Authority in Organizations	article-journal	Journal of Law	1999	both	Required
+"[{:family=>""Aguilar"", :given=>""Francis""}, {:family=>""Bhambri"", :given=>""Arvind""}]"	Johnson	book		1983	both	Required
+"[{:family=>""Foss"", :given=>""Nicolai""}]"	Selective Intervention and Internal Hybrids: Interpreting and Learning from the Rise and Decline of the Oticon Spaghetti Organization	article-journal	Organization Science	2003	both	Required
+"[{:family=>""Rotemberg"", :given=>""Julio""}]"	Power in Profit-Maximizing Organizations	article-journal	Journal of Economics and Management Strategy	1993	both	Optional
+"[{:family=>""Rajan"", :given=>""Raghuram""}, {:family=>""Zingales"", :given=>""Luigi""}]"	Power in a Theory of the Firm	article-journal	Quarterly Journal of Economics	1998	both	Optional
+"[{:family=>""Pfeffer"", :given=>""Jeffrey""}]"	Sources of Power in Organizations	chapter	Chapter 4 in Power in Organizations	1981	both	Optional
+"[{:family=>""March"", :given=>""James""}]"	The Business Firm as a Political Coalition	article-journal	Journal of Politics	1962	both	Optional
+"[{:family=>""Skaperdas"", :given=>""Stergios""}]"	Cooperation	article-journal	American Economic Review	1992	both	Optional
+"[{:family=>""Rajan"", :given=>""Raghuram""}, {:family=>""Zingales"", :given=>""Luigi""}]"	The Tyranny of Inequality	article-journal	Journal of Public Economics	2000	both	Required
+"[{:family=>""Milgrom"", :given=>""Paul""}, {:family=>""Roberts"", :given=>""John""}]"	An Economic Approach to Influence Activities in Organizations	article-journal	American Journal of Sociology	1988	both	Required
+"[{:family=>""Rotemberg"", :given=>""Julio""}, {:family=>""Saloner"", :given=>""Garth""}]"	Overt Interfunctional Conflict (and its Reduction through Business Strategy	article-journal	RAND Journal of Economics	1995	both	Optional
+"[{:family=>""Prendergast"", :given=>""Canice""}]"	A Theory of ‘Yes Men.’	article-journal	American Economic Review	1993	both	Optional
+"[{:family=>""Kramer"", :given=>""Roderick""}]"	Organizational Paranoia: Origins and Dynamics	article-journal	Research in Organizational Behavior	2001	both	Optional
+"[{:family=>""Kreps"", :given=>""David""}]"	Corporate Culture and Economic Theory	chapter	Perspectives on Positive Political Economy	1990	both	Required
+"[{:family=>""Colin"", :given=>""Camerer""}, {:family=>""Weber"", :given=>""Roberto""}]"	Growing Organizational Culture in the Laboratory	chapter	Chapter 96 in Handbook of Experimental Economics Results	2008	both	Required
+"[{:family=>""Weber"", :given=>""Roberto""}]"	Managing Growth to Achieve Efficient Coordination in Large Groups	article-journal	American Economic Review	2006	both	Required
+"[{:family=>""Kaftan"", :given=>""Colleen""}, {:family=>""Barnes"", :given=>""Louis""}]"	Sun Hydraulics Corporation (A and B) and (C	book		1991	both	Required
+"[{:family=>""Crémer"", :given=>""Jacques""}, {:family=>""Garicano"", :given=>""Luis""}, {:family=>""Prat"", :given=>""Andrea""}]"	Language and the Theory of the Firm	article-journal	Quarterly Journal of Economics	2007	both	Optional
+"[{:family=>""Steen"", :particle=>""Van den""}, {:given=>""Eric""}]"	On the Origin of Shared Beliefs (and Corporate Culture	manuscript		2005	both	Optional
+"[{:family=>""O’Reilly"", :given=>""Charles""}, {:family=>""Chatman"", :given=>""Jennifer""}]"	Culture as Social Control: Corporations	article-journal	Research in Organizational Behavior: An Annual Series of Analytical Essays and Critical Reviews	1999	both	Optional
+"[{:family=>""Jones"", :given=>""Stephen""}]"	Worker Interdependence and Output: The Hawthorne Studies Reevaluated	article-journal	American Sociological Review	1990	both	Optional
+"[{:family=>""Falk"", :given=>""Armin""}, {:family=>""Ichino"", :given=>""Andrea""}]"	Clean Evidence on Peer Effects	article-journal	Journal of Labor Economics	2005	both	Optional
+"[{:family=>""Mas"", :given=>""Alex""}, {:family=>""Moretti"", :given=>""Enrico""}]"	Peers at Work	article-journal	American Economic Review	2009-03	both	Optional
+"[{:family=>""Ichino"", :given=>""Andrea""}, {:family=>""Maggi"", :given=>""Giovanni""}]"	Work Environment and Individual Background: Explaining Regional Shirking Differentials in a Large Italian Firm	article-journal	Quarterly Journal of Economics	2000	both	Required
+"[{:family=>""Miller"", :given=>""Gary""}]"	Horizontal Cooperation.” Chapter 9 in Managerial Dilemmas: The Political Economy of Hierarchy			1993	both	Required
+"[{:family=>""Bandiera"", :given=>""Oriana""}, {:family=>""Barankay"", :given=>""Iwan""}, {:family=>""Rasul"", :given=>""Imran""}]"	Social Preferences and the Response to Incentives: Evidence from Personnel Data	article-journal	Quarterly Journal of Economics	2005	both	Required
+"[{:family=>""Hermalin"", :given=>""Benjamin""}]"	Toward an Economic Theory of Leadership: Leading By Example	article-journal	American Economic Review	1998	both	Required
+"[{:family=>""Weber"", :given=>""R.""}, {:family=>""Rottenstreich"", :given=>""Y.""}, {:family=>""Camerer"", :given=>""C.""}, {:family=>""Knez"", :given=>""M.""}]"	The Illusion of Leadership: Misattribution of Cause in Coordination Games	article-journal	Organizational Science	2001	both	Required
+"[{:family=>""Charness"", :given=>""Gary""}, {:family=>""Rigotti"", :given=>""Luca""}, {:family=>""Rustichini"", :given=>""Aldo""}]"	Individual Behavior and Group Membership	article-journal	American Economic Review	2007	both	Optional
+"[{:family=>""Zald"", :given=>""Mayer""}, {:family=>""Berger"", :given=>""Michael""}]"	Social Movements in Organizations: Coup d’Etat	article-journal	American Journal of Sociology	1978	both	Optional
+"[{:family=>""Brocas"", :given=>""Isabelle""}, {:family=>""Carrillo"", :given=>""Juan""}]"	Influence Through Ignorance	article-journal	RAND Journal of Economics	2007	both	Optional
+"[{:family=>""Rotemberg"", :given=>""Julio""}, {:family=>""Saloner"", :given=>""Garth""}]"	Leadership Style and Incentives	article-journal	Management Science	1993	both	Optional
+"[{:family=>""Steen"", :particle=>""Van den""}, {:given=>""Eric""}]"	Organizational Beliefs and Managerial Vision	article-journal	Journal of Law	2005	both	Optional
+"[{:family=>""Caillaud"", :given=>""Bernard""}, {:family=>""Tirole"", :given=>""Jean""}]"	Consensus Building: How to Persuade a Group	article-journal	American Economic Review	2007	both	Required
+"[{:family=>""Rogers"", :given=>""Gregory""}, {:family=>""Beer"", :given=>""Michael""}]"	Human Resources at Hewlett-Packard (A) and (B	book		1995	both	Required
+"[{:family=>""Garicano"", :given=>""Luis""}]"	Hierarchies and the Organization of Knowledge in Production	article-journal	Journal of Political Economy	2000	both	Required
+"[{:family=>""Hart"", :given=>""Oliver""}, {:family=>""Moore"", :given=>""John""}]"	On the Design of Hierarchies: Coordination Versus Specialization	article-journal	Journal of Political Economy	2005	both	Required
+"[{:family=>""Radner"", :given=>""Roy""}]"	Hierarchy: The Economics of Managing	article-journal	Journal of Economic Literature	1992	both	Optional
+	The Organization of Decentralized Information Processing	article-journal	Econometrica	1993	left_only	Optional
+"[{:family=>""Zandt"", :particle=>""Van""}, {:given=>""Timothy""}]"	Real-Time Hierarchical Resource Allocation	manuscript		2003	both	Optional
+"[{:family=>""Calvo"", :given=>""Guillermo""}, {:family=>""Wellisz"", :given=>""Stanislaw""}]"	Supervision	article-journal	Journal of Political Economy	1978	both	Optional
+	Hierarchy	article-journal	Journal of Political Economy	1979	left_only	Optional
+"[{:family=>""Freeland"", :given=>""Robert""}]"	The Myth of the M-Form? Governance	article-journal	American Journal of Sociology	1996	both	Required
+"[{:family=>""Holland"", :given=>""Philip""}, {:family=>""Eccles"", :given=>""Robert""}]"	Jacobs Suchard: Reorganizing for 1992	book		1989	both	Required
+"[{:family=>""Bartlett"", :given=>""Christopher""}]"	ABB’s Relays Business: Building and Managing a Global Matrix	book		1993	both	Required
+"[{:family=>""Chandler"", :given=>""Alfred""}]"	Strategy and Structure			1969	both	Optional
+"[{:family=>""Miles"", :given=>""Raymond""}, {:family=>""Snow"", :given=>""Charles""}]"	Causes of Failure in Network Organizations	article-journal	California Management Review	1992	both	Optional
+"[{:family=>""Bartlett"", :given=>""Christopher""}, {:family=>""Ghoshal"", :given=>""Sumantra""}]"	Beyond the M-Form: Toward a Managerial Theory of the Firm	article-journal	Strategic Management Journal	1993	both	Optional
+"[{:family=>""Prendergast"", :given=>""Canice""}]"	The Tenuous Trade-Off Between Risk and Incentives	article-journal	Journal of Political Economy	2002	both	Optional
+"[{:family=>""Zábojnik"", :given=>""Ján""}]"	Centralized and Decentralized Decision Making in Organizations	article-journal	Journal of Labor Economics	2002	both	Optional
+"[{:family=>""Rantakari"", :given=>""Heikki""}]"	Uncertainty	manuscript		2008	both	Optional
+"[{:family=>""Athey"", :given=>""Susan""}, {:family=>""Roberts"", :given=>""John""}]"	Organizational Design: Decision Rights and Incentive Contracts	article-journal	American Economic Review	2001	both	Optional
+"[{:family=>""Dessein"", :given=>""Wouter""}, {:family=>""Garicano"", :given=>""Luis""}, {:family=>""Gertner"", :given=>""Robert""}]"	Organizing for Synergies: Allocating Control to Manage the Coordination-Incentives Tradeoff	manuscript		2008	both	Optional
+"[{:family=>""Friebel"", :given=>""Guido""}, {:family=>""Raith"", :given=>""Michael""}]"	Resource Allocation and Firm Scope	manuscript		2008	both	Optional
+"[{:family=>""Dessein"", :given=>""Wouter""}]"	Authority and Communication in Organizations	article-journal	Review of Economic Studies	2002	both	Optional
+"[{:family=>""Alonso"", :given=>""Ricardo""}, {:family=>""Dessein"", :given=>""Wouter""}, {:family=>""Matouschek"", :given=>""Niko""}]"	When Does Coordination Require Centralization?	article-journal	American Economic Review	2008	both	Required
+"[{:family=>""Rantakari"", :given=>""Heikki""}]"	Governing Adaptation	article-journal	Review of Economic Studies	2008	both	Required
+"[{:family=>""Steen"", :particle=>""Van den""}, {:given=>""Eric""}]"	Interpersonal Authority in a Theory of the Firm	manuscript		2007	both	Required
+"[{:family=>""Marino"", :given=>""Anthony""}, {:family=>""Matsusaka"", :given=>""John""}, {:family=>""Zábojnik"", :given=>""Ján""}]"	Disobedience and Authority	manuscript		2008	both	Optional
+"[{:family=>""Schoar"", :given=>""Antoinette""}]"	Effects of Corporate Diversification on Productivity	article-journal	Journal of Finance	2002	both	Optional
+"[{:family=>""Baker"", :given=>""George""}]"	Beatrice: A Study in the Creation and Destruction of Value	article-journal	Journal of Finance	1992	both	Required
+"[{:family=>""Villalonga"", :given=>""Belén""}]"	Diversification Discount or Premium? New Evidence from Business Information Tracking Series Establishment-Level Data	article-journal	Journal of Finance	2004	both	Required
+"[{:family=>""Mullainathan"", :given=>""Sendhil""}, {:family=>""Scharfstein"", :given=>""David""}]"	Do Firm Boundaries Matter?	article-journal	American Economic Review Papers and Proceedings	2001	both	Optional
+"[{:family=>""Gertner"", :given=>""Robert""}, {:family=>""Scharfstein"", :given=>""David""}, {:family=>""Stein"", :given=>""Jeremy""}]"	Internal Versus External Capital Markets	article-journal	Quarterly Journal of Economics	1994	both	Optional
+"[{:family=>""Holmstrom"", :given=>""Bengt""}, {:family=>""Tirole"", :given=>""Jean""}]"	Transfer Pricing and Organizational Form	article-journal	Journal of Law	1991	both	Optional
+"[{:family=>""Richardson"", :given=>""George""}]"	The Organisation of Industry	article-journal	Economic Journal	1972	both	Optional
+"[{:family=>""Blois"", :given=>""K.""}]"	Vertical Quasi-Integration	article-journal	Journal of Industrial Economics	1972	both	Optional
+"[{:family=>""Eccles"", :given=>""Robert""}]"	The Quasifirm in the Construction Industry	article-journal	Journal of Economic Behavior and Organization	1981	both	Optional
+"[{:family=>""Powell"", :given=>""Walter""}]"	Neither Market Nor Hierarchy: Network Forms of Organization	article-journal	Research in Organizational Behavior	1990	both	Optional
+"[{:family=>""Ménard"", :given=>""Claude""}]"	On Clusters	article-journal	Journal of Institutional and Theoretical Economics	1996	both	Required
+"[{:family=>""McQuade"", :given=>""Krista""}, {:family=>""Gomes-Casseres"", :given=>""Benjamin""}]"	Xerox and Fuji Xerox	book		1992	both	Required
+"[{:family=>""Robinson"", :given=>""David""}, {:family=>""Stuart"", :given=>""Toby""}]"	Network Effects in the Governance of Strategic Alliances	article-journal	Journal of Law	2007	both	Required
+"[{:family=>""Baker"", :given=>""George""}, {:family=>""Gibbons"", :given=>""Robert""}, {:family=>""Murphy"", :given=>""Kevin J.""}]"	Strategic Alliances: Bridges Between ‘Islands of Conscious Power.’	article-journal	Journal of the Japanese and International Economies	2008-06	both	Required
+"[{:family=>""Baker"", :given=>""George P.""}, {:family=>""Wruck"", :given=>""Karen""}]"	Organizational Changes and Value Creation in Leveraged Buyouts: The Case of O.M	article-journal	Scott & Sons Company.” Journal of Financial Economics	1989	both	Required
+"[{:family=>""Kaplan"", :given=>""Steven N.""}]"	The Effects of Management Buyouts on Operating Performance and Value	article-journal	Journal of Financial Economics	1989	both	Required
+"[{:family=>""Jensen"", :given=>""Michael""}, {:family=>""Ruback"", :given=>""Richard""}]"	The Market for Corporate Control: The Scientific Evidence	article-journal	Journal of Financial Economics	1983	both	Optional
+"[{:family=>""Holmstrom"", :given=>""Bengt""}, {:family=>""Kaplan"", :given=>""Steven""}]"	The State of U.S. Corporate Governance: What’s Right and What’s Wrong?	article-journal	Journal of Applied Corporate Finance	2003	both	Optional
+"[{:family=>""Woodruff"", :given=>""Christopher""}]"	Non-contractible Investment and Vertical Integration in the Mexican Footwear Industry	article-journal	International Journal of Industrial Organization	2002	right_only	Required
+"[{:family=>""Baker"", :given=>""George""}, {:family=>""Hubbard"", :given=>""Thomas""}]"	Contractibility and Asset Ownership: On-Board Computers and Governance in US Trucking	article-journal	Quarterly Journal of Economics	2004	right_only	Required
+"[{:family=>""Baker"", :given=>""George""}, {:family=>""Gibbs"", :given=>""Michael""}, {:family=>""Holmstrom"", :given=>""Bengt""}]"	The Wage Policy of a Firm	article-journal	Quarterly Journal of Economics	1994	right_only	Required
+"[{:family=>""Ménard"", :given=>""Claude""}]"	Hybrid Modes of Organization: Alliances	chapter	The Handbook of Organizational Economics		right_only	Optional
+"[{:family=>""Garicano"", :given=>""Luis""}, {:family=>""Zandt"", :given=>""Timothy"", :particle=>""Van""}]"	Hierarchies and the Division of Labor	chapter	The Handbook of Organizational Economics		right_only	Optional
+"[{:family=>""Radner"", :given=>""Roy""}]"	The Organization of Decentralized Information Processing	article-journal	Econometrica	1993	right_only	Optional
+"[{:family=>""Calvo"", :given=>""Guillermo""}, {:family=>""Wellisz"", :given=>""Stanislaw""}]"	Hierarchy	article-journal	Journal of Political Economy	1979	right_only	Optional
+"[{:family=>""Hermalin"", :given=>""Benjamin""}]"	Leadership and Corporate Culture	chapter	The Handbook of Organizational Economics		right_only	Optional
+"[{:family=>""Camerer"", :given=>""Colin""}, {:family=>""Weber"", :given=>""Roberto""}]"	Experimental Organizational Economics	chapter	The Handbook of Organizational Economics		right_only	Optional
+"[{:family=>""Csaszar"", :given=>""Felipe""}]"	Organizational Structure as a Determinant of Performance: Evidence from Mutual Funds	manuscript		2008	right_only	Optional
+"[{:family=>""Ichniowski"", :given=>""Casey""}, {:family=>""Shaw"", :given=>""Kathryn""}]"	Insider Econometrics: A Roadmap to Estimating Empirical Models of Organizational Performance	chapter	The Handbook of Organizational Economics		right_only	Optional
+"[{:family=>""Brynjolfsson"", :given=>""Erik""}, {:family=>""Milgrom"", :given=>""Paul""}]"	Complementarity in Organizations	chapter	The Handbook of Organizational Economics		right_only	Optional
+"[{:family=>""Waldman"", :given=>""Michael""}]"	Theory and Evidence in Internal Labor Markets	chapter	The Handbook of Organizational Economics		right_only	Optional
+"[{:family=>""Lazear"", :given=>""Edward""}, {:family=>""Oyer"", :given=>""Paul""}]"	Personnel Economics	chapter	The Handbook of Organizational Economics		right_only	Optional
+"[{:family=>""Baker"", :given=>""George""}]"	Distortion and Risk in Optimal Incentive Contracts	article-journal	Journal of Human Resources	2002	right_only	Optional
+"[{:family=>""Baron"", :given=>""James""}, {:family=>""Kreps"", :given=>""David""}]"	Employment as an Economic and a Social Relationship	chapter	The Handbook of Organizational Economics		right_only	Optional
+"[{:family=>""Lafontaine"", :given=>""Francine""}, {:family=>""Slade"", :given=>""Margaret""}]"	Inter-Firm Contracts: Evidence	chapter	The Handbook of Organizational Economics		right_only	Optional
+"[{:family=>""Malcomson"", :given=>""James""}]"	Relational Incentive Contracts	chapter	The Handbook of Organizational Economics		right_only	Optional
+"[{:family=>""Klein"", :given=>""Benjamin""}, {:family=>""Murphy"", :given=>""Kevin M.""}]"	Vertical Integration as a Self-Enforcing Contractual Arrangement	article-journal	American Economic Review	1997	right_only	Optional
+"[{:family=>""Forbes"", :given=>""Silke""}, {:family=>""Lederman"", :given=>""Mara""}]"	Adaptation and Vertical Integration in the Airline Industry	manuscript		2008	right_only	Optional
+"[{:family=>""Forbes"", :given=>""Silke""}, {:family=>""Lederman"", :given=>""Mara""}]"	Does Vertical Integration Affect Firm Performance? Evidence from the Airline Industry	manuscript		2008	right_only	Optional
+"[{:family=>""Bresnahan"", :given=>""Timothy""}, {:family=>""Levin"", :given=>""Jonathan""}]"	Vertical Integration and Market Structure	chapter	The Handbook of Organizational Economics	2009	right_only	Optional
+"[{:family=>""Tadelis"", :given=>""Steven""}, {:family=>""Williamson"", :given=>""Oliver""}]"	Transaction Cost Economics	chapter	The Handbook of Organizational Economics		right_only	Optional
+"[{:family=>""Segal"", :given=>""Ilya""}, {:family=>""Whinston"", :given=>""Michael""}]"	Property Rights	chapter	The Handbook of Organizational Economics		right_only	Optional
+"[{:family=>""Baker"", :given=>""George""}]"	Clinical Papers in Organizational Economics	chapter	The Handbook of Organizational Economics		right_only	Optional

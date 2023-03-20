@@ -6,6 +6,7 @@ Required	[{:family=>"Cohen", :given=>"S."}]	["Flow Variables"]	chapter	["Concise
 Required	[{:family=>"Sheffi", :given=>"Y."}]	["Urban Transportation Networks", "Chapter 1"]			["1985"]
 Required	[{:family=>"Larson", :given=>"R.C."}, {:family=>"Odoni", :given=>"A.R."}]	["Urban Operations Research"]	article-journal	["Chapter"]	["1981"]
 Required	[{:family=>"Burkard", :given=>"R.E."}]	["Shortest Path Algorithms"]	chapter	["Concise Encyclopedia of Traffic and Transportation Systems"]	["1991"]
+Required	[{:family=>"Sheffi", :given=>"Y."}]	["Urban Transportation Networks", "Chapter 1"]			["1985"]
 Required	[{:family=>"Daganzo", :given=>"C.F."}]	["Equilibrium Analysis"]	chapter	["Chapter 5 in Fundamentals of Transportation and Traflic Operations"]	["1997"]
 Required	[{:family=>"Daganzo", :given=>"C.F."}]	["_Fundamentals of Transportation and Traffic Operations._Pergamon Press-Elsevier Science"]			["1997"]
 Required	[{:family=>"Wattleworth", :given=>"J.A."}]	["Peak-Period Analysis and Control of a Freeway System"]	article-journal	["Highway Research Record"]	["1967"]

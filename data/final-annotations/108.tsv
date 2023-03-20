@@ -1,0 +1,10 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Hoerner"", :given=>""S.""}]"	Fluid Dynamic Drag			1993	both	Optional
+"[{:family=>""Hoerner"", :given=>""S.""}]"	Fluid Dynamic Lift			1992	left_only	Optional
+"[{:family=>""Blevins"", :given=>""R.""}]"	Applied Fluid Dynamics Handbook			1984	both	Optional
+	Principles of Naval Architecture			1967	both	Optional
+"[{:family=>""Fossen"", :given=>""T.""}]"	Guidance and Control of Ocean Vehicles			1994	both	Optional
+"[{:family=>""Morgan"", :given=>""M.""}]"	Dynamic Positioning of Offshore Vessels			1978	both	Optional
+"[{:family=>""Ogata"", :given=>""K.""}]"	Modern Control Engineering			2001	both	Optional
+"[{:family=>""Triantafyllou"", :given=>""Michael S.""}, {:family=>""Hover"", :given=>""Franz S.""}]"	Maneuvering and Control of Marine Vehicles				left_only	Required
+	Fluid Dynamic Lift			1992	right_only	Optional

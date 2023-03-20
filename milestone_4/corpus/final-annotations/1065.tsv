@@ -1,0 +1,53 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Acemoglu"", :given=>""D.""}]"	Introduction to Modern Economic Growth	book		2007	both	Required
+"[{:family=>""Barro"", :given=>""R.J.""}, {:family=>""Sala-i-Martin"", :given=>""X.""}]"	Economic Growth			1995	both	Required
+"[{:family=>""Barro"", :given=>""R.""}]"	Determinants of Economic Growth: A Cross-Country Empirical Study			1997	both	Optional
+"[{:family=>""Hall"", :given=>""R.""}, {:family=>""Jones"", :given=>""C.""}]"	Why Do Some Countries Produce So Much More Output than Others?	article-journal	Quarterly Journal of Economics	1999	both	Optional
+"[{:family=>""Jones"", :given=>""C.""}]"	On the Evolution of the World Income Distribution	article-journal	Journal of Economic Perspectives	1997	both	Optional
+"[{:family=>""Klenow"", :given=>""P.""}, {:family=>""Rodríguez-Clare"", :given=>""A.""}]"	The Neoclassical Revival in Growth Economics: Has It Gone Too Far?	chapter	Chapter 2 in NBER Macroeconomics Annual 1997	1997	both	Optional
+"[{:family=>""Klenow"", :given=>""P.""}, {:family=>""Bils"", :given=>""M.""}]"	Does Schooling Cause Growth?	article-journal	American Economic Review	2000	both	Optional
+"[{:family=>""Mankiw"", :given=>""N.G.""}, {:family=>""Romer"", :given=>""D.""}, {:family=>""Weil"", :given=>""D.""}]"	A Contribution to the Empirics of Economic Growth	article-journal	Quarterly Journal of Economics	1992	both	Optional
+"[{:family=>""Solow"", :given=>""R.M.""}]"	A Contribution to the Theory of Economic Growth	article-journal	Quarterly Journal of Economics	1956	both	Optional
+	Growth Theory: An Exposition			2000	left_only	Optional
+"[{:family=>""Blanchard"", :given=>""O.""}, {:family=>""Fischer"", :given=>""S.""}]"	Lectures on Macroeconomics			1989	both	Optional
+"[{:family=>""Cass"", :given=>""D.""}]"	Optimum Growth in an Aggregative Model of Capital Accumulation: A Turnpike Theorem	article-journal	Econometrica	1966	both	Optional
+"[{:family=>""Lucas"", :given=>""R.E."", :suffix=>""Jr""}]"	Why Doesn’t Capital Flow from Rich to Poor Countries?	article-journal	American Economic Review	1990	both	Optional
+"[{:family=>""Ramsey"", :given=>""F.P.""}]"	A Mathematical Theory of Saving	article-journal	Economic Journal	1928	both	Optional
+"[{:family=>""Skiba"", :given=>""A.K.""}]"	Optimal Growth with a Convex-Concave Production Function	article-journal	Econometrica	1978	both	Optional
+"[{:family=>""Atkeson"", :given=>""A.""}, {:family=>""Chari"", :given=>""V.V.""}, {:family=>""Kehoe"", :given=>""P.""}]"	Taxing Capital Income: A Bad Idea	article-journal	Federal Reserve Bank of Minneapolis Quarterly Review	1999	both	Required
+"[{:family=>""Lucas"", :given=>""R.E."", :suffix=>""Jr""}]"	Asset Prices in an Exchange Economy	article-journal	Econometrica	1978	both	Required
+"[{:family=>""Barro"", :given=>""R.J.""}]"	Are Government Bonds Net Wealth?	article-journal	Journal of Political Economy	1974	both	Required
+	On the Determination of the Public Debt	article-journal	Journal of Political Economy	1979	left_only	Required
+"[{:family=>""Blanchard"", :given=>""O.""}]"	Debt	article-journal	Journal of Political Economy	1985	both	Required
+"[{:family=>""Abel"", :given=>""A.""}, {:family=>""Blanchard"", :given=>""O.""}]"	An Intertemporal Equilibrium Model of Saving and Investment	article-journal	Econometrica	1983	both	Optional
+"[{:family=>""Barro"", :given=>""R.J.""}, {:family=>""Sala-i-Martin"", :given=>""X.""}]"	Economic Growth				both	Optional
+"[{:family=>""Barro"", :given=>""R.""}]"	Ramsey Meets Laibson in the Neoclassical Growth Model	article-journal	Quarterly Journal of Economics	1999	both	Optional
+"[{:family=>""Baxter"", :given=>""M.""}, {:family=>""King"", :given=>""R.""}]"	Fiscal Policy in General Equilibrium	article-journal	American Economic Review	1988	both	Optional
+"[{:family=>""Chamley"", :given=>""C.""}]"	Optimal Taxation of Capital Income in General Equilibrium with Infinite Lives	article-journal	Econometrica	1986	both	Optional
+"[{:family=>""Chari"", :given=>""V.V.""}, {:family=>""Kehoe"", :given=>""P.""}]"	Optimal Fiscal and Monetary Policy	article-journal	National Bureau of Economic Research Working Paper	1999	both	Optional
+"[{:family=>""Diamond"", :given=>""P.""}]"	National Debt in a Neoclassical Growth Model	article-journal	American Economic Review	1965	both	Optional
+"[{:family=>""Kydland"", :given=>""F.""}, {:family=>""Prescott"", :given=>""E.C.""}]"	Time to Build and Aggregate Fluctuations	article-journal	Econometrica	1982	both	Optional
+"[{:family=>""Lucas"", :given=>""R.E."", :suffix=>""Jr.""}, {:family=>""Stokey"", :given=>""N.L.""}]"	Optimal Fiscal and Monetary Policy in an Economy without Capital	article-journal	Journal of Monetary Economics	1983	both	Optional
+"[{:family=>""Modigliani"", :given=>""F.""}]"	Life Cycle	article-journal	American Economic Review	1986	both	Optional
+"[{:family=>""Samuelson"", :given=>""P.A.""}]"	An Exact Consumption Loan Model of Interest with and without the Social Contrivance of Money	article-journal	Journal of Political Economy	1958	both	Optional
+"[{:family=>""Sidrausky"", :given=>""M.""}]"	Rational Choice and Patterns of Growth in a Monetary Economy	article-journal	American Economic Review	1967	both	Optional
+"[{:family=>""Aghion"", :given=>""P.""}, {:family=>""Howitt"", :given=>""P.""}, {:family=>""Brant-Collett"", :given=>""M.""}, {:family=>""Garcia-Peñalosa"", :given=>""C.""}]"	Endogenous Growth Theory			1998	both	Optional
+"[{:family=>""Caballero"", :given=>""R.""}, {:family=>""Jaffe"", :given=>""A.""}]"	How High Are the Giants Shoulders?	chapter	NBER Macroeconomics Annual 1993	1993	both	Optional
+"[{:family=>""Lucas"", :given=>""R.E."", :suffix=>""Jr""}]"	Making a Miracle	article-journal	Econometrica	1993	both	Optional
+	On the Mechanics of Economic Development	article-journal	Journal of Monetary Economics	1988	left_only	Optional
+"[{:family=>""Jones"", :given=>""L.""}, {:family=>""Manuelli"", :given=>""R.""}]"	A Convex Model of Equilibrium Growth	article-journal	Journal of Political Economy	1990	both	Optional
+"[{:family=>""Rebelo"", :given=>""S.""}]"	Long-Run Policy Analysis and Growth	article-journal	Journal of Political Economy	1991	both	Optional
+"[{:family=>""Young"", :given=>""A.""}]"	Invention and Bounded Learning by Doing	article-journal	Journal of Political Economy	1993	both	Optional
+"[{:family=>""Aghion"", :given=>""P.""}, {:family=>""Howitt"", :given=>""P.""}]"	A Model of Growth through Creative Destruction	article-journal	Econometrica	1992	both	Required
+"[{:family=>""Romer"", :given=>""P.M.""}]"	Endogenous Technological Change	article-journal	Journal of Political Economy	1990	both	Required
+"[{:family=>""Acemoglu"", :given=>""D.""}]"	Directed Technical Change	article-journal	Review of Economic Studies	2001	both	Optional
+"[{:family=>""Barro"", :given=>""R.""}, {:family=>""Sala-i-Martin"", :given=>""X.""}]"	Public Finance in Models of Economic Growth	article-journal	Review of Economic Studies	1992	both	Optional
+"[{:family=>""Brezis"", :given=>""E.""}, {:family=>""Krugman"", :given=>""P.R.""}, {:family=>""Tsiddon"", :given=>""D.""}]"	Leapfrogging in International Competition: A Theory of Cycles in National Technological Leadership	article-journal	American Economic Review	1993	both	Optional
+"[{:family=>""Grossman"", :given=>""G.M.""}, {:family=>""Helpman"", :given=>""E.""}]"	Quality Ladders in the Theory of Economic Growth	article-journal	Review of Economic Studies	1991	both	Optional
+"[{:family=>""Jones"", :given=>""C.""}]"	R&D-Based Models of Economic Growth	article-journal	Journal of Political Economy	1995	both	Optional
+"[{:family=>""Parente"", :given=>""S.L.""}, {:family=>""Prescott"", :given=>""E.C.""}]"	Barriers to Technology Adoption and Development	article-journal	Journal of Political Economy	1994	both	Optional
+"[{:family=>""Barro"", :given=>""R.J.""}]"	On the Determination of the Public Debt	article-journal	Journal of Political Economy	1979	right_only	Required
+"[{:family=>""Solow"", :given=>""R.M.""}]"	Growth Theory: An Exposition			2000	right_only	Optional
+"[{:family=>""Barro"", :given=>""R.J.""}]"	Government Spending in a Simple Model of Endogenous Growth	article-journal	Journal of Political Economy	1990	right_only	Optional
+"[{:family=>""Lucas"", :given=>""R.E."", :suffix=>""Jr""}]"	On the Mechanics of Economic Development	article-journal	Journal of Monetary Economics	1988	right_only	Optional
+"[{:family=>""Romer"", :given=>""P.M.""}]"	Increasing Returns and Long-Run Growth	article-journal	Journal of Political Economy	1986	right_only	Optional

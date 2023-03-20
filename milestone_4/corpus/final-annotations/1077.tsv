@@ -1,0 +1,51 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Borjas"", :given=>""George J.""}]"	Labor Economics			2010	both	Required
+"[{:family=>""Borjas"", :given=>""George J.""}]"	Labor Economics			2008	left_only	Required
+"[{:family=>""Angrist"", :given=>""Joshua""}, {:family=>""Krueger"", :given=>""Alan""}]"	Empirical Strategies in Labor Economics	chapter	Chapter 23 in The Handbook of Labor Economics	1999	both	Optional
+"[{:family=>""Angrist"", :given=>""Joshua""}, {:family=>""Pischke"", :given=>""Jörn-Steffen""}]"	Mostly Harmless Econometrics: An Empiricist’s Companion			2009	left_only	Optional
+"[{:family=>""Nicholson"", :given=>""Walter""}, {:family=>""Snyder"", :given=>""Christopher""}]"	Microeconomic Theory: Basic Principles and Extensions			2008	both	Optional
+"[{:family=>""Deaton"", :given=>""Angus""}, {:family=>""Muellbauer"", :given=>""John""}]"	Economics and Consumer Behavior			1980	both	Optional
+"[{:family=>""Blau"", :given=>""Francine D.""}, {:family=>""Ferber"", :given=>""Marianne A.""}, {:family=>""Winkler"", :given=>""Anne E.""}]"	The Economics of Women			2009	both	Optional
+"[{:family=>""Lang"", :given=>""Kevin""}]"	Poverty and Discrimination			2007	both	Optional
+"[{:family=>""Goldin"", :given=>""Claudia""}]"	Labor Markets in the 20th Century	article-journal	National Bureau of Economic Research Historical Working Paper	1994-06	both	Required
+"[{:family=>""Johnson"", :given=>""George E.""}]"	The Labor Market Effects of Immigrants	article-journal	Industrial and Labor Relations Review	1980-04	both	Required
+"[{:family=>""Card"", :given=>""David""}]"	The Impact of the Mariel Boatlift on the Miami Labor Market	article-journal	Industrial and Labor Relations Review	1990-01	both	Required
+"[{:family=>""Moffitt"", :given=>""Robert""}]"	Welfare Programs and Labor Supply.” Chapter 34 in The Handbook of Public Economics			2002	both	Required
+"[{:family=>""Eissa"", :given=>""Nada""}, {:family=>""Leibman"", :given=>""Jeffrey B.""}]"	Labor Supply Response to the Earned Income Tax Credit	article-journal	Quarterly Journal of Economics	1996-05	both	Required
+"[{:family=>""Fehr"", :given=>""Ernst""}, {:family=>""Goette"", :given=>""Lorenz""}]"	Do Workers Work More if Wages are High? Evidence from a Randomized Field Experiment	article-journal	American Economic Review	2007-03	both	Required
+"[{:family=>""Oettinger"", :given=>""Gerald S.""}]"	An Empirical Analysis of the Daily Labor Supply of Stadium Vendors	article-journal	Journal of Political Economy	1999-04	both	Required
+"[{:family=>""Imbens"", :given=>""Guido W.""}, {:family=>""Rubin"", :given=>""Donald B.""}, {:family=>""Sacerdote"", :given=>""Bruce I.""}]"	Estimating the Effect of Unearned Income on Labor Supply: Evidence from a Survey of Lottery Players	article-journal	American Economic Review	2001-09	both	Required
+"[{:family=>""Ashenfelter"", :given=>""Orley""}]"	What is Involuntary Unemployment?	article-journal	Proceedings of the American Philosophical Society	1978-06	both	Required
+"[{:family=>""Meyer"", :given=>""Bruce D.""}]"	Unemployment Insurance and Unemployment Spells	article-journal	Econometrica	1990-07	both	Required
+"[{:family=>""Woodbury"", :given=>""Stephen A.""}, {:family=>""Spiegelman"", :given=>""Robert G.""}]"	Bonuses to Workers and Employers to Reduce Unemployment: Randomized Trials in Illinois	article-journal	American Economic Review	1987-09	both	Required
+"[{:family=>""Ashenfelter"", :given=>""Orley""}, {:family=>""Plant"", :given=>""Mark W.""}]"	Nonparametric Estimates of the Labor-Supply Effects of Negative Income Tax Programs	article-journal	Journal of Labor Economics	1990-01	both	Required
+"[{:family=>""Farber"", :given=>""Henry S.""}]"	Is Tomorrow Another Day? The Labor Supply of New York City Cabdrivers	article-journal	Journal of Political Economy	2005	both	Required
+"[{:family=>""Ashenfelter"", :given=>""Orley""}, {:family=>""Doran"", :given=>""Kirk""}, {:family=>""Schaller"", :given=>""Bruce""}]"	A Shred of Credible Evidence on the Long Run Elasticity of Labor Supply	article-journal	Princeton University Industrial Relations Section Working Paper	2009-09	both	Required
+"[{:family=>""Gronau"", :given=>""Reuben""}]"	Leisure	article-journal	Journal of Political Economy	1977-12	both	Required
+"[{:family=>""Angrist"", :given=>""Joshua""}, {:family=>""Krueger"", :given=>""Alan""}]"	Instrumental Variables and the Search for Identification: From Supply and Demand to Natural Experiments	article-journal	Journal of Economic Perspectives	2001	both	Required
+"[{:family=>""Angrist"", :given=>""Joshua""}, {:family=>""Evans"", :given=>""William N.""}]"	Children and Their Parent’s Labor Supply: Evidence from Exogenous Variation in Family Size	article-journal	American Economic Review	1998-06	both	Required
+"[{:family=>""Card"", :given=>""David""}, {:family=>""Krueger"", :given=>""Alan""}]"	Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania	article-journal	American Economic Review	1994-09	both	Required
+"[{:family=>""Angrist"", :given=>""Joshua""}]"	Short-Run Demand for Palestinian Labor	article-journal	Journal of Labor Economics	1996-07	both	Required
+"[{:family=>""Angrist"", :given=>""Joshua""}, {:family=>""Krueger"", :given=>""Alan""}]"	Does Compulsory School Attendance Affect Schooling and Earnings?	article-journal	Quarterly Journal of Economics	1991-11	both	Required
+"[{:family=>""Angrist"", :given=>""Joshua""}]"	Lifetime Earnings and the Vietnam-Era Draft Lottery: Evidence From Social Security Administrative Records	article-journal	American Economic Review	1990-06	both	Required
+"[{:family=>""Krueger"", :given=>""Alan""}]"	How Computers Have Changed the Wage Structure	article-journal	Quarterly Journal of Economics	1993-02	both	Required
+"[{:family=>""DiNardo"", :given=>""John E.""}, {:family=>""Pischke"", :given=>""Jörn-Steffen""}]"	The Returns to Computer Use Revisited: Have Pencils Changed the Wage Structure Too?	article-journal	Quarterly Journal of Economics	1997-02	both	Required
+"[{:family=>""Angrist"", :given=>""Joshua""}, {:family=>""Lavy"", :given=>""Victor""}]"	Using Maimonides Rule to Estimate the Effects of Class Size on Academic Achievement	article-journal	Quarterly Journal of Economics	1999-05	both	Required
+"[{:family=>""Angrist"", :given=>""Joshua""}, {:family=>""Bettinger"", :given=>""Eric""}, {:family=>""Bloom"", :given=>""Erik""}, {:family=>""King"", :given=>""Elizabeth""}, {:family=>""Kremer"", :given=>""Michael""}]"	Vouchers for Private Schooling in Colombia: Evidence from a Randomized Natural Experiment	article-journal	American Economic Review	2002-12	both	Required
+"[{:family=>""Angrist"", :given=>""Joshua""}, {:family=>""Lang"", :given=>""Daniel""}, {:family=>""Oreopoulos"", :given=>""Philip""}]"	Incentives and Services for College Achievement: Evidence from a Randomized Trial	article-journal	American Economic Journal: Applied Economics	2009-01	both	Required
+"[{:family=>""Card"", :given=>""David""}]"	The Causal Effect of Education on Earnings.” Chapter 30 in The Handbook of Labor Economics			1999	both	Required
+"[{:family=>""Card"", :given=>""David""}, {:family=>""Krueger"", :given=>""Alan""}]"	Does School Quality Matter? Returns to Education and the Characteristics of Public Schools in the United States	article-journal	Journal of Political Economy	1992-02	both	Required
+	School Quality and Black-White Relative Earnings: A Direct Assessment	article-journal	Quarterly Journal of Economics	1992-02	left_only	Required
+"[{:family=>""Welch"", :given=>""Finis""}]"	Black-White Differences in Returns to Schooling	article-journal	American Economic Review	1973-12	both	Required
+"[{:family=>""Krueger"", :given=>""Alan""}]"	Experimental Estimates of the Education Production Functions	article-journal	Quarterly Journal of Economics	1999-05	both	Required
+"[{:family=>""Angrist"", :given=>""Joshua""}, {:family=>""Lavy"", :given=>""Victor""}]"	New Evidence on Classroom Computers and Pupil Learning	article-journal	Economic Journal	2002-10	both	Required
+"[{:family=>""Lemieux"", :given=>""Thomas""}]"	The Changing Nature of Wage Inequality	article-journal	Journal of Population Economics	2007-01	both	Required
+"[{:family=>""Autor"", :given=>""David""}, {:family=>""Katz"", :given=>""Lawrence""}, {:family=>""Kearney"", :given=>""Melissa""}]"	Trends in U.S. Wage Inequality: Re-Assessing the Revisionists	article-journal	Also available as National Bureau of Economic Research Working Paper	2008-05	both	Required
+"[{:family=>""Katz"", :given=>""Lawrence""}, {:family=>""Autor"", :given=>""David""}]"	Changes in the Wage Structure and Earnings Inequality	chapter	Chapter 26 in The Handbook of Labor Economics	1999	both	Required
+"[{:family=>""Heckman"", :given=>""James""}, {:family=>""Payner"", :given=>""Brook""}]"	Determining the Impact of Federal Antidiscrimination Policy on the Economic Status of Blacks: A Study of South Carolina	article-journal	American Economic Review	1989	both	Required
+"[{:family=>""Acemoglu"", :given=>""Daron""}, {:family=>""Angrist"", :given=>""Joshua""}]"	Consequences of Employment Protection? The Case of the Americans with Disabilities Act	article-journal	Journal of Political Economy	2001-10	both	Required
+"[{:family=>""Farber"", :given=>""Henry""}]"	Analysis of Union Behavior.” Chapter 18 in The Handbook of Labor Economics			1986	both	Required
+"[{:family=>""Lewis"", :given=>""H.Gregg""}]"	Union Relative Wage Effects: A Survey			1986	both	Required
+"[{:family=>""DiNardo"", :given=>""John""}, {:family=>""Lee"", :given=>""David S.""}]"	Economic Impacts of New Unionization on U.S. Private Sector Employers: 1984-2001	article-journal	Quarterly Journal of Economics	2004-11	both	Required
+"[{:family=>""Ashenfelter"", :given=>""Orley""}, {:family=>""Johnson"", :given=>""George E.""}]"	Bargaining Theory	article-journal	American Economic Review	1969-03	both	Required
+"[{:family=>""Card"", :given=>""David""}, {:family=>""Krueger"", :given=>""Alan""}]"	School Quality and Black-White Relative Earnings: A Direct Assessment	article-journal	Quarterly Journal of Economics	1992-02	right_only	Required

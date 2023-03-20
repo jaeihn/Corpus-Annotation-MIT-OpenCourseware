@@ -1,0 +1,18 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Devor"", :given=>""R.E.""}, {:family=>""Chang"", :given=>""T.""}, {:family=>""Sutherland"", :given=>""J.W.""}]"	Statistical Quality Design and Control			1992	both	Required
+"[{:family=>""Kalpakjian"", :given=>""S.""}]"	Manufacturing Processes for Engineering Materials			1996	both	Required
+"[{:family=>""Hogg"", :given=>""R.V.""}, {:family=>""Ledotter"", :given=>""J.""}]"	Engineering Statistics			1987	both	Required
+"[{:family=>""Bendat"", :given=>""J.S.""}, {:family=>""Piersol"", :given=>""A.G.""}]"	Random Data			2000	both	Required
+"[{:family=>""Ogata"", :given=>""Katsuhiko""}]"	Modern Control Engineering			1996	both	Required
+"[{:family=>""Friedland"", :given=>""B.""}]"	Control System Design			1985	both	Required
+"[{:family=>""Boning"", :given=>""Duane S.""}, {:others=>true}]"	A General Semiconductor Process Modeling Framework	article-journal	IEEE Transactions on Semiconductor Manufacturing	1992-11	both	Required
+"[{:family=>""Ciplickas"", :given=>""Dennis J.""}, {:others=>true}]"	Predictive Yield Modeling of VLSIC’s	chapter	IEEE 5th International Workshop on Statistical Metrology	2000-06	both	Required
+"[{:family=>""Stapper"", :given=>""Charles H.""}, {:family=>""Rosner"", :given=>""Raymond J.""}]"	Integrated Circuit Yield Management and Yield Analysis: Development and Implementation	article-journal	IEEE Transactions on Semiconductor Manufacturing	1995-05	both	Required
+"[{:family=>""Drain"", :given=>""Davis""}]"	Variance Components and Process Sampling Design	article-journal	Statistical Methods for Industrial Process Control	1996	both	Required
+"[{:family=>""Rzepniewski"", :given=>""Adam K.""}, {:others=>true}]"	Cycle-to-Cycle Control of Multivariable Manufacturing Processes with Process Model Uncertainty	article-journal	ASME International Mechanical Engineering Congress and Exposition	2004	both	Required
+"[{:family=>""Hardt"", :given=>""D.E.""}, {:family=>""Siu"", :given=>""Tsz-Sin""}]"	Cycle to Cycle Manufacturing Process Control	article-journal	SMA	2002	both	Required
+"[{:family=>""Guo"", :given=>""Ruey-Shan""}, {:family=>""Sachs"", :given=>""Emanuel""}]"	Modeling	article-journal	IEEE Transactions on Semiconductor Manufacturing	1993-02	both	Required
+"[{:family=>""Davis"", :given=>""Joseph C.""}, {:others=>true}]"	A Robust Metric for Measuring Within-Wafer Uniformity	article-journal	IEEE Transactions on Components	1996-10	both	Required
+"[{:family=>""Mozumder"", :given=>""Purnendu K.""}, {:family=>""Loewenstein"", :given=>""Lee M.""}]"	Method for Semiconductor Process Optimization Using Functional Representations of Spatial Variations and Selectivity	article-journal	IEEE Transactions on Components	1992-06	both	Required
+"[{:family=>""Sahai"", :given=>""H.""}, {:family=>""Ageel"", :given=>""M.""}]"	The Analysis of Variance			2000	both	Required
+"[{:family=>""Walker"", :given=>""H.M.""}]"	Degrees of Freedom	article-journal	Journal of Educational Psychology	1940	both	Required

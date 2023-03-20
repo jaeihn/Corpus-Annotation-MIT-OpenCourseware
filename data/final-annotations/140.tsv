@@ -1,0 +1,8 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Goodman"", :given=>""Joseph W.""}]"	Statistical Optics			2000	both	Required
+"[{:family=>""Bertero"", :given=>""Mario""}, {:family=>""Boccacci"", :given=>""Patrizia""}]"	Introduction to Inverse Problems in Imaging			1998	both	Required
+"[{:family=>""Barbastathis"", :given=>""G.""}, {:family=>""Sinha"", :given=>""A.""}]"	Information Content of Volume Holographic Imaging	article-journal	Trends in Biotechnology	2001	both	Required
+"[{:family=>""O’Sullivan"", :given=>""J.A.""}, {:family=>""Blahut"", :given=>""R.E.""}, {:family=>""Snyder"", :given=>""D.L.""}]"	Information-Theoretic Image Formation	article-journal	IEEE Transactions on Information Theory	1998	both	Required
+"[{:family=>""Neifeld"", :given=>""M.A.""}]"	Information	article-journal	Optics Letters	1998	both	Required
+	Statistical solution to the two-point resolution problem” by G	paper-conference	Barbastathis	2001-11	left_only	Required
+	Axial imaging necessitates loss of lateral shift invariance” by A	paper-conference	Proceedings of the OSA Topical Meeting on Integrated Computational Imaging Systems (ICIS	2001-11	left_only	Required

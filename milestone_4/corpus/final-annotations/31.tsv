@@ -1,0 +1,30 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Isenberg"", :given=>""Daniel J.""}]"	How Senior Managers Think	article-journal	Harvard Business Review (November-December		both	Required
+"[{:family=>""Lindblom"", :given=>""Charles""}]"	The Science of Muddling Through	article-journal	Public Administration Review	1989	both	Required
+"[{:family=>""Zaleznik"", :given=>""Abraham""}]"	Management and Leaders: Are They Different?	article-journal	Harvard Business Review	1992-03	both	Required
+"[{:family=>""Kanter"", :given=>""Rosabeth Moss""}]"	The New Managerial Work	article-journal	Harvard Business Review (November-December		both	Required
+"[{:family=>""Wack"", :given=>""Pierre""}]"	Scenarios: Shooting the Rapids	article-journal	Harvard Business Review	1985-11	both	Required
+"[{:family=>""Zack"", :given=>""Michael""}]"	Developing a Knowledge Strategy	article-journal	California Management Review	1999-04	both	Required
+"[{:family=>""Mintzberg"", :given=>""Henry""}]"	The Fall and Rise of Strategic Planning	article-journal	Harvard Business Review	1994-01	both	Required
+"[{:family=>""Jick"", :given=>""Todd D.""}]"	The Vision Thing	article-journal	Harvard Business School Case	1989	both	Required
+"[{:family=>""Hazard"", :given=>""J.""}]"	Managing National Transportation Policy	chapter	Chapter 2 in The Federal Executive Setting	1989	both	Required
+"[{:family=>""Coughlin"", :given=>""Joseph F.""}]"	Can a Cabinet Official Innovate? Entrepreneurial Politics and National Transportation Policy	article-journal	Public Works Management and Policy	1997-01	both	Required
+"[{:family=>""Vogel"", :given=>""David J.""}]"	The Study of Business and Politics	article-journal	California Management Review	1996	both	Required
+"[{:family=>""Kanter"", :given=>""Rosabeth Moss""}]"	The Institutional Perspective on Management	article-journal	Harvard Business School Research Note	1997	both	Required
+	Public Policy and the Manager	article-journal	Harvard Business School Research Note	1993	both	Required
+"[{:family=>""Leone"", :given=>""Robert""}]"	Technology-Forcing Public Policies and the Automobile	chapter	Essays in Transportation Economics and Policy	1999	both	Required
+"[{:family=>""Lave"", :given=>""Charles""}, {:family=>""Lave"", :given=>""Lester""}]"	Fuel Economy and Auto Safety Regulation: Is the Cure Worse than the Disease?	chapter	Essays in Transportation Economics and Policy	1999	both	Required
+	Unocal Corporation’s SCRAP: Crushing Old Cars for Credit	article-journal	Harvard Business School Case	1991	both	Required
+"[{:family=>""Hart"", :given=>""Stuart""}]"	Beyond Greening: Strategies for a Sustainable World	article-journal	Harvard Business Review	1997-01	both	Required
+"[{:family=>""Public Policy Studies"", :given=>""Diebold Institute"", :particle=>""for""}]"	The Need for Cooperation between the Public and Private Sectors,” and “The European ITS Experience: Lessons for the United States	chapter	Chapter 5	1995	both	Required
+"[{:family=>""Sisodia"", :given=>""Rajendra""}]"	Singapore Invests in the Nation-Corporation	article-journal	Harvard Business Review (May-June		both	Required
+"[{:family=>""Goetz""}, {:family=>""Szyliowicz"", :given=>""J.""}]"	Revisiting Transportation Planning and Decision Making Theory: The Case of Denver International Airport	article-journal	Transportation Research A	1997	both	Required
+	BAE Automated Systems: Denver International Airport Baggage-Handling System	article-journal	Harvard Business School Case	1996	both	Required
+"[{:family=>""Truitt"", :given=>""Lawrence""}, {:family=>""Esler"", :given=>""Michael""}]"	Airport Privatization: Full Divesture and Its Alternatives	article-journal	Policy Studies Journal	1996	both	Required
+"[{:family=>""Gomez"", :given=>""Jose A.""}, {:family=>""Meyer"", :given=>""John""}]"	Going Private: The International Experience with Transport Privatization			1993	both	Required
+"[{:family=>""Ray"", :given=>""Sally J.""}]"	Strategic Communications in Crisis Management			1999	both	Required
+	Massachusetts Bay Transportation Authority (MBTA) Commuter Train and AMTRAK Train Collision	article-journal	Harvard Business School Case	1990	both	Required
+"[{:family=>""Christensen"", :given=>""Clayton""}, {:family=>""Overdorf"", :given=>""Michael""}]"	Meeting the Challenge of Disruptive Change	article-journal	Harvard Business Review (March-April		both	Required
+"[{:family=>""Rosegrant"", :given=>""Susan""}, {:family=>""Jick"", :given=>""Todd""}]"	Northwest Airlines Confronts Change	article-journal	Harvard Business School Case	1996	both	Required
+"[{:family=>""Prahalad"", :given=>""C.K.""}, {:family=>""Lieberthal"", :given=>""Kenneth""}]"	The End of Corporate Imperialism	article-journal	Harvard Business Review (July-August		both	Required
+"[{:family=>""Rosenzweig"", :given=>""Philip""}]"	Mercedes-Benz	article-journal	Harvard Business School Case	1993	both	Required

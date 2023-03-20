@@ -1,0 +1,9 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Strang"", :given=>""G.""}]"	Introduction to Applied Mathematics			1986	left_only	Optional
+"[{:family=>""Wunsch"", :given=>""Carl""}]"	Discrete Inverse and State Estimation Problems: With Geophysical Fluid Applications			2006	both	Required
+"[{:family=>""Wunsch"", :given=>""Carl""}]"	The Ocean Circulation Inverse Problem			1996	both	Optional
+"[{:family=>""Menke"", :given=>""William""}]"	Geophysical Data Analysis: Discrete Inverse Theory			1989	both	Optional
+"[{:family=>""Daley"", :given=>""Roger""}]"	Atmospheric Data Analysis			1991	both	Optional
+"[{:family=>""Priestley"", :given=>""M.B.""}]"	Spectral Analysis and Time Series			1981	both	Required
+"[{:family=>""Bracewell"", :given=>""R.N.""}]"	The Fourier Transform and its Applications			1999	both	Optional
+"[{:family=>""Percival"", :given=>""D.B.""}, {:family=>""Walden"", :given=>""A.T.""}]"	Spectral Analysis for Physical Applications: Multitaper and Conventional Univariate Techniques			1993	both	Optional

@@ -1,0 +1,61 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Blanchard"", :given=>""Olivier J.""}, {:family=>""Fisher"", :given=>""Stanley""}]"	Lectures on Macroeconomics	book		1989	both	Required
+"[{:family=>""Deaton"", :given=>""Angus""}]"	Understanding Consumption	book		1992	both	Required
+"[{:family=>""Ljungqvist"", :given=>""Lars""}, {:family=>""Sargent"", :given=>""Thomas J.""}]"	Recursive Macroeconomic Theory	book		2004	both	Required
+"[{:family=>""Backus"", :given=>""David""}, {:family=>""Routledge"", :given=>""Bryan""}, {:family=>""Zin"", :given=>""Stanley""}]"	Exotic Preferences for Macroeconomists	article-journal	NBER Working Paper	2004-06	both	Required
+"[{:family=>""Lucas"", :given=>""Robert E."", :suffix=>""Jr""}]"	Models of Business Cycles			1987	both	Required
+"[{:family=>""Epstein"", :given=>""Larry G.""}, {:family=>""Zin"", :given=>""Stanley E.""}]"	Substitution	article-journal	Econometrica	1989	both	Optional
+"[{:family=>""Lucas"", :given=>""Robert E."", :suffix=>""Jr""}]"	Macroeconomic Priorities	article-journal	A. E. A. Presidential Address in American Economic Review	2003	both	Optional
+"[{:family=>""Weil"", :given=>""Philippe""}]"	Non-expected Utility in Macroeconomics	article-journal	Quarterly Journal of Economics	1990	both	Optional
+"[{:family=>""Stokey"", :given=>""Nancy L.""}, {:family=>""Lucas"", :given=>""Robert E."", :suffix=>""Jr.""}, {:family=>""Prescott"", :given=>""Edward C.""}]"	Recursive Methods in Economic Dynamics			1989	both	Optional
+"[{:family=>""Townsend"", :given=>""Robert M.""}]"	Consumption Insurance: An Evaluation of Risk-Bearing Systems in Low-Income Economies	article-journal	Journal of Economic Perspectives	1995	both	Required
+"[{:family=>""Kocherlakota"", :given=>""Narayana R.""}]"	The Equity Premium Puzzle: It’s Still a Puzzle	article-journal	Journal of Economic Literature	1996	both	Required
+"[{:family=>""Cochrane"", :given=>""John H.""}, {:family=>""Hansen"", :given=>""Lars Peter""}]"	Asset Pricing Explorations for Macroeconomics	chapter	NBER Macroeconomics Annual	1992	both	Required
+"[{:family=>""Cochrane"", :given=>""John""}]"	Where is the Market Going? Uncertain Facts and Novel Theories	article-journal	Economic Perspectives XXI	1997	left_only	Optional
+"[{:family=>""Alvarez"", :given=>""Fernando""}, {:family=>""Jermann"", :given=>""Urban""}]"	Using Asset Returns to Estimate the Costs of Business Cycle Fluctuations	article-journal	Journal of Political Economy	2004	both	Optional
+"[{:family=>""Barro"", :given=>""Robert J.""}]"	On the Welfare Costs of Consumption Uncertainty	article-journal	NBER Working Paper	2006-12	both	Optional
+	Rare Disasters and Asset Markets in the Twentieth Century	article-journal	Quarterly Journal of Economics	2006	left_only	Optional
+"[{:family=>""Krusell"", :given=>""Per""}, {:family=>""Smith"", :given=>""Anthony A."", :suffix=>""Jr""}]"	Income and Wealth Heterogeneity in the Macroeconomy	article-journal	Journal of Political Economy	1998	both	Optional
+"[{:family=>""Aiyagari"", :given=>""S.Rao""}]"	Uninsured Idiosyncratic Risk and Aggregate Savings	article-journal	Quarterly Journal of Economics	1994	both	Required
+"[{:family=>""Caballero"", :given=>""Ricardo J.""}]"	Earnings Uncertainty and Aggregate Wealth Accumulation	article-journal	American Economic Review	1991	both	Optional
+"[{:family=>""Castañeda"", :given=>""Ana""}, {:family=>""Díaz-Giménez"", :given=>""Javier""}, {:family=>""Ríos-Rull"", :given=>""José-Victor""}]"	Accounting for the U.S	article-journal	Earnings and Wealth Inequality.” Journal of Political Economy	2004	both	Optional
+"[{:family=>""Deaton"", :given=>""Angus""}, {:family=>""Paxson"", :given=>""Christina""}]"	Intertemporal Choice and Inequality	article-journal	Journal of Political Economy	1994	both	Optional
+"[{:family=>""Heathcote"", :given=>""Jonathan""}, {:family=>""Storesletten"", :given=>""Kjetil""}, {:family=>""Violante"", :given=>""Giovanni""}]"	The Macroeconomic Implications of Rising Wage Inequality in the U.S	article-journal	CEPR Working Paper	2004-08	both	Optional
+"[{:family=>""Harris"", :given=>""Christopher""}, {:family=>""Laibson"", :given=>""David""}]"	Hyperbolic Discounting and Consumption	chapter	Chapter 7 in Advances in Economics and Econometrics	2003	both	Optional
+"[{:family=>""Krusell"", :given=>""Per""}, {:family=>""Smith"", :given=>""Anthony A."", :suffix=>""Jr""}]"	On the Welfare Effects of Eliminating Business Cycles	article-journal	Review of Economic Dynamics	1999	both	Optional
+"[{:family=>""Laibson"", :given=>""David""}]"	Golden Eggs and Hyperbolic Discounting	article-journal	Quarterly Journal of Economics	1997	both	Optional
+"[{:family=>""Schechtman"", :given=>""Jack""}, {:family=>""Escudero"", :given=>""Vera L.""}]"	Some Results on an Income Fluctuation Problem	article-journal	Journal of Economic Theory	1997	both	Optional
+"[{:family=>""Weil"", :given=>""Philippe""}]"	Precautionary Savings and the Permanent Income Hypothesis	article-journal	Review of Economic Studies	1993	both	Optional
+"[{:family=>""Zeldes"", :given=>""Stephen P.""}]"	Optimal Consumption with Stochastic Income: Deviations from Certainty Equivalence	article-journal	Quarterly Journal of Economics	1989	both	Optional
+"[{:family=>""Attanasio"", :given=>""Orazio P.""}]"	Consumption	chapter	Handbook of Macroeconomics	1998	both	Required
+"[{:family=>""Abel"", :given=>""Andrew""}]"	Consumption and Investment	chapter	Handbook of Monetary Economics	1990	both	Optional
+"[{:family=>""Abel"", :given=>""Andrew""}]"	Consumption and Investment	chapter	Handbook of Monetary Economics	1990	both	Optional
+"[{:family=>""Blundell"", :given=>""Richard""}, {:family=>""Pistaferri"", :given=>""Luigi""}, {:family=>""Preston"", :given=>""Ian""}]"	Consumption Inequality and partial insurance			2004	both	Optional
+"[{:family=>""Carroll"", :given=>""Christopher""}, {:family=>""Summers"", :given=>""Lawrence""}]"	Consumption Growth Parallels Income Growth: Some New Evidence	chapter	National Savings and Economic Performance	1991	both	Optional
+"[{:family=>""Guvenen"", :given=>""Fatih""}]"	Learning Your Earning: Are Labor Income Shocks Really Very Persistent?	article-journal	American Economic Review		both	Optional
+"[{:family=>""Huggett"", :given=>""Mark""}, {:family=>""Ventura"", :given=>""Gustavo""}, {:family=>""Yaron"", :given=>""Amir""}]"	Sources of Lifetime Inequality	book		2006	both	Optional
+"[{:family=>""Gourinchas"", :given=>""Pierre-Olivier""}, {:family=>""Parker"", :given=>""Jonathan""}]"	Consumption over the Life Cycle	article-journal	Econometrica	2002	both	Optional
+"[{:family=>""Heathcote"", :given=>""Jonathan""}, {:family=>""Storesletten"", :given=>""Kjetil""}, {:family=>""Violante"", :given=>""Giovanni L.""}]"	Two Views of Inequality Over the Life-Cycle	article-journal	Journal of the European Economic Association	2005	both	Optional
+"[{:family=>""Storesletten"", :given=>""Kjetil""}, {:family=>""Telmer"", :given=>""Chris""}, {:family=>""Yaron"", :given=>""Amir""}]"	Consumption and Risk Sharing over the Life Cycle	article-journal	Journal of Monetary Economics	2004	both	Optional
+"[{:family=>""Hall"", :given=>""Robert""}]"	Stochastic Implications of the Life Cycle Permanent Income Hypothesis: Theory and Evidence	article-journal	Journal of Political Economy	1978	both	Optional
+"[{:family=>""Kocherlakota"", :given=>""Narayana R.""}]"	Implications of Efficient Risk Sharing without Commitment	article-journal	Review of Economic Studies	1996	both	Optional
+"[{:family=>""Townsend"", :given=>""Robert M.""}]"	The Medieval Village Economy: A Study of the Pareto Mapping in General Equilibrium Models			1993	both	Optional
+	Risk and Insurance in Village India	article-journal	Econometrica	1994	left_only	Optional
+"[{:family=>""Lucas"", :given=>""Robert E."", :suffix=>""Jr""}]"	On Efficiency and Distribution	article-journal	Economic Journal	1992	both	Required
+"[{:family=>""Alvarez"", :given=>""Fernando""}, {:family=>""Jermann"", :given=>""Urban J.""}]"	Quantitative Asset Pricing Implications of Endogenous Solvency Constraints	article-journal	Review of Financial Studies	2001	both	Optional
+"[{:family=>""Atkeson"", :given=>""Andrew""}, {:family=>""Lucas"", :given=>""Robert E."", :suffix=>""Jr""}]"	On Efficient Distribution with Private Information	article-journal	Review of Economic Studies	1992	both	Optional
+"[{:family=>""Hayashi"", :given=>""Fumio""}]"	Tobin’s Marginal q and Average q: A Neoclassical Interpretation	article-journal	Econometrica	1982	both	Required
+"[{:family=>""Dixit"", :given=>""A.K.""}, {:family=>""Pindyck"", :given=>""R.S.""}]"	Investment Under Uncertainty			1994	both	Required
+"[{:family=>""Bentolila"", :given=>""Samuel""}, {:family=>""Bertola"", :given=>""Giuseppe""}]"	Firing Costs and Labour Demand: How Bad is Eurosclerosis?	article-journal	Review of Economic Studies	1990	both	Required
+"[{:family=>""Caballero"", :given=>""Ricardo J.""}]"	Aggregate Investment	chapter	Handbook of Macroeconomics	1999	both	Required
+"[{:family=>""Hopenhayn"", :given=>""Hugo""}, {:family=>""Rogerson"", :given=>""Richard""}]"	Job Turnover and Policy Evaluation: A General Equilibrium Analysis	article-journal	Journal of Political Economy	1993	both	Required
+"[{:family=>""Abel"", :given=>""Andrew B.""}, {:family=>""Eberly"", :given=>""Janice C.""}]"	Optimal Investment with Costly Reversibility	article-journal	Review of Economic Studies	1996	both	Optional
+"[{:family=>""Bachmann"", :given=>""Ruediger""}, {:family=>""Caballero"", :given=>""Ricardo J.""}, {:family=>""Engel"", :given=>""Eduardo M.R.A.""}]"	Lumpy Investment in Dynamic General Equilibrium	article-journal	NBER Working Paper	2006	both	Optional
+"[{:family=>""Caballero"", :given=>""Ricardo J.""}, {:family=>""Engle"", :given=>""Eduardo M.R.A.""}]"	Explaining Investment Dynamics In U.S. Manufacturing: A Generalized (S,s) Approach	article-journal	Econometrica	1999	both	Optional
+"[{:family=>""Caballero"", :given=>""Ricardo J.""}, {:family=>""Leahy"", :given=>""John V.""}]"	Fixed Costs: The Demise of Marginal q	article-journal	NBER Working Paper	1996	both	Optional
+"[{:family=>""Thomas"", :given=>""Julia K.""}]"	Is Lumpy Investment Relevant for the Business Cycle?	article-journal	Journal of Political Economy	2002	both	Optional
+"[{:family=>""Veracierto"", :given=>""Marcelo L.""}]"	Plant-Level Irreversible Investment and Equilibrium Business Cycles	article-journal	American Economic Review	2002	both	Optional
+"[{:family=>""Townsend"", :given=>""Robert M.""}]"	Risk and Insurance in Village India	article-journal	Econometrica	1994	right_only	Required
+"[{:family=>""Cochrane"", :given=>""John""}]"	Where is the Market Going? Uncertain Facts and Novel Theories	chapter	Economic Perspectives XXI	1997	right_only	Optional
+"[{:family=>""Barro"", :given=>""Robert J.""}]"	Rare Disasters and Asset Markets in the Twentieth Century	article-journal	Quarterly Journal of Economics	2006	right_only	Optional
+"[{:family=>""Mehra"", :given=>""Rajnish""}, {:family=>""Prescott"", :given=>""Edward C.""}]"	The Equity Premium: A Puzzle	article-journal	Journal of Monetary Economics	1985	right_only	Optional

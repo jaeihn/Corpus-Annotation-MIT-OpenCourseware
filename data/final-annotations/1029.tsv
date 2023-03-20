@@ -1,0 +1,46 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Krugman"", :given=>""Paul""}]"	Development			1997	both	Optional
+"[{:family=>""Card"", :given=>""David""}, {:family=>""Krueger"", :given=>""Alan B.""}]"	Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania	article-journal	The American Economic Review	1994	both	Required
+"[{:family=>""Dugger"", :given=>""Celia W.""}]"	Wage Laws Squeeze South Africa’s Poor	article-journal	The New York Times	2010-09-26	both	Required
+"[{:family=>""Dube"", :given=>""Arindrajit""}]"	The Minimum We Can Do	article-journal	The New York Times	2013-11-30	both	Required
+"[{:family=>""Neumark"", :given=>""David""}]"	Who Really Gets the Minimum Wage	article-journal	The Wall Street Journal	2014-07-06	both	Required
+"[{:family=>""Holland"", :given=>""Paul W.""}]"	Statistics and Causal Inference	article-journal	Journal of the American Statistical Association	1986	both	Optional
+"[{:family=>""Waldfogel"", :given=>""Joel""}]"	The Deadweight Loss of Christmas	article-journal	The American Economic Review	1983	both	Required
+"[{:family=>""Thompson"", :given=>""Derek""}]"	If Economists Wrote Christmas Cards	article-journal	The Atlantic	2013-12	left_only	Required
+"[{:family=>""Blattman"", :given=>""Chrisopther""}, {:family=>""Fiala"", :given=>""Nathan""}, {:family=>""Martinez"", :given=>""Sebastian""}]"	Generating Skilled Self-Employment in Developing Countries: Experimental Evidence from Uganda	article-journal	The Quarterly Journal of Economics	2014	both	Optional
+"[{:family=>""Haushofer"", :given=>""Johannes""}, {:family=>""Shapiro"", :given=>""Jeremy""}]"	The Short-Term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya	article-journal	The Quarterly Journal of Economics	2016	both	Optional
+"[{:family=>""Banerjee"", :given=>""Samiran""}]"	Intermediate Microeconomics: A Tool-Building Approach			2014	both	Required
+"[{:family=>""Angrist"", :given=>""Joshua D.""}, {:family=>""Pischke"", :given=>""Jörn-Steffen""}]"	Mastering ‘Metrics: The Path from Cause to Effect			2014	both	Required
+"[{:family=>""Williamson"", :given=>""Kevin D.""}]"	The White Ghetto	article-journal	National Review	2013-12	both	Required
+"[{:family=>""Eissa"", :given=>""Nada""}, {:family=>""Liebman"", :given=>""Jeffrey B.""}]"	Labor Supply Response to the Earned Income Tax Credit	article-journal	The Quarterly Journal of Economics	1996	both	Required
+"[{:family=>""Jensen"", :given=>""Robert""}, {:family=>""Miller"", :given=>""Nolan""}]"	Giffen Behavior and Subsistence Consumption	article-journal	American Economic Review	2008	both	Required
+"[{:family=>""Scherer"", :given=>""Fredric M.""}]"	The U.S. Sugar Program	article-journal	Harvard Kennedy School	1128	both	Required
+"[{:given=>""Editorial""}]"	America’s Sugar Daddies	article-journal	The New York Times	2003-11-29	both	Required
+"[{:family=>""Malkin"", :given=>""Elizabeth""}]"	In Mexico	article-journal	The New York Times	2004-06-09	both	Required
+"[{:family=>""Alliance"", :given=>""American Sugar""}]"	Trade Talks in Works Could Devastate U.S. Sugar Industry	article-journal	October	2003	both	Required
+"[{:family=>""Driessche"", :given=>""Ray Van""}]"	Sugar is Not Expensive	book		2000-05-23	both	Required
+"[{:family=>""Hsieh"", :given=>""Chang-Tai""}, {:family=>""Moretti"", :given=>""Enrico""}]"	Can Free Be Inefficient? Fixed Commissions and Social Waste in the Real Estate Industry	article-journal	Journal of Political Economy	2003	both	Required
+"[{:family=>""Jensen"", :given=>""Robert""}]"	The Digital Provide: Information (Technology)	article-journal	The Quarterly Journal of Economics	2007	both	Required
+"[{:family=>""Krugman"", :given=>""Paul""}]"	The Accidental Theorist	article-journal	Slate	1997-01	both	Optional
+"[{:family=>""Kristof"", :given=>""Nicholas D.""}]"	Let Them Sweat	article-journal	The New York Times	2002-06-25	both	Optional
+"[{:family=>""Feyrer"", :given=>""James""}]"	Trade and Income: Exploiting Time Series in Geography	article-journal	NBER Working Paper	2009	both	Required
+"[{:family=>""Autor"", :given=>""David""}, {:family=>""Dorn"", :given=>""David""}, {:family=>""Hanson"", :given=>""Gordon H.""}]"	The China Syndrome: Local Labor Market Effects of Import Competition in the United States	article-journal	American Economic Review	2013	both	Required
+"[{:family=>""Autor"", :given=>""David""}, {:family=>""Welfare"", :given=>""Worker""}]"	International Trade and U.S	book		2016-10-31	both	Optional
+"[{:family=>""Autor"", :given=>""David""}, {:family=>""Dorn"", :given=>""David""}, {:family=>""Hanson"", :given=>""Gordon H.""}]"	The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade	article-journal	Annual Review of Economics	2016	both	Optional
+"[{:family=>""Bergstrom"", :given=>""Theodore""}]"	Lecture 5-Externalities	book		2002-03	both	Required
+"[{:family=>""Hornbeck"", :given=>""Richard""}]"	Barbed Wire: Property Rights and Agricultural Development	article-journal	The Quarterly Journal of Economics	2010	both	Required
+"[{:family=>""Ashenfelter"", :given=>""Orley""}, {:family=>""Greenstone"", :given=>""Michael""}]"	Using Mandated Speed Limits to Measure the Value of a Statistical Life	article-journal	Journal of Political Economy	2004	both	Required
+"[{:family=>""Newman"", :given=>""Thomas P.""}, {:family=>""Johnston"", :given=>""Brian D.""}, {:family=>""Grossman"", :given=>""David C.""}]"	Effects and Costs of Requiring Child-Restraint Systems for Young Children Traveling on Commercial Airplanes	article-journal	Archives of Pediatric Adolescent Medicine	2003	both	Required
+"[{:family=>""Banzhaf"", :given=>""H.Spencer""}]"	Retrospectives: The Cold-War Origins of the Value of Statistical Life	article-journal	Journal of Economic Perspectives	2014	both	Optional
+"[{:family=>""Keys"", :given=>""Benjamin J.""}, {:family=>""Mukkerjee"", :given=>""Tanmoy""}, {:others=>true}]"	Did Securitization Lead to Lax Screening? Evidence from Subprime Loans	article-journal	The Quarterly Journal of Economics	2010	both	Required
+"[{:family=>""Spence"", :given=>""Michael""}]"	Job Market Signaling	article-journal	The Quarterly Journal of Economics	1973	both	Required
+"[{:family=>""Tyler"", :given=>""John H.""}, {:family=>""Murnane"", :given=>""Richard J.""}, {:family=>""Willett"", :given=>""John B.""}]"	Estimating the Labor Market Signaling Value of the GED	article-journal	The Quarterly Journal of Economics	2000	both	Required
+"[{:family=>""Agan"", :given=>""Amanda""}, {:family=>""Starr"", :given=>""Sonja""}]"	Ban the Box	book		2016-08-24	both	Required
+"[{:family=>""Autor"", :given=>""David H.""}, {:family=>""Scarborough"", :given=>""David""}]"	Does Job Testing Harm Minority Workers? Evidence from Retail Establishments	article-journal	The Quarterly Journal of Economics	2008	both	Optional
+"[{:family=>""Doleac"", :given=>""Jennifer L.""}, {:family=>""Hansen"", :given=>""Benjamin""}]"	Does ‘Ban the Box’ Help or Hurt Low-Skilled Workers? Statistical Discrimination and Employment Outcomes When Criminal Histories are Hidden	article-journal	NBER Working Paper	2016	both	Optional
+"[{:family=>""Bartik"", :given=>""Alexander W.""}, {:family=>""Nelson"", :given=>""Scott""}]"	Credit Reports as Résumés: The Incidence of Pre-Employment Credit Screening	chapter	MIT Department of Economics Graduate Student Research Paper 16–01	2016-03	both	Optional
+"[{:family=>""Akerlof"", :given=>""George A.""}]"	The Market for “Lemons”: Quality Uncertainty and the Market Mechanism	article-journal	The Quarterly Journal of Economics	1970	both	Required
+"[{:family=>""Einav"", :given=>""Liran""}, {:family=>""Finkelstein"", :given=>""Amy""}]"	Selection in Insurance Markets: Theory and Empirics in Pictures	article-journal	Journal of Economic Perspectives	2011	both	Required
+"[{:family=>""Cutler"", :given=>""David""}, {:family=>""Reber"", :given=>""Sarah""}]"	Paying for Health Insurance: The Trade-Off between Competition and Adverse Selection	article-journal	The Quarterly Journal of Economics	1998	both	Required
+"[{:family=>""Finkelstein"", :given=>""Amy""}, {:family=>""McGarry"", :given=>""Kathleen""}]"	Multiple Dimensions of Private Information: Evidence from the Long-Term Care Insurance Market	article-journal	American Economic Review	2006	both	Required
+"[{:family=>""Card"", :given=>""David E.""}, {:family=>""Dobkin"", :given=>""Carlos""}, {:others=>true}]"	Does Medicare Save Lives?	article-journal	The Quarterly Journal of Economics	2009	both	Required

@@ -634,7 +634,7 @@ Optional	"[{:family=>""Sauvet-Guichon"", :given=>""Bruno""}]"	Ashkelon Desalinat
 Optional	"[{:family=>""Probstein"", :given=>""Ronald F.""}]"	Reverse Osmosis and Mixed Heterogeneous Reactions	chapter	Section 4.4 in Physicochemical Hydrodynamics	2003	124
 Optional	"[{:family=>""Yasuda"", :given=>""H.""}, {:family=>""Lamaze"", :given=>""C.E.""}]"	Salt Rejection by Polymer Membranes in Reverse Osmosis	article-journal	I. Nonionic Polymers.” Journal of Polymer Science: Part A-2	1971	124
 Optional	"[{:family=>""Paul"", :given=>""D.R.""}]"	The Role of Membrane Pressure in Reverse Osmosis	article-journal	Journal of Applied Polymer Science	1972	124
-Optional	"[{:literal=>""———.""}]"	Reformulation of the Solution-Diffusion Theory of Reverse Osmosis	article-journal	Journal of Membrane Science	2004-10	124
+Optional	"[{:family=>""Paul"", :given=>""D.R.""}]"	Reformulation of the Solution-Diffusion Theory of Reverse Osmosis	article-journal	Journal of Membrane Science	2004-10	124
 Optional	"[{:family=>""Cath"", :given=>""Tzahi Y.""}, {:family=>""Childress"", :given=>""Amy E.""}, {:family=>""Elimelech"", :given=>""Menachem""}]"	Forward Osmosis: Principles	article-journal	Journal of Membrane Science	2006	124
 Optional	"[{:family=>""Hilal"", :given=>""N.""}, {:others=>true}]"	A Comprehensive Review of Nanofiltration Membranes	article-journal	Desalination	2004	124
 Optional	"[{:family=>""Asatekin"", :given=>""Ayse""}, {:others=>true}]"	Antifouling Nanofiltration Membranes for Membrane Bioreactors from Self-Assembling Graft Copolymers	article-journal	Journal of Membrane Science	2006	124
@@ -731,7 +731,7 @@ Optional		Solar Cells: Materials			2012	131
 Optional		Chapters in Handbook of Photovoltaic Science and Engineering			2011	131
 Required	"[{:family=>""Initiative"", :given=>""M.I.T.Energy""}]"	Student Project Identifies Improvements for Campus PVs	article-journal	MIT News	2011-11-30	131
 Required	"[{:family=>""Powell"", :given=>""D.M.""}, {:family=>""Winkler"", :given=>""M.T.""}, {:others=>true}]"	Crystalline Silicon Photovoltaics: A Cost Analysis Framework for Determining Technology Pathways to Reach Baseload Electricity Costs	article-journal	Energy & Environmental Science	2012	131
-Required	"[{:literal=>""———.""}]"	Modeling the Cost and Minimum Sustainable Price of Crystalline Silicon Photovoltaic Manufacturing in the United States	article-journal	IEEE Journal of Photovoltaics	2013	131
+Required	"[{:family=>""Powell"", :given=>""D.M.""}, {:family=>""Winkler"", :given=>""M.T.""}, {:others=>true}]"	Modeling the Cost and Minimum Sustainable Price of Crystalline Silicon Photovoltaic Manufacturing in the United States	article-journal	IEEE Journal of Photovoltaics	2013	131
 Required	"[{:family=>""Goodrich"", :given=>""A.C.""}, {:family=>""Powell"", :given=>""D.M.""}, {:others=>true}]"	Assessing the Drivers of Regional Trends in Solar Photovoltaic Manufacturing	article-journal	Energy & Environmental Science	2013	131
 Optional		Applied Photovoltaics			2006	131
 Optional	"[{:family=>""Yu"", :given=>""P.""}, {:family=>""Cardona"", :given=>""M.""}]"	Fundamentals of Semiconductors: Physics and Materials Properties			2004	131
@@ -940,7 +940,7 @@ Optional	"[{:family=>""Lomax"", :given=>""Harvard""}, {:family=>""Pulliam"", :gi
 Optional	"[{:family=>""Wendt"", :given=>""John""}]"	Computational Fluid Dynamics: An Introduction			2008	122
 Optional	"[{:family=>""Löhner"", :given=>""Rainald""}]"	Applied Computational Fluid Dynamics Techniques: An Introduction Based on Finite Element Methods			2008	122
 Required			chapter	Principles of Naval Architecture	1988	137
-Required	"[{:literal=>""———.""}]"	Principles of Naval Architecture Vol. II: Resistance			1988	137
+Required	"[{:family=>""Löhner"", :given=>""Rainald""}]"	Principles of Naval Architecture Vol. II: Resistance			1988	137
 Required	"[{:family=>""Gillmer"", :given=>""Thomas C.""}, {:family=>""Johnson"", :given=>""Bruce""}]"	Introduction to Naval Architecture			1982	137
 Required	"[{:family=>""Kerwin"", :given=>""Justin E.""}, {:family=>""Hadler"", :given=>""Jacques B.""}]"	Principles of Naval Architecture Series: Propulsion	article-journal	The Society of Naval Architects and Marine Engineers	2010	137
 Required	"[{:family=>""Larsson"", :given=>""Lars""}, {:family=>""Raven"", :given=>""H.C.""}]"	The Principles of Naval Architecture Series: Ship Resistance and Flow	article-journal	The Society of Naval Architects and Marine Engineers	2010	137
@@ -967,7 +967,7 @@ Optional	"[{:family=>""Rubinstein""}, {:given=>""Colby""}]"	Chapter 9 in Polymer
 Optional	"[{:family=>""Malkin"", :given=>""A.Ya""}]"	The State of the Art in the Rheology of Polymers: Achievements and Challenges	article-journal	Polymer Science Series A	2009	123
 Optional	"[{:family=>""Prakash"", :given=>""J.Ravi""}]"	Micro and Macro in the Dynamics of Dilute Polymer Solution	article-journal	Korea-Australia Rheology Journal	2009	123
 Optional	"[{:family=>""Larson"", :given=>""R.G.""}]"	Constitutive Equations for Polymer Melts and Solutions: Butterworths Series in Chemical Engineering			2013	123
-Optional	"[{:literal=>""———.""}]"	The Structure and Rheology of Complex Fluids	book		1999	123
+Optional	"[{:family=>""Larson"", :given=>""R.G.""}]"	The Structure and Rheology of Complex Fluids	book		1999	123
 Optional	"[{:family=>""Morrison"", :given=>""F.""}]"	Understanding Rheology			2001	123
 Optional	"[{:family=>""Doi"", :given=>""M.""}, {:family=>""Edwards"", :given=>""S.F.""}]"	The Theory of Polymer Dynamics			1986	123
 Optional	"[{:family=>""Graessley"", :given=>""W.W.""}]"	Polymeric Liquids & Networks: Dynamics and Rheology			2008	123
@@ -1088,7 +1088,7 @@ Optional	"[{:family=>""Papadopoulos"", :given=>""H.T.""}, {:family=>""Heavey"", 
 Optional	"[{:family=>""Altiok"", :given=>""Tayfur""}]"	Performance Analysis of Manufacturing Systems	book		1997	150
 Optional	"[{:family=>""Hopp"", :given=>""Wallace J.""}, {:family=>""Spearman"", :given=>""Mark L.""}]"	Factory Physics: Foundations of Manufacturing Management			2011	150
 Optional	"[{:family=>""A."", :given=>""Dolgui""}, {:family=>""Proth"", :given=>""J.M.""}]"	Les systèmes de production modernes. Tome 1 : Conception			2006	150
-Optional	"[{:literal=>""———.""}]"	Les systèmes de production modernes. Tome 2 : Outils et corrigés des exercices coll finance gestion managem	article-journal	Hermes Science	2006	150
+Optional	"[{:family=>""A."", :given=>""Dolgui""}, {:family=>""Proth"", :given=>""J.M.""}]"	Les systèmes de production modernes. Tome 2 : Outils et corrigés des exercices coll finance gestion managem	article-journal	Hermes Science	2006	150
 Optional	"[{:family=>""Li"", :given=>""Jingshan""}, {:family=>""Meerkov"", :given=>""Semyon M.""}]"	Production Systems Engineering			2008	150
 Optional	"[{:family=>""Goldratt"", :given=>""Eliyahu M.""}, {:family=>""Cox"", :given=>""Jeff""}]"	The Goal: A Process of Ongoing Improvement			2014	150
 Optional	"[{:family=>""Drake"", :given=>""Alvin W.""}]"	Fundamentals of Applied Probability Theory			1967	150
@@ -1388,7 +1388,7 @@ Optional	"[{:family=>""McNeil"", :given=>""Paul L.""}, {:family=>""Steinhardt"",
 Optional	"[{:family=>""Miyake"", :given=>""Katsuya""}, {:family=>""McNeil"", :given=>""Paul L.""}]"	Mechanical Injury and Repair of Cells	article-journal	Critical Care Medicine	2003	146
 Optional	"[{:family=>""Rubin"", :given=>""Clinton T.""}, {:family=>""Lanyon"", :given=>""Lance E.""}]"	Osteoregulatory Nature of Mechanical Stimuli: Function as a Determinant for Adaptive Remodeling in Bone	article-journal	Journal of Orthopaedic Research	1987	146
 Optional	"[{:family=>""Freyman"", :given=>""T.M.""}, {:family=>""Yannas"", :given=>""I.V.""}, {:others=>true}]"	Fibroblast Contraction of a Collagen–GAG Matrix	article-journal	Biomaterials	2001	146
-Optional	"[{:literal=>""———.""}]"	Fibroblast Contractile Force is Independent of the Stiffness which Resists the Contraction	article-journal	Experimental Cell Research	2002	146
+Optional	"[{:family=>""Freyman"", :given=>""T.M.""}, {:family=>""Yannas"", :given=>""I.V.""}, {:others=>true}]"	Fibroblast Contractile Force is Independent of the Stiffness which Resists the Contraction	article-journal	Experimental Cell Research	2002	146
 Optional	"[{:family=>""Freyman"", :given=>""T.M.""}, {:family=>""Yannas"", :given=>""I.V.""}, {:others=>true}]"	Micromechanics of Fibroblast Contraction of a Collagen–GAG Matrix	article-journal	Experimental Cell Research	2001	146
 Optional	"[{:family=>""Hwang"", :given=>""Kun""}, {:family=>""Sim"", :given=>""Hyung Bo""}, {:others=>true}]"	Myofibroblasts and Capsular Tissue Tension in Breast Capsular Contracture	article-journal	Aesthetic Plastic Surgery	2010	146
 Optional	"[{:family=>""Walsh"", :given=>""Andrew J.L.""}, {:family=>""Lotz"", :given=>""Jeffrey C.""}]"	Biological Response of the Intervertebral Disc to Dynamic Loading	article-journal	Journal of Biomechanics	2004	146
@@ -1401,7 +1401,7 @@ Optional	"[{:family=>""Turner"", :given=>""Charles H.""}, {:family=>""Pavalko"",
 Optional	"[{:family=>""Robling"", :given=>""A.G.""}, {:family=>""Duijvelaar"", :given=>""K.M.""}, {:others=>true}]"	Modulation of Appositional and Longitudinal Bone Growth in the Rat Ulna by Applied Static and Dynamic Force	article-journal	Bone	2001	146
 Optional	"[{:family=>""Burr"", :given=>""D.B.""}, {:family=>""Robling"", :given=>""Alexander G.""}, {:others=>true}]"	Effects of Biomechanical Stress on Bones in Animals	article-journal	Bone	2002	146
 Required	"[{:family=>""Suh"", :given=>""N.P.""}]"	Axiomatic Design: Advances and Applications			2001	152
-Required	"[{:literal=>""———.""}]"	Complexity: Theory and Applications			2005	152
+Required	"[{:family=>""Suh"", :given=>""N.P.""}]"	Complexity: Theory and Applications			2005	152
 Optional	"[{:family=>""Stachel"", :given=>""J.""}]"	1905 and all that	article-journal	Nature	2005-01-20	152
 Optional	"[{:family=>""Barrow"", :given=>""J.D.""}]"	Einstein as an Icon	article-journal	Nature	2005-01-20	152
 Optional	"[{:family=>""Parisi"", :given=>""G.""}]"	Brownian Motion	article-journal	Nature	2005-01-20	152
@@ -1494,7 +1494,7 @@ Optional	"[{:family=>""Dar"", :given=>""Arnon""}, {:family=>""Rújula"", :given=
 Optional	"[{:given=>""AssociatedPress""}]"	Particle Collider Fires	article-journal	September	2008	80
 Optional	"[{:family=>""Dias"", :given=>""Antonio_""}]"	Designer and Client	book		1998	156
 Optional	"[{:family=>""Herreshoff"", :given=>""L.Francis Capt""}]"	Nat Herreshoff	book		1996	156
-Optional	"[{:literal=>""———.""}]"	The Common Sense of Yacht Design	book		1946	156
+Optional	"[{:family=>""Herreshoff"", :given=>""L.Francis Capt""}]"	The Common Sense of Yacht Design	book		1946	156
 Optional	"[{:family=>""Chapelle"", :given=>""Howard I.""}]"	American Small Sailing Craft			1951	156
 Optional	"[{:family=>""Skene"", :given=>""Norman L.""}]"	Elements of Yacht Design	book		1927	156
 Optional	"[{:family=>""Stephens"", :given=>""W.P.""}]"	Traditions and Memories of American Yachting	book		1981	156
