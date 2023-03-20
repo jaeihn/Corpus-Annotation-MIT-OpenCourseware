@@ -10,13 +10,7 @@ Then execute
 ```
 docker run -p 9999:9999 team1 
 ```
-Lastly, execute
-
-```
-open http://localhost:9999/
-```
-
-Now you should be able to access the application in your web browser.
+Now you should be able to access the application by navigating to http://localhost:9999/ in your web browser.
 
 <br>
 
@@ -24,4 +18,8 @@ Now you should be able to access the application in your web browser.
 
 - Please check out our statistics page! There are some interesting moments when we did the annotations.
 
-- In both Search by Title page and Search by Author page, you can search the readings based on different course topics, whether it is a book or paper, and whether it is required or optional in a MIT open course.
+- In both Search by Title page and Search by Author page, you can search the readings based on different course topics.
+  - For Type of Readings, you can choose whether they are Book, Academic Paper, or All to include both of them.
+  - For Readings to Include, you can choose whether they are Require, Optional in MIT open courses, or All to include both of them.
+  - Please click the Search button after making the selections.
+  - If no readings appear, that means no readings match the selections. Please make other selections and try again!
