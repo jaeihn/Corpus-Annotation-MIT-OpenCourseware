@@ -26,5 +26,5 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Tunnicliffe"", :given=>""V.""}, {:family=>""Fowler"", :given=>""C.M.R.""}]"	Influence of sea-floor spreading on the global hydrothermal vent fauna	article-journal	Nature	1996	both	Required
 "[{:family=>""Morgan"", :given=>""Phipps""}, {:others=>true}]"	Observational hints for a plume-fed sub-oceanic asthneosphere and its role in mantle convection	article-journal	Journal of Geophys. Res	1995	both	Required
 "[{:family=>""Morgan"", :given=>""Phipps""}, {:family=>""J.""}, {:family=>""Morgan"", :given=>""W.J.""}]"	Two-stage melting and the geochemical evolution of the mantle: a recipe for mantle plum-pudding	chapter	_Earth Planet Sci Lett_170	1999	both	Required
-"[{:family=>""Schilling"", :given=>""J.G.""}]"	Fluxes and excess temperatures of the mantle plumes inferred from their interaction with migrating mid-ocean ridges	article-journal	Nature	1991	right_only	Required
-"[{:family=>""Hieronymus"", :given=>""C.F.""}, {:family=>""Bercovici"", :given=>""D.""}]"	Non-hotspot formation of volcanic chains: control of tectonic and flexural stresses on magma transport	article-journal	Earth Planet Sci Lett	2000	right_only	Required
+"[{:literal=>""———.""}]"	Fluxes and excess temperatures of the mantle plumes inferred from their interaction with migrating mid-ocean ridges	article-journal	Nature	1991	right_only	Required
+"[{:literal=>""———.""}]"	Non-hotspot formation of volcanic chains: control of tectonic and flexural stresses on magma transport	article-journal	Earth Planet Sci Lett	2000	right_only	Required

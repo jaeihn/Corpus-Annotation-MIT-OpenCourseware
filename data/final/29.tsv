@@ -4,8 +4,8 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Nelson"", :given=>""Donna""}]"	ITS Systems	article-journal	Intelligent Transportation Primer	2000	both	Optional
 "[{:family=>""Sussman"", :given=>""Joseph M.""}]"	Intelligent Transportation Systems.” Chapter 24 in Introduction to Transportation Systems	book		2000	both	Optional
 "[{:family=>""Shladover"", :given=>""Steven E.""}]"	Introducing Intelligent Transportation Systems: Paradigm for 21st Century Transportation	article-journal	TR News	2002-01	both	Optional
-"[{:family=>""McQueen"", :given=>""Bob""}, {:family=>""Schuman"", :given=>""Rick""}, {:family=>""Chen"", :given=>""Kan""}]"	Advanced Traveler Information Systems	book		2002	left_only	Optional
-"[{:family=>""Zimmerman"", :given=>""Carol""}]"	Advanced Traveler Information Systems			2000	left_only	Optional
+"[{:family=>""McQueen"", :given=>""Bob""}, {:family=>""Schuman"", :given=>""Rick""}, {:family=>""Chen"", :given=>""Kan""}]"	Advanced Traveler Information Systems	book		2002	both	Optional
+"[{:family=>""Zimmerman"", :given=>""Carol""}]"	Advanced Traveler Information Systems			2000	both	Optional
 "[{:family=>""Lappin"", :given=>""Jane""}, {:family=>""Peirce"", :given=>""Sean""}]"	A Qualitative Assessment of Customer Response to Online Traffic Information Services in Greater Los Angeles: Part I of a Two-Part Customer Satisfaction Evaluation	report		2001-12-15	both	Optional
 "[{:family=>""Lappin"", :given=>""Jane""}, {:family=>""Peirce"", :given=>""Sean""}]"	Why don’t more people use advanced traveler information? Evidence from the Seattle area	report		2004-01	both	Optional
 "[{:family=>""Lieu"", :given=>""Henry""}]"	A Roadmap for the Research	book		2003	both	Optional
@@ -41,7 +41,3 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Team"", :given=>""Architecture Development""}]"	National ITS Architecture ITS Vision Statement	article-journal	Federal Highway Administration	2003-10	both	Optional
 "[{:family=>""Transportation"", :given=>""Department"", :particle=>""of""}]"	FHWA Rule on ITS Architecture and Standards			2001-01	both	Optional
 "[{:family=>""Transportation"", :given=>""Department"", :particle=>""of""}]"	FTA National ITS Architecture Policy on Transit Projects			2001-01	both	Optional
-"[{:family=>""McQueen"", :given=>""Bob""}, {:family=>""Schuman"", :given=>""Rick""}, {:family=>""Chen"", :given=>""Kan""}]"	Chapters 2 and 3 in Advanced Traveler Information Systems	book		2002	right_only	Optional
-"[{:family=>""Zimmerman"", :given=>""Carol""}]"	Advanced Traveler Information Systems	chapter	Chapter 5 in Intelligent Transportation Primer	2000	right_only	Optional
-"[{:family=>""McQueen"", :given=>""Bob""}, {:family=>""Schuman"", :given=>""Rick""}, {:family=>""Chen"", :given=>""Kan""}]"	Chapters 4 and 5 in Advanced Traveler Information Systems	book		2002	right_only	Optional
-	A letter from Thomas Horan	manuscript			right_only	Optional

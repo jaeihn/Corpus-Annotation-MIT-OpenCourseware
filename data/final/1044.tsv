@@ -63,11 +63,11 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Halpern"", :given=>""J.Y.""}]"	Alternative Semantics for Unawareness	article-journal	Games and Economic Behavior	2001	both	Required
 "[{:family=>""Heifetz"", :given=>""A.""}, {:family=>""Meier"", :given=>""M.""}, {:family=>""Schipper"", :given=>""B.C.""}]"	Interactive Unawareness	chapter	Discussion Papers 52	2004	both	Required
 "[{:family=>""Modica"", :given=>""S.""}, {:family=>""Rustichini"", :given=>""A.""}]"	Awareness and partitional information structures	article-journal	Theory and Decision	1994	both	Required
-"[{:family=>""Cramton"", :given=>""P.""}]"	Strategic delay in bargaining with two-sided uncertainty	article-journal	Review of Economic Studies	1992	right_only	Required
-"[{:family=>""Yildiz"", :given=>""M.""}]"	Waiting to persuade	article-journal	Quarterly Journal of Economics	2004	right_only	Required
-"[{:family=>""Dekel"", :given=>""E.""}, {:family=>""Fudenberg"", :given=>""D.""}, {:family=>""Morris"", :given=>""S.""}]"	Dense Types			2004	right_only	Required
-"[{:family=>""Morris"", :given=>""S.""}, {:family=>""Shin"", :given=>""H.S.""}]"	Global Games - Theory and Applications	chapter	Advances in Economics and Econometrics	2003	right_only	Required
-"[{:family=>""Morris"", :given=>""S.""}, {:family=>""Shin"", :given=>""H.S.""}]"	Rethinking Multiple Equilibria in Macroeconomics	chapter	NBER Macroeconomics Annual	2000	right_only	Required
-"[{:family=>""Morris"", :given=>""S.""}, {:family=>""Shin"", :given=>""H.S.""}]"	Coordination Risk and the Price of Debt	article-journal	European Economic Review	2004	right_only	Required
-"[{:family=>""Morris"", :given=>""S.""}, {:family=>""Shin"", :given=>""H.S.""}]"	Liquidity Black Holes	article-journal	Review of Finance	2004	right_only	Required
-"[{:family=>""Dekel"", :given=>""E.""}, {:family=>""Lipman"", :given=>""B.L.""}, {:family=>""Rustichini"", :given=>""A.""}]"	Recent Developments in Modelling Unforseen Contingencies	article-journal	European Economic Review	1998	right_only	Required
+"[{:literal=>""———.""}]"	Strategic delay in bargaining with two-sided uncertainty	article-journal	Review of Economic Studies	1992	right_only	Required
+"[{:literal=>""———.""}]"	Waiting to persuade	article-journal	Quarterly Journal of Economics	2004	right_only	Required
+"[{:literal=>""———.""}]"	Dense Types			2004	right_only	Required
+"[{:literal=>""———.""}]"	Global Games - Theory and Applications	chapter	Advances in Economics and Econometrics	2003	right_only	Required
+"[{:literal=>""———.""}]"	Rethinking Multiple Equilibria in Macroeconomics	chapter	NBER Macroeconomics Annual	2000	right_only	Required
+"[{:literal=>""———.""}]"	Coordination Risk and the Price of Debt	article-journal	European Economic Review	2004	right_only	Required
+"[{:literal=>""———.""}]"	Liquidity Black Holes	article-journal	Review of Finance	2004	right_only	Required
+"[{:literal=>""———.""}]"	Recent Developments in Modelling Unforseen Contingencies	article-journal	European Economic Review	1998	right_only	Required

@@ -277,40 +277,40 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Koszegi"", :given=>""B.""}]"	Is Addiction ‘Rational’? Theory and Evidence	article-journal	Quarterly Journal of Economics	2001-11	both	Required
 	A Theory of Government Regulation of Addictive Bads: Optimal Tax Levels and Tax Incidence for Cigarette Taxation	article-journal	NBER Working Paper	2002-02	left_only	Required
 "[{:family=>""Manning"", :given=>""Willard""}, {:family=>""al"", :particle=>""et.""}]"	The Taxes of Sin: Do Smokers and Drinkers Pay Their Way?	article-journal	Journal of the American Medical Association	1989	both	Required
-"[{:family=>""Andreoni"", :given=>""J.""}]"	An Experimental Test of the Public Goods Crowding Out Hypothesis	article-journal	American Economic Review	1993-12	right_only	Required
+"[{:literal=>""———.""}]"	An Experimental Test of the Public Goods Crowding Out Hypothesis	article-journal	American Economic Review	1993-12	right_only	Required
 "[{:family=>""Atkinson"", :given=>""A.B.""}]"	The Income Tax Treatment of Charitable Contributions	chapter	Essays in the Honor of William S. Vickrey	1976	right_only	Required
-"[{:family=>""Clotfelter"", :given=>""C.""}]"	The Impact of Tax Reform on Charitable Giving: A 1989 Perspective	chapter	Do Taxes Matter?	1990	right_only	Required
-"[{:family=>""Hurd"", :given=>""M.""}]"	Mortality Risk and Bequests	article-journal	Econometrica	1989	right_only	Required
-"[{:family=>""Brown"", :given=>""J.""}]"	Redistribution and Insurance: Mandatory Annuitization with Mortality Heterogeneity	article-journal	Center for Retirement Research working paper	2001-03	right_only	Required
-"[{:family=>""Brown"", :given=>""J.""}]"	Differential Mortality and the Value of Individual Account Retirement Annuities	chapter	NBER Working Paper No. 7560		right_only	Required
-"[{:family=>""Kopczuk"", :given=>""W.""}]"	Optimal Estate Taxation in the Steady State?	manuscript			right_only	Required
-"[{:family=>""McGarry"", :given=>""K.""}]"	Inter Vivos Transfers or Bequests? Estate Taxes and the Timing of Parental Giving	article-journal	Tax Policy and the Economy	2000	right_only	Required
-"[{:family=>""Poterba"", :given=>""J.""}]"	The Estate and Gift Tax and Inter Vivos Giving in the United States	article-journal	Journal of Public Economics	2001-01	right_only	Required
-"[{:family=>""Diamond"", :given=>""P.""}]"	Government Provision and Regulation of Economic Support in Old Age	paper-conference	Proceedings of the Seventh Annual World Bank Conference on Development Economics	1995	right_only	Required
-"[{:family=>""Feldstein"", :given=>""M.""}]"	Seven Principles of Social Insurance	article-journal	Challenge	1976-11	right_only	Required
-"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Mirrlees"", :given=>""J.""}]"	Social Insurance with Variable Retirement and Private Saving	article-journal	Journal of Public Economics		right_only	Required
-"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Mirrlees"", :given=>""J.""}]"	Payroll-Tax Financed Social Security with Variable Retirement	article-journal	Scandinavian Journal of Economics	1986	right_only	Required
-"[{:family=>""Feldstein"", :given=>""M.""}]"	Should Social Security Benefits Increase with Age?	chapter	NBER Working Paper 2200	1987-03	right_only	Required
-"[{:family=>""Abel"", :given=>""A.B.""}]"	Capital Accumulation and Uncertain Lifetimes with Adverse Selection	article-journal	Econometrica	1986-09	right_only	Required
-"[{:family=>""Abel"", :given=>""A.B.""}]"	The Social Security Trust Fund	article-journal	NBER Working paper	1999	right_only	Required
-"[{:family=>""Bohn"", :given=>""H.""}]"	Risk Sharing in a Stochastic Overlapping Generations Economy	manuscript			right_only	Required
+"[{:literal=>""———.""}]"	The Impact of Tax Reform on Charitable Giving: A 1989 Perspective	chapter	Do Taxes Matter?	1990	right_only	Required
+"[{:literal=>""———.""}]"	Mortality Risk and Bequests	article-journal	Econometrica	1989	right_only	Required
+"[{:literal=>""———.""}]"	Redistribution and Insurance: Mandatory Annuitization with Mortality Heterogeneity	article-journal	Center for Retirement Research working paper	2001-03	right_only	Required
+"[{:literal=>""———.""}]"	Differential Mortality and the Value of Individual Account Retirement Annuities	chapter	NBER Working Paper No. 7560		right_only	Required
+"[{:literal=>""———.""}]"	Optimal Estate Taxation in the Steady State?	manuscript			right_only	Required
+"[{:literal=>""———.""}]"	Inter Vivos Transfers or Bequests? Estate Taxes and the Timing of Parental Giving	article-journal	Tax Policy and the Economy	2000	right_only	Required
+"[{:literal=>""———.""}]"	The Estate and Gift Tax and Inter Vivos Giving in the United States	article-journal	Journal of Public Economics	2001-01	right_only	Required
+"[{:literal=>""———.""}]"	Government Provision and Regulation of Economic Support in Old Age	paper-conference	Proceedings of the Seventh Annual World Bank Conference on Development Economics	1995	right_only	Required
+"[{:literal=>""———.""}]"	Seven Principles of Social Insurance	article-journal	Challenge	1976-11	right_only	Required
+"[{:literal=>""———.""}]"	Social Insurance with Variable Retirement and Private Saving	article-journal	Journal of Public Economics		right_only	Required
+"[{:literal=>""———.""}]"	Payroll-Tax Financed Social Security with Variable Retirement	article-journal	Scandinavian Journal of Economics	1986	right_only	Required
+"[{:literal=>""———.""}]"	Should Social Security Benefits Increase with Age?	chapter	NBER Working Paper 2200	1987-03	right_only	Required
+"[{:literal=>""———.""}]"	Capital Accumulation and Uncertain Lifetimes with Adverse Selection	article-journal	Econometrica	1986-09	right_only	Required
+"[{:literal=>""———.""}]"	The Social Security Trust Fund	article-journal	NBER Working paper	1999	right_only	Required
+"[{:literal=>""———.""}]"	Risk Sharing in a Stochastic Overlapping Generations Economy	manuscript			right_only	Required
 "[{:literal=>""———""}]"	Should the Social Security Trust Fund Hold Equities? An Intergenerational Welfare Analysis	article-journal	Review of Economic Dynamics	1999	right_only	Required
-"[{:family=>""Brunner"", :given=>""J.K.""}]"	Transition from a Pay-as-you-go to a Fully Funded Pension System: the Case of Differing Individuals and Intragenerational Fairness	article-journal	Journal of Public Economics	1996	right_only	Required
-"[{:family=>""Dutta"", :given=>""J.""}, {:family=>""Kapur"", :given=>""S.""}, {:family=>""Orszag"", :given=>""M.""}]"	A Portfolio Approach to the Optimal Funding of Pensions	chapter	Birkbeck Economics WP		right_only	Required
-"[{:family=>""Feldstein"", :given=>""M.""}]"	Imperfect Annuity Markets	article-journal	Journal of Public Economics	1990-02	right_only	Required
-"[{:family=>""Karni"", :given=>""E.""}, {:family=>""Zilcha"", :given=>""I.""}]"	Welfare and Comparative Stastics Implications of Fair Social Security: A Steady-State Analysis	article-journal	Journal of Public Economics	1986	right_only	Required
-"[{:family=>""Diamond"", :given=>""P.""}]"	Insulation of Pensions from Political Risk	chapter	Forthcoming in The Economics of Pensions: Principles		right_only	Required
-"[{:family=>""Diamond"", :given=>""P.""}, {:family=>""Orszag"", :given=>""P.""}]"	Saving Social Security			2004	right_only	Required
+"[{:literal=>""———.""}]"	Transition from a Pay-as-you-go to a Fully Funded Pension System: the Case of Differing Individuals and Intragenerational Fairness	article-journal	Journal of Public Economics	1996	right_only	Required
+"[{:literal=>""———.""}]"	A Portfolio Approach to the Optimal Funding of Pensions	chapter	Birkbeck Economics WP		right_only	Required
+"[{:literal=>""———.""}]"	Imperfect Annuity Markets	article-journal	Journal of Public Economics	1990-02	right_only	Required
+"[{:literal=>""———.""}]"	Welfare and Comparative Stastics Implications of Fair Social Security: A Steady-State Analysis	article-journal	Journal of Public Economics	1986	right_only	Required
+"[{:literal=>""———.""}]"	Insulation of Pensions from Political Risk	chapter	Forthcoming in The Economics of Pensions: Principles		right_only	Required
+"[{:literal=>""———.""}]"	Saving Social Security			2004	right_only	Required
 	———.“The Missing Piece in Policy Analysis: Social Security Reform	article-journal	American Economic Review	1996-05	right_only	Required
-"[{:family=>""Gustman"", :given=>""A.""}, {:family=>""Steinmeier"", :given=>""T.""}]"	The New Social Security Commission Personal Accounts: Where is the Investment Principal?	article-journal	NBER Working Paper	2002	right_only	Required
+"[{:literal=>""———.""}]"	The New Social Security Commission Personal Accounts: Where is the Investment Principal?	article-journal	NBER Working Paper	2002	right_only	Required
 	President’s Commission to Strengthen Social Security	report			right_only	Required
-"[{:family=>""Davidson"", :given=>""C.""}, {:family=>""Woodbury"", :given=>""S.""}]"	Further Aspects of Optimal Unemployment Insurance	chapter	Advisory Council on Unemployment Compensation: Background Papers	1996	right_only	Required
-"[{:family=>""Meyer"", :given=>""B.""}]"	A Quasi-Experimental Approach to the Effects of Unemployment Insurance	article-journal	NBER Working Paper	1989-11	right_only	Required
-"[{:family=>""Meyer"", :given=>""B.""}]"	Lessons from the U.S. Unemployment Insurance Experiments	article-journal	Journal of Economic Literature	1995-03	right_only	Required
-"[{:family=>""Anderson"", :given=>""P.""}, {:family=>""Meyer"", :given=>""B.""}]"	The Effects of Unemployment Insurance Taxes and Benefits on Layoffs Using Firm and Individual Data	article-journal	NBER Working Paper	1994	right_only	Required
-"[{:family=>""Krueger"", :given=>""A.""}]"	Workers’ Compensation Insurance and the Duration of Workplace Injuries	article-journal	NBER Working Paper	1990	right_only	Required
-"[{:family=>""Parsons"", :given=>""D.""}]"	Self-Screening in Targeted Public Transfer Programs	article-journal	Journal of Political Economy	1991-08	right_only	Required
-"[{:family=>""Currie"", :given=>""J.""}, {:family=>""Gruber"", :given=>""J.""}]"	Health Insurance Eligibility	article-journal	Quarterly Journal of Economics	1996-05	right_only	Required
-"[{:family=>""Newhouse"", :given=>""J.""}]"	Medicare Policy in the 1990s	chapter	American Economic Policy During the 1990s		right_only	Required
-"[{:family=>""Gruber"", :given=>""J.""}]"	Health Insurance and the Labor Market	chapter	Handbook of Health Economics. ISBN		right_only	Required
-"[{:family=>""Gruber"", :given=>""J.""}, {:family=>""Koszegi"", :given=>""B.""}]"	A Theory of Government Regulation of Addictive Bads: Optimal Tax Levels and Tax Incidence for Cigarette Taxation	article-journal	NBER Working Paper	2002-02	right_only	Required
+"[{:literal=>""———.""}]"	Further Aspects of Optimal Unemployment Insurance	chapter	Advisory Council on Unemployment Compensation: Background Papers	1996	right_only	Required
+"[{:literal=>""———.""}]"	A Quasi-Experimental Approach to the Effects of Unemployment Insurance	article-journal	NBER Working Paper	1989-11	right_only	Required
+"[{:literal=>""———.""}]"	Lessons from the U.S. Unemployment Insurance Experiments	article-journal	Journal of Economic Literature	1995-03	right_only	Required
+"[{:literal=>""———.""}]"	The Effects of Unemployment Insurance Taxes and Benefits on Layoffs Using Firm and Individual Data	article-journal	NBER Working Paper	1994	right_only	Required
+"[{:literal=>""———.""}]"	Workers’ Compensation Insurance and the Duration of Workplace Injuries	article-journal	NBER Working Paper	1990	right_only	Required
+"[{:literal=>""———.""}]"	Self-Screening in Targeted Public Transfer Programs	article-journal	Journal of Political Economy	1991-08	right_only	Required
+"[{:literal=>""———.""}]"	Health Insurance Eligibility	article-journal	Quarterly Journal of Economics	1996-05	right_only	Required
+"[{:literal=>""———.""}]"	Medicare Policy in the 1990s	chapter	American Economic Policy During the 1990s		right_only	Required
+"[{:literal=>""———.""}]"	Health Insurance and the Labor Market	chapter	Handbook of Health Economics. ISBN		right_only	Required
+"[{:literal=>""———.""}]"	A Theory of Government Regulation of Addictive Bads: Optimal Tax Levels and Tax Incidence for Cigarette Taxation	article-journal	NBER Working Paper	2002-02	right_only	Required

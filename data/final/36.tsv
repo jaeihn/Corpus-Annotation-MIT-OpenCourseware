@@ -28,9 +28,7 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Becker"", :given=>""J.""}, {:family=>""Bakker"", :given=>""J.""}]"	The Design of Timed Transfer Networks	paper-conference	Proceedings of Operations and Service Planning Symposium	1993	both	Required
 "[{:family=>""Halvorsen"", :given=>""R.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	The Role of Contract Structuring in Contracted Public Transport Performance: Theory and Practice	paper-conference	Proceedings of the Fourth International Conference on Competition and Ownership in Land Passenger Transport	1995-07	both	Required
 "[{:family=>""Furth"", :given=>""P.""}, {:family=>""Muller"", :given=>""T.""}]"	Conditional Bus Priority at Signalized Intersections: Better Service Quality with Less Traffic Disruption	article-journal	Transportation Research Record	2000	both	Required
-	TCRP Report 94: Fare Policies	article-journal	Transportation Research Board	2003	left_only	Required
+	TCRP Report 94: Fare Policies	article-journal	Transportation Research Board	2003	both	Required
 "[{:family=>""Vuchic"", :given=>""V.""}]"	Chapter 7: Transit Fares	chapter	Urban Transit: Operations	2005	both	Required
 "[{:family=>""Koutsopolos"", :given=>""H.N.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	Operator Workforce Planning in the Transit Industry	article-journal	Transportation Research	1987	both	Required
 "[{:family=>""Shiftan"", :given=>""Y.""}, {:family=>""Wilson"", :given=>""N.H.M.""}]"	Absence	article-journal	Transportation Research Record	1993	both	Required
-	Toronto Transit Commission			2008-04	right_only	Required
-	TCRP Report 94: Fare Policies	book		2003	right_only	Required
