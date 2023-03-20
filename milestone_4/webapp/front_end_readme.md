@@ -2,8 +2,9 @@
 
 ## Package Requirement
 - Python (>=3.7)
-- selenium (>=4.0)
-- webdriver-manager
+- pandas
+- json
+- fastapi
 
 ## Getting Started
 ### Repo Structure
@@ -29,7 +30,7 @@
 │   │   └── search-by-title.html.mno
 │   ├── search-by-author.html   
 │   └── search-by-title.html    
-├── readme.md
+├── front_end_readme.md
 ├── index.html
 ├── main.py
 └── statistics.html
@@ -87,26 +88,26 @@ and necessity (required, optional, or both).
           <option value="Academic Paper">Academic Paper</option>
       </select>
       ```
-    - button: **_Search_**
-      - when clicked, button onclick method **search_by_title()** interacts with back end, and it should return a table of reading below
-      related to **_Course Topic_**, **_type of reading_**, and **_Readings to Include_** field values.
-        - **search_by_title()** in front_end.js
-          - get options field values from front end
-            ```
-            var form = document.getElementById("form");
-            const formData = new FormData(form);
-            const searchParams = new URLSearchParams(formData);```
-            ```
-          - use GET method to request information from a back end.
-            (e.g. field value: topicselection=Computer Science & formatselection=All & includeselection=All)
-            ```
-            Request URL: http://xx.x.x.x:xx/search-by-title?topicselection=Computer+Science%0A&formatselection=All&includeselection=All
-            Request Method: GET
-            Status Code: 200 OK
-            ```
-          - fill in result with the HTMLResponse using update_page() in front_end.js
+  - button: **_Search_**
+    - when clicked, button onclick method **search_by_title()** interacts with back end, and it should return a table of reading below
+    related to **_Course Topic_**, **_type of reading_**, and **_Readings to Include_** field values.
+      - **search_by_title()** in front_end.js
+        - get options field values from front end
+          ```
+          var form = document.getElementById("form");
+          const formData = new FormData(form);
+          const searchParams = new URLSearchParams(formData);```
+          ```
+        - use GET method to request information from a back end.
+          (e.g. field value: topicselection=Computer Science & formatselection=All & includeselection=All)
+          ```
+          Request URL: http://xx.x.x.x:xx/search-by-title?topicselection=Computer+Science%0A&formatselection=All&includeselection=All
+          Request Method: GET
+          Status Code: 200 OK
+          ```
+        - fill in result with the HTMLResponse using update_page() in front_end.js
           
-  - !!!!!!!!!!1screenshot for result
+  - <img src="./screenshots/title_search.png" /><br />
 
 ### Search by Author page
 This the search page of our website, which is one of the main functionalities. 
@@ -144,25 +145,25 @@ and necessity (required, optional, or both).
           <option value="Academic Paper">Academic Paper</option>
       </select>
       ```
-    - button: **_Search_**
-      - when clicked, button onclick method **search_by_author()** interacts with back end, and it should return a table of reading below
-      related to **_Course Topic_**, **_type of reading_**, and **_Readings to Include_** field values.
-        - **search_by_author()** in front_end.js
-          - get options field values from front end
-            ```
-            var form = document.getElementById("form");
-            const formData = new FormData(form);
-            const searchParams = new URLSearchParams(formData);```
-            ```
-          - use GET method to request information from a back end.
-            (e.g. field value: topicselection=Computer Science & formatselection=All & includeselection=All)
-            ```
-            Request URL: http://xx.x.x.x:xx/search-by-author?topicselection=Computer+Science%0A&formatselection=All&includeselection=All
-            Request Method: GET
-            Status Code: 200 OK
-            ```
-          - fill in result with the HTMLResponse using update_page() in front_end.js
+  - button: **_Search_**
+    - when clicked, button onclick method **search_by_author()** interacts with back end, and it should return a table of reading below
+    related to **_Course Topic_**, **_type of reading_**, and **_Readings to Include_** field values.
+      - **search_by_author()** in front_end.js
+        - get options field values from front end
+          ```
+          var form = document.getElementById("form");
+          const formData = new FormData(form);
+          const searchParams = new URLSearchParams(formData);```
+          ```
+        - use GET method to request information from a back end.
+          (e.g. field value: topicselection=Computer Science & formatselection=All & includeselection=All)
+          ```
+          Request URL: http://xx.x.x.x:xx/search-by-author?topicselection=Computer+Science%0A&formatselection=All&includeselection=All
+          Request Method: GET
+          Status Code: 200 OK
+          ```
+        - fill in result with the HTMLResponse using update_page() in front_end.js
           
-  - !!!!!!!!!!screenshot for result
+  - <img src="./screenshots/author_search.png" /><br />
 
 ### Stat page
