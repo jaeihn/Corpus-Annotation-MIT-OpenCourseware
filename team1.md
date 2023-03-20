@@ -2,6 +2,8 @@
 
 ## Setup
 
+Please download the image file [team1.tar](https://drive.google.com/drive/folders/1dFTKt4yC9jf8F6Q1rVkyimEmZC30QbP9) and launch the Docker app.
+
 After downloading the image file team1.tar, please open your terminal and navigate to the directory containing the file. In the terminal, execute
 ```
 docker load < team1.tar
