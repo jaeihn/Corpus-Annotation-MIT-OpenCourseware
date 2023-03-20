@@ -1,0 +1,5 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Gawande"", :given=>""Atul""}]"	The Cost Conundrum	article-journal	The New Yorker	2009-06-01	both	Optional
+"[{:family=>""Gruber"", :given=>""Jonathan""}]"	Health Care Reform: What It Is	article-journal	Hill and Wang	2011	both	Optional
+"[{:family=>""Perloff"", :given=>""Jeffrey M.Microeconomics""}]"				2008	both	Required
+"[{:family=>""Rittenberg"", :given=>""Libby""}, {:family=>""Tregarthen"", :given=>""Timothy""}]"		book		2009	both	Required

@@ -1,0 +1,4 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Woud"", :given=>""Hans Klein""}, {:family=>""Stapersma"", :given=>""Douwe""}]"	Design of Propulsion and Electric Power Generation Systems			2002	both	Required
+"[{:family=>""Lewis"", :given=>""Edward V.""}]"	Resistance and Propulsion	article-journal	Principles of Naval Architecture	1988	both	Optional
+"[{:family=>""Wylen"", :particle=>""Van""}, {:family=>""J."", :given=>""Gordon""}, {:family=>""Sonntag"", :given=>""Richard E.""}]"	Fundamentals of Classical Thermodynamics			1973	both	Optional

@@ -1,0 +1,7 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Ratner"", :given=>""Buddy D.""}, {:others=>true}]"	Biomaterials Science: An Introduction to Materials in Medicine			2004	both	Required
+"[{:family=>""Whitesides"", :given=>""G.M.""}, {:family=>""Wong"", :given=>""A.P.""}]"	The Intersection of Biology and Materials Science	article-journal	MRS Bulletin	2006	both	Required
+"[{:family=>""Jacobs"", :given=>""J.J.""}, {:family=>""Gilbert"", :given=>""J.L.""}, {:family=>""Urban"", :given=>""R.M.""}]"	Corrosion of Metal Orthopaedic Implants	article-journal	Journal of Bone and Joint Surgery	1998	both	Required
+"[{:family=>""Ikada"", :given=>""Y.""}, {:family=>""Tsuji"", :given=>""H.""}]"	Biodegradable Polyesters for Medical and Ecological Applications	article-journal	Macromolecular Rapid Communications	2000	both	Required
+"[{:family=>""Marazuela"", :given=>""M.D.""}, {:family=>""Moreno-Bondi"", :given=>""M.C.""}]"	Fiber-optic Biosensors - An Overview	article-journal	Analytical and Bioanalytical Chemistry	2002	both	Required
+"[{:family=>""Duncan"", :given=>""Ruth""}]"	The Dawning Era of Polymer Therapeutics	article-journal	Nature Reviews Drug Discovery	2003	both	Required

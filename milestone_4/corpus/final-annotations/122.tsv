@@ -1,0 +1,25 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Chapra"", :given=>""Steven""}, {:family=>""Canale"", :given=>""Raymond""}]"	Numerical Methods for Engineers			2014	both	Required
+"[{:family=>""Chapra"", :given=>""Steven""}, {:family=>""Canale"", :given=>""Raymond""}]"	Numerical Methods for Engineers			2014	both	Required
+"[{:family=>""Chapra"", :given=>""Steven""}, {:family=>""Canale"", :given=>""Raymond""}]"	Numerical Methods for Engineers			2014	both	Optional
+"[{:family=>""Chapra"", :given=>""Steven""}, {:family=>""Canale"", :given=>""Raymond""}]"	Numerical Methods for Engineers			2014	both	Optional
+"[{:family=>""Ferziger"", :given=>""Joel H.""}, {:family=>""Peric"", :given=>""Milovan""}]"	Computational Methods for Fluid Dynamics			2013	both	Required
+"[{:family=>""Cebeci"", :given=>""Tuncer""}, {:family=>""Shao"", :given=>""Jian P.""}, {:others=>true}]"	Computational Fluid Dynamics for Engineers: From Panel to Navier-stokes Methods with Computer Programs			2005	both	Required
+"[{:family=>""Kundu"", :given=>""Pijush K.""}, {:family=>""Cohen"", :given=>""Ira M.""}, {:family=>""Dowling"", :given=>""David R.""}]"	Fluid Mechanics			2015	both	Optional
+"[{:family=>""White"", :given=>""Frank""}]"	Fluid Mechanics			2010	both	Optional
+"[{:family=>""Lomax"", :given=>""Harvard""}, {:family=>""Pulliam"", :given=>""Thomas H.""}, {:family=>""Zingg"", :given=>""David W.""}]"	Fundamentals of Computational Fluid Dynamics			2004	both	Optional
+"[{:family=>""Wesseling"", :given=>""Pieter""}]"	Principles of Computational Fluid Dynamics			2000	both	Optional
+"[{:family=>""Versteeg"", :given=>""H.""}, {:family=>""Malalasekera"", :given=>""W.""}]"	An Introduction to Computational Fluid Dynamics: The Finite Volume Method			2007	both	Optional
+"[{:family=>""Durran"", :given=>""Dale R.""}]"	Numerical Methods for Fluid Dynamics: With Applications to Geophysics			2010	both	Optional
+"[{:family=>""Griebel"", :given=>""Michael""}, {:family=>""Dornsheifer"", :given=>""Thomas""}, {:family=>""Neunhoeffer"", :given=>""Tilman""}]"	Numerical Simulation in Fluid Dynamics: A Practical Introduction			1997	both	Optional
+"[{:family=>""Chung"", :given=>""T.J.""}]"	Computational Fluid Dynamics			2010	both	Optional
+"[{:family=>""Karniadakis"", :given=>""George Em""}, {:family=>""Sherwin"", :given=>""Spencer J.""}]"	Spectral / hp Element Methods for Computational Fluid Dynamics			2005	both	Optional
+"[{:family=>""Pozrikidis"", :given=>""Constantine""}]"	Introduction to Finite and Spectral Element Methods Using MATLAB			2014	both	Optional
+"[{:family=>""Roache"", :given=>""Patrick J.""}]"	Fundamentals of Computational Fluid Dynamics			1998	both	Optional
+"[{:family=>""Lapidus"", :given=>""Leon""}, {:family=>""Pinder"", :given=>""George F.""}]"	Numerical Solution of Partial Differential Equations in Science and Engineering	article-journal	Wiley-interscience	1999	both	Optional
+"[{:family=>""Fletcher"", :given=>""C.A.J.""}]"	Computational Techniques for Fluid Dynamics			2013	both	Optional
+"[{:family=>""Trefethen"", :given=>""Lloyd N.""}, {:family=>""Bau"", :given=>""David"", :suffix=>""III""}]"	Numerical Linear Algebra			1997	both	Optional
+"[{:family=>""Lomax"", :given=>""Harvard""}, {:family=>""Pulliam"", :given=>""Thomas H.""}, {:family=>""Zingg"", :given=>""David W.""}]"	Fundmentals of Computational Fluid Dynamics			2004	both	Optional
+"[{:family=>""Wendt"", :given=>""John""}]"	Computational Fluid Dynamics: An Introduction			2008	both	Optional
+"[{:family=>""Löhner"", :given=>""Rainald""}]"	Applied Computational Fluid Dynamics Techniques: An Introduction Based on Finite Element Methods			2008	both	Optional
+"[{:family=>""Durbin"", :given=>""Paul A.""}, {:family=>""Medic"", :given=>""Gorazd""}]"	Fluid Dynamics with a Computational Perspective			2007	right_only	Optional

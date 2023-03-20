@@ -1,0 +1,8 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""McCloud"", :given=>""Scott""}]"	Understanding Comics: The Invisible Art			1994	both	Required
+"[{:family=>""Norman"", :given=>""Donald""}]"	Emotional Design: Why We Love (or Hate) Every Day Things			2005	both	Required
+"[{:family=>""Ulrich"", :given=>""Karl T.""}, {:family=>""Eppinger"", :given=>""Steven D.""}]"	Product Design and Development			2003	both	Required
+"[{:family=>""Ashby"", :given=>""Michael""}, {:family=>""Johnson"", :given=>""Kara""}]"	Materials and Design: The Art and Science of Material Selection in Product Design			2002	both	Optional
+"[{:family=>""Sutton-Smith"", :given=>""Brian""}]"	Toys as Culture			1986	both	Optional
+"[{:family=>""Bee"", :given=>""Helen L.""}, {:family=>""Boyd"", :given=>""Denise Roberts""}]"	The Developing Child			2003	both	Optional
+"[{:family=>""Miller"", :given=>""Carolyn Handler""}]"	Tackling Projects for Children.” Chapter 9 in Digital Storytelling: A Creator’s Guide to Interactive Entertainment			2004	left_only	Optional

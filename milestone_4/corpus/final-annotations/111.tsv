@@ -1,0 +1,5 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Proakis"", :given=>""John G.""}, {:family=>""Manolakis"", :given=>""Dmitris K.""}]"	Digital Signal Processing			2006	both	Required
+"[{:family=>""Oppenheim"", :given=>""Alan V.""}, {:family=>""Schafer"", :given=>""Ronald W.""}, {:family=>""Buck"", :given=>""John R.""}]"	Discrete-Time Signal Processing			1999	both	Required
+"[{:family=>""Cartinhour"", :given=>""Jack""}]"	Digital Signal Processing: An Overview of Basic Principles			1999	left_only	Required
+"[{:family=>""Stearns"", :given=>""Samuel D.""}, {:family=>""Hush"", :given=>""Don R.""}]"	Digital Signal Analysis			1990	left_only	Required

@@ -1,0 +1,120 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Hamilton"", :given=>""James D.""}]"	Time Series Analysis			1994	both	Required
+"[{:family=>""Canova"", :given=>""Fabio""}]"	Methods for Applied Macroeconomic Research			2007	both	Optional
+		chapter	Handbook of Econometrics	1986	both	Optional
+"[{:family=>""Newey"", :given=>""W.K.""}, {:family=>""West"", :given=>""K.D.""}]"	A Simple Positive Semi-Definite	article-journal	Econometrica	1987	both	Required
+"[{:family=>""Andrews"", :given=>""D.W.K.""}]"	Heteroskedasticity and Autocorrelation Consistent Covariance Matrix Estimation	article-journal	Econometrica	1991	both	Required
+"[{:family=>""Beveridge"", :given=>""S.""}, {:family=>""Nelson"", :given=>""C.R.""}]"	A New Approach to Decomposition of Economic Time Series into Permanent and Transitory Components with Particular Attention to Measurement of the ‘Business Cycle’	article-journal	Journal of Monetary Economics	1981	both	Optional
+"[{:family=>""Andrews"", :given=>""D.W.K.""}, {:family=>""Monahan"", :given=>""J.C.""}]"	An Improved Heteroskedasticity and Autocorrelation Consistent Covariance Matrix Estimator	article-journal	Econometrica	1992	both	Optional
+"[{:family=>""Haan"", :given=>""W.J."", :particle=>""den""}, {:family=>""Levin"", :given=>""A.""}]"	A Practitioner’s Guide to Robust Covariance Matrix Estimation	chapter	Chapter 12 in Handbook of Statistics	2006	both	Optional
+"[{:family=>""Kiefer"", :given=>""N.""}, {:family=>""Vogelsang"", :given=>""T.""}]"	Heteroskedasticity-Autocorrelation Robust Testing Using Bandwidth Equal to Sample Size	article-journal	Econometric Theory	2002	both	Optional
+	Measuring Business Cycles: Approximate Band-Pass Filters for Economic Time Series	article-journal	Review of Economics and Statistics	1999	left_only	Optional
+"[{:family=>""Berk"", :given=>""K.N.""}]"	Consistent Autoregressive Spectral Estimates	article-journal	Annals of Statistics	1974	both	Optional
+"[{:family=>""Hodrick"", :given=>""R.""}, {:family=>""Prescott"", :given=>""E.""}]"	Post-War U.S. Business Cycles: An Empirical Investigation	article-journal	Journal of Money Banking and Credit	1997	both	Optional
+"[{:family=>""Christiano"", :given=>""L.J.""}, {:family=>""Fitzgerald"", :given=>""T.J.""}]"	The Band Pass Filter	article-journal	NBER Working Paper	1999	both	Optional
+"[{:family=>""Geweke"", :given=>""J.""}, {:family=>""Meese"", :given=>""R.""}]"	Estimating Regression Models of Finite but Unknown Order	article-journal	International Economic Review	1981	both	Required
+"[{:family=>""Ng"", :given=>""S.""}, {:family=>""Perron"", :given=>""P.""}]"	A Note on the Selection of Time Series Models	article-journal	Oxford Bulletin of Economics and Statistics	2005	both	Optional
+"[{:family=>""Leeb"", :given=>""H.""}, {:family=>""Potscher"", :given=>""B.M.""}]"	Model Selection and Inference: Facts and Fiction	article-journal	Econometric Theory	2005	both	Optional
+	The Finite-Sample Distribution of Post-Model-Selection Estimators and Uniform versus Nonuniform Approximations	article-journal	Econometric Theory	2003	left_only	Optional
+"[{:family=>""Hansen"", :given=>""B.""}]"	Challenges for Econometric Model Selection	article-journal	Econometric Theory	2005	both	Optional
+"[{:family=>""Kuersteiner"", :given=>""G.M.""}]"	Automatic Inference for Infinite Order Vector Autoregressions	article-journal	Econometric Theory	2005	both	Optional
+"[{:family=>""Stock"", :given=>""J.H.""}, {:family=>""Watson"", :given=>""M.W.""}]"	Vector Autoregressions	article-journal	Journal of Economic Perspectives	2001	both	Optional
+"[{:family=>""Lütkepohl"", :given=>""Helmut""}]"	Introduction to Multiple Time Series Analysis			1993	both	Required
+"[{:family=>""Hall"", :given=>""Peter""}, {:family=>""Heyde"", :given=>""C.C.""}]"	Martingale Limit Theory and Its Application			1980	both	Required
+"[{:family=>""Brockwell"", :given=>""Peter""}, {:family=>""Davis"", :given=>""Richard""}]"	Time Series: Theory and Methods			1991	both	Required
+"[{:family=>""Wright"", :given=>""J.H.""}]"	Confidence Intervals for Univariate Impulse Responses with a Near Unit Root	article-journal	Journal of Business and Economic Statistics	2000	both	Optional
+"[{:family=>""Killian"", :given=>""L.""}]"	Small Sample Confidence Intervals for Impulse Response Functions	article-journal	Review of Economics and Statistics	1998	both	Optional
+"[{:family=>""Mikusheva"", :given=>""A.""}]"	One-Dimensional Inferences in Autoregressive Models in a Potential Presence of a Unit Root	article-journal	Econometrica	2011	both	Optional
+"[{:family=>""Sims"", :given=>""C.A.""}]"	Macroeconomics and Reality	article-journal	Econometrica	1980	both	Required
+"[{:family=>""Blanchard"", :given=>""O.J.""}, {:family=>""Quah"", :given=>""D.""}]"	Dynamic Effects of Aggregate Demand and Supply Disturbances	article-journal	American Economic Review	1989	both	Required
+"[{:family=>""Blanchard"", :given=>""O.J.""}]"	A Traditional Interpretation of Macroeconomic Fluctuations	article-journal	American Economic Review	1989	both	Optional
+"[{:family=>""King"", :given=>""R.G.""}, {:family=>""Plosser"", :given=>""C.I.""}, {:others=>true}]"	Stochastic Trends and Economic Fluctuations	article-journal	American Economic Review	1991	both	Optional
+"[{:family=>""Cooley"", :given=>""T.""}, {:family=>""LeRoy"", :given=>""S.""}]"	A Theoretical Macroeconomics: A Critique	article-journal	Journal of Monetary Economics	1985	both	Optional
+"[{:family=>""Braun"", :given=>""P.""}, {:family=>""Mittnik"", :given=>""S.""}]"	Misspecification in VAR and their Effects on Impulse Responses and Variance Decompositions	article-journal	Journal of Econometrics	1993	both	Optional
+"[{:family=>""Cooley"", :given=>""T.""}, {:family=>""Dwyer"", :given=>""M.""}]"	Business Cycle Analysis Without Much Theory: A Look at Structural VARs	article-journal	Journal of Econometrics	1998	both	Optional
+"[{:family=>""Wright"", :given=>""J.H.""}]"	What does Monetary Policy do to Long-Term Interest Rates at the Zero Lower Bound?	article-journal	The Economic Journal	2012	both	Optional
+"[{:family=>""Moon"", :given=>""H.R.""}, {:family=>""Schorfheide"", :given=>""F.""}, {:others=>true}]"	Inference for VARs Identified with Sign Restrictions	manuscript		2009	both	Optional
+"[{:family=>""Chari"", :given=>""V.""}, {:family=>""Kehoe"", :given=>""P.""}, {:others=>true}]"	A Critique of Structural VARs Using Business Cycle Theory	article-journal	Federal Reserve Bank of Minneapolis	2005	both	Optional
+"[{:family=>""Christiano"", :given=>""L.""}, {:family=>""Eichenbaum"", :given=>""M.""}, {:others=>true}, {:family=>""Fernandez Villaverde"", :given=>""J.""}, {:family=>""Ramirez"", :given=>""J.Rubio""}, {:others=>true}]"	Assessing Structural VARs	manuscript		2005	left_only	Required
+"[{:family=>""Erceg"", :given=>""C.""}, {:family=>""Guerrieri"", :given=>""L.""}, {:others=>true}]"	Can Long Run Restrictions Identify Technology Shocks?” Board of Governors of the Federal Reserve	article-journal	International Finance discussion paper	2005	both	Optional
+"[{:family=>""Lippi"", :given=>""M.""}, {:family=>""Reichlin"", :given=>""L.""}]"	VAR Analysis	article-journal	Journal of Econometrics	1994	both	Optional
+"[{:family=>""Faust"", :given=>""J.""}, {:family=>""Leeper"", :given=>""E.""}]"	Do Long Run Restrictions Really Identify Anything?	article-journal	Journal of Business and Economic Statistics	1997	both	Optional
+"[{:family=>""Stock"", :given=>""J.H.""}, {:family=>""Watson"", :given=>""M.W.""}]"	Implications of Dynamic Factor Models for VAR Analysis	article-journal	NBER Working Paper	2005	both	Required
+"[{:family=>""Bernanke"", :given=>""B.S.""}, {:family=>""Bovian"", :given=>""J.""}, {:others=>true}]"	Measuring the Effects of Monetary Policy: A Factoraugmented Vector Autoregressive (FAVAR) Approach	article-journal	Quarterly Journal of Economics	2005	both	Required
+"[{:family=>""Forni"", :given=>""M.""}, {:family=>""Giannoni"", :given=>""D.""}, {:others=>true}]"	Opening the Black Box: Structural Factor Models with Large Cross-Sections	article-journal	European Central Bank		both	Required
+"[{:family=>""Bernanke"", :given=>""B.S.""}, {:family=>""Boivin"", :given=>""J.""}]"	Monetary Policy in a Data-rich Environment	article-journal	Journal of Monetary Economics	2003	both	Optional
+"[{:family=>""Chamberlain"", :given=>""G.""}, {:family=>""Rothschild"", :given=>""M.""}]"	Arbitrage	article-journal	Econometrica	1983	both	Optional
+"[{:family=>""Favero"", :given=>""C.A.""}, {:family=>""Marcellino"", :given=>""M.""}, {:others=>true}]"	Principal Components at Work: The Empirical Analysis of Monetary Policy with Large Datasets	article-journal	Journal of Applied Econometrics	2005	both	Optional
+"[{:family=>""Forni"", :given=>""M.""}, {:family=>""Hallin"", :given=>""M.""}, {:others=>true}]"	The Generalized Dynamic Factor Model: Identification and Estimation	article-journal	Review of Economics and Statistics	2000	both	Optional
+"[{:family=>""Bai"", :given=>""J.""}, {:family=>""Ng"", :given=>""S.""}]"	Determining the Number of Factors in Approximate Factor Models	article-journal	Econometrica	2002	both	Optional
+	Determining the Number of Primitive Shocks in Factor Models	article-journal	Journal of Business Economics and Statistics	2007	left_only	Optional
+	Instrumental Variable Estimation in a Data Rich Environment	article-journal	Econometric Theory	2010	left_only	Required
+"[{:family=>""Forni"", :given=>""M.""}, {:family=>""Hallin"", :given=>""M.""}, {:others=>true}]"	One-Sided Representations of Generalized Dynamic Factor Models	manuscript		2011	both	Optional
+"[{:family=>""Campbell"", :given=>""J.Y.""}, {:family=>""Perron"", :given=>""P.""}]"	Pitfalls and Opportunities: What Macroeconomists Should Know About Unit Roots	article-journal	NBER Macroeconomics Annual	1991	both	Optional
+"[{:family=>""Stock"", :given=>""J.H.""}]"	Unit Roots and Trend Breaks in Econometrics	chapter	Sections 1–4 in Handbook of Econometrics	1999	both	Required
+"[{:family=>""Dickey"", :given=>""D.A.""}, {:family=>""Fuller"", :given=>""W.A.""}]"	Distribution of the Estimators for Autoregressive Time Series with a Unit Root	article-journal	Journal of the American Statistical Association	1979	both	Optional
+"[{:family=>""Andrews"", :given=>""D.W.K.""}]"	Exactly Median-Unbiased Estimation of First Order Autoregressive/Unit Root Models	article-journal	Econometrica	1993	both	Optional
+"[{:family=>""Hansen"", :given=>""B.E.""}]"	The Grid Bootstrap and the Autoregressive Model	article-journal	Review of Economics and Statistics	1999	both	Optional
+"[{:family=>""Phillips"", :given=>""P.C.B.""}]"	Toward a Unified Asymptotic Theory for Autoregression	article-journal	Biometrika	1987	both	Required
+"[{:family=>""Stock"", :given=>""J.""}]"	Confidence Intervals for the Largest Autoregressive Root in U.S. Macroeconomic Time Series	article-journal	Journal of Monetary Economics	1991	both	Optional
+"[{:family=>""Mikusheva"", :given=>""A.""}]"	Uniform Inference in Autoregressive Models	article-journal	Econometrica	2007	both	Optional
+"[{:family=>""Andrews"", :given=>""D.W.K.""}]"	Tests for Parameter Instability and Structural Change with Unknown Change-Point	article-journal	Econometrica	1993	both	Required
+"[{:family=>""Hansen"", :given=>""B.E.""}]"	The New Econometrics of Structural Change: Dating Breaks in U.S	article-journal	Labor Productivity.” Journal of Economic Perspectives	2001	both	Required
+"[{:family=>""Perron"", :given=>""P.""}]"	The Great Crash	article-journal	Econometrica	1989	both	Required
+"[{:family=>""Andrews"", :given=>""D.W.K.""}, {:family=>""Ploberger"", :given=>""W.""}]"	Optimal Tests When a Nuisance Parameter is Present Only Under the Alternative	article-journal	Econometrica	1994	both	Optional
+"[{:family=>""Bai"", :given=>""J.S.""}]"	Estimating Multiple Breaks One at a Time	article-journal	Econometric Theory	1997	both	Optional
+"[{:family=>""Bai"", :given=>""J.""}, {:family=>""Perron"", :given=>""P.""}]"	Estimating and Testing Linear Models with Multiple Structural Changes	article-journal	Econometrica	1998	both	Optional
+"[{:family=>""Bai"", :given=>""J.""}, {:family=>""Lumsdaine"", :given=>""R.L.""}, {:others=>true}]"	Testing For and Dating Common Breaks in Multivariate Time Series	article-journal	Review of Economic Studies	1998	both	Optional
+"[{:family=>""Zivot"", :given=>""E.""}, {:family=>""Andrews"", :given=>""D.W.K.""}]"	Further Evidence on the Great Crash	article-journal	Journal of Business and Economic Statistics	1992	both	Optional
+"[{:family=>""Stock"", :given=>""J.H.""}]"	Asymptotic Properties of Least Squares Estimators of Cointegrating Vectors	article-journal	Econometrica	1987	both	Optional
+"[{:family=>""Stock"", :given=>""J.H.""}, {:family=>""Watson"", :given=>""M.W.""}]"	A Simple Estimator of Cointegrating Vectors in Higher Order Integrated Systems	article-journal	Econometrica	1993	both	Optional
+"[{:family=>""Watson"", :given=>""M.W.""}]"	Vector Autoregressions and Cointegration	chapter	Sections 1	1999	both	Required
+	Cointegration	chapter	The New Palgrave Dictionary of Economics	2008	left_only	Required
+"[{:family=>""Bekaert"", :given=>""G.""}, {:family=>""Hodrick"", :given=>""R.J.""}]"	Expectations Hypotheses Test	article-journal	Journal of Finance	2001	both	Optional
+"[{:family=>""Campbell"", :given=>""J.Y.""}, {:family=>""Yogo"", :given=>""M.""}]"	Efficient Tests of Stock Return Predictability	article-journal	Journal of Financial Economics	2006	both	Optional
+"[{:family=>""Cavanagh"", :given=>""C.L.""}, {:family=>""Elliott"", :given=>""G.""}, {:others=>true}]"	Inference in Models with Nearly Integrated Regressors	article-journal	Econometric Theory	1995	both	Required
+"[{:family=>""Stambaugh"", :given=>""R.F.""}]"	Predictive Regressions	article-journal	Journal of Financial Economics	1999	both	Required
+"[{:family=>""M."", :given=>""Jansson""}, {:family=>""Moreira"", :given=>""M.J.""}]"	Optimal Inference in Regression Models with Nearly Integrated Regressors	article-journal	Econometrica	2006	both	Optional
+"[{:family=>""DeJong"", :given=>""David""}, {:family=>""Dave"", :given=>""Chetan""}]"	Structural Macroeconometrics			2011	both	Required
+"[{:family=>""Hansen"", :given=>""L.P.""}]"	Large Sample Properties of GMM Estimators	article-journal	Econometrica	1982	both	Required
+"[{:family=>""Hansen"", :given=>""L.P.""}, {:family=>""Singleton"", :given=>""K.""}]"	Generalized Instrumental Variables Estimation of Nonlinear Rational Expectations Models	article-journal	Econometrica	1982	both	Required
+"[{:family=>""Lee"", :given=>""B.""}, {:family=>""Ingram"", :given=>""B.""}]"	Simulation Estimation of Time Series Models	article-journal	Journal of Econometrics	1991	both	Required
+"[{:family=>""Mc Fadden"", :given=>""D.""}]"	A Method of Simulated Moments of Estimation for Discrete Response Models without Numerical Integration	article-journal	Econometrica	1989	both	Optional
+"[{:family=>""Pakes"", :given=>""A.""}, {:family=>""Pollard"", :given=>""D.""}]"	Simulation and the Asymptotics of Optimization Estimators	article-journal	Econometrica	1989	both	Optional
+"[{:family=>""Duffie"", :given=>""D.""}, {:family=>""Singleton"", :given=>""K.""}]"	Simulated Moments Estimation of Markov Models of Asset Prices	article-journal	Econometrica	1993	both	Optional
+"[{:family=>""Andrews"", :given=>""D.W.K.""}, {:family=>""Stock"", :given=>""J.H.""}]"	Inference with Weak Instruments	chapter	Advances in Economics and Econometrics	2007	both	Optional
+"[{:family=>""Kleibergen"", :given=>""F.R.""}, {:family=>""Mavroeidis"", :given=>""S.""}]"	Weak Instrument Robust Tests in GMM and the New Keynesian Phillips Curve	manuscript		2008	both	Optional
+"[{:family=>""Staiger"", :given=>""D.""}, {:family=>""H"", :given=>""J.""}]"	Stock “Instrumental Variables Regression with Weak Instruments	article-journal	Econometrica	1997	both	Optional
+"[{:family=>""Smith"", :given=>""A.""}]"	Estimation of Nonlinear Time Series Models Using Simulated VARs	article-journal	Journal of Applied Econometrics	1993	both	Required
+"[{:family=>""Stock"", :given=>""J.H.""}, {:family=>""Yogo"", :given=>""M.""}]"	A Survey of Weak Instruments and Weak Identification in Generalized Method of Moments	article-journal	Journal of Business and Economic Statistics	2002	both	Required
+"[{:family=>""Stock"", :given=>""J.H.""}, {:family=>""Wright"", :given=>""J.""}]"	GMM With Weak Identification	article-journal	Econometrica	2000	both	Required
+"[{:family=>""Yogo"", :given=>""M.""}]"	Estimating the Elasticity of Intertemporal Substitution when the Instruments are Weak	article-journal	Review of Economics and Statistics	2004	both	Optional
+"[{:family=>""Ingram"", :given=>""Kocherlakota""}, {:given=>""Savin""}]"	Explaining Business Cycles: A Multi-Shock Approach	article-journal	Journal of Monetary Economics	1994	both	Optional
+"[{:family=>""Hansen""}, {:given=>""Sargent""}]"	Recursive Linear Models of Dynamic Economies			2013	both	Optional
+"[{:family=>""Ireland"", :given=>""P.""}]"	A Method for Taking Models to Data	article-journal	Journal of Economic Dynamics and Control	2004	both	Optional
+"[{:family=>""White"", :given=>""H.""}]"	Maximum Likelihood Estimation of Misspecified Models	article-journal	Econometrica	1982	both	Optional
+"[{:family=>""Canova"", :given=>""F.""}, {:family=>""Sala"", :given=>""L.""}]"	Back to Square One: Identification Issues in DSGE Models	article-journal	Journal of Monetary Economics	2009	both	Optional
+"[{:family=>""Iskrev"", :given=>""N.""}]"	Evaluating the Strength of Identification in DSGE Models. An a Priori Approach	article-journal	Bank of Portugal working paper	2010	both	Optional
+"[{:family=>""Komunjer"", :given=>""I.""}, {:family=>""Ng"", :given=>""S.""}]"	Dynamic Identification of DSGE Models	article-journal	_Forthcoming Econometrica _	2011	both	Optional
+"[{:family=>""Andrews"", :given=>""I.""}, {:family=>""Mikusheva"", :given=>""A.""}]"	Maximum Likelihood Inference in Weakly Identified DSGE Models	manuscript		2011	both	Optional
+"[{:family=>""Müller"", :given=>""U.""}]"	Measuring Prior Sensitivity and Prior Informativeness in Large Bayesian Models	manuscript		2011	both	Optional
+"[{:family=>""Chib"", :given=>""S.""}, {:family=>""Nardari"", :given=>""F.""}, {:others=>true}]"	Markov Chain Monte Carlo methods for Stochastic Volatility Models	article-journal	Journal of Econometrics	2002	both	Optional
+"[{:family=>""Del Negro"", :given=>""M.""}, {:family=>""Schorfheide"", :given=>""F.""}]"	Priors from General Equilibrium Models for VARs	article-journal	International Economic Review	2004	both	Optional
+"[{:family=>""Del Negro"", :given=>""M.Schorfheide""}, {:others=>true}]"	On the Fit and Forecasting Performance of New Keynesian Models	article-journal	Journal of Business and Economic Statistics	2007	both	Optional
+"[{:family=>""Rabanal"", :given=>""P.""}, {:family=>""Rubio-Ramirez"", :given=>""J.""}]"	Comparing New Keynesian Models of the Business Cycle: A Bayesian Approach	article-journal	Journal of Monetary Economics	2005	both	Optional
+"[{:family=>""Chib"", :given=>""S.""}, {:family=>""Greenberg"", :given=>""E.""}]"	Understanding the Metropolist-Hastings Algorithm	article-journal	American Statistician	1995	both	Required
+	Markov Chain Monte Carlo Simulation Methods in Econometrics	article-journal	Econometric Theory	1996	left_only	Required
+"[{:family=>""Chib"", :given=>""S.""}]"	Markov Chain Monte Carlo Methods: Computation and Inference	chapter	Chapter 5 in Handbook of Econometrics	2001	both	Required
+"[{:family=>""Fernandez-Villaverde"", :given=>""J.""}, {:family=>""Rubio-Ramirez"", :given=>""J.""}]"	Estimating Dynamic Equilibrium Economies: Linear versus Nonlinear Likelihood	article-journal	Journal of Applied Econometrics	2005	both	Optional
+"[{:family=>""Baxter"", :given=>""M.""}, {:family=>""King"", :given=>""R.""}]"	Measuring Business Cycles: Approximate Band-Pass Filters for Economic Time Series	article-journal	Review of Economics and Statistics	1999	right_only	Required
+"[{:family=>""Christiano"", :given=>""L.""}, {:family=>""Eichenbaum"", :given=>""M.""}, {:others=>true}]"	Assessing Structural VARs	manuscript		2005	right_only	Required
+"[{:family=>""Fernandez Villaverde"", :given=>""J.""}, {:family=>""Ramirez"", :given=>""J.Rubio""}, {:others=>true}]"	The ABC and (D’s) to Understand VARs	manuscript		2005	right_only	Required
+"[{:family=>""Bai"", :given=>""J.""}, {:family=>""Ng"", :given=>""S.""}]"	Instrumental Variable Estimation in a Data Rich Environment	article-journal	Econometric Theory	2010	right_only	Required
+"[{:family=>""Watson"", :given=>""M.W.""}]"	Cointegration	chapter	The New Palgrave Dictionary of Economics	2008	right_only	Required
+"[{:family=>""Hamilton"", :given=>""J.D.""}]"	A New Approach to the Economic Analysis of Nonstationary Time Series and the Business Cycle	article-journal	Econometrica	1989	right_only	Required
+"[{:family=>""Chib"", :given=>""S.""}, {:family=>""Greenberg"", :given=>""E.""}]"	Markov Chain Monte Carlo Simulation Methods in Econometrics	article-journal	Econometric Theory	1996	right_only	Required
+"[{:family=>""Leeb"", :given=>""H.""}, {:family=>""Potscher"", :given=>""B.M.""}]"	The Finite-Sample Distribution of Post-Model-Selection Estimators and Uniform versus Nonuniform Approximations	article-journal	Econometric Theory	2003	right_only	Optional
+"[{:family=>""Watson"", :given=>""M.""}]"	Vector Autoregressions and Cointegration	chapter	Chapter 47 in Handbook of Econometrics	1999	right_only	Optional
+"[{:family=>""Bai"", :given=>""J.""}, {:family=>""Ng"", :given=>""S.""}]"	Determining the Number of Primitive Shocks in Factor Models	article-journal	Journal of Business Economics and Statistics	2007	right_only	Optional
+"[{:family=>""Andrews"", :given=>""D.W.K.""}, {:family=>""Moreira"", :given=>""M.""}, {:others=>true}]"	Optimal Two-Sided Invariant Similar Tests for Instrumental Variables Regression	article-journal	Econometrica	2006	right_only	Optional
+"[{:family=>""Sargent"", :given=>""T.""}]"	Two Models of Measurements and the Investment Accelerator	article-journal	Journal of Political Economy	1989	right_only	Optional

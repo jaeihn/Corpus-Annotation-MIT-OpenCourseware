@@ -1,0 +1,24 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Tempelmeier"", :given=>""Horst""}, {:family=>""Kuhn"", :given=>""Heinrich""}]"	Flexible Manufacturing Systems: Decision Support for Design and Operation			1993	both	Required
+"[{:family=>""Papadopoulos"", :given=>""H.T.""}, {:family=>""Heavey"", :given=>""C.""}, {:family=>""Browne"", :given=>""J.""}]"	Queueing Theory in Manufacturing Systems Analysis and Design			1993	both	Required
+"[{:family=>""Askin"", :given=>""Ronald G.""}, {:family=>""Standridge"", :given=>""Charles R.""}]"	Modeling and Analysis of Manufacturing Systems			1993	both	Required
+"[{:family=>""Buzacott"", :given=>""John A.""}, {:family=>""Shanthikumar"", :given=>""J.George""}]"	Stochastic Models of Manufacturing Systems			1993	both	Required
+"[{:family=>""Altiok"", :given=>""Tayfur""}]"	Performance Analysis of Manufacturing Systems			1997	both	Required
+"[{:family=>""Hopp"", :given=>""Wallace J.""}, {:family=>""Spearman"", :given=>""Mark""}]"	Factory Physics: Foundations of Manufacturing Management			2000	both	Required
+"[{:family=>""Goldratt"", :given=>""Eliyahu M.""}, {:family=>""Cox"", :given=>""Jeff""}]"	The Goal: A Process of Ongoing Improvement			2004	both	Required
+"[{:family=>""Li"", :given=>""Jingshan""}, {:family=>""Meerkov"", :given=>""Semyon M.""}]"	Production Systems Engineering			2009	both	Required
+"[{:family=>""Drake"", :given=>""Alvin W.""}]"	Fundamentals of Applied Probability Theory			1967	both	Required
+"[{:family=>""Feller"", :given=>""William""}]"	An Introduction to Probability Theory and its Applications (Volumes I and II			1968	both	Required
+"[{:family=>""Ross"", :given=>""S.M.""}]"	Introduction to Probability and Statistics for Engineers and Scientists			1987	both	Required
+"[{:family=>""Hillier"", :given=>""F.S.""}, {:family=>""Lieberman"", :given=>""G.J.""}]"	Introduction to Stochastic Models in Operations Research			1990	both	Required
+"[{:family=>""Papoulis"", :given=>""Athanasios""}]"	Probability & Statistics			1990	both	Required
+"[{:family=>""Kleinrock"", :given=>""Leonard""}]"	Queueing Systems			1975	both	Required
+"[{:family=>""Chen"", :given=>""Hong""}, {:family=>""Yao"", :given=>""David D.""}]"	Fundamentals of Queueing Networks: Performance			2001	both	Required
+"[{:family=>""Luenberger"", :given=>""David G.""}]"	Introduction to Linear and Nonlinear Programming			1973	both	Required
+"[{:family=>""Hillier"", :given=>""F.S.""}, {:family=>""Lieberman"", :given=>""G.J.""}]"	Introduction to Mathematical Programming			1990	both	Required
+"[{:family=>""Bertsekas"", :given=>""Dmitri P.""}]"	Dynamic Programming: Deterministic and Stochastic Models			1987	both	Required
+"[{:family=>""Burman"", :given=>""Mitchell""}, {:family=>""Gershwin"", :given=>""Stanley B.""}, {:family=>""Suyematsu"", :given=>""Curtis""}]"	Hewlett-Packard Uses Operations Research to Improve the Design of a Printer Production Line	article-journal	Interfaces	1998-01	both	Required
+"[{:family=>""Patchong"", :given=>""Alain""}, {:family=>""Lemoine"", :given=>""Thierry""}, {:family=>""Kern"", :given=>""Gilles""}]"	Improving Car Body Production at PSA Peugeot Citroen	article-journal	Interfaces	2003-01	both	Required
+"[{:family=>""Alden"", :given=>""Jeffrey M.""}, {:others=>true}]"	General Motors Increases Its Production Throughput	article-journal	Interfaces	2006-01	both	Required
+"[{:family=>""Li"", :given=>""Jingshan""}, {:family=>""Blumenfeld"", :given=>""Dennis E.""}, {:family=>""Huang"", :given=>""Ningjian""}, {:family=>""Alden"", :given=>""Jeffrey M.""}]"	Throughput Analysis of Production Systems: Recent Advances and Future Topics	article-journal	International Journal of Production Research	2009-07-15	both	Required
+"[{:family=>""Gershwin"", :given=>""Stanley B.""}]"	Manufacturing Systems Engineering			1993	both	Required

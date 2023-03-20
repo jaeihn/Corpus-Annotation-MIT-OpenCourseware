@@ -1,0 +1,9 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Brown"", :given=>""Forbes T.""}]"	Engineering System Dynamics			2001	both	Required
+"[{:family=>""Pourmovahed"", :given=>""A.""}, {:family=>""Otis"", :given=>""D.R.""}]"	Effects of Thermal Damping on the Dynamic Response of a Hydraulic Moto-Accumulator System	article-journal	Journal of Dynamic Systems	1984	left_only	Required
+"[{:family=>""Hogan"", :given=>""Neville""}, {:family=>""Buerger"", :given=>""Stephen P.""}]"	Impedance and Interaction Control	chapter	Robotics and Automation Handbook	2004	left_only	Required
+"[{:family=>""Sharon"", :given=>""Andre""}, {:family=>""Hogan"", :given=>""Neville""}, {:family=>""Hardt"", :given=>""David E.""}]"	The Macro/Micro Manipulator: An Improved Architecture for Robot Control	article-journal	Robotics and Computer-Integrated Manufacturing	1993	left_only	Required
+"[{:family=>""Sharon"", :given=>""Andre""}, {:family=>""Hogan"", :given=>""Neville""}, {:family=>""Hardt"", :given=>""David E.""}]"	Controller Design in the Physical Domain	article-journal	Journal of the Franklin Institute	1991	left_only	Required
+"[{:family=>""Dunn"", :given=>""H.Searl""}]"	Equivalent Circuit Representation of Web Conveyance Systems	article-journal	Applied Mechanics	1969	left_only	Required
+"[{:family=>""Skeel"", :given=>""Robert D.""}, {:family=>""Zhang"", :given=>""Guihua""}, {:family=>""Schlick"", :given=>""Tamar""}]"	A Family of Symplectic Integrators: Stability	article-journal	SIAM	1997	left_only	Required
+"[{:family=>""McLachlan"", :given=>""Robert I.""}, {:family=>""Perlmutter"", :given=>""Matthew""}, {:family=>""Quispel"", :given=>""G.R.W.""}]"	On the Nonlinear Stability of Symplectic Integrators	article-journal	BIT Numerical Mathematics	2004	left_only	Required

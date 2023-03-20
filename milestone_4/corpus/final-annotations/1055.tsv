@@ -1,0 +1,18 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Wooldridge"", :given=>""Jeffrey M.""}]"	Introductory Econometrics: A Modern Approach			2006	both	Required
+"[{:family=>""Goldberger"", :given=>""Arthur S.""}]"	A Course in Econometrics			1991	both	Optional
+"[{:family=>""DeGroot"", :given=>""Morris H.""}, {:family=>""Schervish"", :given=>""Mark J.""}]"	Probability and Statistics			2001	both	Optional
+"[{:family=>""Burtless"", :given=>""Gary""}]"	Are Targeted Wage Subsidies Harmful? Evidence from a Wage Voucher Experiment	article-journal	Industrial and Labor Relations Review	1985-10	both	Required
+"[{:family=>""Woodbury"", :given=>""S.A.""}, {:family=>""Spiegelman"", :given=>""R.""}]"	Bonuses to Workers and Employers to Reduce Unemployment: Randomized Trials in Illinois	article-journal	American Economic Review	1987-09	both	Required
+"[{:family=>""Krueger"", :given=>""A.""}]"	How Computers Have Changed the Wage Structure: Evidence from Micro Data	article-journal	Quarterly Journal of Economics	1993-02	both	Required
+"[{:family=>""DiNardo"", :given=>""J.""}, {:family=>""Pischke"", :given=>""J.S.""}]"	The Returns to Computer Use Revisited: Have Pencils Changed the Wage Structure Too?	article-journal	The Quarterly Journal of Economics	1997-02	both	Required
+"[{:family=>""Krueger"", :given=>""A.""}, {:family=>""Dale"", :given=>""S.B.""}]"	Estimating the Payoff to Attending a More Selective College: An Application of Selection on Observables and Unobservables	article-journal	The Quarterly Journal of Economics	2002-11	both	Required
+"[{:family=>""Card"", :given=>""David E.""}, {:family=>""Krueger"", :given=>""Alan B.""}]"	Myth and Measurement: The New Economics of the Minimum Wage			1995	both	Required
+"[{:family=>""Freeman"", :given=>""R.""}, {:family=>""Castillo-Freeman"", :given=>""A.""}]"	When the Minimum Wage Really Bites: The Effect of the US-Level Minimum on Puerto Rico	chapter	Immigration and the Work Force: Economic Consequences for the United States and Source Areas	1992	both	Required
+"[{:family=>""Graddy"", :given=>""K.""}]"	Testing for Imperfect Competition at the Fulton Fish Market	article-journal	RAND Journal of Economics	1995	both	Required
+"[{:family=>""Angrist"", :given=>""J.""}]"	Lifetime Earnings and the Vietnam Era Draft Lottery: Evidence from Social Security Administrative Records	article-journal	American Economic Review	1990-06	both	Required
+"[{:family=>""Angrist"", :given=>""J.""}, {:family=>""Krueger"", :given=>""A.""}]"	Does Compulsory School Attendance Affect Schooling and Earnings?	article-journal	Quarterly Journal of Economics	1991-11	both	Required
+"[{:family=>""Angrist"", :given=>""J.""}, {:family=>""Evans"", :given=>""W.E.""}]"	Children and Their Parents’ Labor Supply: Evidence from Exogenous Variation in Family Size	article-journal	American Economic Review	1998-06	both	Required
+"[{:family=>""Ashenfelter"", :given=>""O.""}, {:family=>""Krueger"", :given=>""A.""}]"	Estimates of the Economic Returns to Schooling from a New Sample of Twins	article-journal	American Economic Review	1994-12	both	Required
+"[{:family=>""Angrist"", :given=>""J.""}, {:family=>""Lavy"", :given=>""V.""}]"	Using Maimonides Rule to estimate the Effects of Class Size on Scholastic Achievement	article-journal	Quarterly Journal of Economics	1999-05	both	Required
+"[{:family=>""Angrist"", :given=>""J.""}, {:family=>""Imbens"", :given=>""G.""}, {:family=>""Graddy"", :given=>""K.""}]"	The Interpretation of Instrumental Variables Estimators in Simultaneous Equations Models with an Application to the Demand for Fish	article-journal	Review of Economic Studies	2000-07	both	Required

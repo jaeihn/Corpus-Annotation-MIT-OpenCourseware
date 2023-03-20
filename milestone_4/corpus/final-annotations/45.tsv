@@ -1,0 +1,28 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Porter"", :given=>""M.E.""}]"	Competitive Advantage: Creating and Sustaining Superior Performance			1985	left_only	Required
+"[{:family=>""Porter"", :given=>""M.E.""}]"	Strategy and the Internet	article-journal	Harvard Business Review	2001-03	both	Required
+"[{:family=>""Porter"", :given=>""M.E.""}, {:family=>""Millar"", :given=>""V.E.""}]"	How Information Gives You Competitive Advantage	article-journal	Harvard Business Review	1985-07	both	Required
+"[{:family=>""Macomber"", :given=>""J.D.""}]"	IT Strategy for Construction Companies: A Pragmatist’s Vision				both	Required
+"[{:family=>""Stalk"", :given=>""G.""}, {:family=>""Evans"", :given=>""P.""}, {:family=>""Shulman"", :given=>""L.E.""}]"	Competing on Capabilities: The New Rules of Corporate Strategy	article-journal	Harvard Business Review	1992-03	both	Required
+"[{:family=>""Kahn"", :given=>""G.""}]"	Made to Measure: Invisible Supplier Has Penney’s Shirts All Buttoned Up,” and “From Hong Kong	article-journal	The Wall Street Journal	2003-09-11	left_only	Required
+"[{:family=>""Kim"", :given=>""W.C.""}, {:family=>""Mauborgne"", :given=>""R.""}]"	Knowing a Winning Business Idea When You See One	article-journal	Harvard Business Review (September-October		both	Required
+"[{:family=>""Kim"", :given=>""W.C.""}, {:family=>""Mauborgne"", :given=>""R.""}]"	How to Tell a Flyer From a Failure”	article-journal	Financial Times	2001-01	both	Required
+"[{:family=>""Sahlman"", :given=>""W.A.""}]"	How to Write a Great Business Plan	article-journal	Harvard Business Review (July-August		both	Required
+"[{:family=>""Macomber"", :given=>""J.D.""}]"	US Construction Demographics: Some Relevant Statistics to Consider				both	Required
+"[{:family=>""Macomber"", :given=>""J.D.""}]"	Yes	article-journal	Construction Business Review	1999-12	both	Required
+"[{:family=>""Macomber"", :given=>""J.D.""}]"	Follow the Money: What Really Drives Technology Innovation in Construction	chapter	2003 ASCE Construction Research Congress		both	Required
+"[{:family=>""Narayanan"", :given=>""V.G.""}, {:family=>""Raman"", :given=>""A.""}]"	Aligning Incentives for Supply Chain Efficiency	book			both	Required
+"[{:family=>""Cachon"", :given=>""G.P.""}, {:family=>""Lariviere"", :given=>""M.A.""}]"	Turning the Supply Chain into Revenue Chain	article-journal	Harvard Business Review	2001-03	both	Required
+"[{:family=>""Peers"", :given=>""M.""}]"	Blockbuster’s New Pitch: Why Not Buy That Movie?	article-journal	The Wall Street Journal	2002-11-01	both	Required
+"[{:family=>""Orwall"", :given=>""B.""}, {:family=>""Peers"", :given=>""M.""}, {:family=>""Zimmerman"", :given=>""A.""}]"	DVD Gains on Tape	article-journal	The Wall Street Journal	2002-02-05	both	Required
+"[{:family=>""Brandenburger"", :given=>""A.""}, {:family=>""Nalebuff"", :given=>""B.""}]"	The Right Game: Use Game Theory to Shape Strategy	article-journal	Harvard Business Review (July-August		left_only	Required
+"[{:family=>""Gompers"", :given=>""P.A.""}, {:family=>""Conneely"", :given=>""C.M.""}]"	A Note on Franchising	book			both	Required
+"[{:family=>""Hansen"", :given=>""M.T.""}, {:family=>""Davenport"", :given=>""T.H.""}]"	Knowledge Management at Andersen Consulting	book			both	Required
+"[{:family=>""Hansen"", :given=>""M.T.""}, {:family=>""Nohria"", :given=>""N.""}, {:family=>""Tierney"", :given=>""T.""}]"	What’s Your Strategy for Managing Knowledge?	article-journal	Harvard Business Review	1999-03	both	Required
+"[{:family=>""Rayport"", :given=>""J.F.""}, {:family=>""Sviokla"", :given=>""J.J.""}]"	Exploiting the Virtual Value Chain	article-journal	Harvard Business Review	1995-11	both	Required
+"[{:family=>""Diamant-Berger"", :given=>""A.""}, {:family=>""Ovans"", :given=>""A.""}]"	E-Procurement at Schlumberger	article-journal	Harvard Business Review	2000-05	both	Required
+"[{:family=>""Applegate"", :given=>""L.""}]"	Emerging E-Business Models: Lessons from the Field	chapter	HBS Teaching Note	2001	both	Required
+"[{:family=>""Porter"", :given=>""M.E.""}]"	Chapter 1 in Competitive Advantage: Creating and Sustaining Superior Performance			1985	right_only	Required
+"[{:family=>""Kahn"", :given=>""G.""}]"	Made to Measure: Invisible Supplier Has Penney’s Shirts All Buttoned Up,” and “From Hong Kong	article-journal	The Wall Street Journal		right_only	Required
+"[{:family=>""Brandenburger"", :given=>""A.""}, {:family=>""Nalebuff"", :given=>""B.""}]"	The Right Game: Use				right_only	Required
+	Game Theory to Shape Strategy	article-journal	Harvard Business Review	1995-07	right_only	Required

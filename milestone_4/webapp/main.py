@@ -33,7 +33,7 @@ def search_readings(TOPIC, FORMAT, INCLUDE):
     selection = data_df[data_df.Topics == TOPIC].copy()
 
     # Format selection (if specified)
-    if FORMAT in ['Book', 'Paper']:
+    if FORMAT in ['Book', 'Academic Paper']:
         selection = selection[selection.Type == FORMAT]
 
     # Include categories (if specified)

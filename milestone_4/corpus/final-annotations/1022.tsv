@@ -1,0 +1,16 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Ott"", :given=>""E.""}, {:family=>""Sauer"", :given=>""T.""}, {:family=>""Yorke"", :given=>""J.""}]"	Coping with Chaos			1994	both	Optional
+"[{:family=>""Wilks"", :given=>""D.""}]"	Statistical Methods in the Atmospheric Sciences			1995	both	Optional
+"[{:family=>""Wunsch"", :given=>""C.""}]"	The Ocean Circulation Inverse Problem			1996	both	Optional
+"[{:family=>""Kalnay"", :given=>""E.""}]"	Atmospheric Modeling			2003	both	Optional
+"[{:family=>""Grassberger"", :given=>""P.""}, {:family=>""Procaccia"", :given=>""I.""}]"	Characterization of Strange Attractors	article-journal	Physical Review Letters	1983	both	Required
+"[{:family=>""Sauer"", :given=>""T.""}, {:family=>""Yorke"", :given=>""J.A.""}, {:family=>""Casdagli"", :given=>""M.""}]"	Embedology	article-journal	Journal of Statistical Physics	1991	both	Required
+"[{:family=>""Ziehmann"", :given=>""C.""}, {:family=>""Smith"", :given=>""L.A.""}, {:family=>""Kurths"", :given=>""J.""}]"	Localized Lyapunov Exponents and the Prediction of Predictability	article-journal	Physics Letters A	2000	both	Required
+"[{:family=>""Smith"", :given=>""L.A.""}, {:family=>""Ziehmann"", :given=>""C.""}, {:family=>""Fraedrich"", :given=>""K.""}]"	Uncertainty Dynamics and Predictability in Chaotic Systems	article-journal	Quarterly Journal of the Royal Meteorological Society	1999	both	Required
+"[{:family=>""Gilmour"", :given=>""I.""}, {:family=>""Smith"", :given=>""L.A.""}, {:family=>""Buizza"", :given=>""R.""}]"	Linear Regime Duration: Is 24 Hours a Long Time in Synoptic Weather Forecasting?	article-journal	Journal of the Atmospheric Sciences	2001	both	Required
+"[{:family=>""Epstein"", :given=>""E.S.""}]"	Stochastic Dynamic Prediction	article-journal	Tellus	1969	both	Required
+"[{:family=>""Sivillo"", :given=>""J.K.""}, {:family=>""Ahlquist"", :given=>""J.E.""}, {:family=>""Toth"", :given=>""Z.""}]"	An Ensemble Forecasting Primer	article-journal	Weather and Forecasting	1997	both	Required
+"[{:family=>""Murphy"", :given=>""A.H.""}]"	What Is a Good Forecast? An Essay on the Nature of Goodness in Weather Forecasting	article-journal	Weather and Forecasting	1993	both	Required
+"[{:family=>""Talagrand"", :given=>""O.""}]"	Assimilation of Observations	article-journal	Journal of the Meteorological Society of Japan	1997	both	Required
+"[{:family=>""Whitaker"", :given=>""J.S.""}, {:family=>""Hamill"", :given=>""T.M.""}]"	Ensemble Data Assimilation without Perturbed Observations	article-journal	Monthly Weather Review	2002	both	Required
+"[{:family=>""Hamill"", :given=>""Thomas M.""}]"	Ensemble-based Data Assimilation: A Review	book		2003-02-14	both	Required

@@ -1,0 +1,18 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Guillemin"", :given=>""Victor""}, {:family=>""Sternberg"", :given=>""Shlomo""}]"	Semi-Classical Analysis			2013	both	Optional
+"[{:family=>""Fattal"", :given=>""David""}, {:family=>""Peng"", :given=>""Zhen""}, {:others=>true}]"	A Multi-Directional Backlight for a Wide-Angle	article-journal	Nature	2013	both	Optional
+"[{:family=>""Iizuka"", :given=>""Keigo""}]"	Cellophane as a Half-wave Plate and Its Use for Converting a Laptop Computer Screen into a Three-dimensional Display	article-journal	Review of Scientific Instruments	2003	both	Optional
+"[{:family=>""Hamilton"", :given=>""William R.""}]"	Theory of Systems of Rays			1828	both	Optional
+"[{:family=>""Pogue"", :given=>""David""}]"	Why Retina Displays and 4K TVs May Not Be Worth the Trouble	article-journal	Scientific American	2013-03	both	Optional
+"[{:family=>""Knox"", :given=>""Wayne H.""}, {:family=>""Alonso"", :given=>""Miguel""}, {:others=>true}]"	Spatial Coherence from Ducks	article-journal	Physics Today	2010	both	Optional
+"[{:family=>""Crockett"", :given=>""Christopher""}]"	Gravitational Waves Unmask Universe Just after Big Bang	article-journal	Science News	2014-03-17	both	Optional
+"[{:family=>""Kim"", :given=>""Myung K.""}]"	Digital Holographic Microscopy: Principles			2011	both	Optional
+"[{:family=>""Ramesh"", :given=>""Krishnamurthi""}]"	Photoelasticity	chapter	Springer Handbook of Experimental Solid Mechanics	2008	both	Optional
+"[{:family=>""Pedrotti"", :given=>""Frank L.""}, {:family=>""Pedrotti"", :given=>""Leno M.""}, {:family=>""Pedrotti"", :given=>""Leno S.""}]"	Introduction to Optics			2006	both	Optional
+"[{:family=>""Goodman"", :given=>""Joseph W.""}]"	Introduction to Fourier Optics			1968	both	Optional
+"[{:family=>""Hecht"", :given=>""E.""}]"	Optics			2001	both	Optional
+"[{:family=>""Smith"", :given=>""W.J.""}]"	Modern Optical Engineering			2007	both	Optional
+		chapter	Handbook of Optics	1995	both	Optional
+"[{:family=>""Haus"", :given=>""H.A.""}]"	Waves and Fields in Optoelectronics			1983	both	Optional
+"[{:family=>""Iizuka"", :given=>""Keigo""}]"	Elements of Photonics			2002	both	Optional
+"[{:family=>""Voelz"", :given=>""David George""}]"	Computational Fourier Optics: A MATLAB Tutorial	article-journal	SPIE Press	2011	right_only	Optional

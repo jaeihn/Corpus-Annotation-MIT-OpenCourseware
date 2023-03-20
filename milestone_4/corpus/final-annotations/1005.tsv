@@ -1,0 +1,7 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Price"", :given=>""James F.""}]"	Topics in Fluid Dynamics: Dimensional Analysis				left_only	Optional
+"[{:family=>""Kundu"", :given=>""P.K.""}, {:family=>""Cohen"", :given=>""I.M.""}]"	Fluid Mechanics			2004	both	Required
+"[{:family=>""Cushman-Roisin"", :given=>""B.""}]"	Introduction to Geophysical Fluid Dynamics			1994	both	Required
+"[{:family=>""Gill"", :given=>""A.E.""}]"	Atmosphere-Ocean Dynamics			1982	both	Optional
+"[{:family=>""Tritton"", :given=>""D.J.""}]"	Physical Fluid Dynamics			1988	both	Optional
+"[{:family=>""Holton"", :given=>""J.R.""}]"	An Introduction to Dynamic Meteorology			1992	both	Optional

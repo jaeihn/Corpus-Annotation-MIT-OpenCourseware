@@ -1,0 +1,55 @@
+author	title	type	collection	year	_merge	category
+"[{:literal=>""Bryson, Jr. Arthur E. and Yu-Chi Ho.""}]"	Applied Optimal Control: Optimization			1975	both	Optional
+"[{:family=>""Gelb"", :given=>""Arthur""}]"	Applied Optimal Estimation			1974	both	Optional
+"[{:family=>""Gelman"", :given=>""A.""}, {:family=>""Carlin"", :given=>""J.""}, {:others=>true}]"	Bayesian Data Analysis			2003	both	Optional
+"[{:family=>""Martinez"", :given=>""W.L.""}, {:family=>""Martinez"", :given=>""A.R.""}]"	Computational Statistics Handbook with MATLAB			2007	both	Optional
+"[{:family=>""Papoulis"", :given=>""A.""}]"	Probability			2002	both	Optional
+"[{:family=>""Silverman"", :given=>""B.W.""}]"	Density Estimation for Statistics and Data Analysis			1986	both	Optional
+"[{:family=>""Arulampalam"", :given=>""M.Sanjeev""}, {:family=>""Maskell"", :given=>""Simon""}, {:others=>true}]"	A Tutorial on Particle Filters for Online Nonlinear/Non-Gaussian Bayesian Tracking	article-journal	IEEE Transactions on Speech and Audio Processing	2002	both	Optional
+"[{:family=>""Besag"", :given=>""Julian""}]"	Markov Chain Monte Carlo for Statistical Inference.” Center for Statistics and the Social Sciences	article-journal	Working paper	2001	both	Optional
+"[{:family=>""Brooks"", :given=>""S.""}]"	Markov Chain Monte Carlo Method and its Application	article-journal	The Statistician	1998	both	Optional
+"[{:family=>""Do"", :given=>""Chuong B.""}, {:family=>""Batzoglou"", :given=>""Serafim""}]"	What is the Expectation Maximization Algorithm?	article-journal	Nature Biotechnology	2008	both	Optional
+"[{:family=>""Elsner"", :given=>""James B.""}, {:family=>""Niu"", :given=>""Xufeng""}, {:others=>true}]"	Detecting Shifts in Hurricane Rates Using a Markov Chain Monte Carlo Approach	article-journal	Journal of Climate	2004	both	Optional
+"[{:family=>""Emanuel"", :given=>""K.""}, {:family=>""Ravela"", :given=>""S.""}, {:others=>true}]"	A Statistical Deterministic Approach to Hurricane Risk Assessment	article-journal	Bulletin of the American Meteorological Society	2006	both	Optional
+"[{:family=>""Evensen"", :given=>""G.""}]"	The Ensemble Kalman Filter: Theoretical Formulation and Practical Implementation	article-journal	Ocean Dynamics	2003	both	Optional
+	Sampling Strategies and Square Root Analysis Schemes for the EnKF	article-journal	Ocean Dynamics	2004	left_only	Optional
+"[{:family=>""Evensen"", :given=>""G.""}, {:family=>""Leeuwen"", :given=>""P.J."", :particle=>""van""}]"	An Ensemble Kalman Smoother for Nonlinear Dynamics	article-journal	Monthly Weather Review	2000	both	Optional
+"[{:family=>""Ferdosi"", :given=>""B.J.""}, {:family=>""Buddelmeijer"", :given=>""H.""}, {:others=>true}]"	Comparison of Density Estimation Methods for Astronomical Datasets	article-journal	Astronomy & Astrophysics	2011	both	Optional
+"[{:family=>""Figueiredo"", :given=>""Mario A.T.""}, {:family=>""Jain"", :given=>""Anil K.""}]"	Unsupervised Learning of Finite Mixture Models	article-journal	IEEE Transactions on Pattern Analysis and Machine Intelligence	2002	both	Optional
+"[{:family=>""Fletcher"", :given=>""Benjamin J.""}, {:family=>""Brentnall"", :given=>""Stuart J.""}, {:others=>true}]"	Atmospheric Carbon Dioxide Linked with Mesozoic and Early Cenozoic Climate Change	article-journal	Nature Geoscience	2008	both	Optional
+"[{:family=>""Geman"", :given=>""S.""}, {:family=>""Geman"", :given=>""D.""}]"	Stochastic Relaxation	article-journal	IEEE Transactions on Pattern Analysis and Machine Intelligence	1984	both	Optional
+"[{:family=>""Geman"", :given=>""S.""}, {:given=>""Bienenstock""}, {:others=>true}]"	Neural Networks and the Bias/Variance Dilemma	article-journal	Neural Computation	1992	both	Optional
+"[{:family=>""Gregory"", :given=>""Philip C.""}]"	Bayesian Exoplanet Tests of a New Method for MCMC Sampling in Highly Correlated Model Parameter Spaces	article-journal	Monthly Notices of the Royal Astronomical Society	2011	both	Optional
+	Extra-solar Planets via Bayesian Fusion MCMC	chapter	Astrostatistical Challenges for the New Astronomy	2012	left_only	Optional
+"[{:family=>""Hannachi"", :given=>""A.""}]"	Tropospheric Planetary Wave Dynamics and Mixture Modeling: Two Preferred Regimes and a Regime Shift	article-journal	Journal of the Atmospheric Sciences	2007	both	Optional
+"[{:family=>""Hansen"", :given=>""Mark H.""}, {:family=>""Yu"", :given=>""Bin""}]"	Model Selection and the Principle of Minimum Description Length	article-journal	Journal of the American Statistical Association	2001	both	Optional
+"[{:family=>""Hwang"", :given=>""Jenq-Neng""}, {:family=>""Lay"", :given=>""Shyh-Rong""}, {:others=>true}]"	Nonparametric Multivariate Density Estimation: A Comparative Study	article-journal	IEEE Transactions on Signal Processing	1994	both	Optional
+"[{:family=>""Isukapalli"", :given=>""Sastry S.""}]"	Uncertainty Analysis of Transport-Transformation Models				both	Optional
+"[{:family=>""Katz"", :given=>""Rick""}]"	Sir Gilbert Walker and a Connection between El Nino and Statistics	article-journal	Statistical Science	2002	both	Optional
+"[{:family=>""Katz"", :given=>""R.""}, {:family=>""Zheng"", :given=>""X.""}]"	Mixture Model for Overdispersion of Precipitation	article-journal	Journal of Climate	1999	both	Optional
+"[{:family=>""Lorenz"", :given=>""Edward N.""}]"	Deterministic Nonperiodic Flow	article-journal	Journal of Atmospheric Sciences	1963	both	Optional
+"[{:family=>""Lorenz"", :given=>""Edward N.""}, {:family=>""Emanuel"", :given=>""Kerry A.""}]"	Optimal Sites for Supplementary Weather Observations: Simulation with a Small Model	article-journal	Journal of the Atmospheric Sciences	1998	both	Optional
+"[{:family=>""Martinez"", :given=>""Wendy L.""}, {:family=>""Martinez"", :given=>""Angel R.""}]"	Computational Statistics Handbook with MATLAB			2007	both	Optional
+"[{:family=>""Moon"", :given=>""Tood K.""}]"	The Expectation Maximization Algorithm	article-journal	IEEE Signal Processing Magazine	1996-11	both	Optional
+"[{:family=>""Neal"", :given=>""Radford M.""}]"	Slice Sampling	report		2000	both	Optional
+"[{:family=>""Oh"", :given=>""Songhwai""}, {:family=>""Russell"", :given=>""S.""}, {:others=>true}]"	Markov Chain Monte Carlo Data Association for General Multiple Target Tracking Problems	article-journal	IEEE Conference on Decision and Control	2004	both	Optional
+"[{:family=>""Ravela"", :given=>""Sai""}, {:family=>""McLaughlin"", :given=>""Dennis""}]"	Fast Ensemble Smoothing	article-journal	Ocean Dynamics	2007	both	Optional
+"[{:family=>""Robertson"", :given=>""I.""}, {:family=>""Lucy"", :given=>""D.""}, {:others=>true}]"	A Kernel-based Bayesian Approach to Climatic Reconstruction	article-journal	The Holocene	1999	both	Optional
+"[{:family=>""Schartau"", :given=>""Markus""}, {:family=>""Landry"", :given=>""Michael R.""}, {:others=>true}]"	Density Estimation of Plankton Size Spectra: A Reanalysis of IronEx II Data	article-journal	Journal of Plankton Research	2010	both	Optional
+"[{:family=>""Schneider"", :given=>""Tapio""}]"	Analysis of Incomplete Climate Data: Estimation of Mean Values and Covariance Matrices and Imputation of Missing Values	article-journal	Journal of Climate	2001	both	Optional
+"[{:family=>""Scott"", :given=>""David W.""}, {:family=>""Sain"", :given=>""Stephan R.""}]"	Multi-dimensional Density Estimation				both	Optional
+"[{:family=>""Siy"", :given=>""Peter W.""}]"	Matrix Factorization Techniques for Analysis of Imaging Mass Spectrometry Data			2008	both	Optional
+"[{:family=>""Smerdon"", :given=>""Jason E.""}, {:family=>""Kaplan"", :given=>""Alexey""}, {:others=>true}]"	Companion Paper: On the Origin of the Standardization Sensitivity in RegEM Climate Field Reconstructions	article-journal	Journal of Climate	2008	both	Optional
+"[{:family=>""Smyth"", :given=>""Padhraic""}, {:family=>""Ide"", :given=>""Kayo""}, {:others=>true}]"	Multiple Regimes in Northern Hemisphere Height Fields via MixtureModel Clustering	article-journal	Journal of the Atmospheric Sciences	1999	both	Optional
+"[{:family=>""Stauffer"", :given=>""C.""}, {:family=>""Grimson"", :given=>""W.E.L.""}]"	Adaptive Background Mixture Models for Real-time Tracking	paper-conference	IEEE Computer Society Conference on Computer Vision and Pattern Recognition	1999	both	Optional
+"[{:family=>""Tatang"", :given=>""Menner A.""}, {:family=>""Pan"", :given=>""Wenwei""}, {:others=>true}]"	An Efficient Method for Parametric Uncertainty Analysis of Numerical Geophysical Models	article-journal	Journal of Geophysical Research	1997	both	Optional
+"[{:family=>""Tomassini"", :given=>""Lorenzo""}, {:family=>""Reichert"", :given=>""Peter""}, {:others=>true}]"	Robust Bayesian Uncertainty Analysis of Climate System Properties Using Markov Chain Monte Carlo Methods	article-journal	Journal of Climate	2007	both	Optional
+"[{:family=>""Wainer"", :given=>""Howard""}]"	Picturing the Uncertain World: How to Understand			2009	both	Optional
+"[{:family=>""Ward"", :given=>""Darren B.""}]"	Particle Filtering Algorithms for Tracking an Acoustic Source in a Reverberant Environment	article-journal	IEEE Transactions on Speech and Audio Processing	2003	both	Optional
+"[{:family=>""Weinberg"", :given=>""M.""}]"	Computational Statistics using the Bayes Inference Engine	chapter	Monthly Notices of the Royal Astronomical Society	2012	both	Optional
+"[{:family=>""Willcox"", :given=>""K.""}, {:family=>""Peraire"", :given=>""J.""}]"	Balanced Model Reduction via the Proper Orthogonal Decomposition	article-journal	AIAA Journal	2002	both	Optional
+"[{:family=>""Xiu"", :given=>""Dongbin""}, {:family=>""Karniadakis"", :given=>""George Em""}]"	The Wiener-Askey Polynomial Chaos for Stochastic Differential Equations				both	Optional
+"[{:family=>""Yang"", :given=>""Allen Y.""}, {:family=>""Ganesh"", :given=>""Arvind""}, {:others=>true}]"	A Review of Fast l1-Minimization Algorithms for Robust Face Recognition			2010	both	Optional
+"[{:family=>""Zucchini"", :given=>""Walter""}]"	An Introduction to Model Selection	article-journal	Journal of Mathematical Psychology	2000	both	Optional
+"[{:family=>""Evensen"", :given=>""G.""}]"	Sampling Strategies and Square Root Analysis Schemes for the EnKF	article-journal	Ocean Dynamics	2004	right_only	Required
+"[{:family=>""Gregory"", :given=>""Philip C.""}]"	Extra-solar Planets via Bayesian Fusion MCMC	chapter	Astrostatistical Challenges for the New Astronomy	2012	right_only	Required

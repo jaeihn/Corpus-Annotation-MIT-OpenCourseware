@@ -1,0 +1,20 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Komanduri"", :given=>""R.""}, {:family=>""Chandrasekaran"", :given=>""N.""}, {:others=>true}]"	Molecular Dynamics (MD) Simulation of Uniaxial Tension of Some Single-Crystal Cubic Metals at Nanolevel	article-journal	International Journal of Mechanical Sciences	2001	both	Optional
+"[{:family=>""Alder"", :given=>""J.""}, {:family=>""Wainwright"", :given=>""T.""}]"	Phase Transition for a Hard Sphere System	article-journal	Journal of Chemical Physics	1957	both	Optional
+"[{:family=>""Rahman"", :given=>""A.""}]"	Correlations in the Motion of Atoms in Liquid Argon	article-journal	Physical Review	1964	both	Optional
+"[{:family=>""Gibson"", :given=>""J.B.""}, {:others=>true}]"	Dynamics of Radiation Damage	article-journal	Physical Review	1960	both	Optional
+"[{:family=>""Cleri"", :given=>""F.""}, {:others=>true}]"	Atomic-Scale Mechanism of Crack-Tip Plasticity: Dislocation Nucleation and Crack-Tip Shielding	article-journal	Physical Review Letters	1997	both	Optional
+"[{:family=>""Daw"", :given=>""M.""}, {:family=>""Baskes"", :given=>""M.""}]"	Embedded-Atom Method: Derivation and Application to Impurities	article-journal	Physical Review B	1984	both	Optional
+"[{:family=>""Duin"", :given=>""A."", :particle=>""Van""}, {:others=>true}]"	ReaxFF: A Reactive Force Field for Hydrocarbons	article-journal	Journal of Chemical Physics A	2001	both	Optional
+"[{:family=>""Buehler"", :given=>""M.""}, {:others=>true}]"	The Dynamical Complexity of Work-Hardening: A Large-Scale Molecular Dynamics Simulation	article-journal	Acta Mechanica Sinica	2005	both	Optional
+"[{:family=>""Buehler"", :given=>""M.""}]"	Hierarchical Chemo-Nanomechanics of Proteins: Entropic Elasticity	article-journal	Journal of Mechanics of Materials and Structures	2007	both	Optional
+"[{:family=>""Ackbarow"", :given=>""T.""}, {:others=>true}]"	Hierarchies	article-journal	Proceedings of the National Academy of Sciences	2007	both	Optional
+"[{:family=>""Ackbarow"", :given=>""T.""}, {:others=>true}]"	Alpha-Helical Protein Networks are Self-Protective and Flaw-Tolerant	article-journal	PLoS ONE	2009	both	Optional
+"[{:family=>""Vlachos"", :given=>""D.""}, {:family=>""Schmidt"", :given=>""L.""}, {:others=>true}]"	Structures of Small Metal Clusters. I. Low Temperature Behavior	article-journal	Journal of Chemical Physics	1992	both	Required
+"[{:family=>""Sanchez"", :given=>""J.""}, {:others=>true}]"	Modeling of γ/γ′ Phase Equilibrium in the Nickel-Aluminum System	article-journal	Acta Metallurgica	1984	both	Required
+"[{:family=>""Sen"", :given=>""D.""}, {:family=>""Buehler"", :given=>""M.""}]"	Chemical Complexity in Mechanical Deformation of Metals	article-journal	International Journal for Multiscale Computational Engineering	2007	both	Required
+"[{:family=>""Buehler"", :given=>""M.""}, {:others=>true}]"	Multi-Paradigm Modeling of Fracture of a Silicon Single Crystal Under Mode II Shear Loading	article-journal	J_ournal of Algorithms & Computational Technology_	2008	both	Required
+"[{:family=>""Buehler"", :given=>""M.""}, {:others=>true}]"	Multiparadigm Modeling of Dynamical Crack Propagation in Silicon Using a Reactive Force Field	article-journal	_Physical Review Letter_s	2006	both	Required
+"[{:family=>""Buehler"", :given=>""M.""}, {:others=>true}]"	Threshold Crack Speed Controls Dynamical Fracture of Silicon Single Crystals	article-journal	Physical Review Letters	2007	both	Required
+"[{:family=>""Gautieri"", :given=>""A.""}, {:others=>true}]"	Hierarchical Structure and Nanomechanics of Collagen Microfibrils from the Atomistic Scale Up	article-journal	Nano Letters	2011	both	Required
+"[{:family=>""Qin"", :given=>""Z.""}, {:others=>true}]"	Hierarchical Structure Controls Nanomechanical Properties of Vimentin Intermediate Filaments	article-journal	PLOS ONE	2009	both	Required

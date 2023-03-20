@@ -1,0 +1,25 @@
+Required	[{:family=>"Aretxaga", :given=>"Begoña"}]	["Shattering Silence: Women, Nationalism, and Political Subjectivity in Northern Ireland"]			["1997"]
+Required	[{:family=>"Améry", :given=>"Jean"}]	["At the Mind’s Limits: Contemplations by a Survivor on Auschwitz and Its Realities"]			["2009"]
+Required	[{:family=>"Arditti", :given=>"Rita"}]	["Searching for Life: The Grandmothers of the Plaza de Mayo and the Disappeared Children of Argentina"]			["1999"]
+Required	[{:family=>"Gobodo-Madikizela", :given=>"Pumla"}]	["A Human Being Died That Night: A South African Woman Confronts the Legacy of Apartheid"]	article-journal	["Mariner Books"]	["2004"]
+Required	[{:family=>"Gourevitch", :given=>"Philip"}]	["We Wish to Inform You That Tomorrow We Will be Killed With Our Families: Stories from Rwanda"]			["1999"]
+Required	[{:family=>"Hopgood", :given=>"Stephen"}]	["Keepers of the Flame: Understanding Amnesty International"]			["2006"]
+Required	[{:family=>"James", :given=>"Erica Caple"}]	["Democratic Insecurities: Violence, Trauma, and Intervention in Haiti"]			["2010"]
+Required	[{:family=>"Weizman", :given=>"Eyal"}]	["The Least of All Possible Evils: Humanitarian Violence from Arendt to Gaza"]			["2012"]
+Required	[{:family=>"Tambiah", :given=>"Stanley J."}]	["Entering a Dark Continent: The Political Psychology of Crowds"]	chapter	["Chapter 10 in Leveling Crowds: Ethnonationalist Conflicts and Collective Violence in South Asia"]	["1997"]
+Required	[{:family=>"Girard", :given=>"René"}]	["Generative Scapegoating"]	chapter	["Chapter 1 in Violent Origins", "Smith on Ritual Killing and Cultural Formation"]	["1988"]
+Required	[{:family=>"Freud", :given=>"Sigmund"}]	["Why War?"]	chapter	["Aggression, Hostility, and Violence: Nature or Nurture?"]	["1973"]
+Required	[{:family=>"Manson", :given=>"Joseph H."}, {:family=>"Wrangham", :given=>"Richard W."}]	["Intergroup Aggression in Chimpanzees and Humans"]	article-journal	["Current Anthropology"]	["1991"]
+Required	[{:family=>"Arendt", :given=>"Hannah"}]	["Eichmann in Jerusalem: A Report on the Banality of Evil"]	chapter	["Chapter 5 in Genocide: An Anthropological Reader"]	["2002"]
+Required		["The Universal Declaration of Human Rights"]	book		
+Required	[{:family=>"Patterson", :given=>"Orlando"}]	["Freedom, Slavery, and the Modern Construction of Rights"]	chapter	["Chapter 5 in Historical Change & Human Rights: The Oxford Amnesty Lectures 1994"]	["1995"]
+Required	[{:family=>"Donnelly", :given=>"Jack"}]	["The Social Construction of International Human Rights"]	chapter	["Chapter 2 in Human Rights in Global Politics"]	["1999"]
+Required	[{:family=>"Donnelly", :given=>"Jack"}]	["Human Rights and Western Liberalism"]	chapter	["Chapter 5 in Universal Human Rights in Theory and Practice"]	["1989"]
+Optional		["International Covenant on Economic, Social, and Cultural Rights"]	book		
+Optional		["International Covenant on Civil and Political Rights"]	book		
+Required	[{:family=>"American Anthropological Association", :given=>"Executive Board", :particle=>"of the"}]	["Statement on Human Rights"]	article-journal	["American Anthropologist"]	["1947"]
+Required		["Declaration on Anthropology and Human Rights"]	book		
+Required	[{:family=>"An-Na’im", :given=>"Abdullahi Ahmed"}]	["Toward a Cross-Cultural Approach to Defining International Standards of Human Rights: The Meaning of Cruel, Inhuman, or Degrading Treatment or Punishment"]	chapter	["Chapter 1 in Human Rights in Cross-Cultural Perspectives: A Quest for Consensus"]	["1995"]
+Required	[{:family=>"Walley", :given=>"Christine J."}]	["Searching for ‘Voices’: Feminism, Anthropology, and the Global Debate over Female Genital Operations"]	article-journal	["Cultural Anthropology"]	["1997"]
+Required	[{:family=>"Mutua", :given=>"Makau W."}]	["Savages, Victims, and Saviors: The Metaphor of Human Rights"]	article-journal	["Harvard International Law Journal"]	["2001"]
+Required		["Convention on the Elimination of All Forms of Discrimination against Women"]	book		

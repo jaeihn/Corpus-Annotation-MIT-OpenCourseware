@@ -1,0 +1,49 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Rand"", :given=>""Ayn""}]"	The Fountainhead	article-journal	Plume	1994	both	Required
+"[{:family=>""Watson"", :given=>""James D.""}]"	The Double Helix: A Personal Account of the Discovery of the Structure of DNA	article-journal	Touchstone	2001	both	Required
+"[{:family=>""Kidder"", :given=>""Tracy""}]"	The Soul of a New Machine			2000	both	Required
+"[{:family=>""Kuhn"", :given=>""Thomas S.""}]"	The Route to Normal Science	chapter	Chapter 2 in The Structure of Scientific Revolutions	2012	both	Required
+"[{:family=>""Kuhn"", :given=>""Thomas S.""}]"	The Nature of Normal Science	article-journal	The Structure of Scientific Revolutions	2012	both	Required
+"[{:family=>""Kuhn"", :given=>""Thomas S.""}]"	The Nature and Necessity of Scientific Revolutions	chapter	Chapter 9 in The Structure of Scientific Revolutions	2012	both	Required
+"[{:family=>""Kuhn"", :given=>""Thomas S.""}]"	Revolutions as Changes of World View	chapter	Chapter 10 in The Structure of Scientific Revolutions	2012	both	Required
+"[{:family=>""Friedman"", :given=>""Milton""}]"	Methodology of Positive Economics	chapter	Essays in Positive Economics	1966	both	Required
+"[{:family=>""Friedman"", :given=>""Milton""}]"	Chapters 1–3			2002	both	Required
+"[{:family=>""Becker"", :given=>""Gary S.""}]"	The Economic Approach to Human Behavior	chapter	Chapter 1 in The Economic Approach to Human Behavior	1978	both	Required
+"[{:family=>""Becker"", :given=>""Gary S.""}]"	Altruism	chapter	Chapter 13 in The Economic Approach to Human Behavior	1978	both	Required
+"[{:family=>""Gilder"", :given=>""George""}]"	The Mandate for Capitalism.” Part One in Wealth and Poverty: A New Edition for the Twenty-First Century			2012	both	Required
+"[{:family=>""Marx"", :given=>""Karl""}, {:family=>""Engels"", :given=>""Frederick""}]"	Manifesto of the Communist Party			1848	both	Required
+"[{:family=>""Marx"", :given=>""Karl""}]"	Capital: A Critique of Political Economy	article-journal	Chapters		both	Required
+"[{:family=>""Elster"", :given=>""Jon""}]"	Marxist Methodology.” Chapter 2 in An Introduction to Karl Marx			1986	both	Required
+"[{:family=>""Elster"", :given=>""Jon""}]"	Marxian Economics.” Chapter 4 in An Introduction to Karl Marx			1986	both	Required
+"[{:family=>""Elster"", :given=>""Jon""}]"	Historical Materialism.” Chapter 6 in An Introduction to Karl Marx			1986	both	Required
+"[{:family=>""Elster"", :given=>""Jon""}]"	Class Consciousness and Class Struggle	chapter	Chapter 7 in An Introduction to Karl Marx	1986	both	Required
+"[{:family=>""Elster"", :given=>""Jon""}]"	Marx’s Theory of Politics	chapter	Chapter 8 in An Introduction to Karl Marx	1986	both	Required
+"[{:family=>""Bowles"", :given=>""Samuel""}, {:family=>""Gintis"", :given=>""Herbert""}]"	The Crisis of Liberal Democratic Capitalism: The Case of the United States	article-journal	Politics & Society	1982	both	Required
+"[{:family=>""Foley"", :given=>""Duncan K.""}]"	The Severest Critic.” Chapter 3 in Adam’s Fallacy: A Guide to Economic Theology			2008	both	Required
+"[{:family=>""Weber"", :given=>""Max""}]"	The Spirit of Capitalism	chapter	Chapter 2 in The Protestant Ethic and the Spirit of Capitalism. marxists.org		both	Required
+"[{:family=>""Weber"", :given=>""Max""}]"	Asceticism and the Spirit of Capitalism	chapter	Chapter 5 in The Protestant Ethic and the Spirit of Capitalism. marxists.org		both	Required
+"[{:family=>""Polanyi"", :given=>""Karl""}]"	The Great Transformation: The Political and Economic Origins of Our Time			2001	both	Required
+"[{:family=>""Schumpeter"", :given=>""Joseph A.""}]"	Can Capitalism Survive?” Part II (especially pages 121–63) in Capitalism			2008	both	Required
+"[{:family=>""Keynes"", :given=>""John Maynard""}]"	The General Theory of Employment			1965	both	Required
+"[{:family=>""Galbraith"", :given=>""John Kenneth""}]"	The Corporation.” Chapter 7 in The New Industrial State			2007	both	Required
+"[{:family=>""Solow"", :given=>""Robert M.""}]"	The New Industrial State or Son of Affluence	article-journal	The Public Interest	1967	both	Required
+"[{:family=>""Piore"", :given=>""Michael J.""}, {:family=>""Sabel"", :given=>""Charles F.""}]"	Mass Production as Destiny and Blind Decision	chapter	Chapter 2 in The Second Industrial Divide: Possibilities for Prosperity	1986	both	Required
+"[{:family=>""Piore"", :given=>""Michael J.""}, {:family=>""Sabel"", :given=>""Charles F.""}]"	The Corporation.” Chapter 3 in The Second Industrial Divide: Possibilities for Prosperity			1986	both	Required
+"[{:family=>""Piore"", :given=>""Michael J.""}, {:family=>""Sabel"", :given=>""Charles F.""}]"	Possibilities for Prosperity: International Keynesianism and Flexible Specialization.” Chapter 10 in The Second Industrial Divide: Possibilities for Prosperity			1986	both	Required
+"[{:family=>""Davis"", :given=>""Gerald F.""}]"	Managed by the Markets: How Finance Re-Shaped America			2009	both	Required
+"[{:family=>""Dubner"", :given=>""Stephen J.""}]"	This is Your Brain on Prosperity: Andrew Lo on Fear			2009-01-09	both	Required
+"[{:family=>""Thaler"", :given=>""Richard H.""}, {:family=>""Sunstein"", :given=>""Cass R.""}]"	Introduction	chapter	Nudge: Improving Decisions About Health	2009	both	Required
+"[{:family=>""Thaler"", :given=>""Richard H.""}, {:family=>""Sunstein"", :given=>""Cass R.""}]"	Biases and Blunders.” Chapter 1 in Nudge: Improving Decisions About Health			2009	both	Required
+"[{:family=>""DellaVigna"", :given=>""Stefano""}]"	Psychology and Economics: Evidence from the Field	article-journal	Journal of Economic Literature	2009	both	Required
+"[{:family=>""Arendt"", :given=>""Hannah""}]"	Vita Activa and the Human Condition	chapter	Chapter 1 in The Human Condition	1998	both	Required
+"[{:family=>""Arendt"", :given=>""Hannah""}]"	The Term Vita Activa	chapter	Chapter 2 in The Human Condition	1998	both	Required
+"[{:family=>""Arendt"", :given=>""Hannah""}]"	Eternity Versus Immortality	chapter	Chapter 5 in The Human Condition	1998	both	Required
+"[{:family=>""Sacks"", :given=>""Oliver""}]"	Seeing Voices: A Journey into the World of the Deaf			2000	both	Required
+"[{:family=>""Lester"", :given=>""Richard K.""}, {:family=>""Piore"", :given=>""Michael J.""}]"	Innovation—The Missing Dimension			2004	both	Required
+"[{:family=>""Rawls"", :given=>""John""}]"	Some Reasons for the Maximin Criterion	article-journal	American Economic Review	1974	both	Optional
+"[{:family=>""Foley"", :given=>""Duncan K.""}]"	Adam’s Vision.” Chapter 1 in Adam’s Fallacy: A Guide to Economic Theology			2008	both	Optional
+"[{:family=>""Foley"", :given=>""Duncan K.""}]"	Grand Illusions.” Chapter 6 in Adam’s Fallacy: A Guide to Economic Theology			2008	both	Optional
+"[{:family=>""Althusser"", :given=>""Louis""}]"	For Marx (Part 1				both	Optional
+"[{:family=>""Althusser"", :given=>""Louis""}, {:family=>""Balibar"", :given=>""Étienne""}]"	The Errors of Classical Economics: Outline of a Concept of Historical Time	chapter	Chapter 4 in Reading Capital		both	Optional
+"[{:family=>""Krugman"", :given=>""Paul""}]"	How Did Economists Get It So Wrong?	article-journal	New York Times Magazine	2009-09-02	both	Optional
+"[{:family=>""Solow"", :given=>""Robert M.""}]"	How To Understand the Disaster	article-journal	New York Review of Books	2009-05-14	both	Optional

@@ -1,0 +1,34 @@
+author	title	type	collection	year	_merge	category
+"[{:family=>""Ugural"", :given=>""A.C.""}]"	Stresses in Plates and Shells			1998	both	Optional
+"[{:family=>""Shames"", :given=>""Irving H.""}, {:family=>""Dym"", :given=>""Clive L.""}]"	Energy and Finite Element Methods in Structural Mechanics: SI Units			1996	both	Optional
+"[{:family=>""Timoshenko"", :given=>""Stephen P.""}, {:family=>""Woinowsky-Krieger"", :given=>""S.""}]"	Theory of Plates and Shells			1959	both	Optional
+"[{:family=>""Hill"", :given=>""R.""}]"	Mathematical Theory of Plasticity	book		1950	both	Optional
+"[{:family=>""Prager"", :given=>""W.""}, {:family=>""Hodge"", :given=>""P.G.""}]"	Theory of Perfectly Plastic Solids	book		1951	both	Optional
+"[{:family=>""Prager"", :given=>""W.""}]"	Introduction to Plasticity	book		1959	both	Optional
+"[{:family=>""Olszak"", :given=>""W.""}, {:family=>""Mroz"", :given=>""L.""}, {:family=>""Perzyna"", :given=>""P.""}]"	Recent Trends in the Development of the Theory of Plasticity	book		1963	both	Optional
+"[{:family=>""Prager"", :given=>""W.""}]"	Introduction to Plasticity	book		1967	both	Optional
+"[{:family=>""Calladine"", :given=>""C.""}]"	Engineering Plasticity	book		1969	both	Optional
+"[{:family=>""Mroz"", :given=>""Z.""}]"	Mathematical Models of Inelastic Material Behavior	book		1973	both	Optional
+"[{:family=>""Kachanov"", :given=>""L.""}]"	Fundamentals of the Theory of Plasticity	book		1974	both	Optional
+"[{:family=>""Martin"", :given=>""J.B.""}]"	Plasticity: Fundamental and General Results			1975	both	Optional
+"[{:family=>""Zyczkowski"", :given=>""M.""}]"	Combined Loadings in the Theory of Plasticity	book		1981	both	Optional
+"[{:family=>""Calladine"", :given=>""C.""}]"	Plasticity for Engineers. E	book		1985	both	Optional
+"[{:family=>""Lubliner"", :given=>""J.""}]"	Plasticity Theory	book		1990	both	Optional
+		paper-conference	Proceedings of IUTAM Symposium on Optimization in Structural Design	1973	both	Optional
+"[{:family=>""Hodge"", :given=>""P.G.""}]"	Plastic Analysis of Structures	book		1959	both	Optional
+"[{:family=>""Jaeger"", :given=>""A.""}, {:family=>""Sawczuck"", :given=>""A.""}]"	Load Carrying Capacity of Plates (in German	book		1963	both	Optional
+"[{:family=>""Hodge"", :given=>""P.G.""}]"	Limit Analysis of Rotationally Symmetric Plates and Shells	book		1963	both	Optional
+"[{:family=>""Olszak"", :given=>""W.""}, {:family=>""Sawczuk"", :given=>""A.""}]"	Inelastic Behavior of Shells	book		1969	both	Optional
+"[{:family=>""Massonet"", :given=>""C.""}, {:family=>""Olszack"", :given=>""W.""}, {:family=>""Philips"", :given=>""A.""}]"	Plasticity in Structural Engineering Fundamentals and Applications	book		1979	both	Optional
+"[{:family=>""Calladine"", :given=>""C.""}]"	Theory of Shell Structures	book		1983	both	Optional
+"[{:family=>""Konig"", :given=>""A.""}]"	Shakedown of Elastic-Plastic Structures	book		1987	both	Optional
+"[{:family=>""Kudo"", :given=>""H.""}]"	Study of Forging and Extrusion Processes	chapter	Koku Kenkya-sho Shu ko	1958	both	Optional
+"[{:family=>""Szczepinski"", :given=>""W.""}]"	Introduction to the Mechanics of Plastic Forming of Metals. Alphen aan den Rijn	book		1979	both	Optional
+"[{:family=>""Johnson"", :given=>""W.""}, {:family=>""Mellor"", :given=>""P.""}]"	Engineering Plasticity	book		1983	both	Optional
+"[{:family=>""Goldsmith"", :given=>""W.""}]"	Impact: The Theory and Physical Behavior of Colliding Solids	book		1960	both	Optional
+"[{:family=>""Cristescu"", :given=>""N.""}]"	Dynamic Plasticity	book		1967	both	Optional
+"[{:family=>""Johnson"", :given=>""W.""}]"	Impact Strength of Materials	book		1972	both	Optional
+"[{:family=>""Wierzbicki"", :given=>""T.""}]"	Design of Plastic Structures to Dynamic Loads			1981	both	Optional
+"[{:family=>""Cristescu"", :given=>""C.""}, {:family=>""Suliciu"", :given=>""I.""}]"	Viscoplasticity	book		1982	both	Optional
+"[{:family=>""McClintock"", :given=>""F.A.""}]"	Plasticity Aspects of Fracture	chapter	Fracture: An Advanced Treatise	1971	both	Optional
+"[{:family=>""Hutchinson"", :given=>""J.W.""}]"	Nonlinear Fracture Mechanics	book		1979	both	Optional
