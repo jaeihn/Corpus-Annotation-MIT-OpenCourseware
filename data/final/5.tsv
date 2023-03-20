@@ -4,7 +4,7 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Vernadskii"", :given=>""V.I.""}]"	The Biosphere	chapter	Biosfera	1926	both	Required
 "[{:family=>""Rowe"", :given=>""J.Stan""}]"	Biological Fallacy: Life Equals Organisms	article-journal	Bioscience	1992	both	Required
 "[{:family=>""Remmert"", :given=>""Hermann""}]"	Ecology: the Basic Concept	chapter	Ecology	1980	both	Required
-"[{:family=>""Marais"", :particle=>""Des""}, {:family=>""J"", :given=>""David""}]"	When did Photosynthesis Emerge on Earth?	article-journal	Science	2000	both	Required
+"[{:family=>""Marais"", :particle=>""Des""}, {:family=>""J"", :given=>""David""}]"	When did Photosynthesis Emerge on Earth?	article-journal	Science	2000	left_only	Required
 "[{:family=>""Chyba"", :given=>""Christopher F.""}]"	Rethinking Earth’s Early Atmosphere	article-journal	Science	2005	both	Required
 "[{:family=>""Kump"", :given=>""Lee R.""}]"	The Rise of Atmospheric Oxygen	article-journal	Nature	2008	both	Required
 "[{:family=>""Kaiser"", :given=>""Jocelyn""}]"	Can Deep Bacteria Live on Nothing but Rocks and Water?	article-journal	Science	1995	both	Required

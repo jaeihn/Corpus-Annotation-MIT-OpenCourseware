@@ -100,5 +100,5 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Wald"", :given=>""Matthew L.""}]"	The Carbon Calculus	article-journal	The New York Times	2007-11-07	both	Required
 	Introduction.” Chapter 1 in Public Policies for Environmental Protection	article-journal	Resources for the Future	2000	right_only	Required
 "[{:family=>""Portney"", :given=>""Paul R.""}]"	EPA and the Evolution of Federal Regulation	article-journal	Chapter 2 in Public Policies for Environmental Protection	2000	right_only	Required
-"[{:family=>""Chay"", :given=>""Kenneth""}, {:family=>""Greenstone"", :given=>""Michael""}]"	Air Quality	article-journal	NBER Working Paper	2003-10	right_only	Required
-"[{:family=>""Deschenes"", :given=>""Olivier""}, {:family=>""Greenstone"", :given=>""Michael""}]"	Climate Change	chapter	Working Paper	2007	right_only	Required
+"[{:literal=>""———.""}]"	Air Quality	article-journal	NBER Working Paper	2003-10	right_only	Required
+"[{:literal=>""———.""}]"	Climate Change	chapter	Working Paper	2007	right_only	Required

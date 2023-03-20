@@ -46,8 +46,8 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Grossman"", :given=>""G.M.""}, {:family=>""Helpman"", :given=>""E.""}]"	Quality Ladders in the Theory of Economic Growth	article-journal	Review of Economic Studies	1991	both	Optional
 "[{:family=>""Jones"", :given=>""C.""}]"	R&D-Based Models of Economic Growth	article-journal	Journal of Political Economy	1995	both	Optional
 "[{:family=>""Parente"", :given=>""S.L.""}, {:family=>""Prescott"", :given=>""E.C.""}]"	Barriers to Technology Adoption and Development	article-journal	Journal of Political Economy	1994	both	Optional
-"[{:family=>""Barro"", :given=>""R.J.""}]"	On the Determination of the Public Debt	article-journal	Journal of Political Economy	1979	right_only	Required
-"[{:family=>""Solow"", :given=>""R.M.""}]"	Growth Theory: An Exposition			2000	right_only	Optional
+"[{:literal=>""———.""}]"	On the Determination of the Public Debt	article-journal	Journal of Political Economy	1979	right_only	Required
+"[{:literal=>""———.""}]"	Growth Theory: An Exposition			2000	right_only	Optional
 "[{:family=>""Barro"", :given=>""R.J.""}]"	Government Spending in a Simple Model of Endogenous Growth	article-journal	Journal of Political Economy	1990	right_only	Optional
-"[{:family=>""Lucas"", :given=>""R.E."", :suffix=>""Jr""}]"	On the Mechanics of Economic Development	article-journal	Journal of Monetary Economics	1988	right_only	Optional
+"[{:literal=>""———.""}]"	On the Mechanics of Economic Development	article-journal	Journal of Monetary Economics	1988	right_only	Optional
 "[{:family=>""Romer"", :given=>""P.M.""}]"	Increasing Returns and Long-Run Growth	article-journal	Journal of Political Economy	1986	right_only	Optional

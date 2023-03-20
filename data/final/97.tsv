@@ -5,7 +5,7 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Hill"", :given=>""R.""}]"	Mathematical Theory of Plasticity	book		1950	both	Optional
 "[{:family=>""Prager"", :given=>""W.""}, {:family=>""Hodge"", :given=>""P.G.""}]"	Theory of Perfectly Plastic Solids	book		1951	both	Optional
 "[{:family=>""Prager"", :given=>""W.""}]"	Introduction to Plasticity	book		1959	both	Optional
-"[{:family=>""Olszak"", :given=>""W.""}, {:family=>""Mroz"", :given=>""L.""}, {:family=>""Perzyna"", :given=>""P.""}]"	Recent Trends in the Development of the Theory of Plasticity	book		1963	both	Optional
+"[{:family=>""Olszak"", :given=>""W.""}, {:family=>""Mroz"", :given=>""L.""}, {:family=>""Perzyna"", :given=>""P.""}]"	Recent Trends in the Development of the Theory of Plasticity	book		1963	left_only	Optional
 "[{:family=>""Prager"", :given=>""W.""}]"	Introduction to Plasticity	book		1967	both	Optional
 "[{:family=>""Calladine"", :given=>""C.""}]"	Engineering Plasticity	book		1969	both	Optional
 "[{:family=>""Mroz"", :given=>""Z.""}]"	Mathematical Models of Inelastic Material Behavior	book		1973	both	Optional

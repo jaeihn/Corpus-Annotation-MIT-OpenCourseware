@@ -1,9 +1,9 @@
 author	title	type	collection	year	_merge	category
-"[{:family=>""Rasmussen"", :given=>""E.""}]"	Dampers Hold Sway	article-journal	Civil Engineering Magazine	1997	left_only	Optional
+"[{:family=>""Rasmussen"", :given=>""E.""}]"	Dampers Hold Sway	article-journal	Civil Engineering Magazine	1997	both	Optional
 "[{:family=>""Kojima"", :given=>""H.""}, {:family=>""Fukahori"", :given=>""Y.""}]"	Rubber World			1990	both	Optional
 "[{:family=>""Fujita"", :given=>""R.""}, {:family=>""Suzuki"", :given=>""S.""}, {:family=>""Fujita"", :given=>""S.""}]"		paper-conference	The 1989 ASME Pressure Vesseles and Piping Conference	1989	both	Optional
 "[{:family=>""Allen"", :given=>""D.E.""}, {:family=>""Murray"", :given=>""T.M.""}]"	Design Criterion for Vibrations Due to Walking	article-journal	AISC Engineering Journal	1993	both	Optional
-	American National Standard Guide to the Evaluation of Human Exposure to Vibration in Buildings				left_only	Optional
+	American National Standard Guide to the Evaluation of Human Exposure to Vibration in Buildings				both	Optional
 "[{:family=>""Connor"", :given=>""J.J.""}]"	Introduction to Structural Motion Control	book		2002-08	both	Required
 "[{:family=>""Billington"", :given=>""D.P.""}]"	Robert Maillart and the Art of Reinforced Concrete	chapter	The Architectural History Foundation	1990	both	Optional
 "[{:family=>""Blanc"", :given=>""A.""}, {:family=>""McEvoy"", :given=>""M.""}, {:family=>""Plank"", :given=>""R.""}]"	Architecture and Construction in Steel	book		1993	both	Optional

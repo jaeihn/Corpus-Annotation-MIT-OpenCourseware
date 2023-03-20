@@ -15,8 +15,8 @@ author	title	type	collection	year	_merge	category
 	Fare Policies				both	Required
 "[{:family=>""Yi"", :given=>""Hong""}]"	Transition to Smart Card Technology: How Transit Operators Can Encourage the Take-Up of Smart Card Technology	chapter	Master of Science in Transportation Thesis	2006	both	Required
 	A Handbook of Proven Marketing Strategies for Public Transit				both	Required
-					left_only	Required
-	A Handbook: Integrating Market Research into Transit Management				both	Required
+					both	Required
+	A Handbook: Integrating Market Research into Transit Management				left_only	Required
 	A Challenged Employment System: Hiring				both	Required
 	Practices in Assuring Employee Availability				both	Required
 	Total Quality Management in Public Transportation				both	Required
@@ -28,5 +28,3 @@ author	title	type	collection	year	_merge	category
 	Monitoring Bus Maintenance Performance				both	Required
 	Leveraging Information for Better Transit Maintenance				both	Required
 	Information Technology Update for Transit				both	Required
-	TCRP Web Document 8	chapter	Executive Summary		right_only	Required
-	Transit Cooperative Research Program Syntheses			1994	right_only	Optional

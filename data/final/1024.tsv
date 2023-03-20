@@ -51,5 +51,5 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Xiu"", :given=>""Dongbin""}, {:family=>""Karniadakis"", :given=>""George Em""}]"	The Wiener-Askey Polynomial Chaos for Stochastic Differential Equations				both	Optional
 "[{:family=>""Yang"", :given=>""Allen Y.""}, {:family=>""Ganesh"", :given=>""Arvind""}, {:others=>true}]"	A Review of Fast l1-Minimization Algorithms for Robust Face Recognition			2010	both	Optional
 "[{:family=>""Zucchini"", :given=>""Walter""}]"	An Introduction to Model Selection	article-journal	Journal of Mathematical Psychology	2000	both	Optional
-"[{:family=>""Evensen"", :given=>""G.""}]"	Sampling Strategies and Square Root Analysis Schemes for the EnKF	article-journal	Ocean Dynamics	2004	right_only	Required
-"[{:family=>""Gregory"", :given=>""Philip C.""}]"	Extra-solar Planets via Bayesian Fusion MCMC	chapter	Astrostatistical Challenges for the New Astronomy	2012	right_only	Required
+"[{:literal=>""———.""}]"	Sampling Strategies and Square Root Analysis Schemes for the EnKF	article-journal	Ocean Dynamics	2004	right_only	Required
+"[{:literal=>""———.""}]"	Extra-solar Planets via Bayesian Fusion MCMC	chapter	Astrostatistical Challenges for the New Astronomy	2012	right_only	Required

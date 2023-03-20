@@ -110,11 +110,11 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Christiano"", :given=>""L.""}, {:family=>""Eichenbaum"", :given=>""M.""}, {:others=>true}]"	Assessing Structural VARs	manuscript		2005	right_only	Required
 "[{:family=>""Fernandez Villaverde"", :given=>""J.""}, {:family=>""Ramirez"", :given=>""J.Rubio""}, {:others=>true}]"	The ABC and (D’s) to Understand VARs	manuscript		2005	right_only	Required
 "[{:family=>""Bai"", :given=>""J.""}, {:family=>""Ng"", :given=>""S.""}]"	Instrumental Variable Estimation in a Data Rich Environment	article-journal	Econometric Theory	2010	right_only	Required
-"[{:family=>""Watson"", :given=>""M.W.""}]"	Cointegration	chapter	The New Palgrave Dictionary of Economics	2008	right_only	Required
+"[{:literal=>""———.""}]"	Cointegration	chapter	The New Palgrave Dictionary of Economics	2008	right_only	Required
 "[{:family=>""Hamilton"", :given=>""J.D.""}]"	A New Approach to the Economic Analysis of Nonstationary Time Series and the Business Cycle	article-journal	Econometrica	1989	right_only	Required
-"[{:family=>""Chib"", :given=>""S.""}, {:family=>""Greenberg"", :given=>""E.""}]"	Markov Chain Monte Carlo Simulation Methods in Econometrics	article-journal	Econometric Theory	1996	right_only	Required
-"[{:family=>""Leeb"", :given=>""H.""}, {:family=>""Potscher"", :given=>""B.M.""}]"	The Finite-Sample Distribution of Post-Model-Selection Estimators and Uniform versus Nonuniform Approximations	article-journal	Econometric Theory	2003	right_only	Optional
+"[{:literal=>""———.""}]"	Markov Chain Monte Carlo Simulation Methods in Econometrics	article-journal	Econometric Theory	1996	right_only	Required
+"[{:literal=>""———.""}]"	The Finite-Sample Distribution of Post-Model-Selection Estimators and Uniform versus Nonuniform Approximations	article-journal	Econometric Theory	2003	right_only	Optional
 "[{:family=>""Watson"", :given=>""M.""}]"	Vector Autoregressions and Cointegration	chapter	Chapter 47 in Handbook of Econometrics	1999	right_only	Optional
-"[{:family=>""Bai"", :given=>""J.""}, {:family=>""Ng"", :given=>""S.""}]"	Determining the Number of Primitive Shocks in Factor Models	article-journal	Journal of Business Economics and Statistics	2007	right_only	Optional
+"[{:literal=>""———.""}]"	Determining the Number of Primitive Shocks in Factor Models	article-journal	Journal of Business Economics and Statistics	2007	right_only	Optional
 "[{:family=>""Andrews"", :given=>""D.W.K.""}, {:family=>""Moreira"", :given=>""M.""}, {:others=>true}]"	Optimal Two-Sided Invariant Similar Tests for Instrumental Variables Regression	article-journal	Econometrica	2006	right_only	Optional
 "[{:family=>""Sargent"", :given=>""T.""}]"	Two Models of Measurements and the Investment Accelerator	article-journal	Journal of Political Economy	1989	right_only	Optional

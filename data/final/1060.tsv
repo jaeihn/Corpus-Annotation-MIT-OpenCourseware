@@ -110,8 +110,8 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Belloni"", :given=>""A.""}, {:family=>""Chernozhukov"", :given=>""V.""}, {:others=>true}]"	Program Evaluation with High-dimensional Data			2013	both	Optional
 "[{:family=>""Gentzkow"", :given=>""M.""}, {:family=>""Shapiro"", :given=>""J.""}]"	Nuts and Bolts: Computing with Large Data	chapter	NBER Lecture and Videos		both	Required
 "[{:family=>""Breen"", :given=>""Jeffrey""}]"	R and Hadoop: Step by-step Tutorials	article-journal	Revolutions		both	Required
-"[{:family=>""Dale"", :given=>""S.""}, {:family=>""Krueger"", :given=>""A.""}]"	Estimating the Return to College Selectivity Over the Career using Administrative Earnings Data	article-journal	The Journal of Human Resources	2014	right_only	Required
-"[{:family=>""Angrist."", :given=>""J.""}]"	Lifetime Earnings and the Vietnam Era Draft Lottery: Evidence from Social Security Administrative Records	article-journal	The American Economic Review	1990	right_only	Required
-"[{:family=>""Angrist"", :given=>""J.""}, {:family=>""Krueger"", :given=>""A.""}]"	Split-sample Instrumental Variables Estimates of the Returns to Schooling	article-journal	Journal of Business and Economic Statistics	1995	right_only	Required
-"[{:family=>""Abadie"", :given=>""A.""}]"	Semiparametric Instrumental Variable Estimation of Treatment Response Models	article-journal	Journal of Econometrics	2003	right_only	Required
-"[{:family=>""Hansen"", :given=>""C.""}]"	Generalized Least Squares Inference in Panel and Multilevel Models with Serial Correlation and Fixed Effects	article-journal	Journal of Econometrics	2007	right_only	Required
+"[{:literal=>""———.""}]"	Estimating the Return to College Selectivity Over the Career using Administrative Earnings Data	article-journal	The Journal of Human Resources	2014	right_only	Required
+"[{:literal=>""———.""}]"	Lifetime Earnings and the Vietnam Era Draft Lottery: Evidence from Social Security Administrative Records	article-journal	The American Economic Review	1990	right_only	Required
+"[{:literal=>""———.""}]"	Split-sample Instrumental Variables Estimates of the Returns to Schooling	article-journal	Journal of Business and Economic Statistics	1995	right_only	Required
+"[{:literal=>""———.""}]"	Semiparametric Instrumental Variable Estimation of Treatment Response Models	article-journal	Journal of Econometrics	2003	right_only	Required
+"[{:literal=>""———.""}]"	Generalized Least Squares Inference in Panel and Multilevel Models with Serial Correlation and Fixed Effects	article-journal	Journal of Econometrics	2007	right_only	Required

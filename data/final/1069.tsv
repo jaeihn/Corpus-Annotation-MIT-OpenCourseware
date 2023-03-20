@@ -34,6 +34,6 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Krugman"", :given=>""Paul""}]"	Thinking About the Liquidity Trap	article-journal	Journal of the Japanese and International Economies	2000	both	Required
 "[{:family=>""Svensson"", :given=>""Lars E.O.""}]"	Escaping from a Liquidity Trap and Deflation: The Foolproof Way and Others	article-journal	NBER Working Paper	2003-12	both	Required
 "[{:family=>""Jeanne"", :given=>""O.""}, {:family=>""Svensson"", :given=>""Lars E.O.""}]"	Credible Commitment to Optimal Escape from a Liquidity Trap: The Role of the Balance Sheet of an Independent Central Bank	article-journal	AER	2007-03	both	Required
-"[{:family=>""Caballero"", :given=>""Ricardo J.""}]"	A Caricature (Model) of the World Economy	article-journal	MIT Working Paper No. 10-17; NBER Working Paper	2010	right_only	Required
+"[{:literal=>""———.""}]"	A Caricature (Model) of the World Economy	article-journal	MIT Working Paper No. 10-17; NBER Working Paper	2010	right_only	Required
 "[{:family=>""Kashyap"", :given=>""Anil""}, {:family=>""Stein"", :given=>""Jeremy""}]"	Monetary Policy and Bank Lending	article-journal	NBER Working Paper	1994	right_only	Required
 "[{:family=>""Tirole"", :given=>""Jean""}]"	Asset Bubbles and Overlapping Generations	article-journal	Econometrica	1985	right_only	Required

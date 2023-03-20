@@ -68,4 +68,4 @@ author	title	type	collection	year	_merge	category
 "[{:family=>""Sigman"", :given=>""Daniel""}, {:family=>""Boyle"", :given=>""Edward""}]"	Glacial/interglacial Variations in Atmospheric Carbon Dioxide	article-journal	Nature	2000	both	Optional
 "[{:family=>""Boyd"", :given=>""Philip W.""}]"	Ranking Geo-engineering Schemes	article-journal	Nature Geoscience	2008	both	Optional
 "[{:family=>""Zuilen"", :given=>""M.A."", :particle=>""van""}, {:family=>""Lepland"", :given=>""A.""}, {:family=>""Arrhenius"", :given=>""G.""}]"	Reassessing the Evidence for the Earliest Traces of Life	article-journal	Nature	2002	right_only	Required
-"[{:family=>""Berner"", :given=>""R.A.""}]"	Paleo-CO2 and Climate	article-journal	Nature	1992	right_only	Optional
+"[{:literal=>""———.""}]"	Paleo-CO2 and Climate	article-journal	Nature	1992	right_only	Optional
