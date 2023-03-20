@@ -10,13 +10,11 @@
 ### Repo Structure
 ```
 .
-├── _notes  
-│   └── statistics.html.mno -> !!!!!! dont know what it is
 ├── data
 │   ├── author_database.tsv
 │   ├── index_to_link.json   
 │   ├── reading_database.tsv    
-│   └── topic_dropdown.tsv
+│   └── topic_dropdown.txt
 ├── static├
 │   ├── css
 │   │   ├── about.css
@@ -35,6 +33,7 @@
 ├── main.py
 └── statistics.html
 ```
+
 ### Usage
 ```
 1. python main.py
@@ -50,11 +49,12 @@ This is the home page of our website, which contains the project introduction.
 - Navigation Bar contains four clicks: **_About_**, **_Search by Title_**, **_Search by Author_**, and **_Statistics_**.
 They are href links which redirect to the corresponding page.
   - <img src="./screenshots/navi.png" /><br />
+- Two buttons: **_Search by Title_**, **_Search by Author_**. They have similar functions with the ones in Navigation Bar, which will direct users to Search by Title and Search by Author pages. 
 
 
 ### Search by Title page
-This the search page of our website, which is one of the main functionalities. 
-It could search important readings related to their topic of interest, format (book, academic paper, or both), 
+The search page of our website, which is one of the main functionalities. 
+It could search important readings related to their topic of interest, format(book, academic paper, or both), 
 and necessity (required, optional, or both).
 - html file: search-by-title.html
 - CSS file: search.css
@@ -89,7 +89,7 @@ and necessity (required, optional, or both).
       </select>
       ```
   - button: **_Search_**
-    - when clicked, button onclick method **search_by_title()** interacts with back end, and it should return a table of reading below
+    - when click, button onclick method **search_by_title()** interacts with back end, and it should return a table of reading below
     related to **_Course Topic_**, **_type of reading_**, and **_Readings to Include_** field values.
       - **search_by_title()** in front_end.js
         - get options field values from front end
@@ -110,7 +110,7 @@ and necessity (required, optional, or both).
   - <img src="./screenshots/title_search.png" /><br />
 
 ### Search by Author page
-This the search page of our website, which is one of the main functionalities. 
+The search page of our website, which is one of the main functionalities. 
 It could search important readings related to their topic of interest, format (book, academic paper, or both), 
 and necessity (required, optional, or both).
 - html file: search-by-author.html
@@ -146,7 +146,7 @@ and necessity (required, optional, or both).
       </select>
       ```
   - button: **_Search_**
-    - when clicked, button onclick method **search_by_author()** interacts with back end, and it should return a table of reading below
+    - when click, button onclick method **search_by_author()** interacts with back end, and it should return a table of reading below
     related to **_Course Topic_**, **_type of reading_**, and **_Readings to Include_** field values.
       - **search_by_author()** in front_end.js
         - get options field values from front end
