@@ -2,7 +2,7 @@
 
 ## Setup
 
-After downloading the image file, please open your terminal and navigate to the directory containing the file. In the terminal, execute
+After downloading the image file team1.tar, please open your terminal and navigate to the directory containing the file. In the terminal, execute
 ```
 docker load < team1.tar
 ```
