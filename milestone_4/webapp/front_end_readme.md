@@ -1,4 +1,4 @@
-# corpus_readme.md
+# front_end_readme.md
 
 ## Package Requirement
 - Python (>=3.7)
@@ -166,4 +166,4 @@ and necessity (required, optional, or both).
           
   - <img src="./screenshots/author_search.png" /><br />
 
-### Stat page
+
